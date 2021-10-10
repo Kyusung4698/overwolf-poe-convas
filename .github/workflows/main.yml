@@ -1,4 +1,4 @@
-name: CI
+name: Update Data
 
 on:
   workflow_dispatch:
@@ -6,6 +6,11 @@ on:
 jobs:
   execute:
     runs-on: ubuntu-latest
+    
+    env:
+      SUBDOMAIN: 'poe-overlay'
+      SOURCE: './data/posts.json'
+      WEBHOOK: ${{ secrets.WEBHOOK }}
     
     steps:
       - uses: actions/checkout@v2
