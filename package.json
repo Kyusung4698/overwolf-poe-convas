@@ -13,6 +13,7 @@
     "typescript": "^4.4.3"
   },
   "dependencies": {
+    "dotenv": "^10.0.0",
     "node-fetch": "^2.5.11"
   }
 }

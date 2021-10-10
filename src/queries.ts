@@ -13,6 +13,17 @@ export const POST_LIST_QUERY = `
                 id
                 title
                 body
+                createdAt
+                comments {
+                    body
+                    createdAt
+                    user {
+                        name
+                    }
+                }
+                user {
+                    name
+                }
                 status {
                     id
                     name
