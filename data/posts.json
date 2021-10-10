@@ -11,6 +11,13 @@
                 "user": {
                     "name": "Kyusung"
                 }
+            },
+            {
+                "body": "Can’t wait! :pepehype:",
+                "createdAt": "2021-10-10T19:18:19.779Z",
+                "user": {
+                    "name": null
+                }
             }
         ],
         "user": {
@@ -22,7 +29,7 @@
             "color": "#D69E2E"
         },
         "voteCount": 16,
-        "commentCount": 1
+        "commentCount": 2
     },
     "cktsbp06645781map1mdgomfb5": {
         "id": "cktsbp06645781map1mdgomfb5",
