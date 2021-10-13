@@ -233,6 +233,13 @@
                 "user": {
                     "name": "MalakaJones"
                 }
+            },
+            {
+                "body": "Thanks for answering this. I also wondered that. This makes so much sense. Keep up the good work :)",
+                "createdAt": "2021-10-13T12:52:43.639Z",
+                "user": {
+                    "name": null
+                }
             }
         ],
         "user": {
@@ -244,7 +251,7 @@
             "color": "#718096"
         },
         "voteCount": 1,
-        "commentCount": 4
+        "commentCount": 5
     },
     "cktsbp2fx47477map1602cke1k": {
         "id": "cktsbp2fx47477map1602cke1k",
