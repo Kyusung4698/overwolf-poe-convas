@@ -21,7 +21,7 @@
             "name": "Open",
             "color": "#3182CE"
         },
-        "voteCount": 17,
+        "voteCount": 18,
         "commentCount": 1
     },
     "cktsbozyh45642map14gb8xrqh": {
@@ -124,6 +124,59 @@
         "voteCount": 3,
         "commentCount": 0
     },
+    "cku5nv9ol1711583yn11wkz9kjc": {
+        "id": "cku5nv9ol1711583yn11wkz9kjc",
+        "title": "Make the software open source again",
+        "body": "Please make it open source again",
+        "createdAt": "2021-09-29T15:26:12.933Z",
+        "comments": [
+            {
+                "body": "Thanks for your feedback. Most of the project is still open source on GitHub. Feel free to check it out there. Some newer modules have been moved to a private repository which won't be public in the near future. ",
+                "createdAt": "2021-09-29T15:57:43.296Z",
+                "user": {
+                    "name": "Kyusung"
+                }
+            },
+            {
+                "body": "Thanks for your response. What's the reason the modules are private?",
+                "createdAt": "2021-09-29T16:02:51.025Z",
+                "user": {
+                    "name": "Felix"
+                }
+            },
+            {
+                "body": "It's mostly for personal reasons. But let me explain. <br/><br/>After I changed the used desktop framework from Electron to Overwolf, there has been quite some backslash in the community, which I didn't expect at that time - I always wanted to build the best possible addon and do everything in that regard. But there were some problems using Electron, which I couldn't overcome without spending more time developing workarounds than actually developing features. To name a few struggles: Global hotkeys, fullscreen support, text input without losing focus of the game, etc. And because of that, I went with the better framework that Overwolf provides. <br/><br/>Why is that important? Well, because soon after, another project was born, called “PoE Overlay - Community”, which was a fork of the code before I made the transition to Overwolf.  Now, I don’t know the people behind it, they never contacted me. I assume they are awesome people. But publishing my project with the same name, same look and everything just felt so wrong to me. I’ve spent so many hours coming up with new ways of doing things and making sure everything looks good and is simple and easy to use, that I've decided moving forward I'm gonna keep most of the new code to myself. <br/><br/>If you have any other questions feel free to ask. Cheers.",
+                "createdAt": "2021-09-29T18:38:11.383Z",
+                "user": {
+                    "name": "Kyusung"
+                }
+            },
+            {
+                "body": "Thank you for answering this. I always wondered too. Keep up the good work!",
+                "createdAt": "2021-09-30T19:35:34.605Z",
+                "user": {
+                    "name": "MalakaJones"
+                }
+            },
+            {
+                "body": "Thanks for answering this. I also wondered that. This makes so much sense. Keep up the good work :)",
+                "createdAt": "2021-10-13T12:52:43.639Z",
+                "user": {
+                    "name": null
+                }
+            }
+        ],
+        "user": {
+            "name": "Felix"
+        },
+        "status": {
+            "id": "cktsbmpqb21832map1jfmu7ocj",
+            "name": "Closed",
+            "color": "#718096"
+        },
+        "voteCount": 2,
+        "commentCount": 5
+    },
     "cktsbp2dw47436map1pyfne5ul": {
         "id": "cktsbp2dw47436map1pyfne5ul",
         "title": "Evaluate feature to use the bulk exchange for currencies",
@@ -199,59 +252,6 @@
         },
         "voteCount": 1,
         "commentCount": 0
-    },
-    "cku5nv9ol1711583yn11wkz9kjc": {
-        "id": "cku5nv9ol1711583yn11wkz9kjc",
-        "title": "Make the software open source again",
-        "body": "Please make it open source again",
-        "createdAt": "2021-09-29T15:26:12.933Z",
-        "comments": [
-            {
-                "body": "Thanks for your feedback. Most of the project is still open source on GitHub. Feel free to check it out there. Some newer modules have been moved to a private repository which won't be public in the near future. ",
-                "createdAt": "2021-09-29T15:57:43.296Z",
-                "user": {
-                    "name": "Kyusung"
-                }
-            },
-            {
-                "body": "Thanks for your response. What's the reason the modules are private?",
-                "createdAt": "2021-09-29T16:02:51.025Z",
-                "user": {
-                    "name": "Felix"
-                }
-            },
-            {
-                "body": "It's mostly for personal reasons. But let me explain. <br/><br/>After I changed the used desktop framework from Electron to Overwolf, there has been quite some backslash in the community, which I didn't expect at that time - I always wanted to build the best possible addon and do everything in that regard. But there were some problems using Electron, which I couldn't overcome without spending more time developing workarounds than actually developing features. To name a few struggles: Global hotkeys, fullscreen support, text input without losing focus of the game, etc. And because of that, I went with the better framework that Overwolf provides. <br/><br/>Why is that important? Well, because soon after, another project was born, called “PoE Overlay - Community”, which was a fork of the code before I made the transition to Overwolf.  Now, I don’t know the people behind it, they never contacted me. I assume they are awesome people. But publishing my project with the same name, same look and everything just felt so wrong to me. I’ve spent so many hours coming up with new ways of doing things and making sure everything looks good and is simple and easy to use, that I've decided moving forward I'm gonna keep most of the new code to myself. <br/><br/>If you have any other questions feel free to ask. Cheers.",
-                "createdAt": "2021-09-29T18:38:11.383Z",
-                "user": {
-                    "name": "Kyusung"
-                }
-            },
-            {
-                "body": "Thank you for answering this. I always wondered too. Keep up the good work!",
-                "createdAt": "2021-09-30T19:35:34.605Z",
-                "user": {
-                    "name": "MalakaJones"
-                }
-            },
-            {
-                "body": "Thanks for answering this. I also wondered that. This makes so much sense. Keep up the good work :)",
-                "createdAt": "2021-10-13T12:52:43.639Z",
-                "user": {
-                    "name": null
-                }
-            }
-        ],
-        "user": {
-            "name": "Felix"
-        },
-        "status": {
-            "id": "cktsbmpqb21832map1jfmu7ocj",
-            "name": "Closed",
-            "color": "#718096"
-        },
-        "voteCount": 1,
-        "commentCount": 5
     },
     "cktsbp2fx47477map1602cke1k": {
         "id": "cktsbp2fx47477map1602cke1k",
