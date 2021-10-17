@@ -53,7 +53,7 @@
             "name": "Planned",
             "color": "#D69E2E"
         },
-        "voteCount": 16,
+        "voteCount": 17,
         "commentCount": 2
     },
     "cktzhzt3b156203yn1y63r2t1n": {
@@ -121,7 +121,7 @@
             "name": "Planned",
             "color": "#D69E2E"
         },
-        "voteCount": 3,
+        "voteCount": 4,
         "commentCount": 0
     },
     "cktsboyte44790map16wgfsqii": {
@@ -129,6 +129,23 @@
         "title": "Stat groups support within market",
         "body": "Being able to choose wich stat group we want to use instead of the default \"and\" one would be nice!",
         "createdAt": "2021-09-07T16:12:37.357Z",
+        "comments": [],
+        "user": {
+            "name": "MalakaJones"
+        },
+        "status": {
+            "id": "cktsbmpqb21828map1qc9n4azp",
+            "name": "Open",
+            "color": "#3182CE"
+        },
+        "voteCount": 4,
+        "commentCount": 0
+    },
+    "cktsbp2dg47427map1h5dtrqzc": {
+        "id": "cktsbp2dg47427map1h5dtrqzc",
+        "title": "Stackable usernames when evaluating currencies",
+        "body": "I think the tool used to have that feature built in. I would love to see it come back. That feature used to help me spot price fixers. ",
+        "createdAt": "2021-09-11T15:22:50.094Z",
         "comments": [],
         "user": {
             "name": "MalakaJones"
@@ -218,23 +235,6 @@
         },
         "voteCount": 2,
         "commentCount": 1
-    },
-    "cktsbp2dg47427map1h5dtrqzc": {
-        "id": "cktsbp2dg47427map1h5dtrqzc",
-        "title": "Stackable usernames when evaluating currencies",
-        "body": "I think the tool used to have that feature built in. I would love to see it come back. That feature used to help me spot price fixers. ",
-        "createdAt": "2021-09-11T15:22:50.094Z",
-        "comments": [],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "id": "cktsbmpqb21828map1qc9n4azp",
-            "name": "Open",
-            "color": "#3182CE"
-        },
-        "voteCount": 2,
-        "commentCount": 0
     },
     "ckulbqcuc695573yqoybnb4lz3": {
         "id": "ckulbqcuc695573yqoybnb4lz3",
