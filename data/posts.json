@@ -28,7 +28,7 @@
             "name": "Planned",
             "color": "#D69E2E"
         },
-        "voteCount": 19,
+        "voteCount": 20,
         "commentCount": 2
     },
     "cktsbp06645781map1mdgomfb5": {
@@ -53,7 +53,7 @@
             "name": "Open",
             "color": "#3182CE"
         },
-        "voteCount": 18,
+        "voteCount": 19,
         "commentCount": 1
     },
     "cktzhzt3b156203yn1y63r2t1n": {
@@ -104,7 +104,7 @@
             "name": "Completed",
             "color": "#38A169"
         },
-        "voteCount": 4,
+        "voteCount": 5,
         "commentCount": 0
     },
     "cktsbp2ec47445map10tmzn5tg": {
@@ -211,6 +211,40 @@
         "voteCount": 2,
         "commentCount": 5
     },
+    "cktsbp2f547461map1rrkovz8d": {
+        "id": "cktsbp2f547461map1rrkovz8d",
+        "title": "Programable timer on active trades",
+        "body": "Some timer that could be set to a fixed amount and where active trades in the trade module would auto clear when that timer ends.",
+        "createdAt": "2021-09-11T16:06:46.206Z",
+        "comments": [],
+        "user": {
+            "name": "MalakaJones"
+        },
+        "status": {
+            "id": "cktsbmpqb21828map1qc9n4azp",
+            "name": "Open",
+            "color": "#3182CE"
+        },
+        "voteCount": 2,
+        "commentCount": 0
+    },
+    "cktsbp2er47453map15eb3o7us": {
+        "id": "cktsbp2er47453map15eb3o7us",
+        "title": "In-game window for live searches",
+        "body": "Something similar to the trade feature window but for live searches. This would be helpfull to players having a single monitor setup.",
+        "createdAt": "2021-09-11T16:08:32.705Z",
+        "comments": [],
+        "user": {
+            "name": "MalakaJones"
+        },
+        "status": {
+            "id": "cktsbmpqb21828map1qc9n4azp",
+            "name": "Open",
+            "color": "#3182CE"
+        },
+        "voteCount": 2,
+        "commentCount": 0
+    },
     "cktsbp2dw47436map1pyfne5ul": {
         "id": "cktsbp2dw47436map1pyfne5ul",
         "title": "Evaluate feature to use the bulk exchange for currencies",
@@ -235,6 +269,57 @@
         },
         "voteCount": 2,
         "commentCount": 1
+    },
+    "cktsbp27v47312map1uhmz4eoq": {
+        "id": "cktsbp27v47312map1uhmz4eoq",
+        "title": "Trade window transparency slider",
+        "body": "Would give the player freedom surrounding the appearence of the trade module window. Could also be expended to every different modules and windows. One slider per feature.",
+        "createdAt": "2021-09-11T15:35:48.977Z",
+        "comments": [],
+        "user": {
+            "name": "MalakaJones"
+        },
+        "status": {
+            "id": "cktsbmpqb21828map1qc9n4azp",
+            "name": "Open",
+            "color": "#3182CE"
+        },
+        "voteCount": 2,
+        "commentCount": 0
+    },
+    "ckulldv18729933yqo0whohe6d": {
+        "id": "ckulldv18729933yqo0whohe6d",
+        "title": "Need an option to sort items by their properties or stats when using evaluate",
+        "body": "A new useful addition to the tool would be if you could sort evaluated items not by just price by default but clicking on its stats like dps or resists for example and sorting them from top to bottom that way to get more specific results",
+        "createdAt": "2021-10-10T19:01:00.380Z",
+        "comments": [],
+        "user": {
+            "name": null
+        },
+        "status": {
+            "id": "cktsbmpqb21828map1qc9n4azp",
+            "name": "Open",
+            "color": "#3182CE"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
+    "ckullawbd724633yqomf1rozi0": {
+        "id": "ckullawbd724633yqomf1rozi0",
+        "title": "Sort items by their properties during evaluation",
+        "body": "A real useful function to this tool would be if you could sort the item you're evaluating not just by the default setting - price, but like for example, clicking on the items property or its stat and getting them sorted from top to bottom in that way.",
+        "createdAt": "2021-10-10T18:58:42.073Z",
+        "comments": [],
+        "user": {
+            "name": null
+        },
+        "status": {
+            "id": "cktsbmpqb21828map1qc9n4azp",
+            "name": "Open",
+            "color": "#3182CE"
+        },
+        "voteCount": 1,
+        "commentCount": 0
     },
     "ckulbqcuc695573yqoybnb4lz3": {
         "id": "ckulbqcuc695573yqoybnb4lz3",
@@ -309,57 +394,6 @@
         "voteCount": 1,
         "commentCount": 0
     },
-    "cktsbp2f547461map1rrkovz8d": {
-        "id": "cktsbp2f547461map1rrkovz8d",
-        "title": "Programable timer on active trades",
-        "body": "Some timer that could be set to a fixed amount and where active trades in the trade module would auto clear when that timer ends.",
-        "createdAt": "2021-09-11T16:06:46.206Z",
-        "comments": [],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "id": "cktsbmpqb21828map1qc9n4azp",
-            "name": "Open",
-            "color": "#3182CE"
-        },
-        "voteCount": 1,
-        "commentCount": 0
-    },
-    "cktsbp2er47453map15eb3o7us": {
-        "id": "cktsbp2er47453map15eb3o7us",
-        "title": "In-game window for live searches",
-        "body": "Something similar to the trade feature window but for live searches. This would be helpfull to players having a single monitor setup.",
-        "createdAt": "2021-09-11T16:08:32.705Z",
-        "comments": [],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "id": "cktsbmpqb21828map1qc9n4azp",
-            "name": "Open",
-            "color": "#3182CE"
-        },
-        "voteCount": 1,
-        "commentCount": 0
-    },
-    "cktsbp27v47312map1uhmz4eoq": {
-        "id": "cktsbp27v47312map1uhmz4eoq",
-        "title": "Trade window transparency slider",
-        "body": "Would give the player freedom surrounding the appearence of the trade module window. Could also be expended to every different modules and windows. One slider per feature.",
-        "createdAt": "2021-09-11T15:35:48.977Z",
-        "comments": [],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "id": "cktsbmpqb21828map1qc9n4azp",
-            "name": "Open",
-            "color": "#3182CE"
-        },
-        "voteCount": 1,
-        "commentCount": 0
-    },
     "cktsbozyw45650map1jwscy7yj": {
         "id": "cktsbozyw45650map1jwscy7yj",
         "title": "Support for higher resolution screens",
@@ -375,40 +409,6 @@
             "color": "#38A169"
         },
         "voteCount": 1,
-        "commentCount": 0
-    },
-    "ckulldv18729933yqo0whohe6d": {
-        "id": "ckulldv18729933yqo0whohe6d",
-        "title": "Need an option to sort items by their properties or stats when using evaluate",
-        "body": "A new useful addition to the tool would be if you could sort evaluated items not by just price by default but clicking on its stats like dps or resists for example and sorting them from top to bottom that way to get more specific results",
-        "createdAt": "2021-10-10T19:01:00.380Z",
-        "comments": [],
-        "user": {
-            "name": null
-        },
-        "status": {
-            "id": "cktsbmpqb21828map1qc9n4azp",
-            "name": "Open",
-            "color": "#3182CE"
-        },
-        "voteCount": 0,
-        "commentCount": 0
-    },
-    "ckullawbd724633yqomf1rozi0": {
-        "id": "ckullawbd724633yqomf1rozi0",
-        "title": "Sort items by their properties during evaluation",
-        "body": "A real useful function to this tool would be if you could sort the item you're evaluating not just by the default setting - price, but like for example, clicking on the items property or its stat and getting them sorted from top to bottom in that way.",
-        "createdAt": "2021-10-10T18:58:42.073Z",
-        "comments": [],
-        "user": {
-            "name": null
-        },
-        "status": {
-            "id": "cktsbmpqb21828map1qc9n4azp",
-            "name": "Open",
-            "color": "#3182CE"
-        },
-        "voteCount": 0,
         "commentCount": 0
     },
     "cku5nqszp1699763yn1wycz3zs5": {
