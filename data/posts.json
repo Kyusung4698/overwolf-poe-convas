@@ -43,6 +43,13 @@
                 "user": {
                     "name": "Kyusung"
                 }
+            },
+            {
+                "body": "I really like the idea of counting currency as shown in the picture. This would help making sure people put the correct amount in the trade window. I'd also really like to see a complementary behaviour where it would sum up all currencies and give you an estimate based on poe.ninja prices. Could be in chaos or in exalt.",
+                "createdAt": "2021-10-19T00:15:58.838Z",
+                "user": {
+                    "name": "MalakaJones"
+                }
             }
         ],
         "user": {
@@ -54,7 +61,7 @@
             "color": "#3182CE"
         },
         "voteCount": 19,
-        "commentCount": 1
+        "commentCount": 2
     },
     "cktzhzt3b156203yn1y63r2t1n": {
         "id": "cktzhzt3b156203yn1y63r2t1n",
@@ -87,7 +94,7 @@
             "name": "Planned",
             "color": "#D69E2E"
         },
-        "voteCount": 6,
+        "voteCount": 7,
         "commentCount": 0
     },
     "cktsbp2gc47486map1eaofe0r5": {
