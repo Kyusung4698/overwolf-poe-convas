@@ -312,29 +312,12 @@
             "name": null
         },
         "status": {
-            "id": "cktsbmpqb21828map1qc9n4azp",
-            "name": "Open",
-            "color": "#3182CE"
+            "id": "cktsbmpqb21832map1jfmu7ocj",
+            "name": "Closed",
+            "color": "#718096"
         },
         "voteCount": 1,
         "commentCount": 1
-    },
-    "ckullawbd724633yqomf1rozi0": {
-        "id": "ckullawbd724633yqomf1rozi0",
-        "title": "Sort items by their properties during evaluation",
-        "body": "A real useful function to this tool would be if you could sort the item you're evaluating not just by the default setting - price, but like for example, clicking on the items property or its stat and getting them sorted from top to bottom in that way.",
-        "createdAt": "2021-10-10T18:58:42.073Z",
-        "comments": [],
-        "user": {
-            "name": null
-        },
-        "status": {
-            "id": "cktsbmpqb21828map1qc9n4azp",
-            "name": "Open",
-            "color": "#3182CE"
-        },
-        "voteCount": 1,
-        "commentCount": 0
     },
     "ckulbqcuc695573yqoybnb4lz3": {
         "id": "ckulbqcuc695573yqoybnb4lz3",
