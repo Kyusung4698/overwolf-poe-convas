@@ -418,6 +418,40 @@
         "voteCount": 1,
         "commentCount": 0
     },
+    "ckv4gjru81643422skact86kdqw": {
+        "id": "ckv4gjru81643422skact86kdqw",
+        "title": "Allow multiple searches with same values.",
+        "body": "Multiple searches with same attributes cannot be performed on an item without changing the original search parameters once, then doing a dummy search then a new search again. This has been already discussed and agreed upon on Expedition league but it seems never got implemented.",
+        "createdAt": "2021-10-23T23:53:15.440Z",
+        "comments": [],
+        "user": {
+            "name": null
+        },
+        "status": {
+            "id": "cktsbmpqb21828map1qc9n4azp",
+            "name": "Open",
+            "color": "#3182CE"
+        },
+        "voteCount": 0,
+        "commentCount": 0
+    },
+    "ckv4ghmnb1641232ska9schilai": {
+        "id": "ckv4ghmnb1641232ska9schilai",
+        "title": "Allow multiple searches with same values.",
+        "body": "When searching for items, a second search cannot be performed. Please do not hide the search button. Workaround involves performing a dummy search with changed values then readding the original search parameters. This is very cumbersome. This has already been discussed in Expedition league but never got implemented.",
+        "createdAt": "2021-10-23T23:51:35.399Z",
+        "comments": [],
+        "user": {
+            "name": null
+        },
+        "status": {
+            "id": "cktsbmpqb21828map1qc9n4azp",
+            "name": "Open",
+            "color": "#3182CE"
+        },
+        "voteCount": 0,
+        "commentCount": 0
+    },
     "cku5nqszp1699763yn1wycz3zs5": {
         "id": "cku5nqszp1699763yn1wycz3zs5",
         "title": "Please make the software open source again",
