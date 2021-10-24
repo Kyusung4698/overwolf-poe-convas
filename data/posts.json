@@ -299,7 +299,15 @@
         "title": "Need an option to sort items by their properties or stats when using evaluate",
         "body": "A new useful addition to the tool would be if you could sort evaluated items not by just price by default but clicking on its stats like dps or resists for example and sorting them from top to bottom that way to get more specific results",
         "createdAt": "2021-10-10T19:01:00.380Z",
-        "comments": [],
+        "comments": [
+            {
+                "body": "Sorry for the double post. I thought the first one didnt get through. Request can be closed, I was told how to do it.",
+                "createdAt": "2021-10-24T07:44:14.379Z",
+                "user": {
+                    "name": null
+                }
+            }
+        ],
         "user": {
             "name": null
         },
@@ -309,7 +317,7 @@
             "color": "#3182CE"
         },
         "voteCount": 1,
-        "commentCount": 0
+        "commentCount": 1
     },
     "ckullawbd724633yqomf1rozi0": {
         "id": "ckullawbd724633yqomf1rozi0",
@@ -430,17 +438,24 @@
                 "user": {
                     "name": null
                 }
+            },
+            {
+                "body": "AH thank you. Request can be closed. I didnt see that.",
+                "createdAt": "2021-10-24T07:43:24.299Z",
+                "user": {
+                    "name": null
+                }
             }
         ],
         "user": {
             "name": null
         },
         "status": {
-            "id": "cktsbmpqb21828map1qc9n4azp",
-            "name": "Open",
-            "color": "#3182CE"
+            "id": "cktsbmpqb21832map1jfmu7ocj",
+            "name": "Closed",
+            "color": "#718096"
         },
         "voteCount": 0,
-        "commentCount": 1
+        "commentCount": 2
     }
 }
