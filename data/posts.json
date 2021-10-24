@@ -440,7 +440,15 @@
         "title": "Allow multiple searches with same values.",
         "body": "When searching for items, a second search cannot be performed. Please do not hide the search button. Workaround involves performing a dummy search with changed values then readding the original search parameters. This is very cumbersome. This has already been discussed in Expedition league but never got implemented.",
         "createdAt": "2021-10-23T23:51:35.399Z",
-        "comments": [],
+        "comments": [
+            {
+                "body": "yhea it can, just hit the refresh button (circling arrow)",
+                "createdAt": "2021-10-24T00:36:14.708Z",
+                "user": {
+                    "name": null
+                }
+            }
+        ],
         "user": {
             "name": null
         },
@@ -450,7 +458,7 @@
             "color": "#3182CE"
         },
         "voteCount": 0,
-        "commentCount": 0
+        "commentCount": 1
     },
     "cku5nqszp1699763yn1wycz3zs5": {
         "id": "cku5nqszp1699763yn1wycz3zs5",
