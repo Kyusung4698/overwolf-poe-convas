@@ -148,6 +148,31 @@
         "voteCount": 4,
         "commentCount": 0
     },
+    "cktsbp2dw47436map1pyfne5ul": {
+        "id": "cktsbp2dw47436map1pyfne5ul",
+        "title": "Evaluate feature to use the bulk exchange for currencies",
+        "body": "When it comes to currencies, using the \"bulk item exchange\" <br/>instead of the \"listed item search\" would make much more sense. Especially for currencies that sells in very large amount.",
+        "createdAt": "2021-09-11T15:25:49.106Z",
+        "comments": [
+            {
+                "body": "Here are some ideas for implementation. Since this is part of the evaluate feature, having the search button tied to what type of currencies are selected in the evaluate configs would be ideal imo. You’d have a mix of let’s say exalts and chaos listings sorted by ratio. As for the price, it could either show up the trade format put in place by the player (ex: 5c for 25 rusted shaper scarabs and the total amount in stock) like it does in the market. Or it could simply put the total amount and the exact unit price with many decimals (ex: 37x \"player’s name\" 0.2374 c )",
+                "createdAt": "2021-10-01T11:02:40.766Z",
+                "user": {
+                    "name": "MalakaJones"
+                }
+            }
+        ],
+        "user": {
+            "name": "MalakaJones"
+        },
+        "status": {
+            "id": "cktsbmpqb21830map179syqaea",
+            "name": "Planned",
+            "color": "#D69E2E"
+        },
+        "voteCount": 3,
+        "commentCount": 1
+    },
     "cktsbp2dg47427map1h5dtrqzc": {
         "id": "cktsbp2dg47427map1h5dtrqzc",
         "title": "Stackable usernames when evaluating currencies",
@@ -251,31 +276,6 @@
         },
         "voteCount": 2,
         "commentCount": 0
-    },
-    "cktsbp2dw47436map1pyfne5ul": {
-        "id": "cktsbp2dw47436map1pyfne5ul",
-        "title": "Evaluate feature to use the bulk exchange for currencies",
-        "body": "When it comes to currencies, using the \"bulk item exchange\" <br/>instead of the \"listed item search\" would make much more sense. Especially for currencies that sells in very large amount.",
-        "createdAt": "2021-09-11T15:25:49.106Z",
-        "comments": [
-            {
-                "body": "Here are some ideas for implementation. Since this is part of the evaluate feature, having the search button tied to what type of currencies are selected in the evaluate configs would be ideal imo. You’d have a mix of let’s say exalts and chaos listings sorted by ratio. As for the price, it could either show up the trade format put in place by the player (ex: 5c for 25 rusted shaper scarabs and the total amount in stock) like it does in the market. Or it could simply put the total amount and the exact unit price with many decimals (ex: 37x \"player’s name\" 0.2374 c )",
-                "createdAt": "2021-10-01T11:02:40.766Z",
-                "user": {
-                    "name": "MalakaJones"
-                }
-            }
-        ],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "id": "cktsbmpqb21830map179syqaea",
-            "name": "Planned",
-            "color": "#D69E2E"
-        },
-        "voteCount": 2,
-        "commentCount": 1
     },
     "cktsbp27v47312map1uhmz4eoq": {
         "id": "cktsbp27v47312map1uhmz4eoq",
