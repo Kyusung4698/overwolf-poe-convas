@@ -418,23 +418,6 @@
         "voteCount": 1,
         "commentCount": 0
     },
-    "ckv4gjru81643422skact86kdqw": {
-        "id": "ckv4gjru81643422skact86kdqw",
-        "title": "Allow multiple searches with same values.",
-        "body": "Multiple searches with same attributes cannot be performed on an item without changing the original search parameters once, then doing a dummy search then a new search again. This has been already discussed and agreed upon on Expedition league but it seems never got implemented.",
-        "createdAt": "2021-10-23T23:53:15.440Z",
-        "comments": [],
-        "user": {
-            "name": null
-        },
-        "status": {
-            "id": "cktsbmpqb21828map1qc9n4azp",
-            "name": "Open",
-            "color": "#3182CE"
-        },
-        "voteCount": 0,
-        "commentCount": 0
-    },
     "ckv4ghmnb1641232ska9schilai": {
         "id": "ckv4ghmnb1641232ska9schilai",
         "title": "Allow multiple searches with same values.",
@@ -456,31 +439,6 @@
             "id": "cktsbmpqb21828map1qc9n4azp",
             "name": "Open",
             "color": "#3182CE"
-        },
-        "voteCount": 0,
-        "commentCount": 1
-    },
-    "cku5nqszp1699763yn1wycz3zs5": {
-        "id": "cku5nqszp1699763yn1wycz3zs5",
-        "title": "Please make the software open source again",
-        "body": "Hello, please make the software open source again. Would be very much appreciated.",
-        "createdAt": "2021-09-29T15:22:44.677Z",
-        "comments": [
-            {
-                "body": "I will close this one because of duplication. ",
-                "createdAt": "2021-09-29T18:49:04.742Z",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "Felix"
-        },
-        "status": {
-            "id": "cktsbmpqb21832map1jfmu7ocj",
-            "name": "Closed",
-            "color": "#718096"
         },
         "voteCount": 0,
         "commentCount": 1
