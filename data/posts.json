@@ -97,6 +97,23 @@
         "voteCount": 7,
         "commentCount": 0
     },
+    "cktsboyte44790map16wgfsqii": {
+        "id": "cktsboyte44790map16wgfsqii",
+        "title": "Stat groups support within market",
+        "body": "Being able to choose wich stat group we want to use instead of the default \"and\" one would be nice!",
+        "createdAt": "2021-09-07T16:12:37.357Z",
+        "comments": [],
+        "user": {
+            "name": "MalakaJones"
+        },
+        "status": {
+            "id": "cktsbmpqb21828map1qc9n4azp",
+            "name": "Open",
+            "color": "#3182CE"
+        },
+        "voteCount": 6,
+        "commentCount": 0
+    },
     "cktsbp2gc47486map1eaofe0r5": {
         "id": "cktsbp2gc47486map1eaofe0r5",
         "title": "[Smart search] Connecting the market/evaluate/inspect features",
@@ -127,23 +144,6 @@
             "id": "cktsbmpqb21830map179syqaea",
             "name": "Planned",
             "color": "#D69E2E"
-        },
-        "voteCount": 5,
-        "commentCount": 0
-    },
-    "cktsboyte44790map16wgfsqii": {
-        "id": "cktsboyte44790map16wgfsqii",
-        "title": "Stat groups support within market",
-        "body": "Being able to choose wich stat group we want to use instead of the default \"and\" one would be nice!",
-        "createdAt": "2021-09-07T16:12:37.357Z",
-        "comments": [],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "id": "cktsbmpqb21828map1qc9n4azp",
-            "name": "Open",
-            "color": "#3182CE"
         },
         "voteCount": 5,
         "commentCount": 0
