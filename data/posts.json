@@ -243,6 +243,23 @@
         "voteCount": 2,
         "commentCount": 5
     },
+    "cktsbp2fj47469map1iqn119gj": {
+        "id": "cktsbp2fj47469map1iqn119gj",
+        "title": "Player ignore built-in feature",
+        "body": "I would love to see my player ignore list be linked from the official website. Could also be a totaly independant one if it's simpler to implement. Being able to directly add players to that list from the evaluate or market feature would be awsome.",
+        "createdAt": "2021-09-11T15:28:45.739Z",
+        "comments": [],
+        "user": {
+            "name": "MalakaJones"
+        },
+        "status": {
+            "id": "cktsbmpqb21828map1qc9n4azp",
+            "name": "Open",
+            "color": "#3182CE"
+        },
+        "voteCount": 2,
+        "commentCount": 0
+    },
     "cktsbp2f547461map1rrkovz8d": {
         "id": "cktsbp2f547461map1rrkovz8d",
         "title": "Programable timer on active trades",
@@ -374,23 +391,6 @@
         },
         "voteCount": 1,
         "commentCount": 3
-    },
-    "cktsbp2fj47469map1iqn119gj": {
-        "id": "cktsbp2fj47469map1iqn119gj",
-        "title": "Player ignore built-in feature",
-        "body": "I would love to see my player ignore list be linked from the official website. Could also be a totaly independant one if it's simpler to implement. Being able to directly add players to that list from the evaluate or market feature would be awsome.",
-        "createdAt": "2021-09-11T15:28:45.739Z",
-        "comments": [],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "id": "cktsbmpqb21828map1qc9n4azp",
-            "name": "Open",
-            "color": "#3182CE"
-        },
-        "voteCount": 1,
-        "commentCount": 0
     },
     "cktsbozyw45650map1jwscy7yj": {
         "id": "cktsbozyw45650map1jwscy7yj",
