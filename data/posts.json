@@ -148,6 +148,23 @@
         "voteCount": 5,
         "commentCount": 0
     },
+    "cktsbp2f547461map1rrkovz8d": {
+        "id": "cktsbp2f547461map1rrkovz8d",
+        "title": "Programable timer on active trades",
+        "body": "Some timer that could be set to a fixed amount and where active trades in the trade module would auto clear when that timer ends.",
+        "createdAt": "2021-09-11T16:06:46.206Z",
+        "comments": [],
+        "user": {
+            "name": "MalakaJones"
+        },
+        "status": {
+            "id": "cktsbmpqb21828map1qc9n4azp",
+            "name": "Open",
+            "color": "#3182CE"
+        },
+        "voteCount": 3,
+        "commentCount": 0
+    },
     "cktsbp2dw47436map1pyfne5ul": {
         "id": "cktsbp2dw47436map1pyfne5ul",
         "title": "Evaluate feature to use the bulk exchange for currencies",
@@ -248,23 +265,6 @@
         "title": "Player ignore built-in feature",
         "body": "I would love to see my player ignore list be linked from the official website. Could also be a totaly independant one if it's simpler to implement. Being able to directly add players to that list from the evaluate or market feature would be awsome.",
         "createdAt": "2021-09-11T15:28:45.739Z",
-        "comments": [],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "id": "cktsbmpqb21828map1qc9n4azp",
-            "name": "Open",
-            "color": "#3182CE"
-        },
-        "voteCount": 2,
-        "commentCount": 0
-    },
-    "cktsbp2f547461map1rrkovz8d": {
-        "id": "cktsbp2f547461map1rrkovz8d",
-        "title": "Programable timer on active trades",
-        "body": "Some timer that could be set to a fixed amount and where active trades in the trade module would auto clear when that timer ends.",
-        "createdAt": "2021-09-11T16:06:46.206Z",
         "comments": [],
         "user": {
             "name": "MalakaJones"
