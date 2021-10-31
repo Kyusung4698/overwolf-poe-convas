@@ -328,6 +328,31 @@
         "voteCount": 2,
         "commentCount": 0
     },
+    "ckvfn5nkv477232so4n4t6w8a1": {
+        "id": "ckvfn5nkv477232so4n4t6w8a1",
+        "title": "Identify upgradable uniques",
+        "body": "Make some flag on trade check that will show that this unique could be upgradable by prophecy, vendor receipt or temple. ",
+        "createdAt": "2021-10-31T19:43:41.983Z",
+        "comments": [
+            {
+                "body": "I can see that being added to the inspect feature.",
+                "createdAt": "2021-10-31T20:11:56.255Z",
+                "user": {
+                    "name": null
+                }
+            }
+        ],
+        "user": {
+            "name": null
+        },
+        "status": {
+            "id": "cktsbmpqb21828map1qc9n4azp",
+            "name": "Open",
+            "color": "#3182CE"
+        },
+        "voteCount": 1,
+        "commentCount": 1
+    },
     "ckulldv18729933yqo0whohe6d": {
         "id": "ckulldv18729933yqo0whohe6d",
         "title": "Need an option to sort items by their properties or stats when using evaluate",
@@ -407,23 +432,6 @@
             "color": "#38A169"
         },
         "voteCount": 1,
-        "commentCount": 0
-    },
-    "ckvfn5nkv477232so4n4t6w8a1": {
-        "id": "ckvfn5nkv477232so4n4t6w8a1",
-        "title": "Identify upgradable uniques",
-        "body": "Make some flag on trade check that will show that this unique could be upgradable by prophecy, vendor receipt or temple. ",
-        "createdAt": "2021-10-31T19:43:41.983Z",
-        "comments": [],
-        "user": {
-            "name": null
-        },
-        "status": {
-            "id": "cktsbmpqb21828map1qc9n4azp",
-            "name": "Open",
-            "color": "#3182CE"
-        },
-        "voteCount": 0,
         "commentCount": 0
     },
     "ckv4ghmnb1641232ska9schilai": {
