@@ -148,23 +148,6 @@
         "voteCount": 5,
         "commentCount": 0
     },
-    "ckulbqcuc695573yqoybnb4lz3": {
-        "id": "ckulbqcuc695573yqoybnb4lz3",
-        "title": "Main UI not to launch on startup",
-        "body": "Some users prefer not having the main UI window show up on startup. Since this is a free tool ad driven, I could see this as a paid feature.",
-        "createdAt": "2021-10-10T14:30:47.172Z",
-        "comments": [],
-        "user": {
-            "name": null
-        },
-        "status": {
-            "id": "cktsbmpqb21828map1qc9n4azp",
-            "name": "Open",
-            "color": "#3182CE"
-        },
-        "voteCount": 3,
-        "commentCount": 0
-    },
     "cktsbp2f547461map1rrkovz8d": {
         "id": "cktsbp2f547461map1rrkovz8d",
         "title": "Programable timer on active trades",
@@ -173,6 +156,23 @@
         "comments": [],
         "user": {
             "name": "MalakaJones"
+        },
+        "status": {
+            "id": "cktsbmpqb21828map1qc9n4azp",
+            "name": "Open",
+            "color": "#3182CE"
+        },
+        "voteCount": 4,
+        "commentCount": 0
+    },
+    "ckulbqcuc695573yqoybnb4lz3": {
+        "id": "ckulbqcuc695573yqoybnb4lz3",
+        "title": "Main UI not to launch on startup",
+        "body": "Some users prefer not having the main UI window show up on startup. Since this is a free tool ad driven, I could see this as a paid feature.",
+        "createdAt": "2021-10-10T14:30:47.172Z",
+        "comments": [],
+        "user": {
+            "name": null
         },
         "status": {
             "id": "cktsbmpqb21828map1qc9n4azp",
