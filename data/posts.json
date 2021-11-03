@@ -97,6 +97,23 @@
         "voteCount": 7,
         "commentCount": 0
     },
+    "cktsbp2f547461map1rrkovz8d": {
+        "id": "cktsbp2f547461map1rrkovz8d",
+        "title": "Programable timer on active trades",
+        "body": "Some timer that could be set to a fixed amount and where active trades in the trade module would auto clear when that timer ends.",
+        "createdAt": "2021-09-11T16:06:46.206Z",
+        "comments": [],
+        "user": {
+            "name": "MalakaJones"
+        },
+        "status": {
+            "id": "cktsbmpqb21828map1qc9n4azp",
+            "name": "Open",
+            "color": "#3182CE"
+        },
+        "voteCount": 6,
+        "commentCount": 0
+    },
     "cktsboyte44790map16wgfsqii": {
         "id": "cktsboyte44790map16wgfsqii",
         "title": "Stat groups support within market",
@@ -146,23 +163,6 @@
             "color": "#D69E2E"
         },
         "voteCount": 5,
-        "commentCount": 0
-    },
-    "cktsbp2f547461map1rrkovz8d": {
-        "id": "cktsbp2f547461map1rrkovz8d",
-        "title": "Programable timer on active trades",
-        "body": "Some timer that could be set to a fixed amount and where active trades in the trade module would auto clear when that timer ends.",
-        "createdAt": "2021-09-11T16:06:46.206Z",
-        "comments": [],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "id": "cktsbmpqb21828map1qc9n4azp",
-            "name": "Open",
-            "color": "#3182CE"
-        },
-        "voteCount": 4,
         "commentCount": 0
     },
     "ckulbqcuc695573yqoybnb4lz3": {
