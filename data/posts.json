@@ -377,6 +377,23 @@
         "voteCount": 2,
         "commentCount": 0
     },
+    "ckvztg8mw610592tnumjkq658f": {
+        "id": "ckvztg8mw610592tnumjkq658f",
+        "title": "Evaluate: Toggle online/any listings",
+        "body": "Searching offline listings has its place. Especially when it's high end rares. Ideally on a per-search basis, instead of changing defaults.",
+        "createdAt": "2021-11-14T22:35:17.048Z",
+        "comments": [],
+        "user": {
+            "name": null
+        },
+        "status": {
+            "id": "cktsbmpqb21828map1qc9n4azp",
+            "name": "Open",
+            "color": "#3182CE"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "ckvfn5nkv477232so4n4t6w8a1": {
         "id": "ckvfn5nkv477232so4n4t6w8a1",
         "title": "Identify upgradable uniques",
