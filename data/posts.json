@@ -360,6 +360,23 @@
         "voteCount": 2,
         "commentCount": 0
     },
+    "cktsbozyw45650map1jwscy7yj": {
+        "id": "cktsbozyw45650map1jwscy7yj",
+        "title": "Support for higher resolution screens",
+        "body": "The in-game windows are way too small on higher resolution screens. Add a way to increase the size of the windows and their content.",
+        "createdAt": "2021-09-04T14:55:51.509Z",
+        "comments": [],
+        "user": {
+            "name": "Kyusung"
+        },
+        "status": {
+            "id": "cktsbmpqb21831map11z0l9asa",
+            "name": "Completed",
+            "color": "#38A169"
+        },
+        "voteCount": 2,
+        "commentCount": 0
+    },
     "ckvfn5nkv477232so4n4t6w8a1": {
         "id": "ckvfn5nkv477232so4n4t6w8a1",
         "title": "Identify upgradable uniques",
@@ -448,23 +465,6 @@
         },
         "voteCount": 1,
         "commentCount": 3
-    },
-    "cktsbozyw45650map1jwscy7yj": {
-        "id": "cktsbozyw45650map1jwscy7yj",
-        "title": "Support for higher resolution screens",
-        "body": "The in-game windows are way too small on higher resolution screens. Add a way to increase the size of the windows and their content.",
-        "createdAt": "2021-09-04T14:55:51.509Z",
-        "comments": [],
-        "user": {
-            "name": "Kyusung"
-        },
-        "status": {
-            "id": "cktsbmpqb21831map11z0l9asa",
-            "name": "Completed",
-            "color": "#38A169"
-        },
-        "voteCount": 1,
-        "commentCount": 0
     },
     "ckv4ghmnb1641232ska9schilai": {
         "id": "ckv4ghmnb1641232ska9schilai",
