@@ -483,6 +483,23 @@
         "voteCount": 1,
         "commentCount": 3
     },
+    "ckw294gfa1694982tnu25da7pio": {
+        "id": "ckw294gfa1694982tnu25da7pio",
+        "title": "Auto clip High value drops",
+        "body": "Use a OBS plugin to auto clip high value item drops based on their rarity tier on item filters",
+        "createdAt": "2021-11-16T15:29:33.478Z",
+        "comments": [],
+        "user": {
+            "name": "Inuboshi"
+        },
+        "status": {
+            "id": "cktsbmpqb21828map1qc9n4azp",
+            "name": "Open",
+            "color": "#3182CE"
+        },
+        "voteCount": 0,
+        "commentCount": 0
+    },
     "ckv4ghmnb1641232ska9schilai": {
         "id": "ckv4ghmnb1641232ska9schilai",
         "title": "Allow multiple searches with same values.",
