@@ -28,7 +28,7 @@
             "name": "Open",
             "color": "#3182CE"
         },
-        "voteCount": 27,
+        "voteCount": 28,
         "commentCount": 2
     },
     "cktsbozyh45642map14gb8xrqh": {
@@ -60,7 +60,7 @@
             "name": "Planned",
             "color": "#D69E2E"
         },
-        "voteCount": 21,
+        "voteCount": 22,
         "commentCount": 2
     },
     "cktzhzt3b156203yn1y63r2t1n": {
@@ -273,6 +273,23 @@
         "voteCount": 3,
         "commentCount": 0
     },
+    "ckvztg8mw610592tnumjkq658f": {
+        "id": "ckvztg8mw610592tnumjkq658f",
+        "title": "Evaluate: Toggle online/any listings",
+        "body": "Searching offline listings has its place. Especially when it's high end rares. Ideally on a per-search basis, instead of changing defaults.",
+        "createdAt": "2021-11-14T22:35:17.048Z",
+        "comments": [],
+        "user": {
+            "name": null
+        },
+        "status": {
+            "id": "cktsbmpqb21828map1qc9n4azp",
+            "name": "Open",
+            "color": "#3182CE"
+        },
+        "voteCount": 2,
+        "commentCount": 0
+    },
     "cku5nv9ol1711583yn11wkz9kjc": {
         "id": "cku5nv9ol1711583yn11wkz9kjc",
         "title": "Make the software open source again",
@@ -326,6 +343,45 @@
         "voteCount": 2,
         "commentCount": 5
     },
+    "cktsbp2fx47477map1602cke1k": {
+        "id": "cktsbp2fx47477map1602cke1k",
+        "title": "Party member highlight when trading",
+        "body": "Through the trade feature, could it be possible to highlight the party member you have to trade with once you're in the same party? This would help quickly figure out which player you need to join its hideout. This would really help with non-greek alphabet names or vice-versa.",
+        "createdAt": "2021-09-11T16:00:40.277Z",
+        "comments": [
+            {
+                "body": "I don't think there is a way of knowing the party members and their respective order in the UI through the logs. But this could possible be provided through Overwolf. Let's ask them 😇<br/>https://discuss.overwolf.com/t/path-of-exile-party-members/2046",
+                "createdAt": "2021-09-11T17:16:28.560Z",
+                "user": {
+                    "name": "Kyusung"
+                }
+            },
+            {
+                "body": "Just to follow up. I'm also currently providing a button within my trade helper, which lets you go to the hideout of the player if you have outgoing requests enabled. Doesn't this solve the issue?",
+                "createdAt": "2021-09-11T17:24:39.211Z",
+                "user": {
+                    "name": "Kyusung"
+                }
+            },
+            {
+                "body": "When you're trading with multiple people, it can be really confusing with who you're trading. Especially when names dont checkout.",
+                "createdAt": "2021-09-18T22:47:29.579Z",
+                "user": {
+                    "name": "MalakaJones"
+                }
+            }
+        ],
+        "user": {
+            "name": "MalakaJones"
+        },
+        "status": {
+            "id": "cktsbmpqb21828map1qc9n4azp",
+            "name": "Open",
+            "color": "#3182CE"
+        },
+        "voteCount": 2,
+        "commentCount": 3
+    },
     "cktsbp2fj47469map1iqn119gj": {
         "id": "cktsbp2fj47469map1iqn119gj",
         "title": "Player ignore built-in feature",
@@ -377,14 +433,14 @@
         "voteCount": 2,
         "commentCount": 0
     },
-    "ckvztg8mw610592tnumjkq658f": {
-        "id": "ckvztg8mw610592tnumjkq658f",
-        "title": "Evaluate: Toggle online/any listings",
-        "body": "Searching offline listings has its place. Especially when it's high end rares. Ideally on a per-search basis, instead of changing defaults.",
-        "createdAt": "2021-11-14T22:35:17.048Z",
+    "ckw56ayp32970472tnum7j4zg02": {
+        "id": "ckw56ayp32970472tnum7j4zg02",
+        "title": "Thank you message in different languages",
+        "body": "Send the \"Thank you for trading\" message in the appropriate language, as the initial trade message was in.",
+        "createdAt": "2021-11-18T16:33:56.775Z",
         "comments": [],
         "user": {
-            "name": null
+            "name": "Slash1y"
         },
         "status": {
             "id": "cktsbmpqb21828map1qc9n4azp",
@@ -443,45 +499,6 @@
         },
         "voteCount": 1,
         "commentCount": 1
-    },
-    "cktsbp2fx47477map1602cke1k": {
-        "id": "cktsbp2fx47477map1602cke1k",
-        "title": "Party member highlight when trading",
-        "body": "Through the trade feature, could it be possible to highlight the party member you have to trade with once you're in the same party? This would help quickly figure out which player you need to join its hideout. This would really help with non-greek alphabet names or vice-versa.",
-        "createdAt": "2021-09-11T16:00:40.277Z",
-        "comments": [
-            {
-                "body": "I don't think there is a way of knowing the party members and their respective order in the UI through the logs. But this could possible be provided through Overwolf. Let's ask them 😇<br/>https://discuss.overwolf.com/t/path-of-exile-party-members/2046",
-                "createdAt": "2021-09-11T17:16:28.560Z",
-                "user": {
-                    "name": "Kyusung"
-                }
-            },
-            {
-                "body": "Just to follow up. I'm also currently providing a button within my trade helper, which lets you go to the hideout of the player if you have outgoing requests enabled. Doesn't this solve the issue?",
-                "createdAt": "2021-09-11T17:24:39.211Z",
-                "user": {
-                    "name": "Kyusung"
-                }
-            },
-            {
-                "body": "When you're trading with multiple people, it can be really confusing with who you're trading. Especially when names dont checkout.",
-                "createdAt": "2021-09-18T22:47:29.579Z",
-                "user": {
-                    "name": "MalakaJones"
-                }
-            }
-        ],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "id": "cktsbmpqb21828map1qc9n4azp",
-            "name": "Open",
-            "color": "#3182CE"
-        },
-        "voteCount": 1,
-        "commentCount": 3
     },
     "ckw294gfa1694982tnu25da7pio": {
         "id": "ckw294gfa1694982tnu25da7pio",
