@@ -273,6 +273,23 @@
         "voteCount": 3,
         "commentCount": 0
     },
+    "ckw56ayp32970472tnum7j4zg02": {
+        "id": "ckw56ayp32970472tnum7j4zg02",
+        "title": "Thank you message in different languages",
+        "body": "Send the \"Thank you for trading\" message in the appropriate language, as the initial trade message was in.",
+        "createdAt": "2021-11-18T16:33:56.775Z",
+        "comments": [],
+        "user": {
+            "name": "Slash1y"
+        },
+        "status": {
+            "id": "cktsbmpqb21828map1qc9n4azp",
+            "name": "Open",
+            "color": "#3182CE"
+        },
+        "voteCount": 2,
+        "commentCount": 0
+    },
     "ckvztg8mw610592tnumjkq658f": {
         "id": "ckvztg8mw610592tnumjkq658f",
         "title": "Evaluate: Toggle online/any listings",
@@ -431,23 +448,6 @@
             "color": "#38A169"
         },
         "voteCount": 2,
-        "commentCount": 0
-    },
-    "ckw56ayp32970472tnum7j4zg02": {
-        "id": "ckw56ayp32970472tnum7j4zg02",
-        "title": "Thank you message in different languages",
-        "body": "Send the \"Thank you for trading\" message in the appropriate language, as the initial trade message was in.",
-        "createdAt": "2021-11-18T16:33:56.775Z",
-        "comments": [],
-        "user": {
-            "name": "Slash1y"
-        },
-        "status": {
-            "id": "cktsbmpqb21828map1qc9n4azp",
-            "name": "Open",
-            "color": "#3182CE"
-        },
-        "voteCount": 1,
         "commentCount": 0
     },
     "ckvfn5nkv477232so4n4t6w8a1": {
