@@ -298,6 +298,31 @@
         "voteCount": 3,
         "commentCount": 0
     },
+    "ckw87lfcg4143012tnur3l5xx98": {
+        "id": "ckw87lfcg4143012tnur3l5xx98",
+        "title": "Exalt fraction price chart in chaos",
+        "body": "Some very basic chart that would give an equivalent of the exalt fraction prince in chaos. Something like 0.1 ex -> 14.5c, 0.2 ex -> 29c, etc. Would use the exalt price from poe.ninja",
+        "createdAt": "2021-11-20T19:33:23.056Z",
+        "comments": [
+            {
+                "body": "Could be toggled via a button or a keybind",
+                "createdAt": "2021-11-20T19:34:06.690Z",
+                "user": {
+                    "name": null
+                }
+            }
+        ],
+        "user": {
+            "name": null
+        },
+        "status": {
+            "id": "cktsbmpqb21828map1qc9n4azp",
+            "name": "Open",
+            "color": "#3182CE"
+        },
+        "voteCount": 2,
+        "commentCount": 1
+    },
     "ckw56ayp32970472tnum7j4zg02": {
         "id": "ckw56ayp32970472tnum7j4zg02",
         "title": "Thank you message in different languages",
@@ -458,20 +483,12 @@
         "voteCount": 2,
         "commentCount": 0
     },
-    "ckw87lfcg4143012tnur3l5xx98": {
-        "id": "ckw87lfcg4143012tnur3l5xx98",
-        "title": "Exalt fraction price chart in chaos",
-        "body": "Some very basic chart that would give an equivalent of the exalt fraction prince in chaos. Something like 0.1 ex -> 14.5c, 0.2 ex -> 29c, etc. Would use the exalt price from poe.ninja",
-        "createdAt": "2021-11-20T19:33:23.056Z",
-        "comments": [
-            {
-                "body": "Could be toggled via a button or a keybind",
-                "createdAt": "2021-11-20T19:34:06.690Z",
-                "user": {
-                    "name": null
-                }
-            }
-        ],
+    "ckw8d09ht4165702tnu2q9yrpyu": {
+        "id": "ckw8d09ht4165702tnu2q9yrpyu",
+        "title": "Poe Overlay Market",
+        "body": "Hello, I would like to add a function that allows us to move the poe overlay market where we want in the screen ex:  over the inventory. Move left to right",
+        "createdAt": "2021-11-20T22:04:53.394Z",
+        "comments": [],
         "user": {
             "name": null
         },
@@ -481,7 +498,24 @@
             "color": "#3182CE"
         },
         "voteCount": 1,
-        "commentCount": 1
+        "commentCount": 0
+    },
+    "ckw294gfa1694982tnu25da7pio": {
+        "id": "ckw294gfa1694982tnu25da7pio",
+        "title": "Auto clip High value drops",
+        "body": "Use a OBS plugin to auto clip high value item drops based on their rarity tier on item filters",
+        "createdAt": "2021-11-16T15:29:33.478Z",
+        "comments": [],
+        "user": {
+            "name": "Inuboshi"
+        },
+        "status": {
+            "id": "cktsbmpqb21828map1qc9n4azp",
+            "name": "Open",
+            "color": "#3182CE"
+        },
+        "voteCount": 1,
+        "commentCount": 0
     },
     "ckvfn5nkv477232so4n4t6w8a1": {
         "id": "ckvfn5nkv477232so4n4t6w8a1",
@@ -533,56 +567,30 @@
         "voteCount": 1,
         "commentCount": 1
     },
-    "ckw8d09ht4165702tnu2q9yrpyu": {
-        "id": "ckw8d09ht4165702tnu2q9yrpyu",
-        "title": "Poe Overlay Market",
-        "body": "Hello, I would like to add a function that allows us to move the poe overlay market where we want in the screen ex:  over the inventory. Move left to right",
-        "createdAt": "2021-11-20T22:04:53.394Z",
-        "comments": [],
-        "user": {
-            "name": null
-        },
-        "status": {
-            "id": "cktsbmpqb21828map1qc9n4azp",
-            "name": "Open",
-            "color": "#3182CE"
-        },
-        "voteCount": 0,
-        "commentCount": 0
-    },
     "ckw8cza2p4164572tnuufbp8wbs": {
         "id": "ckw8cza2p4164572tnuufbp8wbs",
         "title": "Poe Overlay Market",
         "body": "Hello, I would like to add a function that allows us to move the poe overlay market where we want in the screen ex: over the inventory. Move left to right",
         "createdAt": "2021-11-20T22:04:07.489Z",
-        "comments": [],
+        "comments": [
+            {
+                "body": "Closed because of duplication",
+                "createdAt": "2021-11-20T22:11:29.679Z",
+                "user": {
+                    "name": "MalakaJones"
+                }
+            }
+        ],
         "user": {
             "name": null
         },
         "status": {
-            "id": "cktsbmpqb21828map1qc9n4azp",
-            "name": "Open",
-            "color": "#3182CE"
+            "id": "cktsbmpqb21832map1jfmu7ocj",
+            "name": "Closed",
+            "color": "#718096"
         },
         "voteCount": 0,
-        "commentCount": 0
-    },
-    "ckw294gfa1694982tnu25da7pio": {
-        "id": "ckw294gfa1694982tnu25da7pio",
-        "title": "Auto clip High value drops",
-        "body": "Use a OBS plugin to auto clip high value item drops based on their rarity tier on item filters",
-        "createdAt": "2021-11-16T15:29:33.478Z",
-        "comments": [],
-        "user": {
-            "name": "Inuboshi"
-        },
-        "status": {
-            "id": "cktsbmpqb21828map1qc9n4azp",
-            "name": "Open",
-            "color": "#3182CE"
-        },
-        "voteCount": 0,
-        "commentCount": 0
+        "commentCount": 1
     },
     "ckv4ghmnb1641232ska9schilai": {
         "id": "ckv4ghmnb1641232ska9schilai",
