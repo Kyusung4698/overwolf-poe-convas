@@ -215,6 +215,23 @@
         "voteCount": 4,
         "commentCount": 1
     },
+    "ckw56ayp32970472tnum7j4zg02": {
+        "id": "ckw56ayp32970472tnum7j4zg02",
+        "title": "Thank you message in different languages",
+        "body": "Send the \"Thank you for trading\" message in the appropriate language, as the initial trade message was in.",
+        "createdAt": "2021-11-18T16:33:56.775Z",
+        "comments": [],
+        "user": {
+            "name": "Slash1y"
+        },
+        "status": {
+            "id": "cktsbmpqb21828map1qc9n4azp",
+            "name": "Open",
+            "color": "#3182CE"
+        },
+        "voteCount": 3,
+        "commentCount": 0
+    },
     "ckvo2lpd2856302si5h8p4bx1c": {
         "id": "ckvo2lpd2856302si5h8p4bx1c",
         "title": "Import Item to Craft of Exile",
@@ -322,23 +339,6 @@
         },
         "voteCount": 2,
         "commentCount": 1
-    },
-    "ckw56ayp32970472tnum7j4zg02": {
-        "id": "ckw56ayp32970472tnum7j4zg02",
-        "title": "Thank you message in different languages",
-        "body": "Send the \"Thank you for trading\" message in the appropriate language, as the initial trade message was in.",
-        "createdAt": "2021-11-18T16:33:56.775Z",
-        "comments": [],
-        "user": {
-            "name": "Slash1y"
-        },
-        "status": {
-            "id": "cktsbmpqb21828map1qc9n4azp",
-            "name": "Open",
-            "color": "#3182CE"
-        },
-        "voteCount": 2,
-        "commentCount": 0
     },
     "cku5nv9ol1711583yn11wkz9kjc": {
         "id": "cku5nv9ol1711583yn11wkz9kjc",
