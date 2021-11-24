@@ -483,6 +483,23 @@
         "voteCount": 2,
         "commentCount": 0
     },
+    "ckwcsqkme5364982tnuxam728ny": {
+        "id": "ckwcsqkme5364982tnuxam728ny",
+        "title": "Copy trade message to clipboard",
+        "body": "Could it be possible to have a second button that let us copy the trade whisper instead of sending it right away?",
+        "createdAt": "2021-11-24T00:36:19.814Z",
+        "comments": [],
+        "user": {
+            "name": "MalakaJones"
+        },
+        "status": {
+            "id": "cktsbmpqb21828map1qc9n4azp",
+            "name": "Open",
+            "color": "#3182CE"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "ckw8d09ht4165702tnu2q9yrpyu": {
         "id": "ckw8d09ht4165702tnu2q9yrpyu",
         "title": "Poe Overlay Market",
