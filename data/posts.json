@@ -483,6 +483,23 @@
         "voteCount": 2,
         "commentCount": 0
     },
+    "ckwl995gl227630rfiiqp6ffd": {
+        "id": "ckwl995gl227630rfiiqp6ffd",
+        "title": "Sort listings by mods in the market plugin",
+        "body": "Similar as the official website, being able to sort listing via a mod value would be a great addition!",
+        "createdAt": "2021-11-29T22:40:49.893Z",
+        "comments": [],
+        "user": {
+            "name": "MalakaJones"
+        },
+        "status": {
+            "id": "cktsbmpqb21828map1qc9n4azp",
+            "name": "Open",
+            "color": "#3182CE"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "ckwcsqkme5364982tnuxam728ny": {
         "id": "ckwcsqkme5364982tnuxam728ny",
         "title": "Copy trade message to clipboard",
