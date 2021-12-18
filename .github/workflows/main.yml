@@ -13,7 +13,7 @@ jobs:
       SUBDOMAIN: 'poe-overlay'
       BOARD: 'feedback'
       SOURCE: './data/posts.json'
-      AVATAR_URL: 'https://cdn.discordapp.com/icons/678258268245852180/1a483aa293cae92b3018cfb8000527bd.webp?size=96'
+      AVATAR_URL: 'https://cdn.discordapp.com/icons/678258268245852180/8f9a46683a88ae5a21bb5b7d71147f7e.webp?size=96'
       WEBHOOK: ${{ secrets.WEBHOOK }}
     
     steps:
