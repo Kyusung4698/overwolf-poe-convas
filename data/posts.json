@@ -190,6 +190,31 @@
         "voteCount": 5,
         "commentCount": 1
     },
+    "ckx3rzbui794452skvfl9bv9uw": {
+        "id": "ckx3rzbui794452skvfl9bv9uw",
+        "title": "Multi Client Option",
+        "body": "Hi, I am using two POE clients, one for trading and one for playing the game.\n\nOne is the Steam Client and one is the normal Client.\n\nI would like to use the overlay for both clients, at the moment the overlay is stuck to the last open client. So if I close the game with did not have the overlay and reboot it gets then the overlay. \n\nI don't know if it's possible, but if you could make an option so that you maybe can switch between separate clients so that we don't have to close and open the games, that would be awesome. \n\nLG CTekk\n\n",
+        "createdAt": "2021-12-12T21:44:55.482Z",
+        "comments": [
+            {
+                "body": "Good Idee, have the Same Problem. At the moment, I use a sec software to check Items on my Main Account.\n\nWould be really nice if I could use this for Both of my Games.",
+                "createdAt": "2021-12-19T18:17:02.254Z",
+                "user": {
+                    "name": null
+                }
+            }
+        ],
+        "user": {
+            "name": "CTekk"
+        },
+        "status": {
+            "id": "cktsbmpqb21828map1qc9n4azp",
+            "name": "Open",
+            "color": "#3182CE"
+        },
+        "voteCount": 4,
+        "commentCount": 1
+    },
     "ckvztg8mw610592tnumjkq658f": {
         "id": "ckvztg8mw610592tnumjkq658f",
         "title": "Evaluate: Toggle online/any listings",
@@ -214,23 +239,6 @@
         },
         "voteCount": 4,
         "commentCount": 1
-    },
-    "ckx3rzbui794452skvfl9bv9uw": {
-        "id": "ckx3rzbui794452skvfl9bv9uw",
-        "title": "Multi Client Option",
-        "body": "Hi, I am using two POE clients, one for trading and one for playing the game.\n\nOne is the Steam Client and one is the normal Client.\n\nI would like to use the overlay for both clients, at the moment the overlay is stuck to the last open client. So if I close the game with did not have the overlay and reboot it gets then the overlay. \n\nI don't know if it's possible, but if you could make an option so that you maybe can switch between separate clients so that we don't have to close and open the games, that would be awesome. \n\nLG CTekk\n\n",
-        "createdAt": "2021-12-12T21:44:55.482Z",
-        "comments": [],
-        "user": {
-            "name": "CTekk"
-        },
-        "status": {
-            "id": "cktsbmpqb21828map1qc9n4azp",
-            "name": "Open",
-            "color": "#3182CE"
-        },
-        "voteCount": 3,
-        "commentCount": 0
     },
     "ckw56ayp32970472tnum7j4zg02": {
         "id": "ckw56ayp32970472tnum7j4zg02",
