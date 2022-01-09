@@ -28,7 +28,7 @@
             "name": "Open",
             "color": "#3182CE"
         },
-        "voteCount": 32,
+        "voteCount": 33,
         "commentCount": 2
     },
     "cktsbozyh45642map14gb8xrqh": {
@@ -173,23 +173,6 @@
         "voteCount": 6,
         "commentCount": 1
     },
-    "cktsbp2gc47486map1eaofe0r5": {
-        "id": "cktsbp2gc47486map1eaofe0r5",
-        "title": "[Smart search] Connecting the market/evaluate/inspect features",
-        "body": "A way to open an inspected/evaluated item into the built-in market without having to manually enter stats or anything.",
-        "createdAt": "2021-09-11T15:46:46.905Z",
-        "comments": [],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "id": "cktsbmpqb21831map11z0l9asa",
-            "name": "Completed",
-            "color": "#38A169"
-        },
-        "voteCount": 5,
-        "commentCount": 0
-    },
     "cktsbp2dw47436map1pyfne5ul": {
         "id": "cktsbp2dw47436map1pyfne5ul",
         "title": "Evaluate feature to use the bulk exchange for currencies",
@@ -212,8 +195,25 @@
             "name": "Planned",
             "color": "#D69E2E"
         },
-        "voteCount": 5,
+        "voteCount": 6,
         "commentCount": 1
+    },
+    "cktsbp2gc47486map1eaofe0r5": {
+        "id": "cktsbp2gc47486map1eaofe0r5",
+        "title": "[Smart search] Connecting the market/evaluate/inspect features",
+        "body": "A way to open an inspected/evaluated item into the built-in market without having to manually enter stats or anything.",
+        "createdAt": "2021-09-11T15:46:46.905Z",
+        "comments": [],
+        "user": {
+            "name": "MalakaJones"
+        },
+        "status": {
+            "id": "cktsbmpqb21831map11z0l9asa",
+            "name": "Completed",
+            "color": "#38A169"
+        },
+        "voteCount": 5,
+        "commentCount": 0
     },
     "ckw87lfcg4143012tnur3l5xx98": {
         "id": "ckw87lfcg4143012tnur3l5xx98",
@@ -264,6 +264,23 @@
         },
         "voteCount": 4,
         "commentCount": 1
+    },
+    "ckx53ohor1190482skvax8hcza0": {
+        "id": "ckx53ohor1190482skvax8hcza0",
+        "title": "Metamorph organs support",
+        "body": "Would be nice if metamorph organs could be supported for evaluation. Since they are core, this would make sense to include those aswell.",
+        "createdAt": "2021-12-13T20:00:11.403Z",
+        "comments": [],
+        "user": {
+            "name": "MalakaJones"
+        },
+        "status": {
+            "id": "cktsbmpqb21828map1qc9n4azp",
+            "name": "Open",
+            "color": "#3182CE"
+        },
+        "voteCount": 3,
+        "commentCount": 0
     },
     "ckw56ayp32970472tnum7j4zg02": {
         "id": "ckw56ayp32970472tnum7j4zg02",
@@ -523,23 +540,6 @@
             "color": "#38A169"
         },
         "voteCount": 2,
-        "commentCount": 0
-    },
-    "ckx53ohor1190482skvax8hcza0": {
-        "id": "ckx53ohor1190482skvax8hcza0",
-        "title": "Metamorph organs support",
-        "body": "Would be nice if metamorph organs could be supported for evaluation. Since they are core, this would make sense to include those aswell.",
-        "createdAt": "2021-12-13T20:00:11.403Z",
-        "comments": [],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "id": "cktsbmpqb21828map1qc9n4azp",
-            "name": "Open",
-            "color": "#3182CE"
-        },
-        "voteCount": 1,
         "commentCount": 0
     },
     "ckwcsqkme5364982tnuxam728ny": {
