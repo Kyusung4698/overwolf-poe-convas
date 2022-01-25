@@ -28,7 +28,7 @@
             "name": "Open",
             "color": "#3182CE"
         },
-        "voteCount": 33,
+        "voteCount": 34,
         "commentCount": 2
     },
     "cktsbozyh45642map14gb8xrqh": {
@@ -60,7 +60,7 @@
             "name": "Planned",
             "color": "#D69E2E"
         },
-        "voteCount": 23,
+        "voteCount": 24,
         "commentCount": 2
     },
     "cktzhzt3b156203yn1y63r2t1n": {
@@ -198,23 +198,6 @@
         "voteCount": 6,
         "commentCount": 1
     },
-    "cktsbp2gc47486map1eaofe0r5": {
-        "id": "cktsbp2gc47486map1eaofe0r5",
-        "title": "[Smart search] Connecting the market/evaluate/inspect features",
-        "body": "A way to open an inspected/evaluated item into the built-in market without having to manually enter stats or anything.",
-        "createdAt": "2021-09-11T15:46:46.905Z",
-        "comments": [],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "id": "cktsbmpqb21831map11z0l9asa",
-            "name": "Completed",
-            "color": "#38A169"
-        },
-        "voteCount": 5,
-        "commentCount": 0
-    },
     "ckw87lfcg4143012tnur3l5xx98": {
         "id": "ckw87lfcg4143012tnur3l5xx98",
         "title": "Exalt fraction price chart in chaos",
@@ -237,8 +220,25 @@
             "name": "Open",
             "color": "#3182CE"
         },
-        "voteCount": 4,
+        "voteCount": 5,
         "commentCount": 1
+    },
+    "cktsbp2gc47486map1eaofe0r5": {
+        "id": "cktsbp2gc47486map1eaofe0r5",
+        "title": "[Smart search] Connecting the market/evaluate/inspect features",
+        "body": "A way to open an inspected/evaluated item into the built-in market without having to manually enter stats or anything.",
+        "createdAt": "2021-09-11T15:46:46.905Z",
+        "comments": [],
+        "user": {
+            "name": "MalakaJones"
+        },
+        "status": {
+            "id": "cktsbmpqb21831map11z0l9asa",
+            "name": "Completed",
+            "color": "#38A169"
+        },
+        "voteCount": 5,
+        "commentCount": 0
     },
     "ckvztg8mw610592tnumjkq658f": {
         "id": "ckvztg8mw610592tnumjkq658f",
