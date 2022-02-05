@@ -542,6 +542,23 @@
         "voteCount": 2,
         "commentCount": 0
     },
+    "ckzafznnw154652ys0t9atr67o": {
+        "id": "ckzafznnw154652ys0t9atr67o",
+        "title": "Make pseudo rules customizable",
+        "body": "Allow users to play with pseudo rules strictness. For exemple, allow pseudo total ele res to show up anytime when there is ele res instead of when there's 2+ ele res mods on the item.",
+        "createdAt": "2022-02-05T23:03:03.308Z",
+        "comments": [],
+        "user": {
+            "name": "MalakaJones"
+        },
+        "status": {
+            "id": "cktsbmpqb21828map1qc9n4azp",
+            "name": "Open",
+            "color": "#3182CE"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "ckwcsqkme5364982tnuxam728ny": {
         "id": "ckwcsqkme5364982tnuxam728ny",
         "title": "Copy trade message to clipboard",
