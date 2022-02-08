@@ -114,6 +114,31 @@
         "voteCount": 8,
         "commentCount": 0
     },
+    "ckw87lfcg4143012tnur3l5xx98": {
+        "id": "ckw87lfcg4143012tnur3l5xx98",
+        "title": "Exalt fraction price chart in chaos",
+        "body": "Some very basic chart that would give an equivalent of the exalt fraction prince in chaos. Something like 0.1 ex -> 14.5c, 0.2 ex -> 29c, etc. Would use the exalt price from poe.ninja",
+        "createdAt": "2021-11-20T19:33:23.056Z",
+        "comments": [
+            {
+                "body": "Could be toggled via a button or a keybind",
+                "createdAt": "2021-11-20T19:34:06.690Z",
+                "user": {
+                    "name": "Anonymous"
+                }
+            }
+        ],
+        "user": {
+            "name": null
+        },
+        "status": {
+            "id": "cktsbmpqb21828map1qc9n4azp",
+            "name": "Open",
+            "color": "#3182CE"
+        },
+        "voteCount": 7,
+        "commentCount": 1
+    },
     "cktsbp2ec47445map10tmzn5tg": {
         "id": "cktsbp2ec47445map10tmzn5tg",
         "title": "Evaluating item mods based on tiers",
@@ -164,31 +189,6 @@
         ],
         "user": {
             "name": "CTekk"
-        },
-        "status": {
-            "id": "cktsbmpqb21828map1qc9n4azp",
-            "name": "Open",
-            "color": "#3182CE"
-        },
-        "voteCount": 6,
-        "commentCount": 1
-    },
-    "ckw87lfcg4143012tnur3l5xx98": {
-        "id": "ckw87lfcg4143012tnur3l5xx98",
-        "title": "Exalt fraction price chart in chaos",
-        "body": "Some very basic chart that would give an equivalent of the exalt fraction prince in chaos. Something like 0.1 ex -> 14.5c, 0.2 ex -> 29c, etc. Would use the exalt price from poe.ninja",
-        "createdAt": "2021-11-20T19:33:23.056Z",
-        "comments": [
-            {
-                "body": "Could be toggled via a button or a keybind",
-                "createdAt": "2021-11-20T19:34:06.690Z",
-                "user": {
-                    "name": "Anonymous"
-                }
-            }
-        ],
-        "user": {
-            "name": null
         },
         "status": {
             "id": "cktsbmpqb21828map1qc9n4azp",
