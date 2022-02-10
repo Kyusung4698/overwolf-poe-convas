@@ -622,18 +622,25 @@
                 "user": {
                     "name": "Anonymous"
                 }
+            },
+            {
+                "body": "No longer relevant with removal of prophecies.",
+                "createdAt": "2022-02-10T22:42:44.694Z",
+                "user": {
+                    "name": "MalakaJones"
+                }
             }
         ],
         "user": {
             "name": null
         },
         "status": {
-            "id": "cktsbmpqb21828map1qc9n4azp",
-            "name": "Open",
-            "color": "#3182CE"
+            "id": "cktsbmpqb21832map1jfmu7ocj",
+            "name": "Closed",
+            "color": "#718096"
         },
         "voteCount": 1,
-        "commentCount": 1
+        "commentCount": 2
     },
     "ckulldv18729933yqo0whohe6d": {
         "id": "ckulldv18729933yqo0whohe6d",
