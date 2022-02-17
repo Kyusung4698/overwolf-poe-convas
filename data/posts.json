@@ -63,6 +63,38 @@
         "voteCount": 25,
         "commentCount": 2
     },
+    "ckw87lfcg4143012tnur3l5xx98": {
+        "id": "ckw87lfcg4143012tnur3l5xx98",
+        "title": "Exalt fraction price chart in chaos",
+        "body": "Some very basic chart that would give an equivalent of the exalt fraction prince in chaos. Something like 0.1 ex -> 14.5c, 0.2 ex -> 29c, etc. Would use the exalt price from poe.ninja",
+        "createdAt": "2021-11-20T19:33:23.056Z",
+        "comments": [
+            {
+                "body": "Could be toggled via a button or a keybind",
+                "createdAt": "2021-11-20T19:34:06.690Z",
+                "user": {
+                    "name": "Anonymous #7671"
+                }
+            },
+            {
+                "body": "This is the last piece missing :) such a pain to always pull the calc",
+                "createdAt": "2022-02-17T18:17:09.793Z",
+                "user": {
+                    "name": "Anonymous #8306"
+                }
+            }
+        ],
+        "user": {
+            "name": "Anonymous #7671"
+        },
+        "status": {
+            "id": "cktsbmpqb21828map1qc9n4azp",
+            "name": "Open",
+            "color": "#3182CE"
+        },
+        "voteCount": 9,
+        "commentCount": 2
+    },
     "cktzhzt3b156203yn1y63r2t1n": {
         "id": "cktzhzt3b156203yn1y63r2t1n",
         "title": "Discord Integration",
@@ -79,31 +111,6 @@
         },
         "voteCount": 9,
         "commentCount": 0
-    },
-    "ckw87lfcg4143012tnur3l5xx98": {
-        "id": "ckw87lfcg4143012tnur3l5xx98",
-        "title": "Exalt fraction price chart in chaos",
-        "body": "Some very basic chart that would give an equivalent of the exalt fraction prince in chaos. Something like 0.1 ex -> 14.5c, 0.2 ex -> 29c, etc. Would use the exalt price from poe.ninja",
-        "createdAt": "2021-11-20T19:33:23.056Z",
-        "comments": [
-            {
-                "body": "Could be toggled via a button or a keybind",
-                "createdAt": "2021-11-20T19:34:06.690Z",
-                "user": {
-                    "name": "Anonymous #7671"
-                }
-            }
-        ],
-        "user": {
-            "name": "Anonymous #7671"
-        },
-        "status": {
-            "id": "cktsbmpqb21828map1qc9n4azp",
-            "name": "Open",
-            "color": "#3182CE"
-        },
-        "voteCount": 8,
-        "commentCount": 1
     },
     "cktsbp2f547461map1rrkovz8d": {
         "id": "cktsbp2f547461map1rrkovz8d",
