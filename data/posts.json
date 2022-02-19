@@ -549,6 +549,23 @@
         "voteCount": 2,
         "commentCount": 0
     },
+    "ckztsqsjk1538022urdlkiaib8d": {
+        "id": "ckztsqsjk1538022urdlkiaib8d",
+        "title": "Oils required for an anoit display",
+        "body": "With introduction of oil extractor and atlas nodes of dropping random anoited jewellery it became a hussle to check every single anoit on wiki. I suggest adding a maybe toglable display that shows oils needed to anoit right next or above/below the anoitment when you do Alt+Q item check. ",
+        "createdAt": "2022-02-19T12:07:42.080Z",
+        "comments": [],
+        "user": {
+            "name": "Anonymous #8323"
+        },
+        "status": {
+            "id": "cktsbmpqb21828map1qc9n4azp",
+            "name": "Open",
+            "color": "#3182CE"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "ckzafznnw154652ys0t9atr67o": {
         "id": "ckzafznnw154652ys0t9atr67o",
         "title": "Make pseudo rules customizable",
