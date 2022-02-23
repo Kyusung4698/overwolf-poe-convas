@@ -230,23 +230,6 @@
         "voteCount": 6,
         "commentCount": 1
     },
-    "cktsbp2gc47486map1eaofe0r5": {
-        "id": "cktsbp2gc47486map1eaofe0r5",
-        "title": "[Smart search] Connecting the market/evaluate/inspect features",
-        "body": "A way to open an inspected/evaluated item into the built-in market without having to manually enter stats or anything.",
-        "createdAt": "2021-09-11T15:46:46.905Z",
-        "comments": [],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "id": "cktsbmpqb21831map11z0l9asa",
-            "name": "Completed",
-            "color": "#38A169"
-        },
-        "voteCount": 5,
-        "commentCount": 0
-    },
     "ckvztg8mw610592tnumjkq658f": {
         "id": "ckvztg8mw610592tnumjkq658f",
         "title": "Evaluate: Toggle online/any listings",
@@ -269,8 +252,25 @@
             "name": "Open",
             "color": "#3182CE"
         },
-        "voteCount": 4,
+        "voteCount": 5,
         "commentCount": 1
+    },
+    "cktsbp2gc47486map1eaofe0r5": {
+        "id": "cktsbp2gc47486map1eaofe0r5",
+        "title": "[Smart search] Connecting the market/evaluate/inspect features",
+        "body": "A way to open an inspected/evaluated item into the built-in market without having to manually enter stats or anything.",
+        "createdAt": "2021-09-11T15:46:46.905Z",
+        "comments": [],
+        "user": {
+            "name": "MalakaJones"
+        },
+        "status": {
+            "id": "cktsbmpqb21831map11z0l9asa",
+            "name": "Completed",
+            "color": "#38A169"
+        },
+        "voteCount": 5,
+        "commentCount": 0
     },
     "ckztsqsjk1538022urdlkiaib8d": {
         "id": "ckztsqsjk1538022urdlkiaib8d",
