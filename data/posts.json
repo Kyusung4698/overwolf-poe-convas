@@ -129,6 +129,23 @@
         "voteCount": 8,
         "commentCount": 0
     },
+    "cktsbp2ec47445map10tmzn5tg": {
+        "id": "cktsbp2ec47445map10tmzn5tg",
+        "title": "Evaluating item mods based on tiers",
+        "body": "A feature where once enabled, you would price your item based on the tier it has (lowest roll for the tier) and not the exact value it has.",
+        "createdAt": "2021-09-11T16:04:26.983Z",
+        "comments": [],
+        "user": {
+            "name": "MalakaJones"
+        },
+        "status": {
+            "id": "cktsbmpqb21830map179syqaea",
+            "name": "Planned",
+            "color": "#D69E2E"
+        },
+        "voteCount": 8,
+        "commentCount": 0
+    },
     "cktsbozxk45626map1kyf25qky": {
         "id": "cktsbozxk45626map1kyf25qky",
         "title": "Add hotkeys to the trade module",
@@ -144,23 +161,6 @@
             "color": "#38A169"
         },
         "voteCount": 8,
-        "commentCount": 0
-    },
-    "cktsbp2ec47445map10tmzn5tg": {
-        "id": "cktsbp2ec47445map10tmzn5tg",
-        "title": "Evaluating item mods based on tiers",
-        "body": "A feature where once enabled, you would price your item based on the tier it has (lowest roll for the tier) and not the exact value it has.",
-        "createdAt": "2021-09-11T16:04:26.983Z",
-        "comments": [],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "id": "cktsbmpqb21830map179syqaea",
-            "name": "Planned",
-            "color": "#D69E2E"
-        },
-        "voteCount": 7,
         "commentCount": 0
     },
     "cktsboyte44790map16wgfsqii": {
