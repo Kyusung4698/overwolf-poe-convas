@@ -92,7 +92,7 @@
             "name": "Open",
             "color": "#3182CE"
         },
-        "voteCount": 13,
+        "voteCount": 14,
         "commentCount": 2
     },
     "cktsbp2ec47445map10tmzn5tg": {
@@ -109,7 +109,7 @@
             "name": "Planned",
             "color": "#D69E2E"
         },
-        "voteCount": 12,
+        "voteCount": 13,
         "commentCount": 0
     },
     "cktzhzt3b156203yn1y63r2t1n": {
@@ -230,6 +230,55 @@
         "voteCount": 6,
         "commentCount": 1
     },
+    "ckvo2lpd2856302si5h8p4bx1c": {
+        "id": "ckvo2lpd2856302si5h8p4bx1c",
+        "title": "Import Item to Craft of Exile",
+        "body": "Add option to inspect that allows users to import items to https://www.craftofexile.com/",
+        "createdAt": "2021-11-06T17:18:14.438Z",
+        "comments": [
+            {
+                "body": "Like in 1 click instead of having to ctrl+alt+c the item then paste it into the website?",
+                "createdAt": "2021-11-06T17:26:58.496Z",
+                "user": {
+                    "name": "Anonymous #7671"
+                }
+            },
+            {
+                "body": "Yes",
+                "createdAt": "2021-11-06T17:30:25.067Z",
+                "user": {
+                    "name": "RagingHomoBear"
+                }
+            }
+        ],
+        "user": {
+            "name": "RagingHomoBear"
+        },
+        "status": {
+            "id": "cktsbmpqb21828map1qc9n4azp",
+            "name": "Open",
+            "color": "#3182CE"
+        },
+        "voteCount": 6,
+        "commentCount": 2
+    },
+    "cktsbp2gc47486map1eaofe0r5": {
+        "id": "cktsbp2gc47486map1eaofe0r5",
+        "title": "[Smart search] Connecting the market/evaluate/inspect features",
+        "body": "A way to open an inspected/evaluated item into the built-in market without having to manually enter stats or anything.",
+        "createdAt": "2021-09-11T15:46:46.905Z",
+        "comments": [],
+        "user": {
+            "name": "MalakaJones"
+        },
+        "status": {
+            "id": "cktsbmpqb21831map11z0l9asa",
+            "name": "Completed",
+            "color": "#38A169"
+        },
+        "voteCount": 6,
+        "commentCount": 0
+    },
     "ckztsqsjk1538022urdlkiaib8d": {
         "id": "ckztsqsjk1538022urdlkiaib8d",
         "title": "Oils required for an anoit display",
@@ -271,55 +320,6 @@
         },
         "voteCount": 5,
         "commentCount": 1
-    },
-    "ckvo2lpd2856302si5h8p4bx1c": {
-        "id": "ckvo2lpd2856302si5h8p4bx1c",
-        "title": "Import Item to Craft of Exile",
-        "body": "Add option to inspect that allows users to import items to https://www.craftofexile.com/",
-        "createdAt": "2021-11-06T17:18:14.438Z",
-        "comments": [
-            {
-                "body": "Like in 1 click instead of having to ctrl+alt+c the item then paste it into the website?",
-                "createdAt": "2021-11-06T17:26:58.496Z",
-                "user": {
-                    "name": "Anonymous #7671"
-                }
-            },
-            {
-                "body": "Yes",
-                "createdAt": "2021-11-06T17:30:25.067Z",
-                "user": {
-                    "name": "RagingHomoBear"
-                }
-            }
-        ],
-        "user": {
-            "name": "RagingHomoBear"
-        },
-        "status": {
-            "id": "cktsbmpqb21828map1qc9n4azp",
-            "name": "Open",
-            "color": "#3182CE"
-        },
-        "voteCount": 5,
-        "commentCount": 2
-    },
-    "cktsbp2gc47486map1eaofe0r5": {
-        "id": "cktsbp2gc47486map1eaofe0r5",
-        "title": "[Smart search] Connecting the market/evaluate/inspect features",
-        "body": "A way to open an inspected/evaluated item into the built-in market without having to manually enter stats or anything.",
-        "createdAt": "2021-09-11T15:46:46.905Z",
-        "comments": [],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "id": "cktsbmpqb21831map11z0l9asa",
-            "name": "Completed",
-            "color": "#38A169"
-        },
-        "voteCount": 5,
-        "commentCount": 0
     },
     "ckx53ohor1190482skvax8hcza0": {
         "id": "ckx53ohor1190482skvax8hcza0",
@@ -581,6 +581,23 @@
             "color": "#38A169"
         },
         "voteCount": 2,
+        "commentCount": 0
+    },
+    "cl0brozbe3245942unyhxmgeafq": {
+        "id": "cl0brozbe3245942unyhxmgeafq",
+        "title": "favorite management",
+        "body": "Looking for a way to save a lot of searches. A folder system kind of like better trading chome addon would be pretty good. Clicking the right arrow key multiple times is not efficient. Thanks.",
+        "createdAt": "2022-03-04T01:58:09.098Z",
+        "comments": [],
+        "user": {
+            "name": "Anonymous #8442"
+        },
+        "status": {
+            "id": "cktsbmpqb21828map1qc9n4azp",
+            "name": "Open",
+            "color": "#3182CE"
+        },
+        "voteCount": 1,
         "commentCount": 0
     },
     "ckzafznnw154652ys0t9atr67o": {
