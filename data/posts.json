@@ -708,6 +708,23 @@
         "voteCount": 1,
         "commentCount": 1
     },
+    "cl0h3ne4s5446982unyii3raddp": {
+        "id": "cl0h3ne4s5446982unyii3raddp",
+        "title": "Return to game with ESC",
+        "body": "Close any active windows/overlays as if the X button were clicked on every Market/Inspect/Check/Settings window open. Just a small QoL of thing",
+        "createdAt": "2022-03-07T19:31:41.260Z",
+        "comments": [],
+        "user": {
+            "name": "Anonymous #8482"
+        },
+        "status": {
+            "id": "cktsbmpqb21828map1qc9n4azp",
+            "name": "Open",
+            "color": "#3182CE"
+        },
+        "voteCount": 0,
+        "commentCount": 0
+    },
     "ckzd6digy419082umd17bf59lv": {
         "id": "ckzd6digy419082umd17bf59lv",
         "title": "add stash tab name to item highlight feature",
