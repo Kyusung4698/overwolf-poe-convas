@@ -708,6 +708,40 @@
         "voteCount": 1,
         "commentCount": 1
     },
+    "cl0i46p1s5910152unys9up6trs": {
+        "id": "cl0i46p1s5910152unys9up6trs",
+        "title": "Add an option to let us deslect sockets by default.",
+        "body": "Please add an option in the Evaluate panel to have the sockets deselected by default. \n\nIt's only useful when evaluating a 6 links items, and it's an annoyance when trying to evaluate unique or interesting rare item. If I don't manually remove the sockets the app will add them to the search and narrow the search to that particular combo of sockets and links",
+        "createdAt": "2022-03-08T12:34:28.045Z",
+        "comments": [],
+        "user": {
+            "name": "CM."
+        },
+        "status": {
+            "id": "cktsbmpqb21828map1qc9n4azp",
+            "name": "Open",
+            "color": "#3182CE"
+        },
+        "voteCount": 0,
+        "commentCount": 0
+    },
+    "cl0i3wx945903362unyl0l04a1u": {
+        "id": "cl0i3wx945903362unyl0l04a1u",
+        "title": "Allow to deselect socket by default",
+        "body": "Please add an option in the Evaluate panel to not automatically select sockets and links. \n\nIt's fine when when I try to orice check a 6 links item, but it's the rest (most) of the time when I try to price check an unique or interesting piece of gear with just one or 3 socket or links. TIf I don't manually remove the sockets and links, the app add them to the search and narrows the search for a specific item to that combo of socket and links.",
+        "createdAt": "2022-03-08T12:26:52.120Z",
+        "comments": [],
+        "user": {
+            "name": "Anonymous #8490"
+        },
+        "status": {
+            "id": "cktsbmpqb21828map1qc9n4azp",
+            "name": "Open",
+            "color": "#3182CE"
+        },
+        "voteCount": 0,
+        "commentCount": 0
+    },
     "cl0h3ne4s5446982unyii3raddp": {
         "id": "cl0h3ne4s5446982unyii3raddp",
         "title": "Return to game with ESC",
