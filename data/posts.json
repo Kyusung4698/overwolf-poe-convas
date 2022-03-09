@@ -583,6 +583,23 @@
         "voteCount": 2,
         "commentCount": 0
     },
+    "cl0h3ne4s5446982unyii3raddp": {
+        "id": "cl0h3ne4s5446982unyii3raddp",
+        "title": "Return to game with ESC",
+        "body": "Close any active windows/overlays as if the X button were clicked on every Market/Inspect/Check/Settings window open. Just a small QoL of thing",
+        "createdAt": "2022-03-07T19:31:41.260Z",
+        "comments": [],
+        "user": {
+            "name": "Anonymous #8482"
+        },
+        "status": {
+            "id": "cktsbmpqb21828map1qc9n4azp",
+            "name": "Open",
+            "color": "#3182CE"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "cl0brozbe3245942unyhxmgeafq": {
         "id": "cl0brozbe3245942unyhxmgeafq",
         "title": "favorite management",
@@ -733,23 +750,6 @@
         "comments": [],
         "user": {
             "name": "Anonymous #8490"
-        },
-        "status": {
-            "id": "cktsbmpqb21828map1qc9n4azp",
-            "name": "Open",
-            "color": "#3182CE"
-        },
-        "voteCount": 0,
-        "commentCount": 0
-    },
-    "cl0h3ne4s5446982unyii3raddp": {
-        "id": "cl0h3ne4s5446982unyii3raddp",
-        "title": "Return to game with ESC",
-        "body": "Close any active windows/overlays as if the X button were clicked on every Market/Inspect/Check/Settings window open. Just a small QoL of thing",
-        "createdAt": "2022-03-07T19:31:41.260Z",
-        "comments": [],
-        "user": {
-            "name": "Anonymous #8482"
         },
         "status": {
             "id": "cktsbmpqb21828map1qc9n4azp",
