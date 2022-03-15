@@ -139,9 +139,9 @@
             "name": "MalakaJones"
         },
         "status": {
-            "id": "cktsbmpqb21828map1qc9n4azp",
-            "name": "Open",
-            "color": "#3182CE"
+            "id": "cktsbmpqb21830map179syqaea",
+            "name": "Planned",
+            "color": "#D69E2E"
         },
         "voteCount": 8,
         "commentCount": 0
@@ -289,9 +289,9 @@
             "name": "Anonymous #8323"
         },
         "status": {
-            "id": "cktsbmpqb21828map1qc9n4azp",
-            "name": "Open",
-            "color": "#3182CE"
+            "id": "cktsbmpqb21830map179syqaea",
+            "name": "Planned",
+            "color": "#D69E2E"
         },
         "voteCount": 5,
         "commentCount": 0
@@ -421,6 +421,23 @@
             "color": "#3182CE"
         },
         "voteCount": 3,
+        "commentCount": 0
+    },
+    "cl0brozbe3245942unyhxmgeafq": {
+        "id": "cl0brozbe3245942unyhxmgeafq",
+        "title": "favorite management",
+        "body": "Looking for a way to save a lot of searches. A folder system kind of like better trading chome addon would be pretty good. Clicking the right arrow key multiple times is not efficient. Thanks.",
+        "createdAt": "2022-03-04T01:58:09.098Z",
+        "comments": [],
+        "user": {
+            "name": "Anonymous #8442"
+        },
+        "status": {
+            "id": "cktsbmpqb21830map179syqaea",
+            "name": "Planned",
+            "color": "#D69E2E"
+        },
+        "voteCount": 2,
         "commentCount": 0
     },
     "ckwl995gl227630rfiiqp6ffd": {
@@ -600,23 +617,6 @@
         "voteCount": 1,
         "commentCount": 0
     },
-    "cl0brozbe3245942unyhxmgeafq": {
-        "id": "cl0brozbe3245942unyhxmgeafq",
-        "title": "favorite management",
-        "body": "Looking for a way to save a lot of searches. A folder system kind of like better trading chome addon would be pretty good. Clicking the right arrow key multiple times is not efficient. Thanks.",
-        "createdAt": "2022-03-04T01:58:09.098Z",
-        "comments": [],
-        "user": {
-            "name": "Anonymous #8442"
-        },
-        "status": {
-            "id": "cktsbmpqb21828map1qc9n4azp",
-            "name": "Open",
-            "color": "#3182CE"
-        },
-        "voteCount": 1,
-        "commentCount": 0
-    },
     "ckzafznnw154652ys0t9atr67o": {
         "id": "ckzafznnw154652ys0t9atr67o",
         "title": "Make pseudo rules customizable",
@@ -730,34 +730,50 @@
         "title": "Switch the have/want in the exchange to be the same order has the site",
         "body": "I keep getting confused with the order going from the app to the site, and reported thinking it was an issue similar to the issue with the API.. to end up being insulted by the forum dork. ",
         "createdAt": "2022-03-10T18:31:26.150Z",
-        "comments": [],
+        "comments": [
+            {
+                "body": "Hi there, while I don't agree with the order on the trade website, I can add a toggle to be displayed that way. ",
+                "createdAt": "2022-03-15T11:05:33.871Z",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "CM."
         },
         "status": {
-            "id": "cktsbmpqb21828map1qc9n4azp",
-            "name": "Open",
-            "color": "#3182CE"
+            "id": "cktsbmpqb21830map179syqaea",
+            "name": "Planned",
+            "color": "#D69E2E"
         },
         "voteCount": 0,
-        "commentCount": 0
+        "commentCount": 1
     },
     "cl0i46p1s5910152unys9up6trs": {
         "id": "cl0i46p1s5910152unys9up6trs",
         "title": "Add an option to let us deslect sockets by default.",
         "body": "Please add an option in the Evaluate panel to have the sockets deselected by default. \n\nIt's only useful when evaluating a 6 links items, and it's an annoyance when trying to evaluate unique or interesting rare item. If I don't manually remove the sockets the app will add them to the search and narrow the search to that particular combo of sockets and links",
         "createdAt": "2022-03-08T12:34:28.045Z",
-        "comments": [],
+        "comments": [
+            {
+                "body": "Hi there, this can be configured in the evaluate settings > add links to query > never / 6 link.\n\n",
+                "createdAt": "2022-03-15T11:03:06.791Z",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "CM."
         },
         "status": {
-            "id": "cktsbmpqb21828map1qc9n4azp",
-            "name": "Open",
-            "color": "#3182CE"
+            "id": "cktsbmpqb21832map1jfmu7ocj",
+            "name": "Closed",
+            "color": "#718096"
         },
         "voteCount": 0,
-        "commentCount": 0
+        "commentCount": 1
     },
     "cl0i3wx945903362unyl0l04a1u": {
         "id": "cl0i3wx945903362unyl0l04a1u",
@@ -769,9 +785,9 @@
             "name": "Anonymous #8490"
         },
         "status": {
-            "id": "cktsbmpqb21828map1qc9n4azp",
-            "name": "Open",
-            "color": "#3182CE"
+            "id": "cktsbmpqb21832map1jfmu7ocj",
+            "name": "Closed",
+            "color": "#718096"
         },
         "voteCount": 0,
         "commentCount": 0
@@ -781,7 +797,15 @@
         "title": "add stash tab name to item highlight feature",
         "body": "abbility to see what stash tab is in when somebody send a trade (you can already see the item name in the bottom left i would like it to also show the stash tab name) \n\n",
         "createdAt": "2022-02-07T20:57:12.130Z",
-        "comments": [],
+        "comments": [
+            {
+                "body": "Hi there, we display the stash name in the upper part of the stash overlay. See the green box in the screenshot below.\n\nPlease let me know if this is enough, or if you still want the stash name to be displayed somewhere else. Thanks for your feedback!\n\n",
+                "createdAt": "2022-03-15T10:51:41.872Z",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "Anonymous #8216"
         },
@@ -791,7 +815,7 @@
             "color": "#3182CE"
         },
         "voteCount": 0,
-        "commentCount": 0
+        "commentCount": 1
     },
     "ckw8cza2p4164572tnuufbp8wbs": {
         "id": "ckw8cza2p4164572tnuufbp8wbs",
