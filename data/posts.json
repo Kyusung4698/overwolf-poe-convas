@@ -737,6 +737,13 @@
                 "user": {
                     "name": "Kyusung"
                 }
+            },
+            {
+                "body": "That would be awesome. Thanks. ",
+                "createdAt": "2022-03-15T13:27:59.828Z",
+                "user": {
+                    "name": "CM."
+                }
             }
         ],
         "user": {
@@ -748,7 +755,7 @@
             "color": "#D69E2E"
         },
         "voteCount": 0,
-        "commentCount": 1
+        "commentCount": 2
     },
     "cl0i46p1s5910152unys9up6trs": {
         "id": "cl0i46p1s5910152unys9up6trs",
@@ -762,6 +769,13 @@
                 "user": {
                     "name": "Kyusung"
                 }
+            },
+            {
+                "body": "My bad. ",
+                "createdAt": "2022-03-15T13:30:53.631Z",
+                "user": {
+                    "name": "CM."
+                }
             }
         ],
         "user": {
@@ -773,7 +787,7 @@
             "color": "#718096"
         },
         "voteCount": 0,
-        "commentCount": 1
+        "commentCount": 2
     },
     "cl0i3wx945903362unyl0l04a1u": {
         "id": "cl0i3wx945903362unyl0l04a1u",
