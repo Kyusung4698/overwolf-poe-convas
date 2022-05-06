@@ -799,6 +799,23 @@
         "voteCount": 1,
         "commentCount": 1
     },
+    "cl2udd62a855152yo947oig1nn": {
+        "id": "cl2udd62a855152yo947oig1nn",
+        "title": "Reset to default key-binds button",
+        "body": "A way to reset keybinds to their original value would be great. Could be a global reset button or one per module.",
+        "createdAt": "2022-05-06T11:44:05.363Z",
+        "comments": [],
+        "user": {
+            "name": "Anonymous #7671"
+        },
+        "status": {
+            "id": "cktsbmpqb21828map1qc9n4azp",
+            "name": "Open",
+            "color": "#3182CE"
+        },
+        "voteCount": 0,
+        "commentCount": 0
+    },
     "cl0i46p1s5910152unys9up6trs": {
         "id": "cl0i46p1s5910152unys9up6trs",
         "title": "Add an option to let us deslect sockets by default.",
