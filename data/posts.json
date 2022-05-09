@@ -799,6 +799,23 @@
         "voteCount": 1,
         "commentCount": 1
     },
+    "cl2z5z9la2500192yo9hmibk3l7": {
+        "id": "cl2z5z9la2500192yo9hmibk3l7",
+        "title": "Maps Layout For leveling",
+        "body": "Hey, I dnt know if its possible or not buy I'd like an overlay of all maps or at least throughout the acts with quests that give skill points and waypoints pointed ",
+        "createdAt": "2022-05-09T20:16:10.318Z",
+        "comments": [],
+        "user": {
+            "name": "Amine Mlil"
+        },
+        "status": {
+            "id": "cktsbmpqb21828map1qc9n4azp",
+            "name": "Open",
+            "color": "#3182CE"
+        },
+        "voteCount": 0,
+        "commentCount": 0
+    },
     "cl2udd62a855152yo947oig1nn": {
         "id": "cl2udd62a855152yo947oig1nn",
         "title": "Reset to default key-binds button",
