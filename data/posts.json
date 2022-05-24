@@ -695,6 +695,13 @@
                 "user": {
                     "name": "Kyusung"
                 }
+            },
+            {
+                "body": "I would love if the bar where the stash name is would be a bit bigger. It's pretty small and hard to read. I would suggest making it the same font size as everything else like the size of the search bar or the stash name.",
+                "createdAt": "2022-05-24T09:47:14.623Z",
+                "user": {
+                    "name": "Nico Eschner"
+                }
             }
         ],
         "user": {
@@ -706,7 +713,7 @@
             "color": "#3182CE"
         },
         "voteCount": 1,
-        "commentCount": 1
+        "commentCount": 2
     },
     "ckwcsqkme5364982tnuxam728ny": {
         "id": "ckwcsqkme5364982tnuxam728ny",
