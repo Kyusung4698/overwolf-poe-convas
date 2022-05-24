@@ -18,6 +18,13 @@
                 "user": {
                     "name": "MalakaJones"
                 }
+            },
+            {
+                "body": "Maybe you could ask for an update from overwolf. Its already 9 months ago and still no new infos from them.",
+                "createdAt": "2022-05-24T09:58:42.101Z",
+                "user": {
+                    "name": "Nico Eschner"
+                }
             }
         ],
         "user": {
@@ -28,8 +35,8 @@
             "name": "Planned",
             "color": "#D69E2E"
         },
-        "voteCount": 54,
-        "commentCount": 2
+        "voteCount": 55,
+        "commentCount": 3
     },
     "cktsbozyh45642map14gb8xrqh": {
         "id": "cktsbozyh45642map14gb8xrqh",
@@ -60,7 +67,7 @@
             "name": "Planned",
             "color": "#D69E2E"
         },
-        "voteCount": 32,
+        "voteCount": 33,
         "commentCount": 2
     },
     "ckw87lfcg4143012tnur3l5xx98": {
@@ -92,7 +99,7 @@
             "name": "Planned",
             "color": "#D69E2E"
         },
-        "voteCount": 21,
+        "voteCount": 22,
         "commentCount": 2
     },
     "cktsbp2ec47445map10tmzn5tg": {
@@ -474,6 +481,38 @@
         "voteCount": 2,
         "commentCount": 0
     },
+    "ckzd6digy419082umd17bf59lv": {
+        "id": "ckzd6digy419082umd17bf59lv",
+        "title": "add stash tab name to item highlight feature",
+        "body": "abbility to see what stash tab is in when somebody send a trade (you can already see the item name in the bottom left i would like it to also show the stash tab name) \n\n",
+        "createdAt": "2022-02-07T20:57:12.130Z",
+        "comments": [
+            {
+                "body": "Hi there, we display the stash name in the upper part of the stash overlay. See the green box in the screenshot below.\n\nPlease let me know if this is enough, or if you still want the stash name to be displayed somewhere else. Thanks for your feedback!\n\n",
+                "createdAt": "2022-03-15T10:51:41.872Z",
+                "user": {
+                    "name": "Kyusung"
+                }
+            },
+            {
+                "body": "I would love if the bar where the stash name is would be a bit bigger. It's pretty small and hard to read. I would suggest making it the same font size as everything else like the size of the search bar or the stash name.",
+                "createdAt": "2022-05-24T09:47:14.623Z",
+                "user": {
+                    "name": "Nico Eschner"
+                }
+            }
+        ],
+        "user": {
+            "name": "Anonymous #8216"
+        },
+        "status": {
+            "id": "cktsbmpqb21828map1qc9n4azp",
+            "name": "Open",
+            "color": "#3182CE"
+        },
+        "voteCount": 2,
+        "commentCount": 2
+    },
     "ckzafznnw154652ys0t9atr67o": {
         "id": "ckzafznnw154652ys0t9atr67o",
         "title": "Make pseudo rules customizable",
@@ -679,38 +718,6 @@
             "id": "cktsbmpqb21830map179syqaea",
             "name": "Planned",
             "color": "#D69E2E"
-        },
-        "voteCount": 1,
-        "commentCount": 2
-    },
-    "ckzd6digy419082umd17bf59lv": {
-        "id": "ckzd6digy419082umd17bf59lv",
-        "title": "add stash tab name to item highlight feature",
-        "body": "abbility to see what stash tab is in when somebody send a trade (you can already see the item name in the bottom left i would like it to also show the stash tab name) \n\n",
-        "createdAt": "2022-02-07T20:57:12.130Z",
-        "comments": [
-            {
-                "body": "Hi there, we display the stash name in the upper part of the stash overlay. See the green box in the screenshot below.\n\nPlease let me know if this is enough, or if you still want the stash name to be displayed somewhere else. Thanks for your feedback!\n\n",
-                "createdAt": "2022-03-15T10:51:41.872Z",
-                "user": {
-                    "name": "Kyusung"
-                }
-            },
-            {
-                "body": "I would love if the bar where the stash name is would be a bit bigger. It's pretty small and hard to read. I would suggest making it the same font size as everything else like the size of the search bar or the stash name.",
-                "createdAt": "2022-05-24T09:47:14.623Z",
-                "user": {
-                    "name": "Nico Eschner"
-                }
-            }
-        ],
-        "user": {
-            "name": "Anonymous #8216"
-        },
-        "status": {
-            "id": "cktsbmpqb21828map1qc9n4azp",
-            "name": "Open",
-            "color": "#3182CE"
         },
         "voteCount": 1,
         "commentCount": 2
