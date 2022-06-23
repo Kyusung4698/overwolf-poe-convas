@@ -237,48 +237,6 @@
         "voteCount": 8,
         "commentCount": 0
     },
-    "cktsboyte44790map16wgfsqii": {
-        "id": "cktsboyte44790map16wgfsqii",
-        "title": "Stat groups support within market",
-        "body": "Being able to choose wich stat group we want to use instead of the default \"and\" one would be nice!",
-        "createdAt": "2021-09-07T16:12:37.357Z",
-        "comments": [],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "id": "cktsbmpqb21831map11z0l9asa",
-            "name": "Completed",
-            "color": "#38A169"
-        },
-        "voteCount": 7,
-        "commentCount": 0
-    },
-    "ckx3rzbui794452skvfl9bv9uw": {
-        "id": "ckx3rzbui794452skvfl9bv9uw",
-        "title": "Multi Client Option",
-        "body": "Hi, I am using two POE clients, one for trading and one for playing the game.\n\nOne is the Steam Client and one is the normal Client.\n\nI would like to use the overlay for both clients, at the moment the overlay is stuck to the last open client. So if I close the game with did not have the overlay and reboot it gets then the overlay. \n\nI don't know if it's possible, but if you could make an option so that you maybe can switch between separate clients so that we don't have to close and open the games, that would be awesome. \n\nLG CTekk\n\n",
-        "createdAt": "2021-12-12T21:44:55.482Z",
-        "comments": [
-            {
-                "body": "Good Idee, have the Same Problem. At the moment, I use a sec software to check Items on my Main Account.\n\nWould be really nice if I could use this for Both of my Games.",
-                "createdAt": "2021-12-19T18:17:02.254Z",
-                "user": {
-                    "name": "Anonymous #1512"
-                }
-            }
-        ],
-        "user": {
-            "name": "CTekk"
-        },
-        "status": {
-            "id": "cktsbmpqb21828map1qc9n4azp",
-            "name": "Open",
-            "color": "#3182CE"
-        },
-        "voteCount": 6,
-        "commentCount": 1
-    },
     "ckvo2lpd2856302si5h8p4bx1c": {
         "id": "ckvo2lpd2856302si5h8p4bx1c",
         "title": "Import Item to Craft of Exile",
@@ -308,14 +266,14 @@
             "name": "Open",
             "color": "#3182CE"
         },
-        "voteCount": 6,
+        "voteCount": 7,
         "commentCount": 2
     },
-    "cktsbp2gc47486map1eaofe0r5": {
-        "id": "cktsbp2gc47486map1eaofe0r5",
-        "title": "[Smart search] Connecting the market/evaluate/inspect features",
-        "body": "A way to open an inspected/evaluated item into the built-in market without having to manually enter stats or anything.",
-        "createdAt": "2021-09-11T15:46:46.905Z",
+    "cktsboyte44790map16wgfsqii": {
+        "id": "cktsboyte44790map16wgfsqii",
+        "title": "Stat groups support within market",
+        "body": "Being able to choose wich stat group we want to use instead of the default \"and\" one would be nice!",
+        "createdAt": "2021-09-07T16:12:37.357Z",
         "comments": [],
         "user": {
             "name": "MalakaJones"
@@ -325,7 +283,7 @@
             "name": "Completed",
             "color": "#38A169"
         },
-        "voteCount": 6,
+        "voteCount": 7,
         "commentCount": 0
     },
     "cl0h3ne4s5446982unyii3raddp": {
@@ -342,7 +300,49 @@
             "name": "Open",
             "color": "#3182CE"
         },
-        "voteCount": 5,
+        "voteCount": 6,
+        "commentCount": 0
+    },
+    "ckx3rzbui794452skvfl9bv9uw": {
+        "id": "ckx3rzbui794452skvfl9bv9uw",
+        "title": "Multi Client Option",
+        "body": "Hi, I am using two POE clients, one for trading and one for playing the game.\n\nOne is the Steam Client and one is the normal Client.\n\nI would like to use the overlay for both clients, at the moment the overlay is stuck to the last open client. So if I close the game with did not have the overlay and reboot it gets then the overlay. \n\nI don't know if it's possible, but if you could make an option so that you maybe can switch between separate clients so that we don't have to close and open the games, that would be awesome. \n\nLG CTekk\n\n",
+        "createdAt": "2021-12-12T21:44:55.482Z",
+        "comments": [
+            {
+                "body": "Good Idee, have the Same Problem. At the moment, I use a sec software to check Items on my Main Account.\n\nWould be really nice if I could use this for Both of my Games.",
+                "createdAt": "2021-12-19T18:17:02.254Z",
+                "user": {
+                    "name": "Anonymous #1512"
+                }
+            }
+        ],
+        "user": {
+            "name": "CTekk"
+        },
+        "status": {
+            "id": "cktsbmpqb21828map1qc9n4azp",
+            "name": "Open",
+            "color": "#3182CE"
+        },
+        "voteCount": 6,
+        "commentCount": 1
+    },
+    "cktsbp2gc47486map1eaofe0r5": {
+        "id": "cktsbp2gc47486map1eaofe0r5",
+        "title": "[Smart search] Connecting the market/evaluate/inspect features",
+        "body": "A way to open an inspected/evaluated item into the built-in market without having to manually enter stats or anything.",
+        "createdAt": "2021-09-11T15:46:46.905Z",
+        "comments": [],
+        "user": {
+            "name": "MalakaJones"
+        },
+        "status": {
+            "id": "cktsbmpqb21831map11z0l9asa",
+            "name": "Completed",
+            "color": "#38A169"
+        },
+        "voteCount": 6,
         "commentCount": 0
     },
     "ckx53ohor1190482skvax8hcza0": {
