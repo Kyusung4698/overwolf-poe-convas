@@ -813,6 +813,23 @@
         "voteCount": 1,
         "commentCount": 1
     },
+    "cl5nz8tc42184752yowlo4x28j2": {
+        "id": "cl5nz8tc42184752yowlo4x28j2",
+        "title": "Gamepad",
+        "body": "Please, add an option for gamepad UI. The inventory and stash layout are reversed.",
+        "createdAt": "2022-07-16T14:21:17.572Z",
+        "comments": [],
+        "user": {
+            "name": "Michael B"
+        },
+        "status": {
+            "id": "cktsbmpqb21828map1qc9n4azp",
+            "name": "Open",
+            "color": "#3182CE"
+        },
+        "voteCount": 0,
+        "commentCount": 0
+    },
     "cl2z5z9la2500192yo9hmibk3l7": {
         "id": "cl2z5z9la2500192yo9hmibk3l7",
         "title": "Maps Layout For leveling",
