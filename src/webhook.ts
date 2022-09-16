@@ -1,5 +1,5 @@
 import fetch from 'node-fetch';
-import { Posts } from './types';
+import { PostEntitySet } from './data';
 
 interface EmbedAuthor {
     name: string;
@@ -41,8 +41,8 @@ export class Webhook {
     ) { }
 
     public onUpdate(
-        prevPosts: Posts,
-        nextPosts: Posts
+        prevPosts: PostEntitySet,
+        nextPosts: PostEntitySet
     ): void {
         const ids = Object.keys(nextPosts);
 
@@ -61,7 +61,6 @@ export class Webhook {
                     description: next.body,
                     url: `https://${this.subdomain}.convas.io/${this.board}/${next.id}`,
                     author: { name: author },
-                    timestamp: next.createdAt,
                     footer: { text: `status: ${next.status.name.toLowerCase()}, upvotes: ${next.voteCount}, comments: ${next.commentCount}` }
                 });
             } else {
@@ -71,21 +70,19 @@ export class Webhook {
                         description: next.body,
                         url: `https://${this.subdomain}.convas.io/${this.board}/${next.id}`,
                         author: { name: author },
-                        timestamp: next.createdAt,
                         footer: { text: `status: ${next.status.name.toLowerCase()}, upvotes: ${next.voteCount}, comments: ${next.commentCount}` },
                         fields: next.comments.slice(prev.commentCount, next.commentCount).map(x => ({
-                            name: `${x.user?.name || 'Anonymous'} - ${new Date(Date.parse(x.createdAt)).toLocaleDateString()}`,
+                            name: `${x.user?.name || 'Anonymous'} - ${x.timeAgo}`,
                             value: x.body,
                             inline: true
                         }))
                     });
-                } else if (prev.status.id !== next.status.id) {
+                } else if (prev.status.name !== next.status.name) {
                     statusChanged.push({
                         title: next.title,
                         description: next.body,
                         url: `https://${this.subdomain}.convas.io/${this.board}/${next.id}`,
                         author: { name: author },
-                        timestamp: next.createdAt,
                         footer: { text: `status: ${next.status.name.toLowerCase()}, upvotes: ${next.voteCount}, comments: ${next.commentCount}` },
                         fields: [{
                             name: `Status changed`,
@@ -99,7 +96,6 @@ export class Webhook {
                         description: next.body,
                         url: `https://${this.subdomain}.convas.io/${this.board}/${next.id}`,
                         author: { name: author },
-                        timestamp: next.createdAt,
                         footer: { text: `status: ${next.status.name.toLowerCase()}, upvotes: ${next.voteCount}, comments: ${next.commentCount}` }
                     });
                 }
