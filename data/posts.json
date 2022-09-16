@@ -3,25 +3,25 @@
         "id": "cktsbp06645781map1mdgomfb5",
         "title": "Inventory value calculator",
         "body": "Image and text recognition AI to calculate inventory value using ImageAI and OCR. Similar to what HarvestVendor does but next level 🤓",
-        "createdAt": "2021-09-04T14:56:43.798Z",
+        "timeAgo": "about 1 year",
         "comments": [
             {
                 "body": "requested a new game event from overwolf to support this, i will be waiting their response before diving into training models. <br/>https://discuss.overwolf.com/t/path-of-exile-extend-the-opened-page-event-to-include-page-content/2025",
-                "createdAt": "2021-09-04T14:56:50.506Z",
+                "timeAgo": "about 1 year",
                 "user": {
                     "name": "Kyusung"
                 }
             },
             {
                 "body": "I really like the idea of counting currency as shown in the picture. This would help making sure people put the correct amount in the trade window. I'd also really like to see a complementary behaviour where it would sum up all currencies and give you an estimate based on poe.ninja prices. Could be in chaos or in exalt.",
-                "createdAt": "2021-10-19T00:15:58.838Z",
+                "timeAgo": "11 months",
                 "user": {
                     "name": "MalakaJones"
                 }
             },
             {
                 "body": "Maybe you could ask for an update from overwolf. Its already 9 months ago and still no new infos from them.",
-                "createdAt": "2022-05-24T09:58:42.101Z",
+                "timeAgo": "4 months",
                 "user": {
                     "name": "Nico Eschner"
                 }
@@ -31,29 +31,27 @@
             "name": "Kyusung"
         },
         "status": {
-            "id": "cktsbmpqb21830map179syqaea",
-            "name": "Planned",
-            "color": "#D69E2E"
+            "name": "Planned"
         },
-        "voteCount": 60,
+        "voteCount": 66,
         "commentCount": 3
     },
     "cktsbozyh45642map14gb8xrqh": {
         "id": "cktsbozyh45642map14gb8xrqh",
         "title": "Support Korean trade requests",
         "body": "Currently messages from Korean players are not logged because of privacy laws. Given the trade helper relies on the game log, no trade requests are displayed.",
-        "createdAt": "2021-09-04T14:56:03.233Z",
+        "timeAgo": "about 1 year",
         "comments": [
             {
                 "body": "Waiting on Overwolf to implement a game event to retrieve message from Korean players. See: https://discuss.overwolf.com/t/path-of-exile-on-chat-message-event/2024",
-                "createdAt": "2021-09-04T14:56:08.253Z",
+                "timeAgo": "about 1 year",
                 "user": {
                     "name": "Kyusung"
                 }
             },
             {
                 "body": "Can’t wait! :pepehype:",
-                "createdAt": "2021-10-10T19:18:19.779Z",
+                "timeAgo": "11 months",
                 "user": {
                     "name": "Anonymous #7671"
                 }
@@ -63,29 +61,27 @@
             "name": "Kyusung"
         },
         "status": {
-            "id": "cktsbmpqb21830map179syqaea",
-            "name": "Planned",
-            "color": "#D69E2E"
+            "name": "Planned"
         },
-        "voteCount": 34,
+        "voteCount": 36,
         "commentCount": 2
     },
     "ckw87lfcg4143012tnur3l5xx98": {
         "id": "ckw87lfcg4143012tnur3l5xx98",
         "title": "Exalt fraction price chart in chaos",
-        "body": "Some very basic chart that would give an equivalent of the exalt fraction prince in chaos. Something like 0.1 ex -> 14.5c, 0.2 ex -> 29c, etc. Would use the exalt price from poe.ninja",
-        "createdAt": "2021-11-20T19:33:23.056Z",
+        "body": "Some very basic chart that would give an equivalent of the exalt fraction prince in chaos. Something like 0.1 ex -&gt; 14.5c, 0.2 ex -&gt; 29c, etc. Would use the exalt price from poe.ninja",
+        "timeAgo": "10 months",
         "comments": [
             {
                 "body": "Could be toggled via a button or a keybind",
-                "createdAt": "2021-11-20T19:34:06.690Z",
+                "timeAgo": "10 months",
                 "user": {
                     "name": "Anonymous #7671"
                 }
             },
             {
                 "body": "This is the last piece missing :) such a pain to always pull the calc",
-                "createdAt": "2022-02-17T18:17:09.793Z",
+                "timeAgo": "7 months",
                 "user": {
                     "name": "Anonymous #8306"
                 }
@@ -95,56 +91,65 @@
             "name": "Anonymous #7671"
         },
         "status": {
-            "id": "cktsbmpqb21830map179syqaea",
-            "name": "Planned",
-            "color": "#D69E2E"
+            "name": "Planned"
         },
-        "voteCount": 29,
+        "voteCount": 30,
         "commentCount": 2
     },
     "cktsbp2ec47445map10tmzn5tg": {
         "id": "cktsbp2ec47445map10tmzn5tg",
         "title": "Evaluating item mods based on tiers",
         "body": "A feature where once enabled, you would price your item based on the tier it has (lowest roll for the tier) and not the exact value it has.",
-        "createdAt": "2021-09-11T16:04:26.983Z",
+        "timeAgo": "about 1 year",
         "comments": [],
         "user": {
             "name": "MalakaJones"
         },
         "status": {
-            "id": "cktsbmpqb21830map179syqaea",
-            "name": "Planned",
-            "color": "#D69E2E"
+            "name": "Planned"
         },
-        "voteCount": 18,
+        "voteCount": 20,
+        "commentCount": 0
+    },
+    "cl0h3ne4s5446982unyii3raddp": {
+        "id": "cl0h3ne4s5446982unyii3raddp",
+        "title": "Return to game with ESC",
+        "body": "Close any active windows/overlays as if the X button were clicked on every Market/Inspect/Check/Settings window open. Just a small QoL of thing",
+        "timeAgo": "6 months",
+        "comments": [],
+        "user": {
+            "name": "Anonymous #8482"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 12,
         "commentCount": 0
     },
     "ckztsqsjk1538022urdlkiaib8d": {
         "id": "ckztsqsjk1538022urdlkiaib8d",
         "title": "Oils required for an anoit display",
         "body": "With introduction of oil extractor and atlas nodes of dropping random anoited jewellery it became a hussle to check every single anoit on wiki. I suggest adding a maybe toglable display that shows oils needed to anoit right next or above/below the anoitment when you do Alt+Q item check. ",
-        "createdAt": "2022-02-19T12:07:42.080Z",
+        "timeAgo": "7 months",
         "comments": [],
         "user": {
             "name": "Anonymous #8323"
         },
         "status": {
-            "id": "cktsbmpqb21830map179syqaea",
-            "name": "Planned",
-            "color": "#D69E2E"
+            "name": "Planned"
         },
-        "voteCount": 11,
+        "voteCount": 12,
         "commentCount": 0
     },
     "cktsbp2dw47436map1pyfne5ul": {
         "id": "cktsbp2dw47436map1pyfne5ul",
         "title": "Evaluate feature to use the bulk exchange for currencies",
-        "body": "When it comes to currencies, using the \"bulk item exchange\" <br/>instead of the \"listed item search\" would make much more sense. Especially for currencies that sells in very large amount.",
-        "createdAt": "2021-09-11T15:25:49.106Z",
+        "body": "When it comes to currencies, using the \"bulk item exchange\" instead of the \"listed item search\" would make much more sense. Especially for currencies that sells in very large amount.",
+        "timeAgo": "about 1 year",
         "comments": [
             {
                 "body": "Here are some ideas for implementation. Since this is part of the evaluate feature, having the search button tied to what type of currencies are selected in the evaluate configs would be ideal imo. You’d have a mix of let’s say exalts and chaos listings sorted by ratio. As for the price, it could either show up the trade format put in place by the player (ex: 5c for 25 rusted shaper scarabs and the total amount in stock) like it does in the market. Or it could simply put the total amount and the exact unit price with many decimals (ex: 37x \"player’s name\" 0.2374 c )",
-                "createdAt": "2021-10-01T11:02:40.766Z",
+                "timeAgo": "12 months",
                 "user": {
                     "name": "MalakaJones"
                 }
@@ -154,9 +159,7 @@
             "name": "MalakaJones"
         },
         "status": {
-            "id": "cktsbmpqb21830map179syqaea",
-            "name": "Planned",
-            "color": "#D69E2E"
+            "name": "Planned"
         },
         "voteCount": 11,
         "commentCount": 1
@@ -164,16 +167,14 @@
     "cktzhzt3b156203yn1y63r2t1n": {
         "id": "cktzhzt3b156203yn1y63r2t1n",
         "title": "Discord Integration",
-        "body": "- Send a message for every incoming trade to a dedicated Discord channel in order to get mobile notifications<br/>- Send a message on progression updates (lvl up, first time reaching a zone) to another Discord channel to compete with friends.",
-        "createdAt": "2021-09-25T07:55:09.959Z",
+        "body": "- Send a message for every incoming trade to a dedicated Discord channel in order to get mobile notifications- Send a message on progression updates (lvl up, first time reaching a zone) to another Discord channel to compete with friends.",
+        "timeAgo": "12 months",
         "comments": [],
         "user": {
             "name": "Kyusung"
         },
         "status": {
-            "id": "cktsbmpqb21831map11z0l9asa",
-            "name": "Completed",
-            "color": "#38A169"
+            "name": "Completed"
         },
         "voteCount": 9,
         "commentCount": 0
@@ -182,15 +183,13 @@
         "id": "cktsbp2f547461map1rrkovz8d",
         "title": "Programable timer on active trades",
         "body": "Some timer that could be set to a fixed amount and where active trades in the trade module would auto clear when that timer ends.",
-        "createdAt": "2021-09-11T16:06:46.206Z",
+        "timeAgo": "about 1 year",
         "comments": [],
         "user": {
             "name": "MalakaJones"
         },
         "status": {
-            "id": "cktsbmpqb21830map179syqaea",
-            "name": "Planned",
-            "color": "#D69E2E"
+            "name": "Planned"
         },
         "voteCount": 9,
         "commentCount": 0
@@ -199,11 +198,11 @@
         "id": "ckvztg8mw610592tnumjkq658f",
         "title": "Evaluate: Toggle online/any listings",
         "body": "Searching offline listings has its place. Especially when it's high end rares. Ideally on a per-search basis, instead of changing defaults.",
-        "createdAt": "2021-11-14T22:35:17.048Z",
+        "timeAgo": "10 months",
         "comments": [
             {
                 "body": "Tottaly agree here. Something similar to was we had before version 1.0 would be sweet",
-                "createdAt": "2021-11-20T19:27:17.269Z",
+                "timeAgo": "10 months",
                 "user": {
                     "name": "Anonymous #7671"
                 }
@@ -213,9 +212,7 @@
             "name": "Anonymous #7275"
         },
         "status": {
-            "id": "cktsbmpqb21828map1qc9n4azp",
-            "name": "Open",
-            "color": "#3182CE"
+            "name": "Open"
         },
         "voteCount": 8,
         "commentCount": 1
@@ -224,15 +221,13 @@
         "id": "cktsbozxk45626map1kyf25qky",
         "title": "Add hotkeys to the trade module",
         "body": "As a user i'd like to be able to trade using hotkeys in order to spent less time in my hideout.",
-        "createdAt": "2021-09-04T14:46:37.570Z",
+        "timeAgo": "about 1 year",
         "comments": [],
         "user": {
             "name": "Kyusung"
         },
         "status": {
-            "id": "cktsbmpqb21831map11z0l9asa",
-            "name": "Completed",
-            "color": "#38A169"
+            "name": "Completed"
         },
         "voteCount": 8,
         "commentCount": 0
@@ -241,18 +236,18 @@
         "id": "ckvo2lpd2856302si5h8p4bx1c",
         "title": "Import Item to Craft of Exile",
         "body": "Add option to inspect that allows users to import items to https://www.craftofexile.com/",
-        "createdAt": "2021-11-06T17:18:14.438Z",
+        "timeAgo": "10 months",
         "comments": [
             {
                 "body": "Like in 1 click instead of having to ctrl+alt+c the item then paste it into the website?",
-                "createdAt": "2021-11-06T17:26:58.496Z",
+                "timeAgo": "10 months",
                 "user": {
                     "name": "Anonymous #7671"
                 }
             },
             {
                 "body": "Yes",
-                "createdAt": "2021-11-06T17:30:25.067Z",
+                "timeAgo": "10 months",
                 "user": {
                     "name": "RagingHomoBear"
                 }
@@ -262,56 +257,50 @@
             "name": "RagingHomoBear"
         },
         "status": {
-            "id": "cktsbmpqb21828map1qc9n4azp",
-            "name": "Open",
-            "color": "#3182CE"
+            "name": "Open"
         },
         "voteCount": 7,
         "commentCount": 2
     },
-    "cktsboyte44790map16wgfsqii": {
-        "id": "cktsboyte44790map16wgfsqii",
-        "title": "Stat groups support within market",
-        "body": "Being able to choose wich stat group we want to use instead of the default \"and\" one would be nice!",
-        "createdAt": "2021-09-07T16:12:37.357Z",
+    "cktsbp2gc47486map1eaofe0r5": {
+        "id": "cktsbp2gc47486map1eaofe0r5",
+        "title": "[Smart search] Connecting the market/evaluate/inspect features",
+        "body": "A way to open an inspected/evaluated item into the built-in market without having to manually enter stats or anything.",
+        "timeAgo": "about 1 year",
         "comments": [],
         "user": {
             "name": "MalakaJones"
         },
         "status": {
-            "id": "cktsbmpqb21831map11z0l9asa",
-            "name": "Completed",
-            "color": "#38A169"
+            "name": "Completed"
         },
         "voteCount": 7,
         "commentCount": 0
     },
-    "cl0h3ne4s5446982unyii3raddp": {
-        "id": "cl0h3ne4s5446982unyii3raddp",
-        "title": "Return to game with ESC",
-        "body": "Close any active windows/overlays as if the X button were clicked on every Market/Inspect/Check/Settings window open. Just a small QoL of thing",
-        "createdAt": "2022-03-07T19:31:41.260Z",
+    "cktsboyte44790map16wgfsqii": {
+        "id": "cktsboyte44790map16wgfsqii",
+        "title": "Stat groups support within market",
+        "body": "Being able to choose wich stat group we want to use instead of the default \"and\" one would be nice!",
+        "timeAgo": "about 1 year",
         "comments": [],
         "user": {
-            "name": "Anonymous #8482"
+            "name": "MalakaJones"
         },
         "status": {
-            "id": "cktsbmpqb21828map1qc9n4azp",
-            "name": "Open",
-            "color": "#3182CE"
+            "name": "Completed"
         },
-        "voteCount": 6,
+        "voteCount": 7,
         "commentCount": 0
     },
     "ckx3rzbui794452skvfl9bv9uw": {
         "id": "ckx3rzbui794452skvfl9bv9uw",
         "title": "Multi Client Option",
         "body": "Hi, I am using two POE clients, one for trading and one for playing the game.\n\nOne is the Steam Client and one is the normal Client.\n\nI would like to use the overlay for both clients, at the moment the overlay is stuck to the last open client. So if I close the game with did not have the overlay and reboot it gets then the overlay. \n\nI don't know if it's possible, but if you could make an option so that you maybe can switch between separate clients so that we don't have to close and open the games, that would be awesome. \n\nLG CTekk\n\n",
-        "createdAt": "2021-12-12T21:44:55.482Z",
+        "timeAgo": "9 months",
         "comments": [
             {
-                "body": "Good Idee, have the Same Problem. At the moment, I use a sec software to check Items on my Main Account.\n\nWould be really nice if I could use this for Both of my Games.",
-                "createdAt": "2021-12-19T18:17:02.254Z",
+                "body": "Good Idee, have the Same Problem. At the moment, I use a sec software to check Items on my Main Account.\nWould be really nice if I could use this for Both of my Games.",
+                "timeAgo": "9 months",
                 "user": {
                     "name": "Anonymous #1512"
                 }
@@ -321,60 +310,52 @@
             "name": "CTekk"
         },
         "status": {
-            "id": "cktsbmpqb21828map1qc9n4azp",
-            "name": "Open",
-            "color": "#3182CE"
+            "name": "Open"
         },
         "voteCount": 6,
         "commentCount": 1
     },
-    "cktsbp2gc47486map1eaofe0r5": {
-        "id": "cktsbp2gc47486map1eaofe0r5",
-        "title": "[Smart search] Connecting the market/evaluate/inspect features",
-        "body": "A way to open an inspected/evaluated item into the built-in market without having to manually enter stats or anything.",
-        "createdAt": "2021-09-11T15:46:46.905Z",
+    "ckwl995gl227630rfiiqp6ffd": {
+        "id": "ckwl995gl227630rfiiqp6ffd",
+        "title": "Sort listings by mods in the market plugin",
+        "body": "Similar as the official website, being able to sort listing via a mod value would be a great addition!",
+        "timeAgo": "10 months",
         "comments": [],
         "user": {
             "name": "MalakaJones"
         },
         "status": {
-            "id": "cktsbmpqb21831map11z0l9asa",
-            "name": "Completed",
-            "color": "#38A169"
+            "name": "Open"
         },
-        "voteCount": 6,
-        "commentCount": 0
-    },
-    "ckx53ohor1190482skvax8hcza0": {
-        "id": "ckx53ohor1190482skvax8hcza0",
-        "title": "Metamorph organs support",
-        "body": "Would be nice if metamorph organs could be supported for evaluation. Since they are core, this would make sense to include those aswell.",
-        "createdAt": "2021-12-13T20:00:11.403Z",
-        "comments": [],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "id": "cktsbmpqb21828map1qc9n4azp",
-            "name": "Open",
-            "color": "#3182CE"
-        },
-        "voteCount": 4,
+        "voteCount": 5,
         "commentCount": 0
     },
     "ckw294gfa1694982tnu25da7pio": {
         "id": "ckw294gfa1694982tnu25da7pio",
         "title": "Auto clip High value drops",
         "body": "Use a OBS plugin to auto clip high value item drops based on their rarity tier on item filters",
-        "createdAt": "2021-11-16T15:29:33.478Z",
+        "timeAgo": "10 months",
         "comments": [],
         "user": {
             "name": "Inuboshi"
         },
         "status": {
-            "id": "cktsbmpqb21828map1qc9n4azp",
-            "name": "Open",
-            "color": "#3182CE"
+            "name": "Open"
+        },
+        "voteCount": 5,
+        "commentCount": 0
+    },
+    "ckx53ohor1190482skvax8hcza0": {
+        "id": "ckx53ohor1190482skvax8hcza0",
+        "title": "Metamorph organs support",
+        "body": "Would be nice if metamorph organs could be supported for evaluation. Since they are core, this would make sense to include those aswell.",
+        "timeAgo": "9 months",
+        "comments": [],
+        "user": {
+            "name": "MalakaJones"
+        },
+        "status": {
+            "name": "Open"
         },
         "voteCount": 4,
         "commentCount": 0
@@ -383,18 +364,18 @@
         "id": "ckzd6digy419082umd17bf59lv",
         "title": "add stash tab name to item highlight feature",
         "body": "abbility to see what stash tab is in when somebody send a trade (you can already see the item name in the bottom left i would like it to also show the stash tab name) \n\n",
-        "createdAt": "2022-02-07T20:57:12.130Z",
+        "timeAgo": "7 months",
         "comments": [
             {
-                "body": "Hi there, we display the stash name in the upper part of the stash overlay. See the green box in the screenshot below.\n\nPlease let me know if this is enough, or if you still want the stash name to be displayed somewhere else. Thanks for your feedback!\n\n",
-                "createdAt": "2022-03-15T10:51:41.872Z",
+                "body": "Hi there, we display the stash name in the upper part of the stash overlay. See the green box in the screenshot below.\nPlease let me know if this is enough, or if you still want the stash name to be displayed somewhere else. Thanks for your feedback!",
+                "timeAgo": "6 months",
                 "user": {
                     "name": "Kyusung"
                 }
             },
             {
                 "body": "I would love if the bar where the stash name is would be a bit bigger. It's pretty small and hard to read. I would suggest making it the same font size as everything else like the size of the search bar or the stash name.",
-                "createdAt": "2022-05-24T09:47:14.623Z",
+                "timeAgo": "4 months",
                 "user": {
                     "name": "Nico Eschner"
                 }
@@ -404,9 +385,7 @@
             "name": "Anonymous #8216"
         },
         "status": {
-            "id": "cktsbmpqb21828map1qc9n4azp",
-            "name": "Open",
-            "color": "#3182CE"
+            "name": "Open"
         },
         "voteCount": 3,
         "commentCount": 2
@@ -415,15 +394,13 @@
         "id": "ckw56ayp32970472tnum7j4zg02",
         "title": "Thank you message in different languages",
         "body": "Send the \"Thank you for trading\" message in the appropriate language, as the initial trade message was in.",
-        "createdAt": "2021-11-18T16:33:56.775Z",
+        "timeAgo": "10 months",
         "comments": [],
         "user": {
             "name": "Slash1y"
         },
         "status": {
-            "id": "cktsbmpqb21828map1qc9n4azp",
-            "name": "Open",
-            "color": "#3182CE"
+            "name": "Open"
         },
         "voteCount": 3,
         "commentCount": 0
@@ -432,15 +409,13 @@
         "id": "ckulbqcuc695573yqoybnb4lz3",
         "title": "Main UI not to launch on startup",
         "body": "Some users prefer not having the main UI window show up on startup. Since this is a free tool ad driven, I could see this as a paid feature.",
-        "createdAt": "2021-10-10T14:30:47.172Z",
+        "timeAgo": "11 months",
         "comments": [],
         "user": {
             "name": "Anonymous #7671"
         },
         "status": {
-            "id": "cktsbmpqb21828map1qc9n4azp",
-            "name": "Open",
-            "color": "#3182CE"
+            "name": "Open"
         },
         "voteCount": 3,
         "commentCount": 0
@@ -449,15 +424,13 @@
         "id": "cktsbp2er47453map15eb3o7us",
         "title": "In-game window for live searches",
         "body": "Something similar to the trade feature window but for live searches. This would be helpfull to players having a single monitor setup.",
-        "createdAt": "2021-09-11T16:08:32.705Z",
+        "timeAgo": "about 1 year",
         "comments": [],
         "user": {
             "name": "MalakaJones"
         },
         "status": {
-            "id": "cktsbmpqb21828map1qc9n4azp",
-            "name": "Open",
-            "color": "#3182CE"
+            "name": "Open"
         },
         "voteCount": 3,
         "commentCount": 0
@@ -466,32 +439,51 @@
         "id": "cktsbp2dg47427map1h5dtrqzc",
         "title": "Stackable usernames when evaluating currencies",
         "body": "I think the tool used to have that feature built in. I would love to see it come back. That feature used to help me spot price fixers. ",
-        "createdAt": "2021-09-11T15:22:50.094Z",
+        "timeAgo": "about 1 year",
         "comments": [],
         "user": {
             "name": "MalakaJones"
         },
         "status": {
-            "id": "cktsbmpqb21828map1qc9n4azp",
-            "name": "Open",
-            "color": "#3182CE"
+            "name": "Open"
         },
         "voteCount": 3,
         "commentCount": 0
+    },
+    "cl7b0se3776455824q39vrnjbgl": {
+        "id": "cl7b0se3776455824q39vrnjbgl",
+        "title": "Shortcuts for Evaluate",
+        "body": "That'd be great if we could have a way to directly evaluate the exact value of selected stat(s) with right click or scroll click (or custom keybind) \n\nLeft click would keep the \"min/max range and Right click would copy the same stat value. (see picture to understand what I mean)\n\n",
+        "timeAgo": "21 days",
+        "comments": [
+            {
+                "body": "no content.",
+                "timeAgo": "1 day",
+                "user": {
+                    "name": "Laureano Gorozito"
+                }
+            }
+        ],
+        "user": {
+            "name": "jaylay99"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 2,
+        "commentCount": 1
     },
     "cl2f37qdp1990542yo1k873ri2i": {
         "id": "cl2f37qdp1990542yo1k873ri2i",
         "title": "Tray logo",
         "body": "What about new black and white tray logo? ^.^\n\n😁👍",
-        "createdAt": "2022-04-25T19:03:22.957Z",
+        "timeAgo": "5 months",
         "comments": [],
         "user": {
             "name": "SoaT"
         },
         "status": {
-            "id": "cktsbmpqb21828map1qc9n4azp",
-            "name": "Open",
-            "color": "#3182CE"
+            "name": "Open"
         },
         "voteCount": 2,
         "commentCount": 0
@@ -500,15 +492,13 @@
         "id": "cl0brozbe3245942unyhxmgeafq",
         "title": "favorite management",
         "body": "Looking for a way to save a lot of searches. A folder system kind of like better trading chome addon would be pretty good. Clicking the right arrow key multiple times is not efficient. Thanks.",
-        "createdAt": "2022-03-04T01:58:09.098Z",
+        "timeAgo": "7 months",
         "comments": [],
         "user": {
             "name": "Anonymous #8442"
         },
         "status": {
-            "id": "cktsbmpqb21830map179syqaea",
-            "name": "Planned",
-            "color": "#D69E2E"
+            "name": "Planned"
         },
         "voteCount": 2,
         "commentCount": 0
@@ -517,112 +507,40 @@
         "id": "ckzafznnw154652ys0t9atr67o",
         "title": "Make pseudo rules customizable",
         "body": "Allow users to play with pseudo rules strictness. For exemple, allow pseudo total ele res to show up anytime when there is ele res instead of when there's 2+ ele res mods on the item.",
-        "createdAt": "2022-02-05T23:03:03.308Z",
+        "timeAgo": "7 months",
         "comments": [],
         "user": {
             "name": "MalakaJones"
         },
         "status": {
-            "id": "cktsbmpqb21828map1qc9n4azp",
-            "name": "Open",
-            "color": "#3182CE"
+            "name": "Open"
         },
         "voteCount": 2,
         "commentCount": 0
-    },
-    "ckwl995gl227630rfiiqp6ffd": {
-        "id": "ckwl995gl227630rfiiqp6ffd",
-        "title": "Sort listings by mods in the market plugin",
-        "body": "Similar as the official website, being able to sort listing via a mod value would be a great addition!",
-        "createdAt": "2021-11-29T22:40:49.893Z",
-        "comments": [],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "id": "cktsbmpqb21828map1qc9n4azp",
-            "name": "Open",
-            "color": "#3182CE"
-        },
-        "voteCount": 2,
-        "commentCount": 0
-    },
-    "cku5nv9ol1711583yn11wkz9kjc": {
-        "id": "cku5nv9ol1711583yn11wkz9kjc",
-        "title": "Make the software open source again",
-        "body": "Please make it open source again",
-        "createdAt": "2021-09-29T15:26:12.933Z",
-        "comments": [
-            {
-                "body": "Thanks for your feedback. Most of the project is still open source on GitHub. Feel free to check it out there. Some newer modules have been moved to a private repository which won't be public in the near future. ",
-                "createdAt": "2021-09-29T15:57:43.296Z",
-                "user": {
-                    "name": "Kyusung"
-                }
-            },
-            {
-                "body": "Thanks for your response. What's the reason the modules are private?",
-                "createdAt": "2021-09-29T16:02:51.025Z",
-                "user": {
-                    "name": "Felix"
-                }
-            },
-            {
-                "body": "It's mostly for personal reasons. But let me explain. <br/><br/>After I changed the used desktop framework from Electron to Overwolf, there has been quite some backslash in the community, which I didn't expect at that time - I always wanted to build the best possible addon and do everything in that regard. But there were some problems using Electron, which I couldn't overcome without spending more time developing workarounds than actually developing features. To name a few struggles: Global hotkeys, fullscreen support, text input without losing focus of the game, etc. And because of that, I went with the better framework that Overwolf provides. <br/><br/>Why is that important? Well, because soon after, another project was born, called “PoE Overlay - Community”, which was a fork of the code before I made the transition to Overwolf.  Now, I don’t know the people behind it, they never contacted me. I assume they are awesome people. But publishing my project with the same name, same look and everything just felt so wrong to me. I’ve spent so many hours coming up with new ways of doing things and making sure everything looks good and is simple and easy to use, that I've decided moving forward I'm gonna keep most of the new code to myself. <br/><br/>If you have any other questions feel free to ask. Cheers.",
-                "createdAt": "2021-09-29T18:38:11.383Z",
-                "user": {
-                    "name": "Kyusung"
-                }
-            },
-            {
-                "body": "Thank you for answering this. I always wondered too. Keep up the good work!",
-                "createdAt": "2021-09-30T19:35:34.605Z",
-                "user": {
-                    "name": "MalakaJones"
-                }
-            },
-            {
-                "body": "Thanks for answering this. I also wondered that. This makes so much sense. Keep up the good work :)",
-                "createdAt": "2021-10-13T12:52:43.639Z",
-                "user": {
-                    "name": "Anonymous #7671"
-                }
-            }
-        ],
-        "user": {
-            "name": "Felix"
-        },
-        "status": {
-            "id": "cktsbmpqb21832map1jfmu7ocj",
-            "name": "Closed",
-            "color": "#718096"
-        },
-        "voteCount": 2,
-        "commentCount": 5
     },
     "cktsbp2fx47477map1602cke1k": {
         "id": "cktsbp2fx47477map1602cke1k",
         "title": "Party member highlight when trading",
         "body": "Through the trade feature, could it be possible to highlight the party member you have to trade with once you're in the same party? This would help quickly figure out which player you need to join its hideout. This would really help with non-greek alphabet names or vice-versa.",
-        "createdAt": "2021-09-11T16:00:40.277Z",
+        "timeAgo": "about 1 year",
         "comments": [
             {
                 "body": "I don't think there is a way of knowing the party members and their respective order in the UI through the logs. But this could possible be provided through Overwolf. Let's ask them 😇<br/>https://discuss.overwolf.com/t/path-of-exile-party-members/2046",
-                "createdAt": "2021-09-11T17:16:28.560Z",
+                "timeAgo": "about 1 year",
                 "user": {
                     "name": "Kyusung"
                 }
             },
             {
                 "body": "Just to follow up. I'm also currently providing a button within my trade helper, which lets you go to the hideout of the player if you have outgoing requests enabled. Doesn't this solve the issue?",
-                "createdAt": "2021-09-11T17:24:39.211Z",
+                "timeAgo": "about 1 year",
                 "user": {
                     "name": "Kyusung"
                 }
             },
             {
                 "body": "When you're trading with multiple people, it can be really confusing with who you're trading. Especially when names dont checkout.",
-                "createdAt": "2021-09-18T22:47:29.579Z",
+                "timeAgo": "12 months",
                 "user": {
                     "name": "MalakaJones"
                 }
@@ -632,9 +550,7 @@
             "name": "MalakaJones"
         },
         "status": {
-            "id": "cktsbmpqb21828map1qc9n4azp",
-            "name": "Open",
-            "color": "#3182CE"
+            "name": "Open"
         },
         "voteCount": 2,
         "commentCount": 3
@@ -643,15 +559,13 @@
         "id": "cktsbp2fj47469map1iqn119gj",
         "title": "Player ignore built-in feature",
         "body": "I would love to see my player ignore list be linked from the official website. Could also be a totaly independant one if it's simpler to implement. Being able to directly add players to that list from the evaluate or market feature would be awsome.",
-        "createdAt": "2021-09-11T15:28:45.739Z",
+        "timeAgo": "about 1 year",
         "comments": [],
         "user": {
             "name": "MalakaJones"
         },
         "status": {
-            "id": "cktsbmpqb21828map1qc9n4azp",
-            "name": "Open",
-            "color": "#3182CE"
+            "name": "Open"
         },
         "voteCount": 2,
         "commentCount": 0
@@ -660,15 +574,13 @@
         "id": "cktsbp27v47312map1uhmz4eoq",
         "title": "Trade window transparency slider",
         "body": "Would give the player freedom surrounding the appearence of the trade module window. Could also be expended to every different modules and windows. One slider per feature.",
-        "createdAt": "2021-09-11T15:35:48.977Z",
+        "timeAgo": "about 1 year",
         "comments": [],
         "user": {
             "name": "MalakaJones"
         },
         "status": {
-            "id": "cktsbmpqb21831map11z0l9asa",
-            "name": "Completed",
-            "color": "#38A169"
+            "name": "Completed"
         },
         "voteCount": 2,
         "commentCount": 0
@@ -677,35 +589,63 @@
         "id": "cktsbozyw45650map1jwscy7yj",
         "title": "Support for higher resolution screens",
         "body": "The in-game windows are way too small on higher resolution screens. Add a way to increase the size of the windows and their content.",
-        "createdAt": "2021-09-04T14:55:51.509Z",
+        "timeAgo": "about 1 year",
         "comments": [],
         "user": {
             "name": "Kyusung"
         },
         "status": {
-            "id": "cktsbmpqb21831map11z0l9asa",
-            "name": "Completed",
-            "color": "#38A169"
+            "name": "Completed"
         },
         "voteCount": 2,
+        "commentCount": 0
+    },
+    "cl75650147065501xq374sa5cit": {
+        "id": "cl75650147065501xq374sa5cit",
+        "title": "Show missin implicit/affixes/quality in market",
+        "body": "In Kalandra League there are a lot of items with mirrored implicit that can't be modified. This invalidate a lot of trade results being limited to only show non-mirrored. Would be nice to see these values on results",
+        "timeAgo": "25 days",
+        "comments": [],
+        "user": {
+            "name": "g-alfieri"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
+    "cl7561l5v7009271xq3n2nwpsc8": {
+        "id": "cl7561l5v7009271xq3n2nwpsc8",
+        "title": "Sortable market results",
+        "body": "After using shortcut to open market and filling filter rules would be nice to sort results clicking on affixes like on pathofexile.com/trade",
+        "timeAgo": "25 days",
+        "comments": [],
+        "user": {
+            "name": "g-alfieri"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
         "commentCount": 0
     },
     "cl0lbtgp21522682uqthmefrssi": {
         "id": "cl0lbtgp21522682uqthmefrssi",
         "title": "Switch the have/want in the exchange to be the same order has the site",
         "body": "I keep getting confused with the order going from the app to the site, and reported thinking it was an issue similar to the issue with the API.. to end up being insulted by the forum dork. ",
-        "createdAt": "2022-03-10T18:31:26.150Z",
+        "timeAgo": "6 months",
         "comments": [
             {
                 "body": "Hi there, while I don't agree with the order on the trade website, I can add a toggle to be displayed that way. ",
-                "createdAt": "2022-03-15T11:05:33.871Z",
+                "timeAgo": "6 months",
                 "user": {
                     "name": "Kyusung"
                 }
             },
             {
                 "body": "That would be awesome. Thanks. ",
-                "createdAt": "2022-03-15T13:27:59.828Z",
+                "timeAgo": "6 months",
                 "user": {
                     "name": "CM."
                 }
@@ -715,9 +655,7 @@
             "name": "CM."
         },
         "status": {
-            "id": "cktsbmpqb21830map179syqaea",
-            "name": "Planned",
-            "color": "#D69E2E"
+            "name": "Planned"
         },
         "voteCount": 1,
         "commentCount": 2
@@ -726,15 +664,13 @@
         "id": "ckwcsqkme5364982tnuxam728ny",
         "title": "Copy trade message to clipboard",
         "body": "Could it be possible to have a second button that let us copy the trade whisper instead of sending it right away?",
-        "createdAt": "2021-11-24T00:36:19.814Z",
+        "timeAgo": "10 months",
         "comments": [],
         "user": {
             "name": "MalakaJones"
         },
         "status": {
-            "id": "cktsbmpqb21828map1qc9n4azp",
-            "name": "Open",
-            "color": "#3182CE"
+            "name": "Open"
         },
         "voteCount": 1,
         "commentCount": 0
@@ -743,89 +679,28 @@
         "id": "ckw8d09ht4165702tnu2q9yrpyu",
         "title": "Poe Overlay Market",
         "body": "Hello, I would like to add a function that allows us to move the poe overlay market where we want in the screen ex:  over the inventory. Move left to right",
-        "createdAt": "2021-11-20T22:04:53.394Z",
+        "timeAgo": "10 months",
         "comments": [],
         "user": {
             "name": "Anonymous #7378"
         },
         "status": {
-            "id": "cktsbmpqb21828map1qc9n4azp",
-            "name": "Open",
-            "color": "#3182CE"
+            "name": "Open"
         },
         "voteCount": 1,
         "commentCount": 0
-    },
-    "ckvfn5nkv477232so4n4t6w8a1": {
-        "id": "ckvfn5nkv477232so4n4t6w8a1",
-        "title": "Identify upgradable uniques",
-        "body": "Make some flag on trade check that will show that this unique could be upgradable by prophecy, vendor receipt or temple. ",
-        "createdAt": "2021-10-31T19:43:41.983Z",
-        "comments": [
-            {
-                "body": "I can see that being added to the inspect feature.",
-                "createdAt": "2021-10-31T20:11:56.255Z",
-                "user": {
-                    "name": "Anonymous #7671"
-                }
-            },
-            {
-                "body": "No longer relevant with removal of prophecies.",
-                "createdAt": "2022-02-10T22:42:44.694Z",
-                "user": {
-                    "name": "MalakaJones"
-                }
-            }
-        ],
-        "user": {
-            "name": "Anonymous #7114"
-        },
-        "status": {
-            "id": "cktsbmpqb21832map1jfmu7ocj",
-            "name": "Closed",
-            "color": "#718096"
-        },
-        "voteCount": 1,
-        "commentCount": 2
-    },
-    "ckulldv18729933yqo0whohe6d": {
-        "id": "ckulldv18729933yqo0whohe6d",
-        "title": "Need an option to sort items by their properties or stats when using evaluate",
-        "body": "A new useful addition to the tool would be if you could sort evaluated items not by just price by default but clicking on its stats like dps or resists for example and sorting them from top to bottom that way to get more specific results",
-        "createdAt": "2021-10-10T19:01:00.380Z",
-        "comments": [
-            {
-                "body": "Sorry for the double post. I thought the first one didnt get through. Request can be closed, I was told how to do it.",
-                "createdAt": "2021-10-24T07:44:14.379Z",
-                "user": {
-                    "name": "Anonymous #7855"
-                }
-            }
-        ],
-        "user": {
-            "name": "Anonymous #7778"
-        },
-        "status": {
-            "id": "cktsbmpqb21832map1jfmu7ocj",
-            "name": "Closed",
-            "color": "#718096"
-        },
-        "voteCount": 1,
-        "commentCount": 1
     },
     "cl5nz8tc42184752yowlo4x28j2": {
         "id": "cl5nz8tc42184752yowlo4x28j2",
         "title": "Gamepad",
         "body": "Please, add an option for gamepad UI. The inventory and stash layout are reversed.",
-        "createdAt": "2022-07-16T14:21:17.572Z",
+        "timeAgo": "2 months",
         "comments": [],
         "user": {
             "name": "Michael B"
         },
         "status": {
-            "id": "cktsbmpqb21828map1qc9n4azp",
-            "name": "Open",
-            "color": "#3182CE"
+            "name": "Open"
         },
         "voteCount": 0,
         "commentCount": 0
@@ -834,15 +709,13 @@
         "id": "cl2z5z9la2500192yo9hmibk3l7",
         "title": "Maps Layout For leveling",
         "body": "Hey, I dnt know if its possible or not buy I'd like an overlay of all maps or at least throughout the acts with quests that give skill points and waypoints pointed ",
-        "createdAt": "2022-05-09T20:16:10.318Z",
+        "timeAgo": "4 months",
         "comments": [],
         "user": {
             "name": "Amine Mlil"
         },
         "status": {
-            "id": "cktsbmpqb21828map1qc9n4azp",
-            "name": "Open",
-            "color": "#3182CE"
+            "name": "Open"
         },
         "voteCount": 0,
         "commentCount": 0
@@ -851,123 +724,15 @@
         "id": "cl2udd62a855152yo947oig1nn",
         "title": "Reset to default key-binds button",
         "body": "A way to reset keybinds to their original value would be great. Could be a global reset button or one per module.",
-        "createdAt": "2022-05-06T11:44:05.363Z",
+        "timeAgo": "4 months",
         "comments": [],
         "user": {
             "name": "Anonymous #7671"
         },
         "status": {
-            "id": "cktsbmpqb21828map1qc9n4azp",
-            "name": "Open",
-            "color": "#3182CE"
+            "name": "Open"
         },
         "voteCount": 0,
         "commentCount": 0
-    },
-    "cl0i46p1s5910152unys9up6trs": {
-        "id": "cl0i46p1s5910152unys9up6trs",
-        "title": "Add an option to let us deslect sockets by default.",
-        "body": "Please add an option in the Evaluate panel to have the sockets deselected by default. \n\nIt's only useful when evaluating a 6 links items, and it's an annoyance when trying to evaluate unique or interesting rare item. If I don't manually remove the sockets the app will add them to the search and narrow the search to that particular combo of sockets and links",
-        "createdAt": "2022-03-08T12:34:28.045Z",
-        "comments": [
-            {
-                "body": "Hi there, this can be configured in the evaluate settings > add links to query > never / 6 link.\n\n",
-                "createdAt": "2022-03-15T11:03:06.791Z",
-                "user": {
-                    "name": "Kyusung"
-                }
-            },
-            {
-                "body": "My bad. ",
-                "createdAt": "2022-03-15T13:30:53.631Z",
-                "user": {
-                    "name": "CM."
-                }
-            }
-        ],
-        "user": {
-            "name": "CM."
-        },
-        "status": {
-            "id": "cktsbmpqb21832map1jfmu7ocj",
-            "name": "Closed",
-            "color": "#718096"
-        },
-        "voteCount": 0,
-        "commentCount": 2
-    },
-    "cl0i3wx945903362unyl0l04a1u": {
-        "id": "cl0i3wx945903362unyl0l04a1u",
-        "title": "Allow to deselect socket by default",
-        "body": "Please add an option in the Evaluate panel to not automatically select sockets and links. \n\nIt's fine when when I try to orice check a 6 links item, but it's the rest (most) of the time when I try to price check an unique or interesting piece of gear with just one or 3 socket or links. TIf I don't manually remove the sockets and links, the app add them to the search and narrows the search for a specific item to that combo of socket and links.",
-        "createdAt": "2022-03-08T12:26:52.120Z",
-        "comments": [],
-        "user": {
-            "name": "Anonymous #8490"
-        },
-        "status": {
-            "id": "cktsbmpqb21832map1jfmu7ocj",
-            "name": "Closed",
-            "color": "#718096"
-        },
-        "voteCount": 0,
-        "commentCount": 0
-    },
-    "ckw8cza2p4164572tnuufbp8wbs": {
-        "id": "ckw8cza2p4164572tnuufbp8wbs",
-        "title": "Poe Overlay Market",
-        "body": "Hello, I would like to add a function that allows us to move the poe overlay market where we want in the screen ex: over the inventory. Move left to right",
-        "createdAt": "2021-11-20T22:04:07.489Z",
-        "comments": [
-            {
-                "body": "Closed because of duplication",
-                "createdAt": "2021-11-20T22:11:29.679Z",
-                "user": {
-                    "name": "MalakaJones"
-                }
-            }
-        ],
-        "user": {
-            "name": "Anonymous #7378"
-        },
-        "status": {
-            "id": "cktsbmpqb21832map1jfmu7ocj",
-            "name": "Closed",
-            "color": "#718096"
-        },
-        "voteCount": 0,
-        "commentCount": 1
-    },
-    "ckv4ghmnb1641232ska9schilai": {
-        "id": "ckv4ghmnb1641232ska9schilai",
-        "title": "Allow multiple searches with same values.",
-        "body": "When searching for items, a second search cannot be performed. Please do not hide the search button. Workaround involves performing a dummy search with changed values then readding the original search parameters. This is very cumbersome. This has already been discussed in Expedition league but never got implemented.",
-        "createdAt": "2021-10-23T23:51:35.399Z",
-        "comments": [
-            {
-                "body": "yhea it can, just hit the refresh button (circling arrow)",
-                "createdAt": "2021-10-24T00:36:14.708Z",
-                "user": {
-                    "name": "Anonymous #7671"
-                }
-            },
-            {
-                "body": "AH thank you. Request can be closed. I didnt see that.",
-                "createdAt": "2021-10-24T07:43:24.299Z",
-                "user": {
-                    "name": "Anonymous #7855"
-                }
-            }
-        ],
-        "user": {
-            "name": "Anonymous #7855"
-        },
-        "status": {
-            "id": "cktsbmpqb21832map1jfmu7ocj",
-            "name": "Closed",
-            "color": "#718096"
-        },
-        "voteCount": 0,
-        "commentCount": 2
     }
 }
