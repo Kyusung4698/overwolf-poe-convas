@@ -600,6 +600,21 @@
         "voteCount": 2,
         "commentCount": 0
     },
+    "cl8csqp052928991xj5sgt0nkme": {
+        "id": "cl8csqp052928991xj5sgt0nkme",
+        "title": "Custom Messages",
+        "body": "I would like to see an option where u could maybe add custom messages besides the default 4 that you have ",
+        "timeAgo": "25 minutes",
+        "comments": [],
+        "user": {
+            "name": "Jimmy Straight"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "cl75650147065501xq374sa5cit": {
         "id": "cl75650147065501xq374sa5cit",
         "title": "Show missin implicit/affixes/quality in market",
