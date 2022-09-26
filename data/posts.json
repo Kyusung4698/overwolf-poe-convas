@@ -655,9 +655,16 @@
         "comments": [
             {
                 "body": "A bit harder to implement now, given there is direct whispering support. Is this still relevant? If so, could you give a use case please. Thanks!",
-                "timeAgo": "3 minutes",
+                "timeAgo": "about 2 hours",
                 "user": {
                     "name": "Kyusung"
+                }
+            },
+            {
+                "body": "This was someone’s idea. I don’t see much use cases instead of modifying the original message. Something more useful would be a button that opens the chat with that person @ so you can add a second custom message. ",
+                "timeAgo": "5 minutes",
+                "user": {
+                    "name": "Anonymous #7671"
                 }
             }
         ],
@@ -668,7 +675,7 @@
             "name": "Open"
         },
         "voteCount": 1,
-        "commentCount": 1
+        "commentCount": 2
     },
     "ckw8d09ht4165702tnu2q9yrpyu": {
         "id": "ckw8d09ht4165702tnu2q9yrpyu",
