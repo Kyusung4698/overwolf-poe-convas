@@ -604,8 +604,16 @@
         "id": "cl8csqp052928991xj5sgt0nkme",
         "title": "Custom Messages",
         "body": "I would like to see an option where u could maybe add custom messages besides the default 4 that you have ",
-        "timeAgo": "25 minutes",
-        "comments": [],
+        "timeAgo": "4 days",
+        "comments": [
+            {
+                "body": "Hi there, thanks for creating this issue. Could you explain it a bit further and give an example on how this should work? Does it only affect trade message? (should you be able to use data from the trade message as placeholders) Or are those messages more globally and can be send anytime? ",
+                "timeAgo": "6 minutes",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "Jimmy Straight"
         },
@@ -613,22 +621,30 @@
             "name": "Open"
         },
         "voteCount": 1,
-        "commentCount": 0
+        "commentCount": 1
     },
     "cl75650147065501xq374sa5cit": {
         "id": "cl75650147065501xq374sa5cit",
         "title": "Show missin implicit/affixes/quality in market",
         "body": "In Kalandra League there are a lot of items with mirrored implicit that can't be modified. This invalidate a lot of trade results being limited to only show non-mirrored. Would be nice to see these values on results",
-        "timeAgo": "25 days",
-        "comments": [],
+        "timeAgo": "about 1 month",
+        "comments": [
+            {
+                "body": "Thanks for creating this issue. This has been added with 1.3.21. ",
+                "timeAgo": "1 minute",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "g-alfieri"
         },
         "status": {
-            "name": "Open"
+            "name": "Completed"
         },
         "voteCount": 1,
-        "commentCount": 0
+        "commentCount": 1
     },
     "cl7561l5v7009271xq3n2nwpsc8": {
         "id": "cl7561l5v7009271xq3n2nwpsc8",
@@ -640,7 +656,7 @@
             "name": "g-alfieri"
         },
         "status": {
-            "name": "Open"
+            "name": "Planned"
         },
         "voteCount": 1,
         "commentCount": 0
@@ -680,7 +696,15 @@
         "title": "Copy trade message to clipboard",
         "body": "Could it be possible to have a second button that let us copy the trade whisper instead of sending it right away?",
         "timeAgo": "10 months",
-        "comments": [],
+        "comments": [
+            {
+                "body": "A bit harder to implement now, given there is direct whispering support. Is this still relevant? If so, could you give a use case please. Thanks!",
+                "timeAgo": "3 minutes",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "MalakaJones"
         },
@@ -688,7 +712,7 @@
             "name": "Open"
         },
         "voteCount": 1,
-        "commentCount": 0
+        "commentCount": 1
     },
     "ckw8d09ht4165702tnu2q9yrpyu": {
         "id": "ckw8d09ht4165702tnu2q9yrpyu",
