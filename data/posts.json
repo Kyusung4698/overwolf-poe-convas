@@ -272,9 +272,9 @@
             "name": "MalakaJones"
         },
         "status": {
-            "name": "Open"
+            "name": "Accepted"
         },
-        "voteCount": 5,
+        "voteCount": 6,
         "commentCount": 0
     },
     "ckw294gfa1694982tnu25da7pio": {
@@ -488,21 +488,6 @@
         },
         "voteCount": 2,
         "commentCount": 2
-    },
-    "cl7561l5v7009271xq3n2nwpsc8": {
-        "id": "cl7561l5v7009271xq3n2nwpsc8",
-        "title": "Sortable market results",
-        "body": "After using shortcut to open market and filling filter rules would be nice to sort results clicking on affixes like on pathofexile.com/trade",
-        "timeAgo": "about 1 month",
-        "comments": [],
-        "user": {
-            "name": "g-alfieri"
-        },
-        "status": {
-            "name": "Accepted"
-        },
-        "voteCount": 2,
-        "commentCount": 0
     },
     "cl2f37qdp1990542yo1k873ri2i": {
         "id": "cl2f37qdp1990542yo1k873ri2i",
