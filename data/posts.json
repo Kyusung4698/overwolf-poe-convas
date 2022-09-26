@@ -31,7 +31,7 @@
             "name": "Kyusung"
         },
         "status": {
-            "name": "Planned"
+            "name": "Blocked"
         },
         "voteCount": 67,
         "commentCount": 3
@@ -61,7 +61,7 @@
             "name": "Kyusung"
         },
         "status": {
-            "name": "Accepted"
+            "name": "Blocked"
         },
         "voteCount": 36,
         "commentCount": 2
@@ -136,7 +136,7 @@
             "name": "Anonymous #8323"
         },
         "status": {
-            "name": "Planned"
+            "name": "Accepted"
         },
         "voteCount": 12,
         "commentCount": 0
@@ -234,7 +234,7 @@
             "name": "RagingHomoBear"
         },
         "status": {
-            "name": "Open"
+            "name": "Blocked"
         },
         "voteCount": 7,
         "commentCount": 3
@@ -257,7 +257,7 @@
             "name": "CTekk"
         },
         "status": {
-            "name": "Open"
+            "name": "Blocked"
         },
         "voteCount": 6,
         "commentCount": 1
@@ -424,7 +424,7 @@
             "name": "MalakaJones"
         },
         "status": {
-            "name": "Planned"
+            "name": "Accepted"
         },
         "voteCount": 3,
         "commentCount": 1
@@ -499,7 +499,7 @@
             "name": "g-alfieri"
         },
         "status": {
-            "name": "Planned"
+            "name": "Accepted"
         },
         "voteCount": 2,
         "commentCount": 0
@@ -537,7 +537,7 @@
             "name": "Anonymous #8442"
         },
         "status": {
-            "name": "Planned"
+            "name": "Accepted"
         },
         "voteCount": 2,
         "commentCount": 0
@@ -589,7 +589,7 @@
             "name": "MalakaJones"
         },
         "status": {
-            "name": "Open"
+            "name": "Blocked"
         },
         "voteCount": 2,
         "commentCount": 3
@@ -642,7 +642,7 @@
             "name": "CM."
         },
         "status": {
-            "name": "Planned"
+            "name": "Accepted"
         },
         "voteCount": 1,
         "commentCount": 2
