@@ -61,7 +61,7 @@
             "name": "Kyusung"
         },
         "status": {
-            "name": "Planned"
+            "name": "Accepted"
         },
         "voteCount": 36,
         "commentCount": 2
@@ -91,7 +91,7 @@
             "name": "Anonymous #7671"
         },
         "status": {
-            "name": "Planned"
+            "name": "Accepted"
         },
         "voteCount": 30,
         "commentCount": 2
@@ -106,7 +106,7 @@
             "name": "MalakaJones"
         },
         "status": {
-            "name": "Planned"
+            "name": "Accepted"
         },
         "voteCount": 20,
         "commentCount": 0
@@ -159,7 +159,7 @@
             "name": "MalakaJones"
         },
         "status": {
-            "name": "Planned"
+            "name": "Accepted"
         },
         "voteCount": 11,
         "commentCount": 1
@@ -174,7 +174,7 @@
             "name": "MalakaJones"
         },
         "status": {
-            "name": "Planned"
+            "name": "Accepted"
         },
         "voteCount": 9,
         "commentCount": 0
@@ -197,7 +197,7 @@
             "name": "Anonymous #7275"
         },
         "status": {
-            "name": "Open"
+            "name": "Accepted"
         },
         "voteCount": 8,
         "commentCount": 1
@@ -206,20 +206,27 @@
         "id": "ckvo2lpd2856302si5h8p4bx1c",
         "title": "Import Item to Craft of Exile",
         "body": "Add option to inspect that allows users to import items to https://www.craftofexile.com/",
-        "timeAgo": "10 months",
+        "timeAgo": "11 months",
         "comments": [
             {
                 "body": "Like in 1 click instead of having to ctrl+alt+c the item then paste it into the website?",
-                "timeAgo": "10 months",
+                "timeAgo": "11 months",
                 "user": {
                     "name": "Anonymous #7671"
                 }
             },
             {
                 "body": "Yes",
-                "timeAgo": "10 months",
+                "timeAgo": "11 months",
                 "user": {
                     "name": "RagingHomoBear"
+                }
+            },
+            {
+                "body": "Hi there, thanks for creating this issue. Craftofexile does not support pre-filling items e.g. as querystring on to their website. Feel free to post this as a suggestion to their app. Until then, I'm unable to implement this feature. ",
+                "timeAgo": "29 minutes",
+                "user": {
+                    "name": "Kyusung"
                 }
             }
         ],
@@ -230,7 +237,7 @@
             "name": "Open"
         },
         "voteCount": 7,
-        "commentCount": 2
+        "commentCount": 3
     },
     "ckx3rzbui794452skvfl9bv9uw": {
         "id": "ckx3rzbui794452skvfl9bv9uw",
@@ -275,15 +282,23 @@
         "title": "Auto clip High value drops",
         "body": "Use a OBS plugin to auto clip high value item drops based on their rarity tier on item filters",
         "timeAgo": "10 months",
-        "comments": [],
+        "comments": [
+            {
+                "body": "Hmm, that's an interesting one. The replay module already allows to create a short video on hotkey press, going back a few seconds in the past. So the only missing part would be to identify when a valuable item drops 🤔",
+                "timeAgo": "13 minutes",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "Inuboshi"
         },
         "status": {
-            "name": "Open"
+            "name": "Accepted"
         },
         "voteCount": 5,
-        "commentCount": 0
+        "commentCount": 1
     },
     "ckx53ohor1190482skvax8hcza0": {
         "id": "ckx53ohor1190482skvax8hcza0",
@@ -391,6 +406,29 @@
         "voteCount": 3,
         "commentCount": 1
     },
+    "cktsbp2fj47469map1iqn119gj": {
+        "id": "cktsbp2fj47469map1iqn119gj",
+        "title": "Player ignore built-in feature",
+        "body": "I would love to see my player ignore list be linked from the official website. Could also be a totaly independant one if it's simpler to implement. Being able to directly add players to that list from the evaluate or market feature would be awsome.",
+        "timeAgo": "about 1 year",
+        "comments": [
+            {
+                "body": "This is somewhat supported if you link your GGG account. The market results should already be using the ignore list of your linked account. I'm planning extending on this integration by also making the ignore list editable in the market. So stay tuned o/ ",
+                "timeAgo": "about 1 hour",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
+        "user": {
+            "name": "MalakaJones"
+        },
+        "status": {
+            "name": "Planned"
+        },
+        "voteCount": 3,
+        "commentCount": 1
+    },
     "cktsbp2er47453map15eb3o7us": {
         "id": "cktsbp2er47453map15eb3o7us",
         "title": "In-game window for live searches",
@@ -416,7 +454,7 @@
             "name": "MalakaJones"
         },
         "status": {
-            "name": "Open"
+            "name": "Accepted"
         },
         "voteCount": 3,
         "commentCount": 0
@@ -425,13 +463,20 @@
         "id": "cl7b0se3776455824q39vrnjbgl",
         "title": "Shortcuts for Evaluate",
         "body": "That'd be great if we could have a way to directly evaluate the exact value of selected stat(s) with right click or scroll click (or custom keybind) \n\nLeft click would keep the \"min/max range and Right click would copy the same stat value. (see picture to understand what I mean)\n\n",
-        "timeAgo": "21 days",
+        "timeAgo": "about 1 month",
         "comments": [
             {
                 "body": "no content.",
-                "timeAgo": "1 day",
+                "timeAgo": "11 days",
                 "user": {
                     "name": "Laureano Gorozito"
+                }
+            },
+            {
+                "body": "Hi there, that's a good suggestion. I will see how I can implement this, so it's clear for everyone. Thanks!",
+                "timeAgo": "25 minutes",
+                "user": {
+                    "name": "Kyusung"
                 }
             }
         ],
@@ -439,17 +484,40 @@
             "name": "jaylay99"
         },
         "status": {
-            "name": "Open"
+            "name": "Accepted"
         },
         "voteCount": 2,
-        "commentCount": 1
+        "commentCount": 2
+    },
+    "cl7561l5v7009271xq3n2nwpsc8": {
+        "id": "cl7561l5v7009271xq3n2nwpsc8",
+        "title": "Sortable market results",
+        "body": "After using shortcut to open market and filling filter rules would be nice to sort results clicking on affixes like on pathofexile.com/trade",
+        "timeAgo": "about 1 month",
+        "comments": [],
+        "user": {
+            "name": "g-alfieri"
+        },
+        "status": {
+            "name": "Planned"
+        },
+        "voteCount": 2,
+        "commentCount": 0
     },
     "cl2f37qdp1990542yo1k873ri2i": {
         "id": "cl2f37qdp1990542yo1k873ri2i",
         "title": "Tray logo",
         "body": "What about new black and white tray logo? ^.^\n\n😁👍",
         "timeAgo": "5 months",
-        "comments": [],
+        "comments": [
+            {
+                "body": "Haha, I'm open for suggestions 😅 Btw. what black and white logo are you talking about? The current logo has some colorful background. ",
+                "timeAgo": "27 minutes",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "SoaT"
         },
@@ -457,7 +525,7 @@
             "name": "Open"
         },
         "voteCount": 2,
-        "commentCount": 0
+        "commentCount": 1
     },
     "cl0brozbe3245942unyhxmgeafq": {
         "id": "cl0brozbe3245942unyhxmgeafq",
@@ -526,29 +594,6 @@
         "voteCount": 2,
         "commentCount": 3
     },
-    "cktsbp2fj47469map1iqn119gj": {
-        "id": "cktsbp2fj47469map1iqn119gj",
-        "title": "Player ignore built-in feature",
-        "body": "I would love to see my player ignore list be linked from the official website. Could also be a totaly independant one if it's simpler to implement. Being able to directly add players to that list from the evaluate or market feature would be awsome.",
-        "timeAgo": "about 1 year",
-        "comments": [
-            {
-                "body": "This is somewhat supported if you link your GGG account. The market results should already be using the ignore list of your linked account. I'm planning extending on this integration by also making the ignore list editable in the market. So stay tuned o/ ",
-                "timeAgo": "24 minutes",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "name": "Planned"
-        },
-        "voteCount": 2,
-        "commentCount": 1
-    },
     "cl8csqp052928991xj5sgt0nkme": {
         "id": "cl8csqp052928991xj5sgt0nkme",
         "title": "Custom Messages",
@@ -571,21 +616,6 @@
         },
         "voteCount": 1,
         "commentCount": 1
-    },
-    "cl7561l5v7009271xq3n2nwpsc8": {
-        "id": "cl7561l5v7009271xq3n2nwpsc8",
-        "title": "Sortable market results",
-        "body": "After using shortcut to open market and filling filter rules would be nice to sort results clicking on affixes like on pathofexile.com/trade",
-        "timeAgo": "25 days",
-        "comments": [],
-        "user": {
-            "name": "g-alfieri"
-        },
-        "status": {
-            "name": "Planned"
-        },
-        "voteCount": 1,
-        "commentCount": 0
     },
     "cl0lbtgp21522682uqthmefrssi": {
         "id": "cl0lbtgp21522682uqthmefrssi",
@@ -689,15 +719,23 @@
         "id": "cl2udd62a855152yo947oig1nn",
         "title": "Reset to default key-binds button",
         "body": "A way to reset keybinds to their original value would be great. Could be a global reset button or one per module.",
-        "timeAgo": "4 months",
-        "comments": [],
+        "timeAgo": "5 months",
+        "comments": [
+            {
+                "body": "Hi, for now this would require reinstalling the app. We will see how we can improve on this behaviour. Thanks for your suggestion! ",
+                "timeAgo": "23 minutes",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "Anonymous #7671"
         },
         "status": {
-            "name": "Open"
+            "name": "Accepted"
         },
         "voteCount": 0,
-        "commentCount": 0
+        "commentCount": 1
     }
 }
