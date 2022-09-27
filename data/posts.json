@@ -583,13 +583,20 @@
         "id": "cl8kgkuka12171311xnxzoy0w13z",
         "title": "Trade: Automatically close trade window upon leaving",
         "body": "It would  be nice to have a setting for automatically closing a poe trade window whenever that person leaves the party.\n\nYou can say \"Thanks\" then remove them from party which will remove the window but lots of times for me; people join and then leave without trading (notably in currency trade).\nyou can manually remove them right now but it can get tedious.\nHopefully this would be a keybind to toggle this function on and off. Just a setting would work too.",
-        "timeAgo": "38 minutes",
+        "timeAgo": "about 3 hours",
         "comments": [
             {
                 "body": "There is this circling arrow button that clears the whole list if that’s what you’re looking for.",
-                "timeAgo": "10 minutes",
+                "timeAgo": "about 3 hours",
                 "user": {
                     "name": "MalakaJones"
+                }
+            },
+            {
+                "body": "this is more for consistent trading. I wouldn't want to close other trades still active. just the ones that are completed or the guy left group before completing.<br/>Could have another limiter of only removing them if they are both not in my hideout and left the group (some people leave the group early).<br/> I realize I am an edge case, trading as much as I do, but I think it would be good QoL for regular trading too.",
+                "timeAgo": "5 minutes",
+                "user": {
+                    "name": "Subutai"
                 }
             }
         ],
@@ -600,7 +607,7 @@
             "name": "Open"
         },
         "voteCount": 1,
-        "commentCount": 1
+        "commentCount": 2
     },
     "cl8csqp052928991xj5sgt0nkme": {
         "id": "cl8csqp052928991xj5sgt0nkme",
