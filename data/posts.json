@@ -202,6 +202,21 @@
         "voteCount": 8,
         "commentCount": 1
     },
+    "ckwl995gl227630rfiiqp6ffd": {
+        "id": "ckwl995gl227630rfiiqp6ffd",
+        "title": "Sort listings by mods in the market plugin",
+        "body": "Similar as the official website, being able to sort listing via a mod value would be a great addition!",
+        "timeAgo": "10 months",
+        "comments": [],
+        "user": {
+            "name": "MalakaJones"
+        },
+        "status": {
+            "name": "Accepted"
+        },
+        "voteCount": 7,
+        "commentCount": 0
+    },
     "ckvo2lpd2856302si5h8p4bx1c": {
         "id": "ckvo2lpd2856302si5h8p4bx1c",
         "title": "Import Item to Craft of Exile",
@@ -261,21 +276,6 @@
         },
         "voteCount": 6,
         "commentCount": 1
-    },
-    "ckwl995gl227630rfiiqp6ffd": {
-        "id": "ckwl995gl227630rfiiqp6ffd",
-        "title": "Sort listings by mods in the market plugin",
-        "body": "Similar as the official website, being able to sort listing via a mod value would be a great addition!",
-        "timeAgo": "10 months",
-        "comments": [],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "name": "Accepted"
-        },
-        "voteCount": 6,
-        "commentCount": 0
     },
     "ckw294gfa1694982tnu25da7pio": {
         "id": "ckw294gfa1694982tnu25da7pio",
@@ -578,6 +578,21 @@
         },
         "voteCount": 2,
         "commentCount": 3
+    },
+    "cl8kgkuka12171311xnxzoy0w13z": {
+        "id": "cl8kgkuka12171311xnxzoy0w13z",
+        "title": "Trade: Automatically close trade window upon leaving",
+        "body": "It would  be nice to have a setting for automatically closing a poe trade window whenever that person leaves the party.\n\nYou can say \"Thanks\" then remove them from party which will remove the window but lots of times for me; people join and then leave without trading (notably in currency trade).\nyou can manually remove them right now but it can get tedious.\nHopefully this would be a keybind to toggle this function on and off. Just a setting would work too.",
+        "timeAgo": "4 minutes",
+        "comments": [],
+        "user": {
+            "name": "Subutai"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
     },
     "cl8csqp052928991xj5sgt0nkme": {
         "id": "cl8csqp052928991xj5sgt0nkme",
