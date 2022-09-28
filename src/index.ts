@@ -61,7 +61,7 @@ export async function execute(
                             .map(p => p.content
                                 .filter(x => x.type === 'text')
                                 .map(x => x.text)
-                                .join('<br/>'))
+                                .join('\n'))
                             .join('\n') || 'no content.',
                         timeAgo: x.timeAgo,
                         user: {
