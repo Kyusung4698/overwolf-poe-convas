@@ -1,5 +1,6 @@
 import fetch from 'node-fetch';
 import { PostEntitySet } from './data';
+import { trimText } from './text';
 
 interface EmbedAuthor {
     name: string;
@@ -67,7 +68,7 @@ export class Webhook {
                 if (prev.commentCount !== next.commentCount) {
                     commentAdded.push({
                         title: next.title,
-                        description: next.body,
+                        description: trimText(next.body, 128),
                         url: `https://${this.subdomain}.convas.io/${this.board}/${next.id}`,
                         author: { name: author },
                         footer: { text: `status: ${next.status.name.toLowerCase()}, upvotes: ${next.voteCount}, comments: ${next.commentCount}` },
@@ -80,7 +81,7 @@ export class Webhook {
                 } else if (prev.status.name !== next.status.name) {
                     statusChanged.push({
                         title: next.title,
-                        description: next.body,
+                        description: trimText(next.body, 128),
                         url: `https://${this.subdomain}.convas.io/${this.board}/${next.id}`,
                         author: { name: author },
                         footer: { text: `status: ${next.status.name.toLowerCase()}, upvotes: ${next.voteCount}, comments: ${next.commentCount}` },
@@ -93,7 +94,7 @@ export class Webhook {
                 } else if (prev.voteCount !== next.voteCount) {
                     voteChanged.push({
                         title: next.title,
-                        description: next.body,
+                        description: trimText(next.body, 128),
                         url: `https://${this.subdomain}.convas.io/${this.board}/${next.id}`,
                         author: { name: author },
                         footer: { text: `status: ${next.status.name.toLowerCase()}, upvotes: ${next.voteCount}, comments: ${next.commentCount}` }
