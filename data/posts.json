@@ -596,8 +596,16 @@
         "id": "cl8p1f3ep4007981xnx0xse4vmj",
         "title": "customize trade button",
         "body": "The Trade feature is very useful!\n\nBut I don't use Item Highlight, Gone Message, FinishMessage.\n\nI would like to have the option to customize or hide the trade button.\n\n",
-        "timeAgo": "7 minutes",
-        "comments": [],
+        "timeAgo": "about 1 hour",
+        "comments": [
+            {
+                "body": "And is it difficult to Kick a trading partner from a party after sending a FinishMessage?",
+                "timeAgo": "31 minutes",
+                "user": {
+                    "name": "Tesraunread"
+                }
+            }
+        ],
         "user": {
             "name": "Tesraunread"
         },
@@ -605,7 +613,7 @@
             "name": "Open"
         },
         "voteCount": 1,
-        "commentCount": 0
+        "commentCount": 1
     },
     "cl8kgkuka12171311xnxzoy0w13z": {
         "id": "cl8kgkuka12171311xnxzoy0w13z",
