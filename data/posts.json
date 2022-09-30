@@ -85,6 +85,13 @@
                 "user": {
                     "name": "Anonymous #8306"
                 }
+            },
+            {
+                "body": "Hey there, the app now shows decimal places using two currencies (e.g. 1.7 divine -> 1 divine + 140 chaos) in the market, trade and live search module. Please let me know if you still need a standalone converter! :)",
+                "timeAgo": "3 minutes",
+                "user": {
+                    "name": "Kyusung"
+                }
             }
         ],
         "user": {
@@ -94,7 +101,7 @@
             "name": "Accepted"
         },
         "voteCount": 30,
-        "commentCount": 2
+        "commentCount": 3
     },
     "cktsbp2ec47445map10tmzn5tg": {
         "id": "cktsbp2ec47445map10tmzn5tg",
@@ -122,21 +129,6 @@
         },
         "status": {
             "name": "Open"
-        },
-        "voteCount": 12,
-        "commentCount": 0
-    },
-    "ckztsqsjk1538022urdlkiaib8d": {
-        "id": "ckztsqsjk1538022urdlkiaib8d",
-        "title": "Oils required for an anoit display",
-        "body": "With introduction of oil extractor and atlas nodes of dropping random anoited jewellery it became a hussle to check every single anoit on wiki. I suggest adding a maybe toglable display that shows oils needed to anoit right next or above/below the anoitment when you do Alt+Q item check. ",
-        "timeAgo": "7 months",
-        "comments": [],
-        "user": {
-            "name": "Anonymous #8323"
-        },
-        "status": {
-            "name": "In Progress"
         },
         "voteCount": 12,
         "commentCount": 0
