@@ -592,6 +592,21 @@
         "voteCount": 2,
         "commentCount": 3
     },
+    "cl8p1f3ep4007981xnx0xse4vmj": {
+        "id": "cl8p1f3ep4007981xnx0xse4vmj",
+        "title": "customize trade button",
+        "body": "The Trade feature is very useful!\n\nBut I don't use Item Highlight, Gone Message, FinishMessage.\n\nI would like to have the option to customize or hide the trade button.\n\n",
+        "timeAgo": "7 minutes",
+        "comments": [],
+        "user": {
+            "name": "Tesraunread"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "cl8kgkuka12171311xnxzoy0w13z": {
         "id": "cl8kgkuka12171311xnxzoy0w13z",
         "title": "Trade: Automatically close trade window upon leaving",
