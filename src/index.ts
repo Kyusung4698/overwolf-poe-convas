@@ -57,7 +57,7 @@ export async function execute(
                     const body: PostTimelineEventContent = JSON.parse(x.jsonBody);
                     return {
                         body: body.content
-                            .filter(x => x.type === 'paragraph')
+                            .filter(x => x.type === 'paragraph' && x.content?.length > 0)
                             .map(p => p.content
                                 .filter(x => x.type === 'text')
                                 .map(x => x.text)
