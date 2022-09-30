@@ -285,23 +285,30 @@
         "comments": [
             {
                 "body": "Hmm, that's an interesting one. The replay module already allows to create a short video on hotkey press, going back a few seconds in the past. So the only missing part would be to identify when a valuable item drops 🤔",
-                "timeAgo": "3 days",
+                "timeAgo": "4 days",
                 "user": {
                     "name": "Kyusung"
                 }
             },
             {
                 "body": "i mean this could be doable but how could you get that type of info unless you are doing like an image match with the screen to detect the valuable item when you hover over it on the ground",
-                "timeAgo": "about 23 hours",
+                "timeAgo": "2 days",
                 "user": {
                     "name": "Jimmy Straight"
                 }
             },
             {
                 "body": "Image matching/ processing is def. not something I'd want to do, also given it needs to run the whole time. I think the \"easiest\" approach would be something sound related. Either knowing if a high value sound has been played by sound recognition or some Windows API trickery. ",
-                "timeAgo": "27 minutes",
+                "timeAgo": "1 day",
                 "user": {
                     "name": "Kyusung"
+                }
+            },
+            {
+                "body": " \ntrue but how would do go about that since more people make there own filters with different sounds",
+                "timeAgo": "about 2 hours",
+                "user": {
+                    "name": "Jimmy Straight"
                 }
             }
         ],
@@ -312,7 +319,7 @@
             "name": "Accepted"
         },
         "voteCount": 5,
-        "commentCount": 3
+        "commentCount": 4
     },
     "ckx53ohor1190482skvax8hcza0": {
         "id": "ckx53ohor1190482skvax8hcza0",
