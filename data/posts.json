@@ -151,7 +151,7 @@
             "name": "MalakaJones"
         },
         "status": {
-            "name": "Planned"
+            "name": "In Progress"
         },
         "voteCount": 12,
         "commentCount": 1
@@ -734,16 +734,23 @@
         "comments": [
             {
                 "body": "A bit harder to implement now, given there is direct whispering support. Is this still relevant? If so, could you give a use case please. Thanks!",
-                "timeAgo": "about 2 hours",
+                "timeAgo": "8 days",
                 "user": {
                     "name": "Kyusung"
                 }
             },
             {
                 "body": "This was someone’s idea. I don’t see much use cases instead of modifying the original message. Something more useful would be a button that opens the chat with that person @ so you can add a second custom message. ",
-                "timeAgo": "5 minutes",
+                "timeAgo": "8 days",
                 "user": {
                     "name": "Anonymous #7671"
+                }
+            },
+            {
+                "body": "Hmm, this sounds like the whisper button the trade module already has, which opens the chat and prefills it with the @{trader}. I think I'm going to close this one. If someone else wants this feature they can create a new issue. ",
+                "timeAgo": "4 minutes",
+                "user": {
+                    "name": "Kyusung"
                 }
             }
         ],
@@ -754,7 +761,7 @@
             "name": "Open"
         },
         "voteCount": 1,
-        "commentCount": 2
+        "commentCount": 3
     },
     "ckw8d09ht4165702tnu2q9yrpyu": {
         "id": "ckw8d09ht4165702tnu2q9yrpyu",
