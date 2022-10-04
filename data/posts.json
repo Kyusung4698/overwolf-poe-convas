@@ -122,7 +122,7 @@
         "id": "cl0h3ne4s5446982unyii3raddp",
         "title": "Return to game with ESC",
         "body": "Close any active windows/overlays as if the X button were clicked on every Market/Inspect/Check/Settings window open. Just a small QoL of thing",
-        "timeAgo": "6 months",
+        "timeAgo": "7 months",
         "comments": [],
         "user": {
             "name": "Anonymous #8482"
@@ -130,7 +130,7 @@
         "status": {
             "name": "Open"
         },
-        "voteCount": 12,
+        "voteCount": 13,
         "commentCount": 0
     },
     "cktsbp2dw47436map1pyfne5ul": {
@@ -141,7 +141,7 @@
         "comments": [
             {
                 "body": "Here are some ideas for implementation. Since this is part of the evaluate feature, having the search button tied to what type of currencies are selected in the evaluate configs would be ideal imo. You’d have a mix of let’s say exalts and chaos listings sorted by ratio. As for the price, it could either show up the trade format put in place by the player (ex: 5c for 25 rusted shaper scarabs and the total amount in stock) like it does in the market. Or it could simply put the total amount and the exact unit price with many decimals (ex: 37x \"player’s name\" 0.2374 c )",
-                "timeAgo": "12 months",
+                "timeAgo": "about 1 year",
                 "user": {
                     "name": "MalakaJones"
                 }
@@ -153,7 +153,7 @@
         "status": {
             "name": "Planned"
         },
-        "voteCount": 11,
+        "voteCount": 12,
         "commentCount": 1
     },
     "cktsbp2f547461map1rrkovz8d": {
