@@ -748,9 +748,23 @@
             },
             {
                 "body": "Hmm, this sounds like the whisper button the trade module already has, which opens the chat and prefills it with the @{trader}. I think I'm going to close this one. If someone else wants this feature they can create a new issue. ",
-                "timeAgo": "4 minutes",
+                "timeAgo": "about 1 hour",
                 "user": {
                     "name": "Kyusung"
+                }
+            },
+            {
+                "body": "We were talking about the market module tho. Not the trade module 😅",
+                "timeAgo": "9 minutes",
+                "user": {
+                    "name": "MalakaJones"
+                }
+            },
+            {
+                "body": "But I guess it ends up being the same, has it opens the trade module once you sent that trade whisper",
+                "timeAgo": "5 minutes",
+                "user": {
+                    "name": "MalakaJones"
                 }
             }
         ],
@@ -761,7 +775,7 @@
             "name": "Open"
         },
         "voteCount": 1,
-        "commentCount": 3
+        "commentCount": 5
     },
     "ckw8d09ht4165702tnu2q9yrpyu": {
         "id": "ckw8d09ht4165702tnu2q9yrpyu",
