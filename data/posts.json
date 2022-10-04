@@ -596,13 +596,20 @@
         "id": "cl8p1f3ep4007981xnx0xse4vmj",
         "title": "customize trade button",
         "body": "The Trade feature is very useful!\n\nBut I don't use Item Highlight, Gone Message, FinishMessage.\n\nI would like to have the option to customize or hide the trade button.\n\n",
-        "timeAgo": "about 1 hour",
+        "timeAgo": "3 days",
         "comments": [
             {
                 "body": "And is it difficult to Kick a trading partner from a party after sending a FinishMessage?",
-                "timeAgo": "31 minutes",
+                "timeAgo": "3 days",
                 "user": {
                     "name": "Tesraunread"
+                }
+            },
+            {
+                "body": "Hey there, glad you like the trade feature! Customizing the trade buttons seems like a good idea. \nThere is already a kick feature implemented. If it's an incoming trade (someone wants to buy something from you), it would kick the player from your party after you used \"finish message\". For outgoing trades it would kick yourself from the party. This can be disabled, so make sure it's enabled like in the screenshot below. (desktop app > preferences > trade)",
+                "timeAgo": "1 minute",
+                "user": {
+                    "name": "Kyusung"
                 }
             }
         ],
@@ -610,10 +617,10 @@
             "name": "Tesraunread"
         },
         "status": {
-            "name": "Open"
+            "name": "Accepted"
         },
         "voteCount": 1,
-        "commentCount": 1
+        "commentCount": 2
     },
     "cl8kgkuka12171311xnxzoy0w13z": {
         "id": "cl8kgkuka12171311xnxzoy0w13z",
