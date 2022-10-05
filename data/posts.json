@@ -726,64 +726,6 @@
         "voteCount": 1,
         "commentCount": 2
     },
-    "ckwcsqkme5364982tnuxam728ny": {
-        "id": "ckwcsqkme5364982tnuxam728ny",
-        "title": "Copy trade message to clipboard",
-        "body": "Could it be possible to have a second button that let us copy the trade whisper instead of sending it right away?",
-        "timeAgo": "11 months",
-        "comments": [
-            {
-                "body": "A bit harder to implement now, given there is direct whispering support. Is this still relevant? If so, could you give a use case please. Thanks!",
-                "timeAgo": "9 days",
-                "user": {
-                    "name": "Kyusung"
-                }
-            },
-            {
-                "body": "This was someone’s idea. I don’t see much use cases instead of modifying the original message. Something more useful would be a button that opens the chat with that person @ so you can add a second custom message. ",
-                "timeAgo": "9 days",
-                "user": {
-                    "name": "Anonymous #7671"
-                }
-            },
-            {
-                "body": "Hmm, this sounds like the whisper button the trade module already has, which opens the chat and prefills it with the @{trader}. I think I'm going to close this one. If someone else wants this feature they can create a new issue. ",
-                "timeAgo": "about 18 hours",
-                "user": {
-                    "name": "Kyusung"
-                }
-            },
-            {
-                "body": "We were talking about the market module tho. Not the trade module 😅",
-                "timeAgo": "about 17 hours",
-                "user": {
-                    "name": "MalakaJones"
-                }
-            },
-            {
-                "body": "But I guess it ends up being the same, has it opens the trade module once you sent that trade whisper",
-                "timeAgo": "about 17 hours",
-                "user": {
-                    "name": "MalakaJones"
-                }
-            },
-            {
-                "body": "Yes, that's what i meant 😅 Closing this one then. ",
-                "timeAgo": "1 minute",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
-        "commentCount": 6
-    },
     "ckw8d09ht4165702tnu2q9yrpyu": {
         "id": "ckw8d09ht4165702tnu2q9yrpyu",
         "title": "Poe Overlay Market",
