@@ -592,6 +592,21 @@
         "voteCount": 2,
         "commentCount": 3
     },
+    "cl90t9tr7003bpm1xcsk9k2zz": {
+        "id": "cl90t9tr7003bpm1xcsk9k2zz",
+        "title": "not detect korean/empty message",
+        "body": "Hello\n\nTradeHelper does not detect people whose PoE username is in Korean\n\nAnd some people with English names are also not detected.\n\nIf I leave FinishMessage blank in the settings and send a FinishMessage in TradeHelper, I want to be able to Kick the person out of the party without sending a message.\n\nI would like to be able to Kick the person from the party without sending a message.\n\nI would like TradeHelper to work even when the chat box is open.",
+        "timeAgo": "1 minute",
+        "comments": [],
+        "user": {
+            "name": "Tesraunread"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "cl8p1f3ep4007981xnx0xse4vmj": {
         "id": "cl8p1f3ep4007981xnx0xse4vmj",
         "title": "customize trade button",
