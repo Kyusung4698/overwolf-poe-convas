@@ -133,6 +133,29 @@
         "voteCount": 13,
         "commentCount": 0
     },
+    "ckztsqsjk1538022urdlkiaib8d": {
+        "id": "ckztsqsjk1538022urdlkiaib8d",
+        "title": "Oils required for an anoit display",
+        "body": "With introduction of oil extractor and atlas nodes of dropping random anoited jewellery it became a hussle to check every single anoit on wiki. I suggest adding a maybe toglable display that shows oils needed to anoit right next or above/below the anoitment when you do Alt+Q item check. ",
+        "timeAgo": "8 months",
+        "comments": [
+            {
+                "body": "Works great! I love it",
+                "timeAgo": "12 days",
+                "user": {
+                    "name": "MalakaJones"
+                }
+            }
+        ],
+        "user": {
+            "name": "Anonymous #8323"
+        },
+        "status": {
+            "name": "Completed"
+        },
+        "voteCount": 12,
+        "commentCount": 1
+    },
     "cktsbp2dw47436map1pyfne5ul": {
         "id": "cktsbp2dw47436map1pyfne5ul",
         "title": "Evaluate feature to use the bulk exchange for currencies",
@@ -165,10 +188,25 @@
             "name": "MalakaJones"
         },
         "status": {
-            "name": "In Progress"
+            "name": "Completed"
         },
         "voteCount": 12,
         "commentCount": 3
+    },
+    "cktzhzt3b156203yn1y63r2t1n": {
+        "id": "cktzhzt3b156203yn1y63r2t1n",
+        "title": "Discord Integration",
+        "body": "- Send a message for every incoming trade to a dedicated Discord channel in order to get mobile notifications- Send a message on progression updates (lvl up, first time reaching a zone) to another Discord channel to compete with friends.",
+        "timeAgo": "about 1 year",
+        "comments": [],
+        "user": {
+            "name": "Kyusung"
+        },
+        "status": {
+            "name": "Completed"
+        },
+        "voteCount": 9,
+        "commentCount": 0
     },
     "cktsbp2f547461map1rrkovz8d": {
         "id": "cktsbp2f547461map1rrkovz8d",
@@ -207,6 +245,21 @@
         },
         "voteCount": 8,
         "commentCount": 1
+    },
+    "cktsbozxk45626map1kyf25qky": {
+        "id": "cktsbozxk45626map1kyf25qky",
+        "title": "Add hotkeys to the trade module",
+        "body": "As a user i'd like to be able to trade using hotkeys in order to spent less time in my hideout.",
+        "timeAgo": "about 1 year",
+        "comments": [],
+        "user": {
+            "name": "Kyusung"
+        },
+        "status": {
+            "name": "Completed"
+        },
+        "voteCount": 8,
+        "commentCount": 0
     },
     "ckwl995gl227630rfiiqp6ffd": {
         "id": "ckwl995gl227630rfiiqp6ffd",
@@ -259,6 +312,36 @@
         },
         "voteCount": 7,
         "commentCount": 3
+    },
+    "cktsbp2gc47486map1eaofe0r5": {
+        "id": "cktsbp2gc47486map1eaofe0r5",
+        "title": "[Smart search] Connecting the market/evaluate/inspect features",
+        "body": "A way to open an inspected/evaluated item into the built-in market without having to manually enter stats or anything.",
+        "timeAgo": "about 1 year",
+        "comments": [],
+        "user": {
+            "name": "MalakaJones"
+        },
+        "status": {
+            "name": "Completed"
+        },
+        "voteCount": 7,
+        "commentCount": 0
+    },
+    "cktsboyte44790map16wgfsqii": {
+        "id": "cktsboyte44790map16wgfsqii",
+        "title": "Stat groups support within market",
+        "body": "Being able to choose wich stat group we want to use instead of the default \"and\" one would be nice!",
+        "timeAgo": "about 1 year",
+        "comments": [],
+        "user": {
+            "name": "MalakaJones"
+        },
+        "status": {
+            "name": "Completed"
+        },
+        "voteCount": 7,
+        "commentCount": 0
     },
     "ckx3rzbui794452skvfl9bv9uw": {
         "id": "ckx3rzbui794452skvfl9bv9uw",
@@ -636,6 +719,36 @@
         "voteCount": 2,
         "commentCount": 3
     },
+    "cktsbp27v47312map1uhmz4eoq": {
+        "id": "cktsbp27v47312map1uhmz4eoq",
+        "title": "Trade window transparency slider",
+        "body": "Would give the player freedom surrounding the appearence of the trade module window. Could also be expended to every different modules and windows. One slider per feature.",
+        "timeAgo": "about 1 year",
+        "comments": [],
+        "user": {
+            "name": "MalakaJones"
+        },
+        "status": {
+            "name": "Completed"
+        },
+        "voteCount": 2,
+        "commentCount": 0
+    },
+    "cktsbozyw45650map1jwscy7yj": {
+        "id": "cktsbozyw45650map1jwscy7yj",
+        "title": "Support for higher resolution screens",
+        "body": "The in-game windows are way too small on higher resolution screens. Add a way to increase the size of the windows and their content.",
+        "timeAgo": "about 1 year",
+        "comments": [],
+        "user": {
+            "name": "Kyusung"
+        },
+        "status": {
+            "name": "Completed"
+        },
+        "voteCount": 2,
+        "commentCount": 0
+    },
     "cl90t9tr7003bpm1xcsk9k2zz": {
         "id": "cl90t9tr7003bpm1xcsk9k2zz",
         "title": "not detect korean/empty message",
@@ -762,6 +875,29 @@
         },
         "voteCount": 1,
         "commentCount": 3
+    },
+    "cl75650147065501xq374sa5cit": {
+        "id": "cl75650147065501xq374sa5cit",
+        "title": "Show missin implicit/affixes/quality in market",
+        "body": "In Kalandra League there are a lot of items with mirrored implicit that can't be modified. This invalidate a lot of trade results being limited to only show non-mirrored. Would be nice to see these values on results",
+        "timeAgo": "about 2 months",
+        "comments": [
+            {
+                "body": "Thanks for creating this issue. This has been added with 1.3.21. ",
+                "timeAgo": "19 days",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
+        "user": {
+            "name": "g-alfieri"
+        },
+        "status": {
+            "name": "Completed"
+        },
+        "voteCount": 1,
+        "commentCount": 1
     },
     "ckw8d09ht4165702tnu2q9yrpyu": {
         "id": "ckw8d09ht4165702tnu2q9yrpyu",
