@@ -749,6 +749,21 @@
         "voteCount": 2,
         "commentCount": 0
     },
+    "cl9gxda5b00aplo247cohca6z": {
+        "id": "cl9gxda5b00aplo247cohca6z",
+        "title": "Class-Based Avatar Webhook ",
+        "body": "Possibly grabbing the current in game-class and changing the webhook avatar to the user's class.",
+        "timeAgo": "14 minutes",
+        "comments": [],
+        "user": {
+            "name": "Corin"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "cl90t9tr7003bpm1xcsk9k2zz": {
         "id": "cl90t9tr7003bpm1xcsk9k2zz",
         "title": "not detect korean/empty message",
