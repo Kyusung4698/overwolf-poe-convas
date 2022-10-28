@@ -786,6 +786,21 @@
         "voteCount": 2,
         "commentCount": 0
     },
+    "cl9sx91s901hzlo247wrdj0yh": {
+        "id": "cl9sx91s901hzlo247wrdj0yh",
+        "title": "Can you provide support for Simplified Chinese?",
+        "body": "I'm playing on the international server with the simplified Chinese patch.\n\nThe trade side functions works fine, but the item evaluation and inspection functions don't work for me.\n\nI have some experience with programming and translation, maybe I can help a bit.\n\nThank you for making such a useful tool!\n\nPatch download from: https://poedb.tw/cn/chinese",
+        "timeAgo": "12 minutes",
+        "comments": [],
+        "user": {
+            "name": "abevol"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "cl9gxda5b00aplo247cohca6z": {
         "id": "cl9gxda5b00aplo247cohca6z",
         "title": "Class-Based Avatar Webhook ",
