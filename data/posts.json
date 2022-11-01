@@ -569,6 +569,29 @@
         "voteCount": 3,
         "commentCount": 0
     },
+    "cl9sx91s901hzlo247wrdj0yh": {
+        "id": "cl9sx91s901hzlo247wrdj0yh",
+        "title": "Can you provide support for Simplified Chinese?",
+        "body": "I'm playing on the international server with the simplified Chinese patch.\n\nThe trade side functions works fine, but the item evaluation and inspection functions don't work for me.\n\nI have some experience with programming and translation, maybe I can help a bit.\n\nThank you for making such a useful tool!\n\nPatch download from: https://poedb.tw/cn/chinese",
+        "timeAgo": "4 days",
+        "comments": [
+            {
+                "body": "Hey there, thanks for sharing your suggestion.\nThis topic has come up in the past and unfortunately patched clients is not something we can easily support. The app needs to map the mods from the game to the trade website. Given there is no Chinese on the international trade website, this mapping relies on \nhttps://web.poe.garena.tw/\n and the app redirects all queries to there as well.\nA possible solution would be to force use the international website with the \ngarena.tw\n mappings, but this comes with quite some drawbacks like the market would be in english, mappings could be wrong etc.\nFor now we think the amount of users affected by this is too slim to justify implementing a custom solution. If we later have some more time to spare or this topic gets more popular we will re-evaluated this decision. ",
+                "timeAgo": "2 minutes",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
+        "user": {
+            "name": "abevol"
+        },
+        "status": {
+            "name": "Blocked"
+        },
+        "voteCount": 2,
+        "commentCount": 1
+    },
     "cl8kgkuka12171311xnxzoy0w13z": {
         "id": "cl8kgkuka12171311xnxzoy0w13z",
         "title": "Trade: Automatically close trade window upon leaving",
@@ -799,21 +822,6 @@
             "name": "Completed"
         },
         "voteCount": 2,
-        "commentCount": 0
-    },
-    "cl9sx91s901hzlo247wrdj0yh": {
-        "id": "cl9sx91s901hzlo247wrdj0yh",
-        "title": "Can you provide support for Simplified Chinese?",
-        "body": "I'm playing on the international server with the simplified Chinese patch.\n\nThe trade side functions works fine, but the item evaluation and inspection functions don't work for me.\n\nI have some experience with programming and translation, maybe I can help a bit.\n\nThank you for making such a useful tool!\n\nPatch download from: https://poedb.tw/cn/chinese",
-        "timeAgo": "12 minutes",
-        "comments": [],
-        "user": {
-            "name": "abevol"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
         "commentCount": 0
     },
     "cl9gxda5b00aplo247cohca6z": {
