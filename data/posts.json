@@ -51,7 +51,7 @@
             },
             {
                 "body": "Can’t wait! :pepehype:",
-                "timeAgo": "12 months",
+                "timeAgo": "about 1 year",
                 "user": {
                     "name": "Anonymous #7671"
                 }
@@ -63,7 +63,7 @@
         "status": {
             "name": "Blocked"
         },
-        "voteCount": 37,
+        "voteCount": 38,
         "commentCount": 2
     },
     "ckw87lfcg4143012tnur3l5xx98": {
@@ -115,7 +115,7 @@
         "status": {
             "name": "Planned"
         },
-        "voteCount": 20,
+        "voteCount": 21,
         "commentCount": 0
     },
     "cl0h3ne4s5446982unyii3raddp": {
@@ -592,6 +592,29 @@
         "voteCount": 2,
         "commentCount": 1
     },
+    "cl90t9tr7003bpm1xcsk9k2zz": {
+        "id": "cl90t9tr7003bpm1xcsk9k2zz",
+        "title": "not detect korean/empty message",
+        "body": "Hello\n\nTradeHelper does not detect people whose PoE username is in Korean\n\nAnd some people with English names are also not detected.\n\nIf I leave FinishMessage blank in the settings and send a FinishMessage in TradeHelper, I want to be able to Kick the person out of the party without sending a message.\n\nI would like to be able to Kick the person from the party without sending a message.\n\nI would like TradeHelper to work even when the chat box is open.",
+        "timeAgo": "about 1 month",
+        "comments": [
+            {
+                "body": "Hey there, we already have an issue requesting support for Korean trade requests. See \nhttps://poe-overlay.convas.io/feedback/support-korean-trade-requests-cktsbozyh45642map14gb8xrqh\nMay I ask why you don't want to send a thanks message? Is the feature it self not working properly?\nThis is not possible. The app has no way of knowing if the chat box is open and is therefore unable to adjust the inputs it needs to send to the game.\nPlease try to create an issue per topic in the future, if an issue has multiple topics it's hard for other people to vote on and keep track. Cheers! ",
+                "timeAgo": "29 days",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
+        "user": {
+            "name": "Tesraunread"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 2,
+        "commentCount": 1
+    },
     "cl8kgkuka12171311xnxzoy0w13z": {
         "id": "cl8kgkuka12171311xnxzoy0w13z",
         "title": "Trade: Automatically close trade window upon leaving",
@@ -625,6 +648,43 @@
         },
         "status": {
             "name": "Blocked"
+        },
+        "voteCount": 2,
+        "commentCount": 3
+    },
+    "cl8csqp052928991xj5sgt0nkme": {
+        "id": "cl8csqp052928991xj5sgt0nkme",
+        "title": "Custom Messages",
+        "body": "I would like to see an option where u could maybe add custom messages besides the default 4 that you have ",
+        "timeAgo": "about 2 months",
+        "comments": [
+            {
+                "body": "Hi there, thanks for creating this issue. Could you explain it a bit further and give an example on how this should work? Does it only affect trade message? (should you be able to use data from the trade message as placeholders) Or are those messages more globally and can be send anytime? ",
+                "timeAgo": "about 1 month",
+                "user": {
+                    "name": "Kyusung"
+                }
+            },
+            {
+                "body": "basically would be for like trading wise so something like you are doing sextants (selling them) but people keep wanting to only buy 1 at a time but you are only wanting to sell in bulk so having like the option where you could may addon another box in this area \nhttps://i.imgur.com/k0U5nr6.png\n where you could add in a message using the placeholders telling the person you are only wanting to sell in bulk something like that if you understand what im saying",
+                "timeAgo": "about 1 month",
+                "user": {
+                    "name": "Jimmy Straight"
+                }
+            },
+            {
+                "body": "I gotcha. I think for now you could use a command as a workaround by using the {latestWhisper} placeholder. See the screenshot below.\nIf this gets more traction in the future, we may implement this as part of the trade module. ",
+                "timeAgo": "about 1 month",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
+        "user": {
+            "name": "Jimmy Straight"
+        },
+        "status": {
+            "name": "Open"
         },
         "voteCount": 2,
         "commentCount": 3
@@ -839,29 +899,6 @@
         "voteCount": 1,
         "commentCount": 0
     },
-    "cl90t9tr7003bpm1xcsk9k2zz": {
-        "id": "cl90t9tr7003bpm1xcsk9k2zz",
-        "title": "not detect korean/empty message",
-        "body": "Hello\n\nTradeHelper does not detect people whose PoE username is in Korean\n\nAnd some people with English names are also not detected.\n\nIf I leave FinishMessage blank in the settings and send a FinishMessage in TradeHelper, I want to be able to Kick the person out of the party without sending a message.\n\nI would like to be able to Kick the person from the party without sending a message.\n\nI would like TradeHelper to work even when the chat box is open.",
-        "timeAgo": "1 day",
-        "comments": [
-            {
-                "body": "Hey there, we already have an issue requesting support for Korean trade requests. See \nhttps://poe-overlay.convas.io/feedback/support-korean-trade-requests-cktsbozyh45642map14gb8xrqh\nMay I ask why you don't want to send a thanks message? Is the feature it self not working properly?\nThis is not possible. The app has no way of knowing if the chat box is open and is therefore unable to adjust the inputs it needs to send to the game.\nPlease try to create an issue per topic in the future, if an issue has multiple topics it's hard for other people to vote on and keep track. Cheers! ",
-                "timeAgo": "3 minutes",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "Tesraunread"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
-        "commentCount": 1
-    },
     "cl8p1f3ep4007981xnx0xse4vmj": {
         "id": "cl8p1f3ep4007981xnx0xse4vmj",
         "title": "customize trade button",
@@ -891,43 +928,6 @@
         },
         "voteCount": 1,
         "commentCount": 2
-    },
-    "cl8csqp052928991xj5sgt0nkme": {
-        "id": "cl8csqp052928991xj5sgt0nkme",
-        "title": "Custom Messages",
-        "body": "I would like to see an option where u could maybe add custom messages besides the default 4 that you have ",
-        "timeAgo": "7 days",
-        "comments": [
-            {
-                "body": "Hi there, thanks for creating this issue. Could you explain it a bit further and give an example on how this should work? Does it only affect trade message? (should you be able to use data from the trade message as placeholders) Or are those messages more globally and can be send anytime? ",
-                "timeAgo": "3 days",
-                "user": {
-                    "name": "Kyusung"
-                }
-            },
-            {
-                "body": "basically would be for like trading wise so something like you are doing sextants (selling them) but people keep wanting to only buy 1 at a time but you are only wanting to sell in bulk so having like the option where you could may addon another box in this area \nhttps://i.imgur.com/k0U5nr6.png\n where you could add in a message using the placeholders telling the person you are only wanting to sell in bulk something like that if you understand what im saying",
-                "timeAgo": "about 23 hours",
-                "user": {
-                    "name": "Jimmy Straight"
-                }
-            },
-            {
-                "body": "I gotcha. I think for now you could use a command as a workaround by using the {latestWhisper} placeholder. See the screenshot below.\nIf this gets more traction in the future, we may implement this as part of the trade module. ",
-                "timeAgo": "21 minutes",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "Jimmy Straight"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
-        "commentCount": 3
     },
     "cl75650147065501xq374sa5cit": {
         "id": "cl75650147065501xq374sa5cit",
