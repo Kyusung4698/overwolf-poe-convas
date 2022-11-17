@@ -108,15 +108,23 @@
         "title": "Evaluating item mods based on tiers",
         "body": "A feature where once enabled, you would price your item based on the tier it has (lowest roll for the tier) and not the exact value it has.",
         "timeAgo": "about 1 year",
-        "comments": [],
+        "comments": [
+            {
+                "body": "Has been added with 1.6.0 🎉",
+                "timeAgo": "23 minutes",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "MalakaJones"
         },
         "status": {
-            "name": "In Progress"
+            "name": "Completed"
         },
         "voteCount": 21,
-        "commentCount": 0
+        "commentCount": 1
     },
     "cl0h3ne4s5446982unyii3raddp": {
         "id": "cl0h3ne4s5446982unyii3raddp",
@@ -393,34 +401,41 @@
         "id": "ckw294gfa1694982tnu25da7pio",
         "title": "Auto clip High value drops",
         "body": "Use a OBS plugin to auto clip high value item drops based on their rarity tier on item filters",
-        "timeAgo": "11 months",
+        "timeAgo": "about 1 year",
         "comments": [
             {
                 "body": "Hmm, that's an interesting one. The replay module already allows to create a short video on hotkey press, going back a few seconds in the past. So the only missing part would be to identify when a valuable item drops 🤔",
-                "timeAgo": "4 days",
+                "timeAgo": "about 2 months",
                 "user": {
                     "name": "Kyusung"
                 }
             },
             {
                 "body": "i mean this could be doable but how could you get that type of info unless you are doing like an image match with the screen to detect the valuable item when you hover over it on the ground",
-                "timeAgo": "2 days",
+                "timeAgo": "about 2 months",
                 "user": {
                     "name": "Jimmy Straight"
                 }
             },
             {
                 "body": "Image matching/ processing is def. not something I'd want to do, also given it needs to run the whole time. I think the \"easiest\" approach would be something sound related. Either knowing if a high value sound has been played by sound recognition or some Windows API trickery. ",
-                "timeAgo": "1 day",
+                "timeAgo": "about 2 months",
                 "user": {
                     "name": "Kyusung"
                 }
             },
             {
                 "body": " \ntrue but how would do go about that since more people make there own filters with different sounds",
-                "timeAgo": "about 2 hours",
+                "timeAgo": "about 2 months",
                 "user": {
                     "name": "Jimmy Straight"
+                }
+            },
+            {
+                "body": "Has been added with 1.6.0 🎉",
+                "timeAgo": "23 minutes",
+                "user": {
+                    "name": "Kyusung"
                 }
             }
         ],
@@ -428,10 +443,10 @@
             "name": "Inuboshi"
         },
         "status": {
-            "name": "In Progress"
+            "name": "Completed"
         },
         "voteCount": 5,
-        "commentCount": 4
+        "commentCount": 5
     },
     "ckzd6digy419082umd17bf59lv": {
         "id": "ckzd6digy419082umd17bf59lv",
@@ -776,16 +791,24 @@
         "id": "cl0brozbe3245942unyhxmgeafq",
         "title": "favorite management",
         "body": "Looking for a way to save a lot of searches. A folder system kind of like better trading chome addon would be pretty good. Clicking the right arrow key multiple times is not efficient. Thanks.",
-        "timeAgo": "7 months",
-        "comments": [],
+        "timeAgo": "9 months",
+        "comments": [
+            {
+                "body": "Has been added with 1.6.0 🎉",
+                "timeAgo": "23 minutes",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "Anonymous #8442"
         },
         "status": {
-            "name": "In Progress"
+            "name": "Completed"
         },
         "voteCount": 2,
-        "commentCount": 0
+        "commentCount": 1
     },
     "ckzafznnw154652ys0t9atr67o": {
         "id": "ckzafznnw154652ys0t9atr67o",
