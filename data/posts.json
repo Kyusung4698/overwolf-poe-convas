@@ -131,15 +131,23 @@
         "title": "Return to game with ESC",
         "body": "Close any active windows/overlays as if the X button were clicked on every Market/Inspect/Check/Settings window open. Just a small QoL of thing",
         "timeAgo": "9 months",
-        "comments": [],
+        "comments": [
+            {
+                "body": "Has been added with 1.7.0 🎉\nNote: This requires single window mode to be enabled and Overwolf v208+",
+                "timeAgo": "9 minutes",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "Anonymous #8482"
         },
         "status": {
-            "name": "In Progress"
+            "name": "Completed"
         },
         "voteCount": 16,
-        "commentCount": 0
+        "commentCount": 1
     },
     "ckztsqsjk1538022urdlkiaib8d": {
         "id": "ckztsqsjk1538022urdlkiaib8d",
@@ -588,11 +596,18 @@
         "id": "cl9sx91s901hzlo247wrdj0yh",
         "title": "Can you provide support for Simplified Chinese?",
         "body": "I'm playing on the international server with the simplified Chinese patch.\n\nThe trade side functions works fine, but the item evaluation and inspection functions don't work for me.\n\nI have some experience with programming and translation, maybe I can help a bit.\n\nThank you for making such a useful tool!\n\nPatch download from: https://poedb.tw/cn/chinese",
-        "timeAgo": "4 days",
+        "timeAgo": "about 1 month",
         "comments": [
             {
                 "body": "Hey there, thanks for sharing your suggestion.\nThis topic has come up in the past and unfortunately patched clients is not something we can easily support. The app needs to map the mods from the game to the trade website. Given there is no Chinese on the international trade website, this mapping relies on \nhttps://web.poe.garena.tw/\n and the app redirects all queries to there as well.\nA possible solution would be to force use the international website with the \ngarena.tw\n mappings, but this comes with quite some drawbacks like the market would be in english, mappings could be wrong etc.\nFor now we think the amount of users affected by this is too slim to justify implementing a custom solution. If we later have some more time to spare or this topic gets more popular we will re-evaluated this decision. ",
-                "timeAgo": "2 minutes",
+                "timeAgo": "about 1 month",
+                "user": {
+                    "name": "Kyusung"
+                }
+            },
+            {
+                "body": "Has been partially added with 1.7.0 🎉 We'll improve on this feature in a future iteration. \nNote: Needs to be enabled by going to preferences > context > Use international trade website.",
+                "timeAgo": "7 minutes",
                 "user": {
                     "name": "Kyusung"
                 }
@@ -602,10 +617,10 @@
             "name": "abevol"
         },
         "status": {
-            "name": "In Progress"
+            "name": "Completed"
         },
         "voteCount": 2,
-        "commentCount": 1
+        "commentCount": 2
     },
     "cl90t9tr7003bpm1xcsk9k2zz": {
         "id": "cl90t9tr7003bpm1xcsk9k2zz",
