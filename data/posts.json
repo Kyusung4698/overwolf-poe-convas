@@ -592,6 +592,21 @@
         "voteCount": 3,
         "commentCount": 0
     },
+    "clb40eb3p006pny1z2lfph6y9": {
+        "id": "clb40eb3p006pny1z2lfph6y9",
+        "title": "Have the Evaluate window filter by date",
+        "body": "With the recent update to the evaluate module, you can now activate or deactivate quickly listings that are online/offline. It would be really nice if you could click the \"age\" column so it sorts them from newest to older,\n\n",
+        "timeAgo": "11 days",
+        "comments": [],
+        "user": {
+            "name": "MalakaJones"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 2,
+        "commentCount": 0
+    },
     "cl9sx91s901hzlo247wrdj0yh": {
         "id": "cl9sx91s901hzlo247wrdj0yh",
         "title": "Can you provide support for Simplified Chinese?",
@@ -945,21 +960,6 @@
         "comments": [],
         "user": {
             "name": "Dustin Tobes"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
-        "commentCount": 0
-    },
-    "clb40eb3p006pny1z2lfph6y9": {
-        "id": "clb40eb3p006pny1z2lfph6y9",
-        "title": "Have the Evaluate window filter by date",
-        "body": "With the recent update to the evaluate module, you can now activate or deactivate quickly listings that are online/offline. It would be really nice if you could click the \"age\" column so it sorts them from newest to older,\n\n",
-        "timeAgo": "14 minutes",
-        "comments": [],
-        "user": {
-            "name": "MalakaJones"
         },
         "status": {
             "name": "Open"
