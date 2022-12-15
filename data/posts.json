@@ -209,6 +209,21 @@
         "voteCount": 12,
         "commentCount": 3
     },
+    "cktsbp2f547461map1rrkovz8d": {
+        "id": "cktsbp2f547461map1rrkovz8d",
+        "title": "Programable timer on active trades",
+        "body": "Some timer that could be set to a fixed amount and where active trades in the trade module would auto clear when that timer ends.",
+        "timeAgo": "over 1 year",
+        "comments": [],
+        "user": {
+            "name": "MalakaJones"
+        },
+        "status": {
+            "name": "Accepted"
+        },
+        "voteCount": 10,
+        "commentCount": 0
+    },
     "cktzhzt3b156203yn1y63r2t1n": {
         "id": "cktzhzt3b156203yn1y63r2t1n",
         "title": "Discord Integration",
@@ -220,21 +235,6 @@
         },
         "status": {
             "name": "Completed"
-        },
-        "voteCount": 9,
-        "commentCount": 0
-    },
-    "cktsbp2f547461map1rrkovz8d": {
-        "id": "cktsbp2f547461map1rrkovz8d",
-        "title": "Programable timer on active trades",
-        "body": "Some timer that could be set to a fixed amount and where active trades in the trade module would auto clear when that timer ends.",
-        "timeAgo": "about 1 year",
-        "comments": [],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "name": "Accepted"
         },
         "voteCount": 9,
         "commentCount": 0
