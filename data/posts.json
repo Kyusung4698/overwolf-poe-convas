@@ -612,7 +612,15 @@
         "title": "Alt+f4 changing to windowed mode",
         "body": "Everytime I press Alt+f4 to close the game the game changes mode to Windowed instead of closing. This doesn't happen if POE Overlay is closed.",
         "timeAgo": "5 days",
-        "comments": [],
+        "comments": [
+            {
+                "body": "The same is happening to me",
+                "timeAgo": "12 minutes",
+                "user": {
+                    "name": "Penagonza"
+                }
+            }
+        ],
         "user": {
             "name": "Dustin Tobes"
         },
@@ -620,7 +628,7 @@
             "name": "Open"
         },
         "voteCount": 2,
-        "commentCount": 0
+        "commentCount": 1
     },
     "cl9sx91s901hzlo247wrdj0yh": {
         "id": "cl9sx91s901hzlo247wrdj0yh",
