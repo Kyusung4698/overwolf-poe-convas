@@ -607,6 +607,21 @@
         "voteCount": 3,
         "commentCount": 0
     },
+    "clbiokdqd003hkj1yf9s7v66p": {
+        "id": "clbiokdqd003hkj1yf9s7v66p",
+        "title": "Alt+f4 changing to windowed mode",
+        "body": "Everytime I press Alt+f4 to close the game the game changes mode to Windowed instead of closing. This doesn't happen if POE Overlay is closed.",
+        "timeAgo": "5 days",
+        "comments": [],
+        "user": {
+            "name": "Dustin Tobes"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 2,
+        "commentCount": 0
+    },
     "cl9sx91s901hzlo247wrdj0yh": {
         "id": "cl9sx91s901hzlo247wrdj0yh",
         "title": "Can you provide support for Simplified Chinese?",
@@ -945,21 +960,6 @@
         "comments": [],
         "user": {
             "name": "Xenos Omega"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
-        "commentCount": 0
-    },
-    "clbiokdqd003hkj1yf9s7v66p": {
-        "id": "clbiokdqd003hkj1yf9s7v66p",
-        "title": "Alt+f4 changing to windowed mode",
-        "body": "Everytime I press Alt+f4 to close the game the game changes mode to Windowed instead of closing. This doesn't happen if POE Overlay is closed.",
-        "timeAgo": "about 1 hour",
-        "comments": [],
-        "user": {
-            "name": "Dustin Tobes"
         },
         "status": {
             "name": "Open"
