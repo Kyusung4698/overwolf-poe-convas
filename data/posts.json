@@ -960,6 +960,21 @@
         "voteCount": 2,
         "commentCount": 0
     },
+    "clbqtw54i00duk91yjkjdvkyv": {
+        "id": "clbqtw54i00duk91yjkjdvkyv",
+        "title": "Discord Notifications Based on Price",
+        "body": "Please implement a threshold value for discord notifications.\n\nI list a lot of items and only want to be notified of high-value sales.",
+        "timeAgo": "less than a minute",
+        "comments": [],
+        "user": {
+            "name": "Destreus"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "clbjy88ai0077kj1yqd5qxyuu": {
         "id": "clbjy88ai0077kj1yqd5qxyuu",
         "title": "Allow Message to saved",
