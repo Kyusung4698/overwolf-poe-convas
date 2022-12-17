@@ -483,6 +483,13 @@
                 "user": {
                     "name": "Penagonza"
                 }
+            },
+            {
+                "body": "You can unassign this command here, and it should fix it in the meantime. To unassign, you click the F4 key to open Overwolf menu, then press a random key, then click the \"x\" button next to it. It should unassign command #1",
+                "timeAgo": "15 minutes",
+                "user": {
+                    "name": "MalakaJones"
+                }
             }
         ],
         "user": {
@@ -492,7 +499,7 @@
             "name": "Open"
         },
         "voteCount": 3,
-        "commentCount": 1
+        "commentCount": 2
     },
     "ckzd6digy419082umd17bf59lv": {
         "id": "ckzd6digy419082umd17bf59lv",
@@ -977,8 +984,8 @@
     },
     "clbjy88ai0077kj1yqd5qxyuu": {
         "id": "clbjy88ai0077kj1yqd5qxyuu",
-        "title": "Allow Message to saved",
-        "body": "as the title, but allow the message not instant send but saved, so you could share it to friends as example\n\nthe poe trade site allow it too",
+        "title": "Allow trade whispers to be saved to clipboard",
+        "body": "As the title, allow trade whispers from the market to be saved to clipboard with an extra button, so you could share it to friends as example\n\nThe poe trade site allow it too.",
         "timeAgo": "4 minutes",
         "comments": [],
         "user": {
