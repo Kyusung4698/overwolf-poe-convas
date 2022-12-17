@@ -471,6 +471,29 @@
         "voteCount": 4,
         "commentCount": 0
     },
+    "clbiokdqd003hkj1yf9s7v66p": {
+        "id": "clbiokdqd003hkj1yf9s7v66p",
+        "title": "Alt+f4 changing to windowed mode",
+        "body": "Everytime I press Alt+f4 to close the game the game changes mode to Windowed instead of closing. This doesn't happen if POE Overlay is closed.",
+        "timeAgo": "7 days",
+        "comments": [
+            {
+                "body": "The same is happening to me",
+                "timeAgo": "2 days",
+                "user": {
+                    "name": "Penagonza"
+                }
+            }
+        ],
+        "user": {
+            "name": "Dustin Tobes"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 3,
+        "commentCount": 1
+    },
     "ckzd6digy419082umd17bf59lv": {
         "id": "ckzd6digy419082umd17bf59lv",
         "title": "add stash tab name to item highlight feature",
@@ -606,29 +629,6 @@
         },
         "voteCount": 3,
         "commentCount": 0
-    },
-    "clbiokdqd003hkj1yf9s7v66p": {
-        "id": "clbiokdqd003hkj1yf9s7v66p",
-        "title": "Alt+f4 changing to windowed mode",
-        "body": "Everytime I press Alt+f4 to close the game the game changes mode to Windowed instead of closing. This doesn't happen if POE Overlay is closed.",
-        "timeAgo": "5 days",
-        "comments": [
-            {
-                "body": "The same is happening to me",
-                "timeAgo": "12 minutes",
-                "user": {
-                    "name": "Penagonza"
-                }
-            }
-        ],
-        "user": {
-            "name": "Dustin Tobes"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 2,
-        "commentCount": 1
     },
     "cl9sx91s901hzlo247wrdj0yh": {
         "id": "cl9sx91s901hzlo247wrdj0yh",
