@@ -359,6 +359,29 @@
         "voteCount": 7,
         "commentCount": 0
     },
+    "ckx53ohor1190482skvax8hcza0": {
+        "id": "ckx53ohor1190482skvax8hcza0",
+        "title": "Metamorph organs support",
+        "body": "Would be nice if metamorph organs could be supported for evaluation. Since they are core, this would make sense to include those aswell.",
+        "timeAgo": "about 1 year",
+        "comments": [
+            {
+                "body": "I'm not exactly sure what the reason behind this missing support is. I'll add it to the backlog and check whenever I can. ",
+                "timeAgo": "3 months",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
+        "user": {
+            "name": "MalakaJones"
+        },
+        "status": {
+            "name": "Completed"
+        },
+        "voteCount": 6,
+        "commentCount": 1
+    },
     "ckx3rzbui794452skvfl9bv9uw": {
         "id": "ckx3rzbui794452skvfl9bv9uw",
         "title": "Multi Client Option",
@@ -380,29 +403,6 @@
             "name": "Blocked"
         },
         "voteCount": 6,
-        "commentCount": 1
-    },
-    "ckx53ohor1190482skvax8hcza0": {
-        "id": "ckx53ohor1190482skvax8hcza0",
-        "title": "Metamorph organs support",
-        "body": "Would be nice if metamorph organs could be supported for evaluation. Since they are core, this would make sense to include those aswell.",
-        "timeAgo": "11 months",
-        "comments": [
-            {
-                "body": "I'm not exactly sure what the reason behind this missing support is. I'll add it to the backlog and check whenever I can. ",
-                "timeAgo": "about 1 month",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "name": "Completed"
-        },
-        "voteCount": 5,
         "commentCount": 1
     },
     "ckw294gfa1694982tnu25da7pio": {
@@ -471,6 +471,58 @@
         "voteCount": 4,
         "commentCount": 0
     },
+    "ckzd6digy419082umd17bf59lv": {
+        "id": "ckzd6digy419082umd17bf59lv",
+        "title": "add stash tab name to item highlight feature",
+        "body": "abbility to see what stash tab is in when somebody send a trade (you can already see the item name in the bottom left i would like it to also show the stash tab name) \n\n",
+        "timeAgo": "10 months",
+        "comments": [
+            {
+                "body": "Hi there, we display the stash name in the upper part of the stash overlay. See the green box in the screenshot below.\nPlease let me know if this is enough, or if you still want the stash name to be displayed somewhere else. Thanks for your feedback!",
+                "timeAgo": "9 months",
+                "user": {
+                    "name": "Kyusung"
+                }
+            },
+            {
+                "body": "I would love if the bar where the stash name is would be a bit bigger. It's pretty small and hard to read. I would suggest making it the same font size as everything else like the size of the search bar or the stash name.",
+                "timeAgo": "7 months",
+                "user": {
+                    "name": "Nico Eschner"
+                }
+            },
+            {
+                "body": "That's valid feedback. Hmm, currently there are some technical restriction preventing me from scaling the whole stash highlight window. I will see how we can improve this. Thanks for your suggestion! ",
+                "timeAgo": "3 months",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
+        "user": {
+            "name": "Anonymous #8216"
+        },
+        "status": {
+            "name": "Accepted"
+        },
+        "voteCount": 4,
+        "commentCount": 3
+    },
+    "cktsbp2er47453map15eb3o7us": {
+        "id": "cktsbp2er47453map15eb3o7us",
+        "title": "In-game window for live searches",
+        "body": "Something similar to the trade feature window but for live searches. This would be helpfull to players having a single monitor setup.",
+        "timeAgo": "over 1 year",
+        "comments": [],
+        "user": {
+            "name": "MalakaJones"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 4,
+        "commentCount": 0
+    },
     "clbiokdqd003hkj1yf9s7v66p": {
         "id": "clbiokdqd003hkj1yf9s7v66p",
         "title": "Alt+f4 changing to windowed mode",
@@ -500,43 +552,6 @@
         },
         "voteCount": 3,
         "commentCount": 2
-    },
-    "ckzd6digy419082umd17bf59lv": {
-        "id": "ckzd6digy419082umd17bf59lv",
-        "title": "add stash tab name to item highlight feature",
-        "body": "abbility to see what stash tab is in when somebody send a trade (you can already see the item name in the bottom left i would like it to also show the stash tab name) \n\n",
-        "timeAgo": "8 months",
-        "comments": [
-            {
-                "body": "Hi there, we display the stash name in the upper part of the stash overlay. See the green box in the screenshot below.\nPlease let me know if this is enough, or if you still want the stash name to be displayed somewhere else. Thanks for your feedback!",
-                "timeAgo": "6 months",
-                "user": {
-                    "name": "Kyusung"
-                }
-            },
-            {
-                "body": "I would love if the bar where the stash name is would be a bit bigger. It's pretty small and hard to read. I would suggest making it the same font size as everything else like the size of the search bar or the stash name.",
-                "timeAgo": "4 months",
-                "user": {
-                    "name": "Nico Eschner"
-                }
-            },
-            {
-                "body": "That's valid feedback. Hmm, currently there are some technical restriction preventing me from scaling the whole stash highlight window. I will see how we can improve this. Thanks for your suggestion! ",
-                "timeAgo": "6 minutes",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "Anonymous #8216"
-        },
-        "status": {
-            "name": "Accepted"
-        },
-        "voteCount": 3,
-        "commentCount": 3
     },
     "ckw56ayp32970472tnum7j4zg02": {
         "id": "ckw56ayp32970472tnum7j4zg02",
@@ -606,21 +621,6 @@
         },
         "voteCount": 3,
         "commentCount": 1
-    },
-    "cktsbp2er47453map15eb3o7us": {
-        "id": "cktsbp2er47453map15eb3o7us",
-        "title": "In-game window for live searches",
-        "body": "Something similar to the trade feature window but for live searches. This would be helpfull to players having a single monitor setup.",
-        "timeAgo": "about 1 year",
-        "comments": [],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 3,
-        "commentCount": 0
     },
     "cktsbp2dg47427map1h5dtrqzc": {
         "id": "cktsbp2dg47427map1h5dtrqzc",
