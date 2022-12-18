@@ -40,11 +40,11 @@
         "id": "cktsbozyh45642map14gb8xrqh",
         "title": "Support Korean trade requests",
         "body": "Currently messages from Korean players are not logged because of privacy laws. Given the trade helper relies on the game log, no trade requests are displayed.",
-        "timeAgo": "about 1 year",
+        "timeAgo": "over 1 year",
         "comments": [
             {
                 "body": "Waiting on Overwolf to implement a game event to retrieve message from Korean players. See: https://discuss.overwolf.com/t/path-of-exile-on-chat-message-event/2024",
-                "timeAgo": "about 1 year",
+                "timeAgo": "over 1 year",
                 "user": {
                     "name": "Kyusung"
                 }
@@ -63,7 +63,7 @@
         "status": {
             "name": "Blocked"
         },
-        "voteCount": 38,
+        "voteCount": 39,
         "commentCount": 2
     },
     "ckw87lfcg4143012tnur3l5xx98": {
@@ -965,6 +965,21 @@
             "name": "Completed"
         },
         "voteCount": 2,
+        "commentCount": 0
+    },
+    "clbsyse2z00hvk91ytoc2axjk": {
+        "id": "clbsyse2z00hvk91ytoc2axjk",
+        "title": "Give us an option to press \"search\" automatically",
+        "body": "I'm aware that the auto-search was removed to prevent getting timed out, but there should be an option for it to be automatic ONLY when you evaluate the first time. \n\nWhat that means is, it wouldn't auto search every time you click on a stat, but only when you Alt+D, the first time wouldn't need to press \"Search\" to give us prices.\n\nIt would be optional in the end, I think many would enjoy it.",
+        "timeAgo": "7 minutes",
+        "comments": [],
+        "user": {
+            "name": "jaylay99"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
         "commentCount": 0
     },
     "clbqtw54i00duk91yjkjdvkyv": {
