@@ -36,7 +36,7 @@ interface ExecuteWebhookRequest {
 export class Webhook {
     constructor(
         private readonly url: string,
-        private readonly subdomain: string,
+        private readonly host: string,
         private readonly board: string,
         private readonly avatarUrl: string
     ) { }
@@ -60,7 +60,7 @@ export class Webhook {
                 newPosts.push({
                     title: next.title,
                     description: next.body,
-                    url: `https://${this.subdomain}.convas.io/${this.board}/${next.id}`,
+                    url: `https://${this.host}/${this.board}/${next.id}`,
                     author: { name: author },
                     footer: { text: `status: ${next.status.name.toLowerCase()}, upvotes: ${next.voteCount}, comments: ${next.commentCount}` }
                 });
@@ -69,7 +69,7 @@ export class Webhook {
                     commentAdded.push({
                         title: next.title,
                         description: trimText(next.body, 128),
-                        url: `https://${this.subdomain}.convas.io/${this.board}/${next.id}`,
+                        url: `https://${this.host}/${this.board}/${next.id}`,
                         author: { name: author },
                         footer: { text: `status: ${next.status.name.toLowerCase()}, upvotes: ${next.voteCount}, comments: ${next.commentCount}` },
                         fields: next.comments.slice(prev.commentCount, next.commentCount).map(x => ({
@@ -82,7 +82,7 @@ export class Webhook {
                     statusChanged.push({
                         title: next.title,
                         description: trimText(next.body, 128),
-                        url: `https://${this.subdomain}.convas.io/${this.board}/${next.id}`,
+                        url: `https://${this.host}/${this.board}/${next.id}`,
                         author: { name: author },
                         footer: { text: `status: ${next.status.name.toLowerCase()}, upvotes: ${next.voteCount}, comments: ${next.commentCount}` },
                         fields: [{
@@ -95,7 +95,7 @@ export class Webhook {
                     voteChanged.push({
                         title: next.title,
                         description: trimText(next.body, 128),
-                        url: `https://${this.subdomain}.convas.io/${this.board}/${next.id}`,
+                        url: `https://${this.host}/${this.board}/${next.id}`,
                         author: { name: author },
                         footer: { text: `status: ${next.status.name.toLowerCase()}, upvotes: ${next.voteCount}, comments: ${next.commentCount}` }
                     });
@@ -124,7 +124,7 @@ export class Webhook {
     private async execute(content: string, embeds?: Embed[]): Promise<boolean> {
         const request: ExecuteWebhookRequest = {
             avatar_url: this.avatarUrl,
-            username: `${this.subdomain}.convas.io`,
+            username: `${this.host}`,
             content, embeds
         };
         try {

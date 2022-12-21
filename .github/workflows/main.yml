@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     
     env:
-      SUBDOMAIN: 'poe-overlay'
+      HOST: 'feedback.poeoverlay.com'
       BOARD: 'feedback'
       SOURCE: './data/posts.json'
       AVATAR_URL: 'https://cdn.discordapp.com/avatars/891586647014141995/a70ef56578a4c4db3b266da127f45972.png'

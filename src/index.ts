@@ -7,15 +7,15 @@ import { Webhook } from './webhook';
 export async function execute(
 
 ) {
-    assert('env.SUBDOMAIN', env.SUBDOMAIN);
+    assert('env.HOST', env.HOST);
     assert('env.BOARD', env.BOARD);
     assert('env.SOURCE', env.SOURCE);
     assert('env.WEBHOOK', env.WEBHOOK);
     assert('env.AVATAR_URL', env.AVATAR_URL);
 
     const repository = new PostRepository(env.SOURCE);
-    const client = new ConvasClient(env.SUBDOMAIN);
-    const webhook = new Webhook(env.WEBHOOK, env.SUBDOMAIN, env.BOARD, env.AVATAR_URL);
+    const client = new ConvasClient(env.HOST);
+    const webhook = new Webhook(env.WEBHOOK, env.HOST, env.BOARD, env.AVATAR_URL);
 
     console.info('fetching previous posts...');
     const prevPosts = await repository.fetch();

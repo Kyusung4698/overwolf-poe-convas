@@ -4,7 +4,7 @@ import { BoardFetchResult, PostFetchResult } from './convas.types';
 
 export class ConvasClient {
     public constructor(
-        private readonly subdomain: string
+        private readonly host: string
     ) { }
 
     public async fetchBoard(): Promise<BoardFetchResult> {
@@ -13,10 +13,10 @@ export class ConvasClient {
                 limit: '100',
                 _data: 'routes/__public/__c/index'
             });
-            const response = await fetch(`https://${this.subdomain}.convas.io/?${params}`);
+            const response = await fetch(`https://${this.host}/?${params}`);
             return await response.json();
         } catch (error) {
-            console.warn(`An unexpected error occurred while fetching board for subdomain: '${this.subdomain}'.`, error);
+            console.warn(`An unexpected error occurred while fetching board for host: '${this.host}'.`, error);
             throw error;
         }
     }
@@ -26,10 +26,10 @@ export class ConvasClient {
             const params = new URLSearchParams({
                 _data: 'routes/__public/__c/$boardSlug.$postSlug'
             });
-            const response = await fetch(`https://${this.subdomain}.convas.io${path}?${params}`);
+            const response = await fetch(`https://${this.host}${path}?${params}`);
             return await response.json();
         } catch (error) {
-            console.warn(`An unexpected error occurred while fetching post: ${path} for subdomain: '${this.subdomain}'.`, error);
+            console.warn(`An unexpected error occurred while fetching post: ${path} for host: '${this.host}'.`, error);
             throw error;
         }
     }
