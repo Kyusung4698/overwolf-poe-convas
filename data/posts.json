@@ -359,6 +359,29 @@
         "voteCount": 7,
         "commentCount": 0
     },
+    "clbsyse2z00hvk91ytoc2axjk": {
+        "id": "clbsyse2z00hvk91ytoc2axjk",
+        "title": "Give us an option to press \"search\" automatically",
+        "body": "I'm aware that the auto-search was removed to prevent getting timed out, but there should be an option for it to be automatic ONLY when you evaluate the first time. \n\nWhat that means is, it wouldn't auto search every time you click on a stat, but only when you Alt+D, the first time wouldn't need to press \"Search\" to give us prices.\n\nIt would be optional in the end, I think many would enjoy it.",
+        "timeAgo": "4 days",
+        "comments": [
+            {
+                "body": "I think this is def. something we could consider again, also given we now have rate limiting in place. It's already done for bulk exchange items, but we could expand that for \"search\" items as well. I think this is especially good for uniques. ",
+                "timeAgo": "about 2 hours",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
+        "user": {
+            "name": "jaylay99"
+        },
+        "status": {
+            "name": "Accepted"
+        },
+        "voteCount": 6,
+        "commentCount": 1
+    },
     "ckx53ohor1190482skvax8hcza0": {
         "id": "ckx53ohor1190482skvax8hcza0",
         "title": "Metamorph organs support",
@@ -983,29 +1006,6 @@
         ],
         "user": {
             "name": "Subutai"
-        },
-        "status": {
-            "name": "Accepted"
-        },
-        "voteCount": 1,
-        "commentCount": 1
-    },
-    "clbsyse2z00hvk91ytoc2axjk": {
-        "id": "clbsyse2z00hvk91ytoc2axjk",
-        "title": "Give us an option to press \"search\" automatically",
-        "body": "I'm aware that the auto-search was removed to prevent getting timed out, but there should be an option for it to be automatic ONLY when you evaluate the first time. \n\nWhat that means is, it wouldn't auto search every time you click on a stat, but only when you Alt+D, the first time wouldn't need to press \"Search\" to give us prices.\n\nIt would be optional in the end, I think many would enjoy it.",
-        "timeAgo": "3 days",
-        "comments": [
-            {
-                "body": "I think this is def. something we could consider again, also given we now have rate limiting in place. It's already done for bulk exchange items, but we could expand that for \"search\" items as well. I think this is especially good for uniques. ",
-                "timeAgo": "10 minutes",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "jaylay99"
         },
         "status": {
             "name": "Accepted"
