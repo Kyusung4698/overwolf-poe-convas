@@ -971,31 +971,47 @@
         "id": "clbwklgie00spk91ya5ov0c1x",
         "title": "Ability to save and share settings",
         "body": "It would be great to be able to save and share settings for Evaluate (or anything else). \n\nI am a fan of the new (2 leagues ago) default search settings but I still have several things that I change every time those settings all get reset. I have some friends who also use PoE Overlay and I would like to easily share those settings. ",
-        "timeAgo": "5 minutes",
-        "comments": [],
+        "timeAgo": "about 22 hours",
+        "comments": [
+            {
+                "body": "That's a great idea! I think my only concern is, how we can prevent importing settings from older/newer version(s), may cause some issues if the data structure now longer fits.\nWould this still work for you if you could only import settings from a specific version?",
+                "timeAgo": "13 minutes",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "Subutai"
         },
         "status": {
-            "name": "Open"
+            "name": "Accepted"
         },
         "voteCount": 1,
-        "commentCount": 0
+        "commentCount": 1
     },
     "clbsyse2z00hvk91ytoc2axjk": {
         "id": "clbsyse2z00hvk91ytoc2axjk",
         "title": "Give us an option to press \"search\" automatically",
         "body": "I'm aware that the auto-search was removed to prevent getting timed out, but there should be an option for it to be automatic ONLY when you evaluate the first time. \n\nWhat that means is, it wouldn't auto search every time you click on a stat, but only when you Alt+D, the first time wouldn't need to press \"Search\" to give us prices.\n\nIt would be optional in the end, I think many would enjoy it.",
-        "timeAgo": "7 minutes",
-        "comments": [],
+        "timeAgo": "3 days",
+        "comments": [
+            {
+                "body": "I think this is def. something we could consider again, also given we now have rate limiting in place. It's already done for bulk exchange items, but we could expand that for \"search\" items as well. I think this is especially good for uniques. ",
+                "timeAgo": "10 minutes",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "jaylay99"
         },
         "status": {
-            "name": "Open"
+            "name": "Accepted"
         },
         "voteCount": 1,
-        "commentCount": 0
+        "commentCount": 1
     },
     "clbqtw54i00duk91yjkjdvkyv": {
         "id": "clbqtw54i00duk91yjkjdvkyv",
@@ -1007,7 +1023,7 @@
             "name": "Destreus"
         },
         "status": {
-            "name": "Open"
+            "name": "Accepted"
         },
         "voteCount": 1,
         "commentCount": 0
@@ -1022,7 +1038,7 @@
             "name": "Xenos Omega"
         },
         "status": {
-            "name": "Open"
+            "name": "Accepted"
         },
         "voteCount": 1,
         "commentCount": 0
