@@ -990,6 +990,21 @@
         "voteCount": 2,
         "commentCount": 0
     },
+    "clbz80n9p010bk91yvzyu99m4": {
+        "id": "clbz80n9p010bk91yvzyu99m4",
+        "title": "Evaluate Grand Heist items on the go",
+        "body": "Since we can only evaluate items that are in our inventory, we can't evaluate the final item of Grand Heists without actually picking it up. We have to go on poe.ninja to check every Gem/Replica Uniques which can get tiresome and is quite slow.\n\nIf we could quickly evaluate that are in Curio Display on the go, that'd be great! \n\n",
+        "timeAgo": "1 minute",
+        "comments": [],
+        "user": {
+            "name": "jaylay99"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "clbwklgie00spk91ya5ov0c1x": {
         "id": "clbwklgie00spk91ya5ov0c1x",
         "title": "Ability to save and share settings",
