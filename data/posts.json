@@ -33,7 +33,7 @@
         "status": {
             "name": "Blocked"
         },
-        "voteCount": 70,
+        "voteCount": 71,
         "commentCount": 3
     },
     "cktsbozyh45642map14gb8xrqh": {
@@ -107,11 +107,11 @@
         "id": "cktsbp2ec47445map10tmzn5tg",
         "title": "Evaluating item mods based on tiers",
         "body": "A feature where once enabled, you would price your item based on the tier it has (lowest roll for the tier) and not the exact value it has.",
-        "timeAgo": "about 1 year",
+        "timeAgo": "over 1 year",
         "comments": [
             {
                 "body": "Has been added with 1.6.0 🎉",
-                "timeAgo": "23 minutes",
+                "timeAgo": "about 1 month",
                 "user": {
                     "name": "Kyusung"
                 }
@@ -123,7 +123,7 @@
         "status": {
             "name": "Completed"
         },
-        "voteCount": 21,
+        "voteCount": 22,
         "commentCount": 1
     },
     "cl0h3ne4s5446982unyii3raddp": {
