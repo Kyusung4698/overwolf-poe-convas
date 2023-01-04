@@ -21,7 +21,7 @@
             },
             {
                 "body": "Maybe you could ask for an update from overwolf. Its already 9 months ago and still no new infos from them.",
-                "timeAgo": "7 months",
+                "timeAgo": "8 months",
                 "user": {
                     "name": "Nico Eschner"
                 }
@@ -33,7 +33,7 @@
         "status": {
             "name": "Blocked"
         },
-        "voteCount": 73,
+        "voteCount": 74,
         "commentCount": 3
     },
     "cktsbozyh45642map14gb8xrqh": {
@@ -443,6 +443,29 @@
         "voteCount": 6,
         "commentCount": 1
     },
+    "ckw56ayp32970472tnum7j4zg02": {
+        "id": "ckw56ayp32970472tnum7j4zg02",
+        "title": "Thank you message in different languages",
+        "body": "Send the \"Thank you for trading\" message in the appropriate language, as the initial trade message was in.",
+        "timeAgo": "about 1 year",
+        "comments": [
+            {
+                "body": "This would only be relevant for outgoing trades, as incoming trades are always in your own language. I'm not sure this is worth implementing but if enough users vote, I will consider it :)",
+                "timeAgo": "3 months",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
+        "user": {
+            "name": "Slash1y"
+        },
+        "status": {
+            "name": "Accepted"
+        },
+        "voteCount": 5,
+        "commentCount": 1
+    },
     "ckw294gfa1694982tnu25da7pio": {
         "id": "ckw294gfa1694982tnu25da7pio",
         "title": "Auto clip High value drops",
@@ -546,14 +569,14 @@
         "voteCount": 4,
         "commentCount": 3
     },
-    "ckw56ayp32970472tnum7j4zg02": {
-        "id": "ckw56ayp32970472tnum7j4zg02",
-        "title": "Thank you message in different languages",
-        "body": "Send the \"Thank you for trading\" message in the appropriate language, as the initial trade message was in.",
+    "ckulbqcuc695573yqoybnb4lz3": {
+        "id": "ckulbqcuc695573yqoybnb4lz3",
+        "title": "Main UI not to launch on startup",
+        "body": "Some users prefer not having the main UI window show up on startup. Since this is a free tool ad driven, I could see this as a paid feature.",
         "timeAgo": "about 1 year",
         "comments": [
             {
-                "body": "This would only be relevant for outgoing trades, as incoming trades are always in your own language. I'm not sure this is worth implementing but if enough users vote, I will consider it :)",
+                "body": "Hi there, thanks for creating this issue. This could be indeed be part of a paid version coming later. As not automatically opening the desktop part for everyone would drastically reduce the revenue, but given paid users won't see ads, this should be reasonable. ",
                 "timeAgo": "3 months",
                 "user": {
                     "name": "Kyusung"
@@ -561,7 +584,30 @@
             }
         ],
         "user": {
-            "name": "Slash1y"
+            "name": "Anonymous #7671"
+        },
+        "status": {
+            "name": "Accepted"
+        },
+        "voteCount": 4,
+        "commentCount": 1
+    },
+    "cktsbp2fj47469map1iqn119gj": {
+        "id": "cktsbp2fj47469map1iqn119gj",
+        "title": "Player ignore built-in feature",
+        "body": "I would love to see my player ignore list be linked from the official website. Could also be a totaly independant one if it's simpler to implement. Being able to directly add players to that list from the evaluate or market feature would be awsome.",
+        "timeAgo": "over 1 year",
+        "comments": [
+            {
+                "body": "This is somewhat supported if you link your GGG account. The market results should already be using the ignore list of your linked account. I'm planning extending on this integration by also making the ignore list editable in the market. So stay tuned o/ ",
+                "timeAgo": "3 months",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
+        "user": {
+            "name": "MalakaJones"
         },
         "status": {
             "name": "Accepted"
@@ -580,6 +626,21 @@
         },
         "status": {
             "name": "Open"
+        },
+        "voteCount": 4,
+        "commentCount": 0
+    },
+    "cktsbp2dg47427map1h5dtrqzc": {
+        "id": "cktsbp2dg47427map1h5dtrqzc",
+        "title": "Stackable usernames when evaluating currencies",
+        "body": "I think the tool used to have that feature built in. I would love to see it come back. That feature used to help me spot price fixers. ",
+        "timeAgo": "over 1 year",
+        "comments": [],
+        "user": {
+            "name": "MalakaJones"
+        },
+        "status": {
+            "name": "Accepted"
         },
         "voteCount": 4,
         "commentCount": 0
@@ -613,67 +674,6 @@
         },
         "voteCount": 3,
         "commentCount": 2
-    },
-    "ckulbqcuc695573yqoybnb4lz3": {
-        "id": "ckulbqcuc695573yqoybnb4lz3",
-        "title": "Main UI not to launch on startup",
-        "body": "Some users prefer not having the main UI window show up on startup. Since this is a free tool ad driven, I could see this as a paid feature.",
-        "timeAgo": "12 months",
-        "comments": [
-            {
-                "body": "Hi there, thanks for creating this issue. This could be indeed be part of a paid version coming later. As not automatically opening the desktop part for everyone would drastically reduce the revenue, but given paid users won't see ads, this should be reasonable. ",
-                "timeAgo": "11 minutes",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "Anonymous #7671"
-        },
-        "status": {
-            "name": "Accepted"
-        },
-        "voteCount": 3,
-        "commentCount": 1
-    },
-    "cktsbp2fj47469map1iqn119gj": {
-        "id": "cktsbp2fj47469map1iqn119gj",
-        "title": "Player ignore built-in feature",
-        "body": "I would love to see my player ignore list be linked from the official website. Could also be a totaly independant one if it's simpler to implement. Being able to directly add players to that list from the evaluate or market feature would be awsome.",
-        "timeAgo": "about 1 year",
-        "comments": [
-            {
-                "body": "This is somewhat supported if you link your GGG account. The market results should already be using the ignore list of your linked account. I'm planning extending on this integration by also making the ignore list editable in the market. So stay tuned o/ ",
-                "timeAgo": "about 1 hour",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "name": "Accepted"
-        },
-        "voteCount": 3,
-        "commentCount": 1
-    },
-    "cktsbp2dg47427map1h5dtrqzc": {
-        "id": "cktsbp2dg47427map1h5dtrqzc",
-        "title": "Stackable usernames when evaluating currencies",
-        "body": "I think the tool used to have that feature built in. I would love to see it come back. That feature used to help me spot price fixers. ",
-        "timeAgo": "about 1 year",
-        "comments": [],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "name": "Accepted"
-        },
-        "voteCount": 3,
-        "commentCount": 0
     },
     "cl9sx91s901hzlo247wrdj0yh": {
         "id": "cl9sx91s901hzlo247wrdj0yh",
