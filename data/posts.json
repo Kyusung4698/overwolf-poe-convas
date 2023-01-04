@@ -1005,6 +1005,21 @@
         "voteCount": 2,
         "commentCount": 0
     },
+    "clchq1ohh01ytk91yr2ugbv7g": {
+        "id": "clchq1ohh01ytk91yr2ugbv7g",
+        "title": "Trade whisper validation",
+        "body": "Validate if the whispered price matches the listed price on the trade website. ",
+        "timeAgo": "1 minute",
+        "comments": [],
+        "user": {
+            "name": "Kyusung"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "clcfi6ao901nxk91ydct1zvde": {
         "id": "clcfi6ao901nxk91ydct1zvde",
         "title": "Ideas for if/when we can know party members",
