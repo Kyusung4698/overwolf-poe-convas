@@ -675,6 +675,21 @@
         "voteCount": 3,
         "commentCount": 2
     },
+    "cld6415hr047jk91ydxgyuf72": {
+        "id": "cld6415hr047jk91ydxgyuf72",
+        "title": "An integrated notepad",
+        "body": "An integrated notepad where you could write some stuff like regexes for rolling maps. Very basic stuff not to have to pull out an extra file or website.\n\nCould be a new tab in the Option UI next to the change log.",
+        "timeAgo": "about 4 hours",
+        "comments": [],
+        "user": {
+            "name": "MalakaJones"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 2,
+        "commentCount": 0
+    },
     "cl9sx91s901hzlo247wrdj0yh": {
         "id": "cl9sx91s901hzlo247wrdj0yh",
         "title": "Can you provide support for Simplified Chinese?",
@@ -1003,21 +1018,6 @@
             "name": "Completed"
         },
         "voteCount": 2,
-        "commentCount": 0
-    },
-    "cld6415hr047jk91ydxgyuf72": {
-        "id": "cld6415hr047jk91ydxgyuf72",
-        "title": "An integrated notepad",
-        "body": "An integrated notepad where you could write some stuff like regexes for rolling maps. Very basic stuff not to have to pull out an extra file or website.\n\nCould be a new tab in the Option UI next to the change log.",
-        "timeAgo": "11 minutes",
-        "comments": [],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
         "commentCount": 0
     },
     "clculaj5u02stk91ysuokveh6": {
