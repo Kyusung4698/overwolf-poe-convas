@@ -1005,6 +1005,21 @@
         "voteCount": 2,
         "commentCount": 0
     },
+    "cld6415hr047jk91ydxgyuf72": {
+        "id": "cld6415hr047jk91ydxgyuf72",
+        "title": "An integrated notepad",
+        "body": "An integrated notepad where you could write some stuff like regexes for rolling maps. Very basic stuff not to have to pull out an extra file or website.\n\nCould be a new tab in the Option UI next to the change log.",
+        "timeAgo": "11 minutes",
+        "comments": [],
+        "user": {
+            "name": "MalakaJones"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "clculaj5u02stk91ysuokveh6": {
         "id": "clculaj5u02stk91ysuokveh6",
         "title": "Trade manager stash tab name",
