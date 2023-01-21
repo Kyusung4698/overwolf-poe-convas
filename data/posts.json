@@ -81,14 +81,14 @@
             },
             {
                 "body": "This is the last piece missing :) such a pain to always pull the calc",
-                "timeAgo": "10 months",
+                "timeAgo": "11 months",
                 "user": {
                     "name": "Anonymous #8306"
                 }
             },
             {
                 "body": "Hey there, the app now shows decimal places using two currencies (e.g. 1.7 divine -> 1 divine + 140 chaos) in the market, trade and live search module. Please let me know if you still need a standalone converter! :)",
-                "timeAgo": "3 months",
+                "timeAgo": "4 months",
                 "user": {
                     "name": "Kyusung"
                 }
@@ -100,7 +100,7 @@
         "status": {
             "name": "Completed"
         },
-        "voteCount": 31,
+        "voteCount": 32,
         "commentCount": 3
     },
     "cktsbp2ec47445map10tmzn5tg": {
@@ -674,6 +674,21 @@
         },
         "voteCount": 3,
         "commentCount": 2
+    },
+    "cld6fizgp048ck91y028ixxn1": {
+        "id": "cld6fizgp048ck91y028ixxn1",
+        "title": "Add \"Collapse Listings by Account\" to the Market",
+        "body": "The feature \"Collapse Listings by Account\" on the official trading site allows you to have only shown 1 listing per account, which gives you the ability to easily ignore price fixers. Overall it would be a great QoL and I'm sure many would enjoy it\n\nP.S.: if this is accepted, please that'd be great if you could make it an option in the PoE Overlay settings to ALWAYS leave it enabled so we don't have to put \"YES\" every time.\n\n",
+        "timeAgo": "14 minutes",
+        "comments": [],
+        "user": {
+            "name": "jaylay99"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 2,
+        "commentCount": 0
     },
     "cld6415hr047jk91ydxgyuf72": {
         "id": "cld6415hr047jk91ydxgyuf72",
