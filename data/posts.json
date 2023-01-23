@@ -1039,13 +1039,20 @@
         "id": "cld8wpaf504e9k91yjrq7eosv",
         "title": "Bulk selection of products that match the filter settings.",
         "body": "On the example of maps: the game uses filtering based on regular expressions. This is good, but too short (about 50 characters per search)\n\n1) It would be great if the program could look at all the cards at once and show which ones fit the conditions.\n\n2) If this is not possible, then you can add the \"Online Tracking\" mode so as not to constantly click on each ALT + Q card, but simply move the mouse and it will immediately show the card suits the conditions or not.\n\nThe first option sounds \"tastier\", but it is not known whether it is possible to implement it.",
-        "timeAgo": "13 minutes",
+        "timeAgo": "41 minutes",
         "comments": [
             {
                 "body": "Для русскоговорящих. \nМассовое выделение предметов, совпадающий с настройками фильтра.\nНа примере карт: В игре используется фильтрация на основе regex. Он хороший, но слишком коротки(около 50 символов в поиске)\n1)Было бы отлично, если программа могла сразу осматривать все карты и показывать, какие из них подходят под условия.\n2)Если это невозможно реализовать, можно добавить режим \"Отслеживание online\", чтобы не нажимать постоянно на каждую карту АЛЬТ+Q , а просто навести мышь и сразу отобразится, подходит ли под условия карта или нет.\nПервый вариант звучит \"вкуснее\", но не известно, возможно ли ее реализовать.",
-                "timeAgo": "12 minutes",
+                "timeAgo": "40 minutes",
                 "user": {
                     "name": "Шатун"
+                }
+            },
+            {
+                "body": "So if i understand you correctly, this feature would check the mods for all maps at once and potentially highlight maps that have bad mods?\nWould this be something you use once or multiple times? e.g. if you want to use it to roll maps, you would need to be able to trigger it multiple times (after rerolling a map) in a short period of time. This would rule out using the stash api as the items are not that often refreshed. ",
+                "timeAgo": "14 minutes",
+                "user": {
+                    "name": "Kyusung"
                 }
             }
         ],
@@ -1056,7 +1063,7 @@
             "name": "Open"
         },
         "voteCount": 1,
-        "commentCount": 1
+        "commentCount": 2
     },
     "clculaj5u02stk91ysuokveh6": {
         "id": "clculaj5u02stk91ysuokveh6",
