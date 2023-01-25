@@ -660,6 +660,21 @@
         "voteCount": 4,
         "commentCount": 0
     },
+    "clculaj5u02stk91ysuokveh6": {
+        "id": "clculaj5u02stk91ysuokveh6",
+        "title": "Trade manager stash tab name",
+        "body": "Hello!\n\nI am selling my compass to make some money\n\nTradeManager is really useful, but in the case of the compass, it only shows CHARGED COMPASS and the amount.\n\nI don't know what the name of the stash tab is.\n\nIs it possible to display the name of the stash tab below the current amount?",
+        "timeAgo": "12 days",
+        "comments": [],
+        "user": {
+            "name": "Anonymous #12594"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 3,
+        "commentCount": 0
+    },
     "clbiokdqd003hkj1yf9s7v66p": {
         "id": "clbiokdqd003hkj1yf9s7v66p",
         "title": "Alt+f4 changing to windowed mode",
@@ -735,21 +750,6 @@
         "comments": [],
         "user": {
             "name": "MalakaJones"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 2,
-        "commentCount": 0
-    },
-    "clculaj5u02stk91ysuokveh6": {
-        "id": "clculaj5u02stk91ysuokveh6",
-        "title": "Trade manager stash tab name",
-        "body": "Hello!\n\nI am selling my compass to make some money\n\nTradeManager is really useful, but in the case of the compass, it only shows CHARGED COMPASS and the amount.\n\nI don't know what the name of the stash tab is.\n\nIs it possible to display the name of the stash tab below the current amount?",
-        "timeAgo": "10 days",
-        "comments": [],
-        "user": {
-            "name": "Anonymous #12594"
         },
         "status": {
             "name": "Open"
