@@ -51,9 +51,16 @@
             },
             {
                 "body": "Can’t wait! :pepehype:",
-                "timeAgo": "about 1 year",
+                "timeAgo": "over 1 year",
                 "user": {
                     "name": "Anonymous #7671"
+                }
+            },
+            {
+                "body": "Event has been implemented by Overwolf. The app will support this soonish. ",
+                "timeAgo": "4 minutes",
+                "user": {
+                    "name": "Kyusung"
                 }
             }
         ],
@@ -61,10 +68,10 @@
             "name": "Kyusung"
         },
         "status": {
-            "name": "Blocked"
+            "name": "In Progress"
         },
         "voteCount": 39,
-        "commentCount": 2
+        "commentCount": 3
     },
     "ckw87lfcg4143012tnur3l5xx98": {
         "id": "ckw87lfcg4143012tnur3l5xx98",
@@ -572,7 +579,7 @@
             "name": "MalakaJones"
         },
         "status": {
-            "name": "Open"
+            "name": "Accepted"
         },
         "voteCount": 4,
         "commentCount": 0
@@ -801,29 +808,6 @@
         },
         "voteCount": 2,
         "commentCount": 2
-    },
-    "cl90t9tr7003bpm1xcsk9k2zz": {
-        "id": "cl90t9tr7003bpm1xcsk9k2zz",
-        "title": "not detect korean/empty message",
-        "body": "Hello\n\nTradeHelper does not detect people whose PoE username is in Korean\n\nAnd some people with English names are also not detected.\n\nIf I leave FinishMessage blank in the settings and send a FinishMessage in TradeHelper, I want to be able to Kick the person out of the party without sending a message.\n\nI would like to be able to Kick the person from the party without sending a message.\n\nI would like TradeHelper to work even when the chat box is open.",
-        "timeAgo": "about 1 month",
-        "comments": [
-            {
-                "body": "Hey there, we already have an issue requesting support for Korean trade requests. See \nhttps://poe-overlay.convas.io/feedback/support-korean-trade-requests-cktsbozyh45642map14gb8xrqh\nMay I ask why you don't want to send a thanks message? Is the feature it self not working properly?\nThis is not possible. The app has no way of knowing if the chat box is open and is therefore unable to adjust the inputs it needs to send to the game.\nPlease try to create an issue per topic in the future, if an issue has multiple topics it's hard for other people to vote on and keep track. Cheers! ",
-                "timeAgo": "29 days",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "Tesraunread"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 2,
-        "commentCount": 1
     },
     "cl8kgkuka12171311xnxzoy0w13z": {
         "id": "cl8kgkuka12171311xnxzoy0w13z",
@@ -1112,7 +1096,7 @@
             "name": "MalakaJones"
         },
         "status": {
-            "name": "Open"
+            "name": "Accepted"
         },
         "voteCount": 1,
         "commentCount": 0
@@ -1127,7 +1111,7 @@
             "name": "Anonymous #12952"
         },
         "status": {
-            "name": "Open"
+            "name": "Accepted"
         },
         "voteCount": 1,
         "commentCount": 0
