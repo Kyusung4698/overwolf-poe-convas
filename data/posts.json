@@ -1086,6 +1086,21 @@
         "voteCount": 2,
         "commentCount": 0
     },
+    "cldymx9e7000lkx1s3uzcadlt": {
+        "id": "cldymx9e7000lkx1s3uzcadlt",
+        "title": "Searching Bar Problem",
+        "body": "After a while i play (around every 10-15 min) i must reopen the overlay in order to use searching bars.When i press P button for example in search bar it opens skill tree instead of searching an item starting with P.The problem goes when i restart the overlay as i said but it is quite uncomfortable that i need to do this every 10 min or so.",
+        "timeAgo": "4 minutes",
+        "comments": [],
+        "user": {
+            "name": "AliTalhaK"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "cldwjl4nz00p4ml1rxhi7ts4z": {
         "id": "cldwjl4nz00p4ml1rxhi7ts4z",
         "title": "Parse specific veiled mods",
