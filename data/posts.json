@@ -727,6 +727,21 @@
         "voteCount": 3,
         "commentCount": 2
     },
+    "cldwjl4nz00p4ml1rxhi7ts4z": {
+        "id": "cldwjl4nz00p4ml1rxhi7ts4z",
+        "title": "Parse specific veiled mods",
+        "body": "It would be nice if the evaluate window could parse veiled mods with their respective master. For exemple, this item has a Vagan's veiled mod, but the parser does not parse it completly.\n\nItem Class: One Hand Axes\n\nRarity: Rare\n\nCarrion Bane\n\nInfernal Axe\n\n--------\n\nOne Handed Axe\n\nPhysical Damage: 105-175 (augmented)\n\nCritical Strike Chance: 5.00%\n\nAttacks per Second: 1.30\n\nWeapon Range: 11\n\n--------\n\nRequirements:\n\nLevel: 69\n\nStr: 158\n\nDex: 76\n\n--------\n\nSockets: R \n\n--------\n\nItem Level: 85\n\n--------\n\n{ Prefix Modifier \"Vicious\" (Tier: 5) — Damage, Physical, Attack }\n\n106(85-109)% increased Physical Damage\n\n{ Suffix Modifier \"of the Gladiator\" (Tier: 1) }\n\n14(14-15)% reduced Enemy Stun Threshold\n\n(The Stun Threshold determines how much Damage can Stun something)\n\n{ Suffix Modifier \"of Fury\" (Tier: 3) — Damage, Critical }\n\n+29(25-29)% to Global Critical Strike Multiplier\n\n{ Suffix Modifier \"of Consumption\" (Tier: 1) — Mana }\n\nGain 5(4-6) Mana per Enemy Killed\n\n{ Prefix Modifier \"Vagan's Veiled\" }\n\nVeiled Prefix\n\nMaster veiled mods can be added as a regular mod.",
+        "timeAgo": "9 days",
+        "comments": [],
+        "user": {
+            "name": "MalakaJones"
+        },
+        "status": {
+            "name": "Accepted"
+        },
+        "voteCount": 2,
+        "commentCount": 0
+    },
     "cld8wpaf504e9k91yjrq7eosv": {
         "id": "cld8wpaf504e9k91yjrq7eosv",
         "title": "Bulk selection of products that match the filter settings.",
@@ -1097,21 +1112,6 @@
         },
         "status": {
             "name": "Open"
-        },
-        "voteCount": 1,
-        "commentCount": 0
-    },
-    "cldwjl4nz00p4ml1rxhi7ts4z": {
-        "id": "cldwjl4nz00p4ml1rxhi7ts4z",
-        "title": "Parse specific veiled mods",
-        "body": "It would be nice if the evaluate window could parse veiled mods with their respective master. For exemple, this item has a Vagan's veiled mod, but the parser does not parse it completly.\n\nItem Class: One Hand Axes\n\nRarity: Rare\n\nCarrion Bane\n\nInfernal Axe\n\n--------\n\nOne Handed Axe\n\nPhysical Damage: 105-175 (augmented)\n\nCritical Strike Chance: 5.00%\n\nAttacks per Second: 1.30\n\nWeapon Range: 11\n\n--------\n\nRequirements:\n\nLevel: 69\n\nStr: 158\n\nDex: 76\n\n--------\n\nSockets: R \n\n--------\n\nItem Level: 85\n\n--------\n\n{ Prefix Modifier \"Vicious\" (Tier: 5) — Damage, Physical, Attack }\n\n106(85-109)% increased Physical Damage\n\n{ Suffix Modifier \"of the Gladiator\" (Tier: 1) }\n\n14(14-15)% reduced Enemy Stun Threshold\n\n(The Stun Threshold determines how much Damage can Stun something)\n\n{ Suffix Modifier \"of Fury\" (Tier: 3) — Damage, Critical }\n\n+29(25-29)% to Global Critical Strike Multiplier\n\n{ Suffix Modifier \"of Consumption\" (Tier: 1) — Mana }\n\nGain 5(4-6) Mana per Enemy Killed\n\n{ Prefix Modifier \"Vagan's Veiled\" }\n\nVeiled Prefix\n\nMaster veiled mods can be added as a regular mod.",
-        "timeAgo": "1 minute",
-        "comments": [],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "name": "Accepted"
         },
         "voteCount": 1,
         "commentCount": 0
