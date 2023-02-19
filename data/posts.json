@@ -727,6 +727,21 @@
         "voteCount": 3,
         "commentCount": 2
     },
+    "cleamd7aq0090mk1r2x0z6wk5": {
+        "id": "cleamd7aq0090mk1r2x0z6wk5",
+        "title": "Item highlight option",
+        "body": "I would like an option to set these positions.\n\nI need a setting to make this invisible.",
+        "timeAgo": "about 10 hours",
+        "comments": [],
+        "user": {
+            "name": "Tesraunread"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 2,
+        "commentCount": 0
+    },
     "cldwjl4nz00p4ml1rxhi7ts4z": {
         "id": "cldwjl4nz00p4ml1rxhi7ts4z",
         "title": "Parse specific veiled mods",
@@ -1099,21 +1114,6 @@
             "name": "Completed"
         },
         "voteCount": 2,
-        "commentCount": 0
-    },
-    "cleamd7aq0090mk1r2x0z6wk5": {
-        "id": "cleamd7aq0090mk1r2x0z6wk5",
-        "title": "Item highlight option",
-        "body": "I would like an option to set these positions.\n\nI need a setting to make this invisible.",
-        "timeAgo": "about 1 hour",
-        "comments": [],
-        "user": {
-            "name": "Tesraunread"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
         "commentCount": 0
     },
     "cldymx9e7000lkx1s3uzcadlt": {
