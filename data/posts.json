@@ -809,6 +809,36 @@
         "voteCount": 2,
         "commentCount": 0
     },
+    "clbwklgie00spk91ya5ov0c1x": {
+        "id": "clbwklgie00spk91ya5ov0c1x",
+        "title": "Ability to save and share settings",
+        "body": "It would be great to be able to save and share settings for Evaluate (or anything else). \n\nI am a fan of the new (2 leagues ago) default search settings but I still have several things that I change every time those settings all get reset. I have some friends who also use PoE Overlay and I would like to easily share those settings. ",
+        "timeAgo": "2 months",
+        "comments": [
+            {
+                "body": "That's a great idea! I think my only concern is, how we can prevent importing settings from older/newer version(s), may cause some issues if the data structure now longer fits.\nWould this still work for you if you could only import settings from a specific version?",
+                "timeAgo": "2 months",
+                "user": {
+                    "name": "Kyusung"
+                }
+            },
+            {
+                "body": "yes, though my hope is to not have settings entirely reset when the data structure changes. Some aspects don't change (from user perspective) for things like evaluate settings, keybinds and the like. Much easier said than done. \nBut sharing would make it so only one person in a group would need to update all the settings again. Maybe If it is a popular feature, then you could have a way to import from a list of people",
+                "timeAgo": "2 months",
+                "user": {
+                    "name": "Anonymous #7275"
+                }
+            }
+        ],
+        "user": {
+            "name": "Subutai"
+        },
+        "status": {
+            "name": "Accepted"
+        },
+        "voteCount": 2,
+        "commentCount": 2
+    },
     "cl9sx91s901hzlo247wrdj0yh": {
         "id": "cl9sx91s901hzlo247wrdj0yh",
         "title": "Can you provide support for Simplified Chinese?",
@@ -1190,36 +1220,6 @@
         },
         "voteCount": 1,
         "commentCount": 0
-    },
-    "clbwklgie00spk91ya5ov0c1x": {
-        "id": "clbwklgie00spk91ya5ov0c1x",
-        "title": "Ability to save and share settings",
-        "body": "It would be great to be able to save and share settings for Evaluate (or anything else). \n\nI am a fan of the new (2 leagues ago) default search settings but I still have several things that I change every time those settings all get reset. I have some friends who also use PoE Overlay and I would like to easily share those settings. ",
-        "timeAgo": "1 day",
-        "comments": [
-            {
-                "body": "That's a great idea! I think my only concern is, how we can prevent importing settings from older/newer version(s), may cause some issues if the data structure now longer fits.\nWould this still work for you if you could only import settings from a specific version?",
-                "timeAgo": "about 6 hours",
-                "user": {
-                    "name": "Kyusung"
-                }
-            },
-            {
-                "body": "yes, though my hope is to not have settings entirely reset when the data structure changes. Some aspects don't change (from user perspective) for things like evaluate settings, keybinds and the like. Much easier said than done. \nBut sharing would make it so only one person in a group would need to update all the settings again. Maybe If it is a popular feature, then you could have a way to import from a list of people",
-                "timeAgo": "18 minutes",
-                "user": {
-                    "name": "Anonymous #7275"
-                }
-            }
-        ],
-        "user": {
-            "name": "Subutai"
-        },
-        "status": {
-            "name": "Accepted"
-        },
-        "voteCount": 1,
-        "commentCount": 2
     },
     "clbqtw54i00duk91yjkjdvkyv": {
         "id": "clbqtw54i00duk91yjkjdvkyv",
