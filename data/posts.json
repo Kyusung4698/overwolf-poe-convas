@@ -1146,6 +1146,21 @@
         "voteCount": 2,
         "commentCount": 0
     },
+    "clepw4nx201l4oj20kf8ycuvl": {
+        "id": "clepw4nx201l4oj20kf8ycuvl",
+        "title": "Give market overlay priority over evaluate overlay when searching.",
+        "body": "Something I do often is find a currency or item I want to look up in the larger market tab usually accessed with alt+m.\n\nTo do this I press alt+d on the item then use the top left button[Open in market] next to the setting icon in the evaluate overlay window that appears and that opens up the market overlay. \n\nOnce I have the market overlay open I will typically make some changes to my search parameters such as deslecting divs, or changing stock for bulk exchanges or altering stats filters. (Ideally I'd be able to set some defaults for these in the preferences, though I may have just missed the option.)\n\nOnce I have made my changes I will press the search button in the market overlay. Doing that only refreshes the evaluate overlay with the results unless I close that overlay.\n\nI would like it if my search results appeared in the market overlay once it is open.\n\n",
+        "timeAgo": "16 minutes",
+        "comments": [],
+        "user": {
+            "name": "blahblahdrugs"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "cldymx9e7000lkx1s3uzcadlt": {
         "id": "cldymx9e7000lkx1s3uzcadlt",
         "title": "Searching Bar Problem",
