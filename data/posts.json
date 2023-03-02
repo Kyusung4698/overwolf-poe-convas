@@ -68,7 +68,7 @@
             "name": "Kyusung"
         },
         "status": {
-            "name": "In Progress"
+            "name": "Completed"
         },
         "voteCount": 39,
         "commentCount": 3
@@ -639,7 +639,7 @@
             "name": "Anonymous #7671"
         },
         "status": {
-            "name": "Accepted"
+            "name": "Completed"
         },
         "voteCount": 4,
         "commentCount": 1
@@ -1150,11 +1150,18 @@
         "id": "clepw4nx201l4oj20kf8ycuvl",
         "title": "Give market overlay priority over evaluate overlay when searching.",
         "body": "Something I do often is find a currency or item I want to look up in the larger market tab usually accessed with alt+m.\n\nTo do this I press alt+d on the item then use the top left button[Open in market] next to the setting icon in the evaluate overlay window that appears and that opens up the market overlay. \n\nOnce I have the market overlay open I will typically make some changes to my search parameters such as deslecting divs, or changing stock for bulk exchanges or altering stats filters. (Ideally I'd be able to set some defaults for these in the preferences, though I may have just missed the option.)\n\nOnce I have made my changes I will press the search button in the market overlay. Doing that only refreshes the evaluate overlay with the results unless I close that overlay.\n\nI would like it if my search results appeared in the market overlay once it is open.\n\n",
-        "timeAgo": "about 4 hours",
+        "timeAgo": "1 day",
         "comments": [
             {
                 "body": "Hey there, thanks for posting your feedback. I feel like that might be a bug. We'll check and come back if we need further information from you. Cheers! ",
-                "timeAgo": "1 minute",
+                "timeAgo": "about 24 hours",
+                "user": {
+                    "name": "Kyusung"
+                }
+            },
+            {
+                "body": "It's indeed a bug. Has been fixed with the latest preview version 1.10.1. ",
+                "timeAgo": "3 minutes",
                 "user": {
                     "name": "Kyusung"
                 }
@@ -1164,10 +1171,10 @@
             "name": "blahblahdrugs"
         },
         "status": {
-            "name": "Open"
+            "name": "Completed"
         },
         "voteCount": 1,
-        "commentCount": 1
+        "commentCount": 2
     },
     "cldymx9e7000lkx1s3uzcadlt": {
         "id": "cldymx9e7000lkx1s3uzcadlt",
