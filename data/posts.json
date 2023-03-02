@@ -554,6 +554,29 @@
         "voteCount": 5,
         "commentCount": 5
     },
+    "ckulbqcuc695573yqoybnb4lz3": {
+        "id": "ckulbqcuc695573yqoybnb4lz3",
+        "title": "Main UI not to launch on startup",
+        "body": "Some users prefer not having the main UI window show up on startup. Since this is a free tool ad driven, I could see this as a paid feature.",
+        "timeAgo": "over 1 year",
+        "comments": [
+            {
+                "body": "Hi there, thanks for creating this issue. This could be indeed be part of a paid version coming later. As not automatically opening the desktop part for everyone would drastically reduce the revenue, but given paid users won't see ads, this should be reasonable. ",
+                "timeAgo": "5 months",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
+        "user": {
+            "name": "Anonymous #7671"
+        },
+        "status": {
+            "name": "Completed"
+        },
+        "voteCount": 5,
+        "commentCount": 1
+    },
     "cktsbp2dg47427map1h5dtrqzc": {
         "id": "cktsbp2dg47427map1h5dtrqzc",
         "title": "Stackable usernames when evaluating currencies",
@@ -620,29 +643,6 @@
         },
         "voteCount": 4,
         "commentCount": 3
-    },
-    "ckulbqcuc695573yqoybnb4lz3": {
-        "id": "ckulbqcuc695573yqoybnb4lz3",
-        "title": "Main UI not to launch on startup",
-        "body": "Some users prefer not having the main UI window show up on startup. Since this is a free tool ad driven, I could see this as a paid feature.",
-        "timeAgo": "about 1 year",
-        "comments": [
-            {
-                "body": "Hi there, thanks for creating this issue. This could be indeed be part of a paid version coming later. As not automatically opening the desktop part for everyone would drastically reduce the revenue, but given paid users won't see ads, this should be reasonable. ",
-                "timeAgo": "3 months",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "Anonymous #7671"
-        },
-        "status": {
-            "name": "Completed"
-        },
-        "voteCount": 4,
-        "commentCount": 1
     },
     "cktsbp2fj47469map1iqn119gj": {
         "id": "cktsbp2fj47469map1iqn119gj",
