@@ -1146,6 +1146,51 @@
         "voteCount": 2,
         "commentCount": 0
     },
+    "cleu8knyw02ogoj20u6d9hqd1": {
+        "id": "cleu8knyw02ogoj20u6d9hqd1",
+        "title": "Some stat search ideas",
+        "body": "Preface: I am not a professional programmer so I can not speak to the ease with which these can be accomplished. These are functions I would like to have available, but I do understand that they may be difficult or maybe even impossible to do. Regardless, I wanted to share them for your consideration just in case.\n\nGeneralized stat searches - Say I want all rings that impact chaos in any ways, regardless of resistance, damage, penetration.. I don't know exactly what mods are available and so I was to browse an overview of items with that particular keywords.\n\nItem Type and Item Name grouping - \n\nPerhaps I am interested in the items that provide the most Increased Item Quantity. This often returns many results of the same item making it difficult to get an idea of what alternatives may be available. If instead, all items named \"Goldrim\" were nested in a collapsible manner then I could see the next best option for the price, ect. Different types of filters for collapsing would be nice too.\n\nItem Base exclusion\n\nOr in general any sort of exclusion options would be good here. We can exclude stats using the NOT stat filters at the moment but say I wanted to search all amulets for IIR but didn't want to see and Gold Amulet results. This would address that use case.",
+        "timeAgo": "1 minute",
+        "comments": [],
+        "user": {
+            "name": "blahblahdrugs"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
+    "cleu89p6e02oeoj20yw9lefzf": {
+        "id": "cleu89p6e02oeoj20yw9lefzf",
+        "title": "Drag and drop stat filters",
+        "body": "I would like to be able to drag a stat from market results into the stat filters. I think this would be especially useful when trying to search for terms that have multiple implementations with the same name (This can require adding many of the same filter line trying to find the one that's valid for your particular item type. Pseudo does not work in all cases.)\n\nAnother example from the above image would being able to drag and drop the implicit. While pseudo should cover this particular implicit, that is not always the case.\n\n",
+        "timeAgo": "9 minutes",
+        "comments": [],
+        "user": {
+            "name": "blahblahdrugs"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
+    "cleu80bib02ocoj20g9yq8nl3": {
+        "id": "cleu80bib02ocoj20g9yq8nl3",
+        "title": "Market Overlay - Nested Folders with drag and drop feature.",
+        "body": "I would like to be able to nest my saved searches into folder with the ability to drag and drop searches and folders into and out of folders. Just like a typical folder system.\n\n\n\n\n",
+        "timeAgo": "16 minutes",
+        "comments": [],
+        "user": {
+            "name": "blahblahdrugs"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "clepw4nx201l4oj20kf8ycuvl": {
         "id": "clepw4nx201l4oj20kf8ycuvl",
         "title": "Give market overlay priority over evaluate overlay when searching.",
