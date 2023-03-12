@@ -1146,6 +1146,21 @@
         "voteCount": 2,
         "commentCount": 0
     },
+    "clf4qcvcc04gtoj2000vgnk2l": {
+        "id": "clf4qcvcc04gtoj2000vgnk2l",
+        "title": "[Evaluate] Full Heist contracts/blueprints support",
+        "body": "It would be interresting if job requirement levels, contract objective, routes, could also be parsed when evaluating contracts. Since they are core, that would make sense to fully support them. All those are available in the Heist filter section.\n\n",
+        "timeAgo": "about 1 hour",
+        "comments": [],
+        "user": {
+            "name": "MalakaJones"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "cleycozrj03i5oj2087pdr8lh": {
         "id": "cleycozrj03i5oj2087pdr8lh",
         "title": "Market Overlay - Copy User to Clipboard",
