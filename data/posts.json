@@ -1146,6 +1146,21 @@
         "voteCount": 2,
         "commentCount": 0
     },
+    "clf7anf7t04scoj20jyvbqzmo": {
+        "id": "clf7anf7t04scoj20jyvbqzmo",
+        "title": "Add a roll percentage feature when searching for uniques.",
+        "body": "Often when I am trying to evaluate a unique I have to check it at many different stat roll points to see what is valuable and what is not. It would be nice if there was some way to choose something like. 90% perfect, 100% perfect, ect. Also it would be nice if there was a way to use base percentile when searching the market as part of the parameters.",
+        "timeAgo": "25 minutes",
+        "comments": [],
+        "user": {
+            "name": "blahblahdrugs"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "clf4qcvcc04gtoj2000vgnk2l": {
         "id": "clf4qcvcc04gtoj2000vgnk2l",
         "title": "[Evaluate] Full Heist contracts/blueprints support",
