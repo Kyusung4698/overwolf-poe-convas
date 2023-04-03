@@ -1330,8 +1330,16 @@
         "id": "clccps08w01l0k91y6eqe49fh",
         "title": "New Button to ignore player",
         "body": "new button on the \"buyer\" side to ignore the player, would be useful to clear out the price fixers, or just people who dont respond\n\n",
-        "timeAgo": "about 1 hour",
-        "comments": [],
+        "timeAgo": "3 months",
+        "comments": [
+            {
+                "body": "Bump, any word on this? ",
+                "timeAgo": "6 minutes",
+                "user": {
+                    "name": "Sagna"
+                }
+            }
+        ],
         "user": {
             "name": "Sagna"
         },
@@ -1339,7 +1347,7 @@
             "name": "Open"
         },
         "voteCount": 1,
-        "commentCount": 0
+        "commentCount": 1
     },
     "clbqtw54i00duk91yjkjdvkyv": {
         "id": "clbqtw54i00duk91yjkjdvkyv",
