@@ -1334,9 +1334,16 @@
         "comments": [
             {
                 "body": "Bump, any word on this? ",
-                "timeAgo": "6 minutes",
+                "timeAgo": "1 day",
                 "user": {
                     "name": "Sagna"
+                }
+            },
+            {
+                "body": "Hey, this feature is accepted but still needs to be prioritized. With this, we also want to make the trade buttons customizable. We'll update this issue once we start working on it!",
+                "timeAgo": "20 minutes",
+                "user": {
+                    "name": "Kyusung"
                 }
             }
         ],
@@ -1344,10 +1351,10 @@
             "name": "Sagna"
         },
         "status": {
-            "name": "Open"
+            "name": "Accepted"
         },
         "voteCount": 1,
-        "commentCount": 1
+        "commentCount": 2
     },
     "clbqtw54i00duk91yjkjdvkyv": {
         "id": "clbqtw54i00duk91yjkjdvkyv",
