@@ -727,6 +727,21 @@
         "voteCount": 3,
         "commentCount": 2
     },
+    "clg3yuzau086coj205rcnn8fv": {
+        "id": "clg3yuzau086coj205rcnn8fv",
+        "title": "Labyrinth Compass",
+        "body": "Integrate labyrinth compass that pops up when you enter the labyrinth.\n\nAnd download the newest labyrinth layout\n\nProbably does not know witch lab difficulty it is so a popup need to come up and ask.",
+        "timeAgo": "43 minutes",
+        "comments": [],
+        "user": {
+            "name": "Zekhap"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 2,
+        "commentCount": 0
+    },
     "cleamd7aq0090mk1r2x0z6wk5": {
         "id": "cleamd7aq0090mk1r2x0z6wk5",
         "title": "Item highlight option",
@@ -1144,21 +1159,6 @@
             "name": "Completed"
         },
         "voteCount": 2,
-        "commentCount": 0
-    },
-    "clg3yuzau086coj205rcnn8fv": {
-        "id": "clg3yuzau086coj205rcnn8fv",
-        "title": "Labyrinth Compass",
-        "body": "Integrate labyrinth compass that pops up when you enter the labyrinth.\n\nAnd download the newest labyrinth layout\n\nProbably does not know witch lab difficulty it is so a popup need to come up and ask.",
-        "timeAgo": "12 minutes",
-        "comments": [],
-        "user": {
-            "name": "Zekhap"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
         "commentCount": 0
     },
     "clf7anf7t04scoj20jyvbqzmo": {
