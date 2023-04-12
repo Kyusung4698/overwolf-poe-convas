@@ -742,6 +742,58 @@
         "voteCount": 3,
         "commentCount": 2
     },
+    "cl8csqp052928991xj5sgt0nkme": {
+        "id": "cl8csqp052928991xj5sgt0nkme",
+        "title": "Custom Messages",
+        "body": "I would like to see an option where u could maybe add custom messages besides the default 4 that you have ",
+        "timeAgo": "7 months",
+        "comments": [
+            {
+                "body": "Hi there, thanks for creating this issue. Could you explain it a bit further and give an example on how this should work? Does it only affect trade message? (should you be able to use data from the trade message as placeholders) Or are those messages more globally and can be send anytime? ",
+                "timeAgo": "7 months",
+                "user": {
+                    "name": "Kyusung"
+                }
+            },
+            {
+                "body": "basically would be for like trading wise so something like you are doing sextants (selling them) but people keep wanting to only buy 1 at a time but you are only wanting to sell in bulk so having like the option where you could may addon another box in this area \nhttps://i.imgur.com/k0U5nr6.png\n where you could add in a message using the placeholders telling the person you are only wanting to sell in bulk something like that if you understand what im saying",
+                "timeAgo": "7 months",
+                "user": {
+                    "name": "Jimmy Straight"
+                }
+            },
+            {
+                "body": "I gotcha. I think for now you could use a command as a workaround by using the {latestWhisper} placeholder. See the screenshot below.\nIf this gets more traction in the future, we may implement this as part of the trade module. ",
+                "timeAgo": "7 months",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
+        "user": {
+            "name": "Jimmy Straight"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 3,
+        "commentCount": 3
+    },
+    "clf4qcvcc04gtoj2000vgnk2l": {
+        "id": "clf4qcvcc04gtoj2000vgnk2l",
+        "title": "[Evaluate] Full Heist contracts/blueprints support",
+        "body": "It would be interresting if job requirement levels, contract objective, routes, could also be parsed when evaluating contracts. Since they are core, that would make sense to fully support them. All those are available in the Heist filter section.\n\n",
+        "timeAgo": "about 1 month",
+        "comments": [],
+        "user": {
+            "name": "MalakaJones"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 2,
+        "commentCount": 0
+    },
     "cleamd7aq0090mk1r2x0z6wk5": {
         "id": "cleamd7aq0090mk1r2x0z6wk5",
         "title": "Item highlight option",
@@ -917,43 +969,6 @@
         },
         "status": {
             "name": "Blocked"
-        },
-        "voteCount": 2,
-        "commentCount": 3
-    },
-    "cl8csqp052928991xj5sgt0nkme": {
-        "id": "cl8csqp052928991xj5sgt0nkme",
-        "title": "Custom Messages",
-        "body": "I would like to see an option where u could maybe add custom messages besides the default 4 that you have ",
-        "timeAgo": "about 2 months",
-        "comments": [
-            {
-                "body": "Hi there, thanks for creating this issue. Could you explain it a bit further and give an example on how this should work? Does it only affect trade message? (should you be able to use data from the trade message as placeholders) Or are those messages more globally and can be send anytime? ",
-                "timeAgo": "about 1 month",
-                "user": {
-                    "name": "Kyusung"
-                }
-            },
-            {
-                "body": "basically would be for like trading wise so something like you are doing sextants (selling them) but people keep wanting to only buy 1 at a time but you are only wanting to sell in bulk so having like the option where you could may addon another box in this area \nhttps://i.imgur.com/k0U5nr6.png\n where you could add in a message using the placeholders telling the person you are only wanting to sell in bulk something like that if you understand what im saying",
-                "timeAgo": "about 1 month",
-                "user": {
-                    "name": "Jimmy Straight"
-                }
-            },
-            {
-                "body": "I gotcha. I think for now you could use a command as a workaround by using the {latestWhisper} placeholder. See the screenshot below.\nIf this gets more traction in the future, we may implement this as part of the trade module. ",
-                "timeAgo": "about 1 month",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "Jimmy Straight"
-        },
-        "status": {
-            "name": "Open"
         },
         "voteCount": 2,
         "commentCount": 3
@@ -1161,6 +1176,21 @@
         "voteCount": 2,
         "commentCount": 0
     },
+    "clge1ghyk094zoj20dkscg0rb": {
+        "id": "clge1ghyk094zoj20dkscg0rb",
+        "title": "Modify a search already saved as favorites on the market",
+        "body": "Modify a search already saved as favorites on the market",
+        "timeAgo": "1 minute",
+        "comments": [],
+        "user": {
+            "name": "Peterrr"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "clf7anf7t04scoj20jyvbqzmo": {
         "id": "clf7anf7t04scoj20jyvbqzmo",
         "title": "Add a roll percentage feature when searching for uniques.",
@@ -1169,21 +1199,6 @@
         "comments": [],
         "user": {
             "name": "blahblahdrugs"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
-        "commentCount": 0
-    },
-    "clf4qcvcc04gtoj2000vgnk2l": {
-        "id": "clf4qcvcc04gtoj2000vgnk2l",
-        "title": "[Evaluate] Full Heist contracts/blueprints support",
-        "body": "It would be interresting if job requirement levels, contract objective, routes, could also be parsed when evaluating contracts. Since they are core, that would make sense to fully support them. All those are available in the Heist filter section.\n\n",
-        "timeAgo": "about 1 hour",
-        "comments": [],
-        "user": {
-            "name": "MalakaJones"
         },
         "status": {
             "name": "Open"
