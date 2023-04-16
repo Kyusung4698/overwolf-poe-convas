@@ -1176,6 +1176,21 @@
         "voteCount": 2,
         "commentCount": 0
     },
+    "clgj1nu3i09feoj20jv6j2bdp": {
+        "id": "clgj1nu3i09feoj20jv6j2bdp",
+        "title": "divine price placeholder for messages",
+        "body": "l would like to be able to send other players a message containing the divine price listed on poe.ninja. Something like '{latestWhisper} Divine Orbs are currently worth {divinePrice} chaos'.\n\nOr even better would be a button on the trade window that tells the other player the fractional prices displayed in the window, so we can agree on a price before we begin the trade.",
+        "timeAgo": "22 minutes",
+        "comments": [],
+        "user": {
+            "name": "lvlvllvlvllvlvl"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "clge1jjvc0952oj201i5v8vd9": {
         "id": "clge1jjvc0952oj201i5v8vd9",
         "title": "Be able to move searches saved as favorites to a folder on the market",
