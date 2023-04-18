@@ -299,6 +299,21 @@
         "voteCount": 8,
         "commentCount": 0
     },
+    "cld6fizgp048ck91y028ixxn1": {
+        "id": "cld6fizgp048ck91y028ixxn1",
+        "title": "Add \"Collapse Listings by Account\" to the Market",
+        "body": "The feature \"Collapse Listings by Account\" on the official trading site allows you to have only shown 1 listing per account, which gives you the ability to easily ignore price fixers. Overall it would be a great QoL and I'm sure many would enjoy it\n\nP.S.: if this is accepted, please that'd be great if you could make it an option in the PoE Overlay settings to ALWAYS leave it enabled so we don't have to put \"YES\" every time.\n\n",
+        "timeAgo": "3 months",
+        "comments": [],
+        "user": {
+            "name": "jaylay99"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 7,
+        "commentCount": 0
+    },
     "ckwl995gl227630rfiiqp6ffd": {
         "id": "ckwl995gl227630rfiiqp6ffd",
         "title": "Sort listings by mods in the market plugin",
@@ -379,21 +394,6 @@
             "name": "Completed"
         },
         "voteCount": 7,
-        "commentCount": 0
-    },
-    "cld6fizgp048ck91y028ixxn1": {
-        "id": "cld6fizgp048ck91y028ixxn1",
-        "title": "Add \"Collapse Listings by Account\" to the Market",
-        "body": "The feature \"Collapse Listings by Account\" on the official trading site allows you to have only shown 1 listing per account, which gives you the ability to easily ignore price fixers. Overall it would be a great QoL and I'm sure many would enjoy it\n\nP.S.: if this is accepted, please that'd be great if you could make it an option in the PoE Overlay settings to ALWAYS leave it enabled so we don't have to put \"YES\" every time.\n\n",
-        "timeAgo": "about 12 hours",
-        "comments": [],
-        "user": {
-            "name": "jaylay99"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 6,
         "commentCount": 0
     },
     "clculaj5u02stk91ysuokveh6": {
