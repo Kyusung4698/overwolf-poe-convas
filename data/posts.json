@@ -246,6 +246,21 @@
         "voteCount": 9,
         "commentCount": 0
     },
+    "cld6fizgp048ck91y028ixxn1": {
+        "id": "cld6fizgp048ck91y028ixxn1",
+        "title": "Add \"Collapse Listings by Account\" to the Market",
+        "body": "The feature \"Collapse Listings by Account\" on the official trading site allows you to have only shown 1 listing per account, which gives you the ability to easily ignore price fixers. Overall it would be a great QoL and I'm sure many would enjoy it\n\nP.S.: if this is accepted, please that'd be great if you could make it an option in the PoE Overlay settings to ALWAYS leave it enabled so we don't have to put \"YES\" every time.\n\n",
+        "timeAgo": "3 months",
+        "comments": [],
+        "user": {
+            "name": "jaylay99"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 8,
+        "commentCount": 0
+    },
     "clbz80n9p010bk91yvzyu99m4": {
         "id": "clbz80n9p010bk91yvzyu99m4",
         "title": "Evaluate Grand Heist items on the go",
@@ -297,21 +312,6 @@
             "name": "Completed"
         },
         "voteCount": 8,
-        "commentCount": 0
-    },
-    "cld6fizgp048ck91y028ixxn1": {
-        "id": "cld6fizgp048ck91y028ixxn1",
-        "title": "Add \"Collapse Listings by Account\" to the Market",
-        "body": "The feature \"Collapse Listings by Account\" on the official trading site allows you to have only shown 1 listing per account, which gives you the ability to easily ignore price fixers. Overall it would be a great QoL and I'm sure many would enjoy it\n\nP.S.: if this is accepted, please that'd be great if you could make it an option in the PoE Overlay settings to ALWAYS leave it enabled so we don't have to put \"YES\" every time.\n\n",
-        "timeAgo": "3 months",
-        "comments": [],
-        "user": {
-            "name": "jaylay99"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 7,
         "commentCount": 0
     },
     "ckwl995gl227630rfiiqp6ffd": {
@@ -1174,6 +1174,21 @@
             "name": "Completed"
         },
         "voteCount": 2,
+        "commentCount": 0
+    },
+    "clgo8w07f09wgoj20rrwsag9p": {
+        "id": "clgo8w07f09wgoj20rrwsag9p",
+        "title": "Trade statistics system",
+        "body": "We do tons of trades with the help of POE overlay, but we don't know how many, or how much currency did we make, or how much currency we spend on the item.\n\n\nI know there is other software that can track profit like Exilence Next. But we don't have a function to auto-record what or how much did we sell/ buy on one item. \n\nInstead of viewing profit from the overlay afk popup window, we can add an option to turn on/off the trade record and record all the trades into an Excel spreadsheet, either .csv or .txt.\n\nSince the overlay knows the trade was selling or buying, when you finish the trade, typically, you will go for click the send finish button, and then the trade goes away anyway. So we can use that finish button action to confirm and save that trade record.\n\nIn that txt file can show information like time(in the log's timestamp), cost(the overlay already recognized), item name, etc.",
+        "timeAgo": "2 minutes",
+        "comments": [],
+        "user": {
+            "name": "八條麥茶"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
         "commentCount": 0
     },
     "clgj1nu3i09feoj20jv6j2bdp": {
