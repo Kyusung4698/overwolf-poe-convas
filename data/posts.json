@@ -1176,6 +1176,21 @@
         "voteCount": 2,
         "commentCount": 0
     },
+    "clgs8gow20abooj2037zkjhfq": {
+        "id": "clgs8gow20abooj2037zkjhfq",
+        "title": "[Crucible] Primeval/Primordial support",
+        "body": "Would be nice to have support for those 2 type of maps that were introduced in Crucible. They have explicit modifiers similar to maps and it would be great to be able to evaluate them in-game.\n\nHere is an exemple of a Primeval area\n\nItem Class: Misc Map Items Rarity: Rare Blazing Volcano Primeval Remnant -------- Item Quantity: +57% (augmented) Item Rarity: +33% (augmented) -------- Item Level: 80 -------- { Implicit Modifier } Contains a Forge that can Combine Crucible Passive Skill Trees (implicit) -------- { Prefix Modifier \"Legendary\" (Tier: 1) } Contains a Furnace that adds a Crucible Passive Skill Tree to an Uncorrupted Unique Item { Prefix Modifier \"Wise\" (Tier: 1) } 50% increased Experience gain { Prefix Modifier \"Guarded\" (Tier: 1) } 30% increased number of Unique Crucible Monsters { Suffix Modifier \"of Congealment\" (Tier: 1) } Cannot Leech from Monsters { Suffix Modifier \"of Exposure\" (Tier: 1) } -15% maximum Player Resistances { Suffix Modifier \"of the Elements\" (Tier: 1) } Monsters gain 100% of Physical Damage as Extra Damage of a random Element -------- Kalandra watched as the almighty titans fell, relegated to the innermost depths of the world, where horrific abominations awaited them. -------- Open portals to The Forge of the Titans by using this item in a personal Map Device. -------- Unmodifiable",
+        "timeAgo": "2 minutes",
+        "comments": [],
+        "user": {
+            "name": "MalakaJones"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "clgo8w07f09wgoj20rrwsag9p": {
         "id": "clgo8w07f09wgoj20rrwsag9p",
         "title": "Trade statistics system",
