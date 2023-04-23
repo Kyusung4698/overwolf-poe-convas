@@ -33,7 +33,7 @@
         "status": {
             "name": "Blocked"
         },
-        "voteCount": 77,
+        "voteCount": 78,
         "commentCount": 3
     },
     "cktsbozyh45642map14gb8xrqh": {
@@ -228,7 +228,7 @@
         "status": {
             "name": "Accepted"
         },
-        "voteCount": 10,
+        "voteCount": 11,
         "commentCount": 0
     },
     "cktzhzt3b156203yn1y63r2t1n": {
@@ -1574,6 +1574,29 @@
         "voteCount": 1,
         "commentCount": 1
     },
+    "cl2udd62a855152yo947oig1nn": {
+        "id": "cl2udd62a855152yo947oig1nn",
+        "title": "Reset to default key-binds button",
+        "body": "A way to reset keybinds to their original value would be great. Could be a global reset button or one per module.",
+        "timeAgo": "12 months",
+        "comments": [
+            {
+                "body": "Hi, for now this would require reinstalling the app. We will see how we can improve on this behaviour. Thanks for your suggestion! ",
+                "timeAgo": "7 months",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
+        "user": {
+            "name": "Anonymous #7671"
+        },
+        "status": {
+            "name": "Accepted"
+        },
+        "voteCount": 1,
+        "commentCount": 1
+    },
     "cl5nz8tc42184752yowlo4x28j2": {
         "id": "cl5nz8tc42184752yowlo4x28j2",
         "title": "Gamepad",
@@ -1603,28 +1626,5 @@
         },
         "voteCount": 0,
         "commentCount": 0
-    },
-    "cl2udd62a855152yo947oig1nn": {
-        "id": "cl2udd62a855152yo947oig1nn",
-        "title": "Reset to default key-binds button",
-        "body": "A way to reset keybinds to their original value would be great. Could be a global reset button or one per module.",
-        "timeAgo": "5 months",
-        "comments": [
-            {
-                "body": "Hi, for now this would require reinstalling the app. We will see how we can improve on this behaviour. Thanks for your suggestion! ",
-                "timeAgo": "23 minutes",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "Anonymous #7671"
-        },
-        "status": {
-            "name": "Accepted"
-        },
-        "voteCount": 0,
-        "commentCount": 1
     }
 }
