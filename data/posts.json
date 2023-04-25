@@ -165,21 +165,6 @@
         "voteCount": 5,
         "commentCount": 1
     },
-    "cktsbp2dg47427map1h5dtrqzc": {
-        "id": "cktsbp2dg47427map1h5dtrqzc",
-        "title": "Stackable usernames when evaluating currencies",
-        "body": "I think the tool used to have that feature built in. I would love to see it come back. That feature used to help me spot price fixers. ",
-        "timeAgo": "over 1 year",
-        "comments": [],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "name": "Accepted"
-        },
-        "voteCount": 5,
-        "commentCount": 0
-    },
     "clb40eb3p006pny1z2lfph6y9": {
         "id": "clb40eb3p006pny1z2lfph6y9",
         "title": "Have the Evaluate window filter by date",
@@ -362,7 +347,37 @@
             "name": "八條麥茶"
         },
         "status": {
-            "name": "Open"
+            "name": "Accepted"
+        },
+        "voteCount": 2,
+        "commentCount": 0
+    },
+    "clgj1nu3i09feoj20jv6j2bdp": {
+        "id": "clgj1nu3i09feoj20jv6j2bdp",
+        "title": "divine price placeholder for messages",
+        "body": "l would like to be able to send other players a message containing the divine price listed on poe.ninja. Something like '{latestWhisper} Divine Orbs are currently worth {divinePrice} chaos'.\n\nOr even better would be a button on the trade window that tells the other player the fractional prices displayed in the window, so we can agree on a price before we begin the trade.",
+        "timeAgo": "9 days",
+        "comments": [],
+        "user": {
+            "name": "lvlvllvlvllvlvl"
+        },
+        "status": {
+            "name": "Accepted"
+        },
+        "voteCount": 2,
+        "commentCount": 0
+    },
+    "cleu80bib02ocoj20g9yq8nl3": {
+        "id": "cleu80bib02ocoj20g9yq8nl3",
+        "title": "Market Overlay - Nested Folders with drag and drop feature.",
+        "body": "I would like to be able to nest my saved searches into folder with the ability to drag and drop searches and folders into and out of folders. Just like a typical folder system.\n\n\n\n\n",
+        "timeAgo": "about 2 months",
+        "comments": [],
+        "user": {
+            "name": "blahblahdrugs"
+        },
+        "status": {
+            "name": "Accepted"
         },
         "voteCount": 2,
         "commentCount": 0
@@ -546,29 +561,6 @@
         "voteCount": 2,
         "commentCount": 2
     },
-    "cl2f37qdp1990542yo1k873ri2i": {
-        "id": "cl2f37qdp1990542yo1k873ri2i",
-        "title": "Tray logo",
-        "body": "What about new black and white tray logo? ^.^\n\n😁👍",
-        "timeAgo": "5 months",
-        "comments": [
-            {
-                "body": "Haha, I'm open for suggestions 😅 Btw. what black and white logo are you talking about? The current logo has some colorful background. ",
-                "timeAgo": "27 minutes",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "SoaT"
-        },
-        "status": {
-            "name": "Planned"
-        },
-        "voteCount": 2,
-        "commentCount": 1
-    },
     "cl0lbtgp21522682uqthmefrssi": {
         "id": "cl0lbtgp21522682uqthmefrssi",
         "title": "Switch the have/want in the exchange to be the same order has the site",
@@ -681,21 +673,6 @@
         "voteCount": 1,
         "commentCount": 0
     },
-    "clgj1nu3i09feoj20jv6j2bdp": {
-        "id": "clgj1nu3i09feoj20jv6j2bdp",
-        "title": "divine price placeholder for messages",
-        "body": "l would like to be able to send other players a message containing the divine price listed on poe.ninja. Something like '{latestWhisper} Divine Orbs are currently worth {divinePrice} chaos'.\n\nOr even better would be a button on the trade window that tells the other player the fractional prices displayed in the window, so we can agree on a price before we begin the trade.",
-        "timeAgo": "22 minutes",
-        "comments": [],
-        "user": {
-            "name": "lvlvllvlvllvlvl"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
-        "commentCount": 0
-    },
     "clge1jjvc0952oj201i5v8vd9": {
         "id": "clge1jjvc0952oj201i5v8vd9",
         "title": "Be able to move searches saved as favorites to a folder on the market",
@@ -776,21 +753,6 @@
         "title": "Drag and drop stat filters",
         "body": "I would like to be able to drag a stat from market results into the stat filters. I think this would be especially useful when trying to search for terms that have multiple implementations with the same name (This can require adding many of the same filter line trying to find the one that's valid for your particular item type. Pseudo does not work in all cases.)\n\nAnother example from the above image would being able to drag and drop the implicit. While pseudo should cover this particular implicit, that is not always the case.\n\n",
         "timeAgo": "9 minutes",
-        "comments": [],
-        "user": {
-            "name": "blahblahdrugs"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
-        "commentCount": 0
-    },
-    "cleu80bib02ocoj20g9yq8nl3": {
-        "id": "cleu80bib02ocoj20g9yq8nl3",
-        "title": "Market Overlay - Nested Folders with drag and drop feature.",
-        "body": "I would like to be able to nest my saved searches into folder with the ability to drag and drop searches and folders into and out of folders. Just like a typical folder system.\n\n\n\n\n",
-        "timeAgo": "16 minutes",
         "comments": [],
         "user": {
             "name": "blahblahdrugs"
