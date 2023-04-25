@@ -36,186 +36,6 @@
         "voteCount": 78,
         "commentCount": 3
     },
-    "cktsbozyh45642map14gb8xrqh": {
-        "id": "cktsbozyh45642map14gb8xrqh",
-        "title": "Support Korean trade requests",
-        "body": "Currently messages from Korean players are not logged because of privacy laws. Given the trade helper relies on the game log, no trade requests are displayed.",
-        "timeAgo": "over 1 year",
-        "comments": [
-            {
-                "body": "Waiting on Overwolf to implement a game event to retrieve message from Korean players. See: https://discuss.overwolf.com/t/path-of-exile-on-chat-message-event/2024",
-                "timeAgo": "over 1 year",
-                "user": {
-                    "name": "Kyusung"
-                }
-            },
-            {
-                "body": "Can’t wait! :pepehype:",
-                "timeAgo": "over 1 year",
-                "user": {
-                    "name": "Anonymous #7671"
-                }
-            },
-            {
-                "body": "Event has been implemented by Overwolf. The app will support this soonish. ",
-                "timeAgo": "4 minutes",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "Kyusung"
-        },
-        "status": {
-            "name": "Completed"
-        },
-        "voteCount": 39,
-        "commentCount": 3
-    },
-    "ckw87lfcg4143012tnur3l5xx98": {
-        "id": "ckw87lfcg4143012tnur3l5xx98",
-        "title": "Exalt fraction price chart in chaos",
-        "body": "Some very basic chart that would give an equivalent of the exalt fraction prince in chaos. Something like 0.1 ex -&gt; 14.5c, 0.2 ex -&gt; 29c, etc. Would use the exalt price from poe.ninja",
-        "timeAgo": "about 1 year",
-        "comments": [
-            {
-                "body": "Could be toggled via a button or a keybind",
-                "timeAgo": "about 1 year",
-                "user": {
-                    "name": "Anonymous #7671"
-                }
-            },
-            {
-                "body": "This is the last piece missing :) such a pain to always pull the calc",
-                "timeAgo": "11 months",
-                "user": {
-                    "name": "Anonymous #8306"
-                }
-            },
-            {
-                "body": "Hey there, the app now shows decimal places using two currencies (e.g. 1.7 divine -> 1 divine + 140 chaos) in the market, trade and live search module. Please let me know if you still need a standalone converter! :)",
-                "timeAgo": "4 months",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "Anonymous #7671"
-        },
-        "status": {
-            "name": "Completed"
-        },
-        "voteCount": 32,
-        "commentCount": 3
-    },
-    "cktsbp2ec47445map10tmzn5tg": {
-        "id": "cktsbp2ec47445map10tmzn5tg",
-        "title": "Evaluating item mods based on tiers",
-        "body": "A feature where once enabled, you would price your item based on the tier it has (lowest roll for the tier) and not the exact value it has.",
-        "timeAgo": "over 1 year",
-        "comments": [
-            {
-                "body": "Has been added with 1.6.0 🎉",
-                "timeAgo": "about 1 month",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "name": "Completed"
-        },
-        "voteCount": 22,
-        "commentCount": 1
-    },
-    "cl0h3ne4s5446982unyii3raddp": {
-        "id": "cl0h3ne4s5446982unyii3raddp",
-        "title": "Return to game with ESC",
-        "body": "Close any active windows/overlays as if the X button were clicked on every Market/Inspect/Check/Settings window open. Just a small QoL of thing",
-        "timeAgo": "9 months",
-        "comments": [
-            {
-                "body": "Has been added with 1.7.0 🎉\nNote: This requires single window mode to be enabled and Overwolf v208+",
-                "timeAgo": "9 minutes",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "Anonymous #8482"
-        },
-        "status": {
-            "name": "Completed"
-        },
-        "voteCount": 16,
-        "commentCount": 1
-    },
-    "ckztsqsjk1538022urdlkiaib8d": {
-        "id": "ckztsqsjk1538022urdlkiaib8d",
-        "title": "Oils required for an anoit display",
-        "body": "With introduction of oil extractor and atlas nodes of dropping random anoited jewellery it became a hussle to check every single anoit on wiki. I suggest adding a maybe toglable display that shows oils needed to anoit right next or above/below the anoitment when you do Alt+Q item check. ",
-        "timeAgo": "8 months",
-        "comments": [
-            {
-                "body": "Works great! I love it",
-                "timeAgo": "12 days",
-                "user": {
-                    "name": "MalakaJones"
-                }
-            }
-        ],
-        "user": {
-            "name": "Anonymous #8323"
-        },
-        "status": {
-            "name": "Completed"
-        },
-        "voteCount": 12,
-        "commentCount": 1
-    },
-    "cktsbp2dw47436map1pyfne5ul": {
-        "id": "cktsbp2dw47436map1pyfne5ul",
-        "title": "Evaluate feature to use the bulk exchange for currencies",
-        "body": "When it comes to currencies, using the \"bulk item exchange\" instead of the \"listed item search\" would make much more sense. Especially for currencies that sells in very large amount.",
-        "timeAgo": "about 1 year",
-        "comments": [
-            {
-                "body": "Here are some ideas for implementation. Since this is part of the evaluate feature, having the search button tied to what type of currencies are selected in the evaluate configs would be ideal imo. You’d have a mix of let’s say exalts and chaos listings sorted by ratio. As for the price, it could either show up the trade format put in place by the player (ex: 5c for 25 rusted shaper scarabs and the total amount in stock) like it does in the market. Or it could simply put the total amount and the exact unit price with many decimals (ex: 37x \"player’s name\" 0.2374 c )",
-                "timeAgo": "about 1 year",
-                "user": {
-                    "name": "MalakaJones"
-                }
-            },
-            {
-                "body": "Hi there! This has been added with the latest version (1.4.0). Currently this works for \nall\n items available at the bulk exchange. I'm aware that this isn't ideal as some items are just not traded in bulk. My current ideas are:\n Looking forward to some feedback after y'all have poked the feature a bit! Cheers!",
-                "timeAgo": "about 15 hours",
-                "user": {
-                    "name": "Kyusung"
-                }
-            },
-            {
-                "body": "I really like those 2 ideas of further improvement, and so far, I'm having a blast with it. The minimum quantity is a really nice touch.",
-                "timeAgo": "31 minutes",
-                "user": {
-                    "name": "MalakaJones"
-                }
-            }
-        ],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "name": "Completed"
-        },
-        "voteCount": 12,
-        "commentCount": 3
-    },
     "cktsbp2f547461map1rrkovz8d": {
         "id": "cktsbp2f547461map1rrkovz8d",
         "title": "Programable timer on active trades",
@@ -231,21 +51,6 @@
         "voteCount": 11,
         "commentCount": 0
     },
-    "cktzhzt3b156203yn1y63r2t1n": {
-        "id": "cktzhzt3b156203yn1y63r2t1n",
-        "title": "Discord Integration",
-        "body": "- Send a message for every incoming trade to a dedicated Discord channel in order to get mobile notifications- Send a message on progression updates (lvl up, first time reaching a zone) to another Discord channel to compete with friends.",
-        "timeAgo": "about 1 year",
-        "comments": [],
-        "user": {
-            "name": "Kyusung"
-        },
-        "status": {
-            "name": "Completed"
-        },
-        "voteCount": 9,
-        "commentCount": 0
-    },
     "cld6fizgp048ck91y028ixxn1": {
         "id": "cld6fizgp048ck91y028ixxn1",
         "title": "Add \"Collapse Listings by Account\" to the Market",
@@ -256,7 +61,7 @@
             "name": "jaylay99"
         },
         "status": {
-            "name": "Open"
+            "name": "Accepted"
         },
         "voteCount": 8,
         "commentCount": 0
@@ -274,126 +79,6 @@
             "name": "Open"
         },
         "voteCount": 8,
-        "commentCount": 0
-    },
-    "ckvztg8mw610592tnumjkq658f": {
-        "id": "ckvztg8mw610592tnumjkq658f",
-        "title": "Evaluate: Toggle online/any listings",
-        "body": "Searching offline listings has its place. Especially when it's high end rares. Ideally on a per-search basis, instead of changing defaults.",
-        "timeAgo": "10 months",
-        "comments": [
-            {
-                "body": "Tottaly agree here. Something similar to was we had before version 1.0 would be sweet",
-                "timeAgo": "10 months",
-                "user": {
-                    "name": "Anonymous #7671"
-                }
-            }
-        ],
-        "user": {
-            "name": "Anonymous #7275"
-        },
-        "status": {
-            "name": "Completed"
-        },
-        "voteCount": 8,
-        "commentCount": 1
-    },
-    "cktsbozxk45626map1kyf25qky": {
-        "id": "cktsbozxk45626map1kyf25qky",
-        "title": "Add hotkeys to the trade module",
-        "body": "As a user i'd like to be able to trade using hotkeys in order to spent less time in my hideout.",
-        "timeAgo": "about 1 year",
-        "comments": [],
-        "user": {
-            "name": "Kyusung"
-        },
-        "status": {
-            "name": "Completed"
-        },
-        "voteCount": 8,
-        "commentCount": 0
-    },
-    "ckwl995gl227630rfiiqp6ffd": {
-        "id": "ckwl995gl227630rfiiqp6ffd",
-        "title": "Sort listings by mods in the market plugin",
-        "body": "Similar as the official website, being able to sort listing via a mod value would be a great addition!",
-        "timeAgo": "10 months",
-        "comments": [],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "name": "Completed"
-        },
-        "voteCount": 7,
-        "commentCount": 0
-    },
-    "ckvo2lpd2856302si5h8p4bx1c": {
-        "id": "ckvo2lpd2856302si5h8p4bx1c",
-        "title": "Import Item to Craft of Exile",
-        "body": "Add option to inspect that allows users to import items to https://www.craftofexile.com/",
-        "timeAgo": "11 months",
-        "comments": [
-            {
-                "body": "Like in 1 click instead of having to ctrl+alt+c the item then paste it into the website?",
-                "timeAgo": "11 months",
-                "user": {
-                    "name": "Anonymous #7671"
-                }
-            },
-            {
-                "body": "Yes",
-                "timeAgo": "11 months",
-                "user": {
-                    "name": "RagingHomoBear"
-                }
-            },
-            {
-                "body": "Hi there, thanks for creating this issue. Craftofexile does not support pre-filling items e.g. as querystring on to their website. Feel free to post this as a suggestion to their app. Until then, I'm unable to implement this feature. ",
-                "timeAgo": "29 minutes",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "RagingHomoBear"
-        },
-        "status": {
-            "name": "Completed"
-        },
-        "voteCount": 7,
-        "commentCount": 3
-    },
-    "cktsbp2gc47486map1eaofe0r5": {
-        "id": "cktsbp2gc47486map1eaofe0r5",
-        "title": "[Smart search] Connecting the market/evaluate/inspect features",
-        "body": "A way to open an inspected/evaluated item into the built-in market without having to manually enter stats or anything.",
-        "timeAgo": "about 1 year",
-        "comments": [],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "name": "Completed"
-        },
-        "voteCount": 7,
-        "commentCount": 0
-    },
-    "cktsboyte44790map16wgfsqii": {
-        "id": "cktsboyte44790map16wgfsqii",
-        "title": "Stat groups support within market",
-        "body": "Being able to choose wich stat group we want to use instead of the default \"and\" one would be nice!",
-        "timeAgo": "about 1 year",
-        "comments": [],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "name": "Completed"
-        },
-        "voteCount": 7,
         "commentCount": 0
     },
     "clculaj5u02stk91ysuokveh6": {
@@ -434,29 +119,6 @@
         "voteCount": 6,
         "commentCount": 1
     },
-    "ckx53ohor1190482skvax8hcza0": {
-        "id": "ckx53ohor1190482skvax8hcza0",
-        "title": "Metamorph organs support",
-        "body": "Would be nice if metamorph organs could be supported for evaluation. Since they are core, this would make sense to include those aswell.",
-        "timeAgo": "about 1 year",
-        "comments": [
-            {
-                "body": "I'm not exactly sure what the reason behind this missing support is. I'll add it to the backlog and check whenever I can. ",
-                "timeAgo": "3 months",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "name": "Completed"
-        },
-        "voteCount": 6,
-        "commentCount": 1
-    },
     "ckx3rzbui794452skvfl9bv9uw": {
         "id": "ckx3rzbui794452skvfl9bv9uw",
         "title": "Multi Client Option",
@@ -476,29 +138,6 @@
         },
         "status": {
             "name": "Blocked"
-        },
-        "voteCount": 6,
-        "commentCount": 1
-    },
-    "ckulbqcuc695573yqoybnb4lz3": {
-        "id": "ckulbqcuc695573yqoybnb4lz3",
-        "title": "Main UI not to launch on startup",
-        "body": "Some users prefer not having the main UI window show up on startup. Since this is a free tool ad driven, I could see this as a paid feature.",
-        "timeAgo": "over 1 year",
-        "comments": [
-            {
-                "body": "Hi there, thanks for creating this issue. This could be indeed be part of a paid version coming later. As not automatically opening the desktop part for everyone would drastically reduce the revenue, but given paid users won't see ads, this should be reasonable. ",
-                "timeAgo": "6 months",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "Anonymous #7671"
-        },
-        "status": {
-            "name": "Completed"
         },
         "voteCount": 6,
         "commentCount": 1
@@ -525,57 +164,6 @@
         },
         "voteCount": 5,
         "commentCount": 1
-    },
-    "ckw294gfa1694982tnu25da7pio": {
-        "id": "ckw294gfa1694982tnu25da7pio",
-        "title": "Auto clip High value drops",
-        "body": "Use a OBS plugin to auto clip high value item drops based on their rarity tier on item filters",
-        "timeAgo": "about 1 year",
-        "comments": [
-            {
-                "body": "Hmm, that's an interesting one. The replay module already allows to create a short video on hotkey press, going back a few seconds in the past. So the only missing part would be to identify when a valuable item drops 🤔",
-                "timeAgo": "about 2 months",
-                "user": {
-                    "name": "Kyusung"
-                }
-            },
-            {
-                "body": "i mean this could be doable but how could you get that type of info unless you are doing like an image match with the screen to detect the valuable item when you hover over it on the ground",
-                "timeAgo": "about 2 months",
-                "user": {
-                    "name": "Jimmy Straight"
-                }
-            },
-            {
-                "body": "Image matching/ processing is def. not something I'd want to do, also given it needs to run the whole time. I think the \"easiest\" approach would be something sound related. Either knowing if a high value sound has been played by sound recognition or some Windows API trickery. ",
-                "timeAgo": "about 2 months",
-                "user": {
-                    "name": "Kyusung"
-                }
-            },
-            {
-                "body": " \ntrue but how would do go about that since more people make there own filters with different sounds",
-                "timeAgo": "about 2 months",
-                "user": {
-                    "name": "Jimmy Straight"
-                }
-            },
-            {
-                "body": "Has been added with 1.6.0 🎉",
-                "timeAgo": "23 minutes",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "Inuboshi"
-        },
-        "status": {
-            "name": "Completed"
-        },
-        "voteCount": 5,
-        "commentCount": 5
     },
     "cktsbp2dg47427map1h5dtrqzc": {
         "id": "cktsbp2dg47427map1h5dtrqzc",
@@ -712,36 +300,6 @@
         "voteCount": 3,
         "commentCount": 0
     },
-    "clbiokdqd003hkj1yf9s7v66p": {
-        "id": "clbiokdqd003hkj1yf9s7v66p",
-        "title": "Alt+f4 changing to windowed mode",
-        "body": "Everytime I press Alt+f4 to close the game the game changes mode to Windowed instead of closing. This doesn't happen if POE Overlay is closed.",
-        "timeAgo": "7 days",
-        "comments": [
-            {
-                "body": "The same is happening to me",
-                "timeAgo": "2 days",
-                "user": {
-                    "name": "Penagonza"
-                }
-            },
-            {
-                "body": "You can unassign this command here, and it should fix it in the meantime. To unassign, you click the F4 key to open Overwolf menu, then press a random key, then click the \"x\" button next to it. It should unassign command #1",
-                "timeAgo": "15 minutes",
-                "user": {
-                    "name": "MalakaJones"
-                }
-            }
-        ],
-        "user": {
-            "name": "Dustin Tobes"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 3,
-        "commentCount": 2
-    },
     "cl8csqp052928991xj5sgt0nkme": {
         "id": "cl8csqp052928991xj5sgt0nkme",
         "title": "Custom Messages",
@@ -794,17 +352,17 @@
         "voteCount": 3,
         "commentCount": 0
     },
-    "clf4qcvcc04gtoj2000vgnk2l": {
-        "id": "clf4qcvcc04gtoj2000vgnk2l",
-        "title": "[Evaluate] Full Heist contracts/blueprints support",
-        "body": "It would be interresting if job requirement levels, contract objective, routes, could also be parsed when evaluating contracts. Since they are core, that would make sense to fully support them. All those are available in the Heist filter section.\n\n",
-        "timeAgo": "about 1 month",
+    "clgo8w07f09wgoj20rrwsag9p": {
+        "id": "clgo8w07f09wgoj20rrwsag9p",
+        "title": "Trade statistics system",
+        "body": "We do tons of trades with the help of POE overlay, but we don't know how many, or how much currency did we make, or how much currency we spend on the item.\n\n\nI know there is other software that can track profit like Exilence Next. But we don't have a function to auto-record what or how much did we sell/ buy on one item. \n\nInstead of viewing profit from the overlay afk popup window, we can add an option to turn on/off the trade record and record all the trades into an Excel spreadsheet, either .csv or .txt.\n\nSince the overlay knows the trade was selling or buying, when you finish the trade, typically, you will go for click the send finish button, and then the trade goes away anyway. So we can use that finish button action to confirm and save that trade record.\n\nIn that txt file can show information like time(in the log's timestamp), cost(the overlay already recognized), item name, etc.",
+        "timeAgo": "6 days",
         "comments": [],
         "user": {
-            "name": "MalakaJones"
+            "name": "八條麥茶"
         },
         "status": {
-            "name": "Completed"
+            "name": "Open"
         },
         "voteCount": 2,
         "commentCount": 0
@@ -917,36 +475,6 @@
         },
         "status": {
             "name": "Accepted"
-        },
-        "voteCount": 2,
-        "commentCount": 2
-    },
-    "cl9sx91s901hzlo247wrdj0yh": {
-        "id": "cl9sx91s901hzlo247wrdj0yh",
-        "title": "Can you provide support for Simplified Chinese?",
-        "body": "I'm playing on the international server with the simplified Chinese patch.\n\nThe trade side functions works fine, but the item evaluation and inspection functions don't work for me.\n\nI have some experience with programming and translation, maybe I can help a bit.\n\nThank you for making such a useful tool!\n\nPatch download from: https://poedb.tw/cn/chinese",
-        "timeAgo": "about 1 month",
-        "comments": [
-            {
-                "body": "Hey there, thanks for sharing your suggestion.\nThis topic has come up in the past and unfortunately patched clients is not something we can easily support. The app needs to map the mods from the game to the trade website. Given there is no Chinese on the international trade website, this mapping relies on \nhttps://web.poe.garena.tw/\n and the app redirects all queries to there as well.\nA possible solution would be to force use the international website with the \ngarena.tw\n mappings, but this comes with quite some drawbacks like the market would be in english, mappings could be wrong etc.\nFor now we think the amount of users affected by this is too slim to justify implementing a custom solution. If we later have some more time to spare or this topic gets more popular we will re-evaluated this decision. ",
-                "timeAgo": "about 1 month",
-                "user": {
-                    "name": "Kyusung"
-                }
-            },
-            {
-                "body": "Has been partially added with 1.7.0 🎉 We'll improve on this feature in a future iteration. \nNote: Needs to be enabled by going to preferences > context > Use international trade website.",
-                "timeAgo": "7 minutes",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "abevol"
-        },
-        "status": {
-            "name": "Completed"
         },
         "voteCount": 2,
         "commentCount": 2
@@ -1071,29 +599,6 @@
         "voteCount": 2,
         "commentCount": 2
     },
-    "cl0brozbe3245942unyhxmgeafq": {
-        "id": "cl0brozbe3245942unyhxmgeafq",
-        "title": "favorite management",
-        "body": "Looking for a way to save a lot of searches. A folder system kind of like better trading chome addon would be pretty good. Clicking the right arrow key multiple times is not efficient. Thanks.",
-        "timeAgo": "9 months",
-        "comments": [
-            {
-                "body": "Has been added with 1.6.0 🎉",
-                "timeAgo": "23 minutes",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "Anonymous #8442"
-        },
-        "status": {
-            "name": "Completed"
-        },
-        "voteCount": 2,
-        "commentCount": 1
-    },
     "ckzafznnw154652ys0t9atr67o": {
         "id": "ckzafznnw154652ys0t9atr67o",
         "title": "Make pseudo rules customizable",
@@ -1146,36 +651,6 @@
         "voteCount": 2,
         "commentCount": 3
     },
-    "cktsbp27v47312map1uhmz4eoq": {
-        "id": "cktsbp27v47312map1uhmz4eoq",
-        "title": "Trade window transparency slider",
-        "body": "Would give the player freedom surrounding the appearence of the trade module window. Could also be expended to every different modules and windows. One slider per feature.",
-        "timeAgo": "about 1 year",
-        "comments": [],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "name": "Completed"
-        },
-        "voteCount": 2,
-        "commentCount": 0
-    },
-    "cktsbozyw45650map1jwscy7yj": {
-        "id": "cktsbozyw45650map1jwscy7yj",
-        "title": "Support for higher resolution screens",
-        "body": "The in-game windows are way too small on higher resolution screens. Add a way to increase the size of the windows and their content.",
-        "timeAgo": "about 1 year",
-        "comments": [],
-        "user": {
-            "name": "Kyusung"
-        },
-        "status": {
-            "name": "Completed"
-        },
-        "voteCount": 2,
-        "commentCount": 0
-    },
     "clgseniuo0ac9oj20sz83keoq": {
         "id": "clgseniuo0ac9oj20sz83keoq",
         "title": "All Session Currency Tracking",
@@ -1199,36 +674,6 @@
         "comments": [],
         "user": {
             "name": "g-alfieri"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
-        "commentCount": 0
-    },
-    "clgs8gow20abooj2037zkjhfq": {
-        "id": "clgs8gow20abooj2037zkjhfq",
-        "title": "[Crucible] Primeval/Primordial single search support",
-        "body": "Would be nice to have support for those 2 type of maps that were introduced in Crucible. They have explicit modifiers similar to maps and it would be great to be able to evaluate them in-game without having to click the magnifying glass.\n\n",
-        "timeAgo": "2 minutes",
-        "comments": [],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
-        "commentCount": 0
-    },
-    "clgo8w07f09wgoj20rrwsag9p": {
-        "id": "clgo8w07f09wgoj20rrwsag9p",
-        "title": "Trade statistics system",
-        "body": "We do tons of trades with the help of POE overlay, but we don't know how many, or how much currency did we make, or how much currency we spend on the item.\n\n\nI know there is other software that can track profit like Exilence Next. But we don't have a function to auto-record what or how much did we sell/ buy on one item. \n\nInstead of viewing profit from the overlay afk popup window, we can add an option to turn on/off the trade record and record all the trades into an Excel spreadsheet, either .csv or .txt.\n\nSince the overlay knows the trade was selling or buying, when you finish the trade, typically, you will go for click the send finish button, and then the trade goes away anyway. So we can use that finish button action to confirm and save that trade record.\n\nIn that txt file can show information like time(in the log's timestamp), cost(the overlay already recognized), item name, etc.",
-        "timeAgo": "2 minutes",
-        "comments": [],
-        "user": {
-            "name": "八條麥茶"
         },
         "status": {
             "name": "Open"
@@ -1355,36 +800,6 @@
         },
         "voteCount": 1,
         "commentCount": 0
-    },
-    "clepw4nx201l4oj20kf8ycuvl": {
-        "id": "clepw4nx201l4oj20kf8ycuvl",
-        "title": "Give market overlay priority over evaluate overlay when searching.",
-        "body": "Something I do often is find a currency or item I want to look up in the larger market tab usually accessed with alt+m.\n\nTo do this I press alt+d on the item then use the top left button[Open in market] next to the setting icon in the evaluate overlay window that appears and that opens up the market overlay. \n\nOnce I have the market overlay open I will typically make some changes to my search parameters such as deslecting divs, or changing stock for bulk exchanges or altering stats filters. (Ideally I'd be able to set some defaults for these in the preferences, though I may have just missed the option.)\n\nOnce I have made my changes I will press the search button in the market overlay. Doing that only refreshes the evaluate overlay with the results unless I close that overlay.\n\nI would like it if my search results appeared in the market overlay once it is open.\n\n",
-        "timeAgo": "1 day",
-        "comments": [
-            {
-                "body": "Hey there, thanks for posting your feedback. I feel like that might be a bug. We'll check and come back if we need further information from you. Cheers! ",
-                "timeAgo": "about 24 hours",
-                "user": {
-                    "name": "Kyusung"
-                }
-            },
-            {
-                "body": "It's indeed a bug. Has been fixed with the latest preview version 1.10.1. ",
-                "timeAgo": "3 minutes",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "blahblahdrugs"
-        },
-        "status": {
-            "name": "Completed"
-        },
-        "voteCount": 1,
-        "commentCount": 2
     },
     "cldymx9e7000lkx1s3uzcadlt": {
         "id": "cldymx9e7000lkx1s3uzcadlt",
@@ -1550,29 +965,6 @@
         },
         "voteCount": 1,
         "commentCount": 2
-    },
-    "cl75650147065501xq374sa5cit": {
-        "id": "cl75650147065501xq374sa5cit",
-        "title": "Show missin implicit/affixes/quality in market",
-        "body": "In Kalandra League there are a lot of items with mirrored implicit that can't be modified. This invalidate a lot of trade results being limited to only show non-mirrored. Would be nice to see these values on results",
-        "timeAgo": "about 2 months",
-        "comments": [
-            {
-                "body": "Thanks for creating this issue. This has been added with 1.3.21. ",
-                "timeAgo": "19 days",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "g-alfieri"
-        },
-        "status": {
-            "name": "Completed"
-        },
-        "voteCount": 1,
-        "commentCount": 1
     },
     "cl2udd62a855152yo947oig1nn": {
         "id": "cl2udd62a855152yo947oig1nn",
