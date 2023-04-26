@@ -643,6 +643,21 @@
         "voteCount": 2,
         "commentCount": 3
     },
+    "clgxny83n008ros289c27845b": {
+        "id": "clgxny83n008ros289c27845b",
+        "title": "Show POB tree in POEOverlay",
+        "body": "Hi, i really like the feature of having poeoverlay like fast travel to hideout, leaving party, trading etc however this is just me personally but i prefer to have everything on 1 application. for instance, in poeoverlay, i can open a build i want to follow with the items and jewels showing but theres no skill tree shown. Yet i have to open POB to just to see the skill tree. What makes me question this is that poeoverlay is able to locate POB files, show the gems and items but missing the most important factor, the skill tree. Just thought that i brought this up wondering as to why poeobverlay is able to import POB's files, gems and items but not the key factor which is the skill tree.\n\nI understand developers have their own TOS for not allowing stuff to be taken and use. So if it is not allowed thats fine, just that i will have 2 applications open.",
+        "timeAgo": "26 minutes",
+        "comments": [],
+        "user": {
+            "name": "TSK"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "clgseniuo0ac9oj20sz83keoq": {
         "id": "clgseniuo0ac9oj20sz83keoq",
         "title": "All Session Currency Tracking",
