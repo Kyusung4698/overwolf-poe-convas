@@ -56,15 +56,23 @@
         "title": "Add \"Collapse Listings by Account\" to the Market",
         "body": "The feature \"Collapse Listings by Account\" on the official trading site allows you to have only shown 1 listing per account, which gives you the ability to easily ignore price fixers. Overall it would be a great QoL and I'm sure many would enjoy it\n\nP.S.: if this is accepted, please that'd be great if you could make it an option in the PoE Overlay settings to ALWAYS leave it enabled so we don't have to put \"YES\" every time.\n\n",
         "timeAgo": "3 months",
-        "comments": [],
+        "comments": [
+            {
+                "body": "This feature is now available in the preview version. It will go to prod later soon.",
+                "timeAgo": "21 minutes",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "jaylay99"
         },
         "status": {
-            "name": "Accepted"
+            "name": "Completed"
         },
         "voteCount": 8,
-        "commentCount": 0
+        "commentCount": 1
     },
     "clbz80n9p010bk91yvzyu99m4": {
         "id": "clbz80n9p010bk91yvzyu99m4",
@@ -643,6 +651,21 @@
         "voteCount": 2,
         "commentCount": 3
     },
+    "clgzdig1n00faos28uuiw6j5s": {
+        "id": "clgzdig1n00faos28uuiw6j5s",
+        "title": "Option to Disable Build Module",
+        "body": "let you disable it if you dont rly use it and only once tryd it",
+        "timeAgo": "5 minutes",
+        "comments": [],
+        "user": {
+            "name": "Xenos Omega"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "clgxny83n008ros289c27845b": {
         "id": "clgxny83n008ros289c27845b",
         "title": "Show POB tree in POEOverlay",
@@ -731,21 +754,6 @@
         "title": "Add a roll percentage feature when searching for uniques.",
         "body": "Often when I am trying to evaluate a unique I have to check it at many different stat roll points to see what is valuable and what is not. It would be nice if there was some way to choose something like. 90% perfect, 100% perfect, ect. Also it would be nice if there was a way to use base percentile when searching the market as part of the parameters.",
         "timeAgo": "25 minutes",
-        "comments": [],
-        "user": {
-            "name": "blahblahdrugs"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
-        "commentCount": 0
-    },
-    "cleycozrj03i5oj2087pdr8lh": {
-        "id": "cleycozrj03i5oj2087pdr8lh",
-        "title": "Market Overlay - Copy User to Clipboard",
-        "body": "I'd like the option to directly message someone without offering to buy immediately so that I can negotiate the price with the item's owner.",
-        "timeAgo": "11 minutes",
         "comments": [],
         "user": {
             "name": "blahblahdrugs"
@@ -895,16 +903,24 @@
         "id": "clbjy88ai0077kj1yqd5qxyuu",
         "title": "Allow trade whispers to be saved to clipboard",
         "body": "As the title, allow trade whispers from the market to be saved to clipboard with an extra button, so you could share it to friends as example\n\nThe poe trade site allow it too.",
-        "timeAgo": "4 minutes",
-        "comments": [],
+        "timeAgo": "5 months",
+        "comments": [
+            {
+                "body": "This feature is now available in the preview version. ",
+                "timeAgo": "20 minutes",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "Xenos Omega"
         },
         "status": {
-            "name": "Accepted"
+            "name": "Completed"
         },
         "voteCount": 1,
-        "commentCount": 0
+        "commentCount": 1
     },
     "cl9gxda5b00aplo247cohca6z": {
         "id": "cl9gxda5b00aplo247cohca6z",
