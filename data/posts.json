@@ -655,8 +655,16 @@
         "id": "clgzdig1n00faos28uuiw6j5s",
         "title": "Option to Disable Build Module",
         "body": "let you disable it if you dont rly use it and only once tryd it",
-        "timeAgo": "5 minutes",
-        "comments": [],
+        "timeAgo": "24 minutes",
+        "comments": [
+            {
+                "body": "You can press the locate button while PoB isn't running to \"disable\" the module. ",
+                "timeAgo": "3 minutes",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "Xenos Omega"
         },
@@ -664,7 +672,7 @@
             "name": "Open"
         },
         "voteCount": 1,
-        "commentCount": 0
+        "commentCount": 1
     },
     "clgxny83n008ros289c27845b": {
         "id": "clgxny83n008ros289c27845b",
