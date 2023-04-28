@@ -51,29 +51,6 @@
         "voteCount": 11,
         "commentCount": 0
     },
-    "cld6fizgp048ck91y028ixxn1": {
-        "id": "cld6fizgp048ck91y028ixxn1",
-        "title": "Add \"Collapse Listings by Account\" to the Market",
-        "body": "The feature \"Collapse Listings by Account\" on the official trading site allows you to have only shown 1 listing per account, which gives you the ability to easily ignore price fixers. Overall it would be a great QoL and I'm sure many would enjoy it\n\nP.S.: if this is accepted, please that'd be great if you could make it an option in the PoE Overlay settings to ALWAYS leave it enabled so we don't have to put \"YES\" every time.\n\n",
-        "timeAgo": "3 months",
-        "comments": [
-            {
-                "body": "This feature is now available in the preview version. It will go to prod later soon.",
-                "timeAgo": "21 minutes",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "jaylay99"
-        },
-        "status": {
-            "name": "Completed"
-        },
-        "voteCount": 8,
-        "commentCount": 1
-    },
     "clbz80n9p010bk91yvzyu99m4": {
         "id": "clbz80n9p010bk91yvzyu99m4",
         "title": "Evaluate Grand Heist items on the go",
@@ -906,29 +883,6 @@
         },
         "voteCount": 1,
         "commentCount": 0
-    },
-    "clbjy88ai0077kj1yqd5qxyuu": {
-        "id": "clbjy88ai0077kj1yqd5qxyuu",
-        "title": "Allow trade whispers to be saved to clipboard",
-        "body": "As the title, allow trade whispers from the market to be saved to clipboard with an extra button, so you could share it to friends as example\n\nThe poe trade site allow it too.",
-        "timeAgo": "5 months",
-        "comments": [
-            {
-                "body": "This feature is now available in the preview version. ",
-                "timeAgo": "20 minutes",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "Xenos Omega"
-        },
-        "status": {
-            "name": "Completed"
-        },
-        "voteCount": 1,
-        "commentCount": 1
     },
     "cl9gxda5b00aplo247cohca6z": {
         "id": "cl9gxda5b00aplo247cohca6z",
