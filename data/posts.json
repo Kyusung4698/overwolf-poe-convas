@@ -643,6 +643,21 @@
         "voteCount": 2,
         "commentCount": 3
     },
+    "cli846ap401dvos280kzwp7vj": {
+        "id": "cli846ap401dvos280kzwp7vj",
+        "title": "Highlight bank item after \"x\" amout of time listed",
+        "body": "A feature that would highlight items in your bank after they have been \"X\" amount of time on the market (listing age). It would help identify items that need their price to be lowered.\n\nI don't know if this is some kind of information that is retrievable from the oauth connection.\n\n",
+        "timeAgo": "18 minutes",
+        "comments": [],
+        "user": {
+            "name": "MalakaJones"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "clgzdig1n00faos28uuiw6j5s": {
         "id": "clgzdig1n00faos28uuiw6j5s",
         "title": "Option to Disable Build Module",
