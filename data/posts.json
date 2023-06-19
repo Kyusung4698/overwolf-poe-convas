@@ -322,6 +322,21 @@
         "voteCount": 3,
         "commentCount": 0
     },
+    "clj074hgp01ieos28kyiemadv": {
+        "id": "clj074hgp01ieos28kyiemadv",
+        "title": "Search button keybind",
+        "body": "Some users are requesting a keybind that could be associated to the search button from the evaluate window instead of being forced to click it.",
+        "timeAgo": "2 days",
+        "comments": [],
+        "user": {
+            "name": "MalakaJones"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 2,
+        "commentCount": 0
+    },
     "cli846ap401dvos280kzwp7vj": {
         "id": "cli846ap401dvos280kzwp7vj",
         "title": "Highlight bank item after \"x\" amout of time listed",
@@ -627,21 +642,6 @@
         },
         "voteCount": 2,
         "commentCount": 3
-    },
-    "clj074hgp01ieos28kyiemadv": {
-        "id": "clj074hgp01ieos28kyiemadv",
-        "title": "Search button keybind",
-        "body": "Some users are requesting a keybind that could be associated to the search button from the evaluate window instead of being forced to click it.",
-        "timeAgo": "19 minutes",
-        "comments": [],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
-        "commentCount": 0
     },
     "clgzdig1n00faos28uuiw6j5s": {
         "id": "clgzdig1n00faos28uuiw6j5s",
