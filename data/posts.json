@@ -127,6 +127,36 @@
         "voteCount": 6,
         "commentCount": 1
     },
+    "clgxny83n008ros289c27845b": {
+        "id": "clgxny83n008ros289c27845b",
+        "title": "Show POB tree in POEOverlay",
+        "body": "Hi, i really like the feature of having poeoverlay like fast travel to hideout, leaving party, trading etc however this is just me personally but i prefer to have everything on 1 application. for instance, in poeoverlay, i can open a build i want to follow with the items and jewels showing but theres no skill tree shown. Yet i have to open POB to just to see the skill tree. What makes me question this is that poeoverlay is able to locate POB files, show the gems and items but missing the most important factor, the skill tree. Just thought that i brought this up wondering as to why poeobverlay is able to import POB's files, gems and items but not the key factor which is the skill tree.\n\nI understand developers have their own TOS for not allowing stuff to be taken and use. So if it is not allowed thats fine, just that i will have 2 applications open.",
+        "timeAgo": "3 months",
+        "comments": [
+            {
+                "body": "Hey, the build feature was just recently added, and the initial focus was on items and how we can improve existing features with additional information about the current build. For example, when searching for an upgrade, the market shows the stat differences compared to your equipped item.\nHaving said that, after we published this feature, we received feedback about how the passive skill tree would be a fantastic addition. So, it's something we plan on adding soon. ",
+                "timeAgo": "3 months",
+                "user": {
+                    "name": "Kyusung"
+                }
+            },
+            {
+                "body": "I see, glad to know that atleast implementing the skill tree is on your to-do list. cant wait for the outcome of it! TY for your hardworks !",
+                "timeAgo": "3 months",
+                "user": {
+                    "name": "TSK"
+                }
+            }
+        ],
+        "user": {
+            "name": "TSK"
+        },
+        "status": {
+            "name": "Accepted"
+        },
+        "voteCount": 5,
+        "commentCount": 2
+    },
     "ckw56ayp32970472tnum7j4zg02": {
         "id": "ckw56ayp32970472tnum7j4zg02",
         "title": "Thank you message in different languages",
@@ -149,36 +179,6 @@
         },
         "voteCount": 5,
         "commentCount": 1
-    },
-    "clgxny83n008ros289c27845b": {
-        "id": "clgxny83n008ros289c27845b",
-        "title": "Show POB tree in POEOverlay",
-        "body": "Hi, i really like the feature of having poeoverlay like fast travel to hideout, leaving party, trading etc however this is just me personally but i prefer to have everything on 1 application. for instance, in poeoverlay, i can open a build i want to follow with the items and jewels showing but theres no skill tree shown. Yet i have to open POB to just to see the skill tree. What makes me question this is that poeoverlay is able to locate POB files, show the gems and items but missing the most important factor, the skill tree. Just thought that i brought this up wondering as to why poeobverlay is able to import POB's files, gems and items but not the key factor which is the skill tree.\n\nI understand developers have their own TOS for not allowing stuff to be taken and use. So if it is not allowed thats fine, just that i will have 2 applications open.",
-        "timeAgo": "3 months",
-        "comments": [
-            {
-                "body": "Hey, the build feature was just recently added, and the initial focus was on items and how we can improve existing features with additional information about the current build. For example, when searching for an upgrade, the market shows the stat differences compared to your equipped item.\nHaving said that, after we published this feature, we received feedback about how the passive skill tree would be a fantastic addition. So, it's something we plan on adding soon. ",
-                "timeAgo": "3 months",
-                "user": {
-                    "name": "Kyusung"
-                }
-            },
-            {
-                "body": "I see, glad to know that atleast implementing the skill tree is on your to-do list. cant wait for the outcome of it! TY for your hardworks !",
-                "timeAgo": "2 months",
-                "user": {
-                    "name": "TSK"
-                }
-            }
-        ],
-        "user": {
-            "name": "TSK"
-        },
-        "status": {
-            "name": "Accepted"
-        },
-        "voteCount": 4,
-        "commentCount": 2
     },
     "clb40eb3p006pny1z2lfph6y9": {
         "id": "clb40eb3p006pny1z2lfph6y9",
