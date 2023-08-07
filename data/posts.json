@@ -85,16 +85,23 @@
                 "user": {
                     "name": "TSK"
                 }
+            },
+            {
+                "body": "Has been added with the 1.26.3 preview release. You can enable the preview version in the app settings to test it before it goes live in the next two weeks. Thanks for requesting this feature! ",
+                "timeAgo": "16 minutes",
+                "user": {
+                    "name": "Kyusung"
+                }
             }
         ],
         "user": {
             "name": "TSK"
         },
         "status": {
-            "name": "Planned"
+            "name": "Completed"
         },
         "voteCount": 6,
-        "commentCount": 2
+        "commentCount": 3
     },
     "clculaj5u02stk91ysuokveh6": {
         "id": "clculaj5u02stk91ysuokveh6",
@@ -677,16 +684,24 @@
         "id": "clkitpi8a01gros287td5z4bq",
         "title": "Closing the window opened with F9",
         "body": "as a quality of life thing I know it seems minor but when in windowed mode the close button on the F9 menu gets hidden offscreen. Making a second press of F9 close the window or at least another key to close the window would be awesome. thank you\n\n",
-        "timeAgo": "19 minutes",
-        "comments": [],
+        "timeAgo": "13 days",
+        "comments": [
+            {
+                "body": "Has been added with the 1.26.3 preview release. You can enable the preview version in the app settings to test it before it goes live in the next two weeks.  ",
+                "timeAgo": "18 minutes",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "Private Veryprivate"
         },
         "status": {
-            "name": "Open"
+            "name": "Completed"
         },
         "voteCount": 1,
-        "commentCount": 0
+        "commentCount": 1
     },
     "clgzdig1n00faos28uuiw6j5s": {
         "id": "clgzdig1n00faos28uuiw6j5s",
