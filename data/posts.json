@@ -40,7 +40,7 @@
         "id": "cktsbp2f547461map1rrkovz8d",
         "title": "Programable timer on active trades",
         "body": "Some timer that could be set to a fixed amount and where active trades in the trade module would auto clear when that timer ends.",
-        "timeAgo": "over 1 year",
+        "timeAgo": "almost 2 years",
         "comments": [],
         "user": {
             "name": "MalakaJones"
@@ -48,7 +48,7 @@
         "status": {
             "name": "Accepted"
         },
-        "voteCount": 11,
+        "voteCount": 12,
         "commentCount": 0
     },
     "clbz80n9p010bk91yvzyu99m4": {
@@ -149,6 +149,21 @@
         },
         "voteCount": 5,
         "commentCount": 1
+    },
+    "clg3yuzau086coj205rcnn8fv": {
+        "id": "clg3yuzau086coj205rcnn8fv",
+        "title": "Labyrinth Compass",
+        "body": "Integrate labyrinth compass that pops up when you enter the labyrinth.\n\nAnd download the newest labyrinth layout\n\nProbably does not know witch lab difficulty it is so a popup need to come up and ask.",
+        "timeAgo": "4 months",
+        "comments": [],
+        "user": {
+            "name": "Zekhap"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 4,
+        "commentCount": 0
     },
     "clb40eb3p006pny1z2lfph6y9": {
         "id": "clb40eb3p006pny1z2lfph6y9",
@@ -255,21 +270,6 @@
         "voteCount": 4,
         "commentCount": 0
     },
-    "clg3yuzau086coj205rcnn8fv": {
-        "id": "clg3yuzau086coj205rcnn8fv",
-        "title": "Labyrinth Compass",
-        "body": "Integrate labyrinth compass that pops up when you enter the labyrinth.\n\nAnd download the newest labyrinth layout\n\nProbably does not know witch lab difficulty it is so a popup need to come up and ask.",
-        "timeAgo": "4 days",
-        "comments": [],
-        "user": {
-            "name": "Zekhap"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 3,
-        "commentCount": 0
-    },
     "cld6415hr047jk91ydxgyuf72": {
         "id": "cld6415hr047jk91ydxgyuf72",
         "title": "An integrated notepad",
@@ -278,6 +278,21 @@
         "comments": [],
         "user": {
             "name": "MalakaJones"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 3,
+        "commentCount": 0
+    },
+    "clchq1ohh01ytk91yr2ugbv7g": {
+        "id": "clchq1ohh01ytk91yr2ugbv7g",
+        "title": "Trade whisper validation",
+        "body": "Validate if the whispered price matches the listed price on the trade website. ",
+        "timeAgo": "7 months",
+        "comments": [],
+        "user": {
+            "name": "Kyusung"
         },
         "status": {
             "name": "Open"
@@ -448,21 +463,6 @@
         },
         "voteCount": 2,
         "commentCount": 3
-    },
-    "clchq1ohh01ytk91yr2ugbv7g": {
-        "id": "clchq1ohh01ytk91yr2ugbv7g",
-        "title": "Trade whisper validation",
-        "body": "Validate if the whispered price matches the listed price on the trade website. ",
-        "timeAgo": "19 days",
-        "comments": [],
-        "user": {
-            "name": "Kyusung"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 2,
-        "commentCount": 0
     },
     "clbwklgie00spk91ya5ov0c1x": {
         "id": "clbwklgie00spk91ya5ov0c1x",
