@@ -835,18 +835,25 @@
         "id": "clccps08w01l0k91y6eqe49fh",
         "title": "New Button to ignore player",
         "body": "new button on the \"buyer\" side to ignore the player, would be useful to clear out the price fixers, or just people who dont respond\n\n",
-        "timeAgo": "3 months",
+        "timeAgo": "8 months",
         "comments": [
             {
                 "body": "Bump, any word on this? ",
-                "timeAgo": "1 day",
+                "timeAgo": "4 months",
                 "user": {
                     "name": "Sagna"
                 }
             },
             {
                 "body": "Hey, this feature is accepted but still needs to be prioritized. With this, we also want to make the trade buttons customizable. We'll update this issue once we start working on it!",
-                "timeAgo": "20 minutes",
+                "timeAgo": "4 months",
+                "user": {
+                    "name": "Kyusung"
+                }
+            },
+            {
+                "body": "Has been added with the 1.27.2 preview release. You can enable the preview version in the app settings to test it before it goes live shortly ahead of the league launch. Thanks for your feedback! ",
+                "timeAgo": "4 minutes",
                 "user": {
                     "name": "Kyusung"
                 }
@@ -856,57 +863,80 @@
             "name": "Sagna"
         },
         "status": {
-            "name": "Accepted"
+            "name": "Completed"
         },
         "voteCount": 1,
-        "commentCount": 2
+        "commentCount": 3
     },
     "clbqtw54i00duk91yjkjdvkyv": {
         "id": "clbqtw54i00duk91yjkjdvkyv",
         "title": "Discord Notifications Based on Price",
         "body": "Please implement a threshold value for discord notifications.\n\nI list a lot of items and only want to be notified of high-value sales.",
-        "timeAgo": "less than a minute",
-        "comments": [],
+        "timeAgo": "8 months",
+        "comments": [
+            {
+                "body": "Has been added with the 1.27.2 preview release. You can enable the preview version in the app settings to test it before it goes live shortly ahead of the league launch. Thanks for your suggestion! ",
+                "timeAgo": "3 minutes",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "Destreus"
         },
         "status": {
-            "name": "Accepted"
+            "name": "Completed"
         },
         "voteCount": 1,
-        "commentCount": 0
+        "commentCount": 1
     },
     "cl9gxda5b00aplo247cohca6z": {
         "id": "cl9gxda5b00aplo247cohca6z",
         "title": "Class-Based Avatar Webhook ",
         "body": "Possibly grabbing the current in game-class and changing the webhook avatar to the user's class.",
-        "timeAgo": "14 minutes",
-        "comments": [],
+        "timeAgo": "10 months",
+        "comments": [
+            {
+                "body": "Has been added with the 1.27.2 preview release. You can enable the preview version in the app settings to test it before it goes live shortly ahead of the league launch. Thanks for your suggestion! ",
+                "timeAgo": "7 minutes",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "Corin"
         },
         "status": {
-            "name": "Accepted"
+            "name": "Completed"
         },
         "voteCount": 1,
-        "commentCount": 0
+        "commentCount": 1
     },
     "cl8p1f3ep4007981xnx0xse4vmj": {
         "id": "cl8p1f3ep4007981xnx0xse4vmj",
         "title": "customize trade button",
         "body": "The Trade feature is very useful!\n\nBut I don't use Item Highlight, Gone Message, FinishMessage.\n\nI would like to have the option to customize or hide the trade button.\n\n",
-        "timeAgo": "3 days",
+        "timeAgo": "11 months",
         "comments": [
             {
                 "body": "And is it difficult to Kick a trading partner from a party after sending a FinishMessage?",
-                "timeAgo": "3 days",
+                "timeAgo": "11 months",
                 "user": {
                     "name": "Tesraunread"
                 }
             },
             {
                 "body": "Hey there, glad you like the trade feature! Customizing the trade buttons seems like a good idea. \nThere is already a kick feature implemented. If it's an incoming trade (someone wants to buy something from you), it would kick the player from your party after you used \"finish message\". For outgoing trades it would kick yourself from the party. This can be disabled, so make sure it's enabled like in the screenshot below. (desktop app > preferences > trade)",
-                "timeAgo": "1 minute",
+                "timeAgo": "11 months",
+                "user": {
+                    "name": "Kyusung"
+                }
+            },
+            {
+                "body": "The shown actions are now customizable with the 1.27.2 preview release. You can enable the preview version in the app settings to test it before it goes live shortly ahead of the upcoming league launch.",
+                "timeAgo": "5 minutes",
                 "user": {
                     "name": "Kyusung"
                 }
@@ -916,10 +946,10 @@
             "name": "Tesraunread"
         },
         "status": {
-            "name": "Accepted"
+            "name": "Completed"
         },
         "voteCount": 1,
-        "commentCount": 2
+        "commentCount": 3
     },
     "cl2udd62a855152yo947oig1nn": {
         "id": "cl2udd62a855152yo947oig1nn",
