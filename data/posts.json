@@ -127,6 +127,21 @@
         "voteCount": 6,
         "commentCount": 1
     },
+    "clg3yuzau086coj205rcnn8fv": {
+        "id": "clg3yuzau086coj205rcnn8fv",
+        "title": "Labyrinth Compass",
+        "body": "Integrate labyrinth compass that pops up when you enter the labyrinth.\n\nAnd download the newest labyrinth layout\n\nProbably does not know witch lab difficulty it is so a popup need to come up and ask.",
+        "timeAgo": "4 months",
+        "comments": [],
+        "user": {
+            "name": "Zekhap"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 5,
+        "commentCount": 0
+    },
     "ckw56ayp32970472tnum7j4zg02": {
         "id": "ckw56ayp32970472tnum7j4zg02",
         "title": "Thank you message in different languages",
@@ -149,21 +164,6 @@
         },
         "voteCount": 5,
         "commentCount": 1
-    },
-    "clg3yuzau086coj205rcnn8fv": {
-        "id": "clg3yuzau086coj205rcnn8fv",
-        "title": "Labyrinth Compass",
-        "body": "Integrate labyrinth compass that pops up when you enter the labyrinth.\n\nAnd download the newest labyrinth layout\n\nProbably does not know witch lab difficulty it is so a popup need to come up and ask.",
-        "timeAgo": "4 months",
-        "comments": [],
-        "user": {
-            "name": "Zekhap"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 4,
-        "commentCount": 0
     },
     "clb40eb3p006pny1z2lfph6y9": {
         "id": "clb40eb3p006pny1z2lfph6y9",
