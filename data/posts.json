@@ -51,6 +51,36 @@
         "voteCount": 14,
         "commentCount": 0
     },
+    "clbsyse2z00hvk91ytoc2axjk": {
+        "id": "clbsyse2z00hvk91ytoc2axjk",
+        "title": "Give us an option to press \"search\" automatically",
+        "body": "I'm aware that the auto-search was removed to prevent getting timed out, but there should be an option for it to be automatic ONLY when you evaluate the first time. \n\nWhat that means is, it wouldn't auto search every time you click on a stat, but only when you Alt+D, the first time wouldn't need to press \"Search\" to give us prices.\n\nIt would be optional in the end, I think many would enjoy it.",
+        "timeAgo": "8 months",
+        "comments": [
+            {
+                "body": "I think this is def. something we could consider again, also given we now have rate limiting in place. It's already done for bulk exchange items, but we could expand that for \"search\" items as well. I think this is especially good for uniques. ",
+                "timeAgo": "8 months",
+                "user": {
+                    "name": "Kyusung"
+                }
+            },
+            {
+                "body": "Also maybe add an option to automatically rerun the search when the selected modifiers change, possibly with some short delay to prevent an unnecessary request when changing multiple modifiers at once. Alternatively, start the search once the user hovers over the search button like Awakened POE Trade does, so you only have to move the mouse down a bit.",
+                "timeAgo": "8 minutes",
+                "user": {
+                    "name": "iTob"
+                }
+            }
+        ],
+        "user": {
+            "name": "jaylay99"
+        },
+        "status": {
+            "name": "Accepted"
+        },
+        "voteCount": 9,
+        "commentCount": 2
+    },
     "clg3yuzau086coj205rcnn8fv": {
         "id": "clg3yuzau086coj205rcnn8fv",
         "title": "Labyrinth Compass",
@@ -80,29 +110,6 @@
         },
         "voteCount": 8,
         "commentCount": 0
-    },
-    "clbsyse2z00hvk91ytoc2axjk": {
-        "id": "clbsyse2z00hvk91ytoc2axjk",
-        "title": "Give us an option to press \"search\" automatically",
-        "body": "I'm aware that the auto-search was removed to prevent getting timed out, but there should be an option for it to be automatic ONLY when you evaluate the first time. \n\nWhat that means is, it wouldn't auto search every time you click on a stat, but only when you Alt+D, the first time wouldn't need to press \"Search\" to give us prices.\n\nIt would be optional in the end, I think many would enjoy it.",
-        "timeAgo": "8 months",
-        "comments": [
-            {
-                "body": "I think this is def. something we could consider again, also given we now have rate limiting in place. It's already done for bulk exchange items, but we could expand that for \"search\" items as well. I think this is especially good for uniques. ",
-                "timeAgo": "8 months",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "jaylay99"
-        },
-        "status": {
-            "name": "Accepted"
-        },
-        "voteCount": 8,
-        "commentCount": 1
     },
     "clculaj5u02stk91ysuokveh6": {
         "id": "clculaj5u02stk91ysuokveh6",
