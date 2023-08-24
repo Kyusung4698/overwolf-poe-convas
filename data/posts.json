@@ -3,25 +3,25 @@
         "id": "cktsbp06645781map1mdgomfb5",
         "title": "Inventory value calculator",
         "body": "Image and text recognition AI to calculate inventory value using ImageAI and OCR. Similar to what HarvestVendor does but next level 🤓",
-        "timeAgo": "over 1 year",
+        "timeAgo": "almost 2 years",
         "comments": [
             {
                 "body": "requested a new game event from overwolf to support this, i will be waiting their response before diving into training models. \nhttps://discuss.overwolf.com/t/path-of-exile-extend-the-opened-page-event-to-include-page-content/2025",
-                "timeAgo": "over 1 year",
+                "timeAgo": "almost 2 years",
                 "user": {
                     "name": "Kyusung"
                 }
             },
             {
                 "body": "I really like the idea of counting currency as shown in the picture. This would help making sure people put the correct amount in the trade window. I'd also really like to see a complementary behaviour where it would sum up all currencies and give you an estimate based on poe.ninja prices. Could be in chaos or in exalt.",
-                "timeAgo": "over 1 year",
+                "timeAgo": "almost 2 years",
                 "user": {
                     "name": "MalakaJones"
                 }
             },
             {
                 "body": "Maybe you could ask for an update from overwolf. Its already 9 months ago and still no new infos from them.",
-                "timeAgo": "11 months",
+                "timeAgo": "over 1 year",
                 "user": {
                     "name": "Nico Eschner"
                 }
@@ -33,7 +33,7 @@
         "status": {
             "name": "Blocked"
         },
-        "voteCount": 78,
+        "voteCount": 77,
         "commentCount": 3
     },
     "cktsbp2f547461map1rrkovz8d": {
@@ -48,7 +48,7 @@
         "status": {
             "name": "Accepted"
         },
-        "voteCount": 15,
+        "voteCount": 14,
         "commentCount": 0
     },
     "clbsyse2z00hvk91ytoc2axjk": {
@@ -664,6 +664,21 @@
         },
         "voteCount": 2,
         "commentCount": 3
+    },
+    "cllpjc4ku0009n629n4tqvlnw": {
+        "id": "cllpjc4ku0009n629n4tqvlnw",
+        "title": "Foiled version support",
+        "body": "Having the foil toggle supported at the Evaluate window could be nice. Here is an exemple of a foiled item.\n\n\nItem Class: One Hand Axes\n\nRarity: Unique\n\nActum\n\nButcher Axe\n\n--------\n\nOne Handed Axe\n\nPhysical Damage: 157-291 (augmented)\n\nCritical Strike Chance: 5.00%\n\nAttacks per Second: 1.30\n\nWeapon Range: 11\n\n--------\n\nRequirements:\n\nLevel: 63\n\nStr: 149\n\nDex: 76\n\n--------\n\nItem Level: 75\n\n--------\n\n{ Unique Modifier }\n\nHas no Sockets — Unscalable Value\n\n{ Unique Modifier — Damage, Physical, Attack }\n\n235(200-250)% increased Physical Damage\n\n{ Unique Modifier — Attribute }\n\nYou have no Intelligence — Unscalable Value\n\n{ Unique Modifier — Critical }\n\nCritical Strike Chance is 24(20-30)% for Hits with this Weapon\n\n--------\n\nBetter to act without thought\n\nthan to think without action.\n\n--------\n\nFoil Unique (Ruby)\n\n--------\n\n",
+        "timeAgo": "15 minutes",
+        "comments": [],
+        "user": {
+            "name": "MalakaJones"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
     },
     "cllp771r5001vob29k1nrgbgh": {
         "id": "cllp771r5001vob29k1nrgbgh",
