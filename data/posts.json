@@ -665,6 +665,21 @@
         "voteCount": 2,
         "commentCount": 3
     },
+    "cllp771r5001vob29k1nrgbgh": {
+        "id": "cllp771r5001vob29k1nrgbgh",
+        "title": "Vendor paster",
+        "body": "Hi I like a functionality similar to awakened poe trade that allow you to set up a series of regex to search in the stash or in the vendor. It would work the following:\n\nSave a regex with a name\n\nPress a shortcut that show the different regex saved\n\nApply \"ctrl+f\" automatically plus the regex",
+        "timeAgo": "15 minutes",
+        "comments": [],
+        "user": {
+            "name": "Javier Garcia"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "clgzdig1n00faos28uuiw6j5s": {
         "id": "clgzdig1n00faos28uuiw6j5s",
         "title": "Option to Disable Build Module",
