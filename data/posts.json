@@ -344,6 +344,21 @@
         "voteCount": 3,
         "commentCount": 3
     },
+    "cllwimuxd009tn629xmdqyvie": {
+        "id": "cllwimuxd009tn629xmdqyvie",
+        "title": "Default Market Filters (permanently enabled options)",
+        "body": "Just like the \"evaluate\" options, it would be amazing if we could have togglable options for the market that's always going to be active even after you clear the query. \n\nFor example, the \"Collapse Listings by Account\" is really useful to have active for most trades, but when you clear the query, you have to enable it again. This would be a great QoL option.\n\n\nHere's a concept of what I'm talking about:\n\n",
+        "timeAgo": "20 minutes",
+        "comments": [],
+        "user": {
+            "name": "jaylay99"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 2,
+        "commentCount": 0
+    },
     "clj074hgp01ieos28kyiemadv": {
         "id": "clj074hgp01ieos28kyiemadv",
         "title": "Search button keybind",
@@ -664,21 +679,6 @@
         },
         "voteCount": 2,
         "commentCount": 3
-    },
-    "cllwimuxd009tn629xmdqyvie": {
-        "id": "cllwimuxd009tn629xmdqyvie",
-        "title": "Default Market Filters (permanently enabled options)",
-        "body": "Just like the \"evaluate\" options, it would be amazing if we could have togglable options for the market that's always going to be active even after you clear the query. \n\nFor example, the \"Collapse Listings by Account\" is really useful to have active for most trades, but when you clear the query, you have to enable it again. This would be a great QoL option.\n\n\nHere's a concept of what I'm talking about:\n\n",
-        "timeAgo": "5 minutes",
-        "comments": [],
-        "user": {
-            "name": "jaylay99"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
-        "commentCount": 0
     },
     "cllpjc4ku0009n629n4tqvlnw": {
         "id": "cllpjc4ku0009n629n4tqvlnw",
