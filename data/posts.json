@@ -680,6 +680,21 @@
         "voteCount": 2,
         "commentCount": 3
     },
+    "cllxzwvgn00ebn6291kff4lew": {
+        "id": "cllxzwvgn00ebn6291kff4lew",
+        "title": "Trade Toast Notification: Highlight inviting",
+        "body": "Highlight with a yellow border people who invites you to party when you're doing multiple trades to point them for whispering later when you finished trade with previous one",
+        "timeAgo": "11 minutes",
+        "comments": [],
+        "user": {
+            "name": "g-alfieri"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "cllpjc4ku0009n629n4tqvlnw": {
         "id": "cllpjc4ku0009n629n4tqvlnw",
         "title": "Foiled version support",
