@@ -680,6 +680,21 @@
         "voteCount": 2,
         "commentCount": 3
     },
+    "clm6lfnxy00uln629m5ymok68": {
+        "id": "clm6lfnxy00uln629m5ymok68",
+        "title": "Listing by vendor account: special map search",
+        "body": "The only way to search in your map stash tab for special maps is to use trade API, according to this video.\n\nSo I suggest adding the option to filter by account name, or at least my account, in trade filters",
+        "timeAgo": "4 minutes",
+        "comments": [],
+        "user": {
+            "name": "g-alfieri"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "cllxzwvgn00ebn6291kff4lew": {
         "id": "cllxzwvgn00ebn6291kff4lew",
         "title": "Trade Toast Notification: Highlight inviting",
