@@ -48,7 +48,7 @@
         "status": {
             "name": "Accepted"
         },
-        "voteCount": 14,
+        "voteCount": 15,
         "commentCount": 0
     },
     "clbsyse2z00hvk91ytoc2axjk": {
@@ -292,6 +292,21 @@
         "voteCount": 3,
         "commentCount": 0
     },
+    "cli846ap401dvos280kzwp7vj": {
+        "id": "cli846ap401dvos280kzwp7vj",
+        "title": "Highlight bank item after \"x\" amout of time listed",
+        "body": "A feature that would highlight items in your bank after they have been \"X\" amount of time on the market (listing age). It would help identify items that need their price to be lowered.\n\nI don't know if this is some kind of information that is retrievable from the oauth connection.\n\n",
+        "timeAgo": "3 months",
+        "comments": [],
+        "user": {
+            "name": "MalakaJones"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 3,
+        "commentCount": 0
+    },
     "cld6415hr047jk91ydxgyuf72": {
         "id": "cld6415hr047jk91ydxgyuf72",
         "title": "An integrated notepad",
@@ -364,21 +379,6 @@
         "title": "Search button keybind",
         "body": "Some users are requesting a keybind that could be associated to the search button from the evaluate window instead of being forced to click it.",
         "timeAgo": "2 days",
-        "comments": [],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 2,
-        "commentCount": 0
-    },
-    "cli846ap401dvos280kzwp7vj": {
-        "id": "cli846ap401dvos280kzwp7vj",
-        "title": "Highlight bank item after \"x\" amout of time listed",
-        "body": "A feature that would highlight items in your bank after they have been \"X\" amount of time on the market (listing age). It would help identify items that need their price to be lowered.\n\nI don't know if this is some kind of information that is retrievable from the oauth connection.\n\n",
-        "timeAgo": "about 15 hours",
         "comments": [],
         "user": {
             "name": "MalakaJones"
