@@ -48,7 +48,7 @@
         "status": {
             "name": "Accepted"
         },
-        "voteCount": 15,
+        "voteCount": 16,
         "commentCount": 0
     },
     "clbsyse2z00hvk91ytoc2axjk": {
@@ -202,6 +202,21 @@
         "voteCount": 5,
         "commentCount": 1
     },
+    "cllwimuxd009tn629xmdqyvie": {
+        "id": "cllwimuxd009tn629xmdqyvie",
+        "title": "Default Market Filters (permanently enabled options)",
+        "body": "Just like the \"evaluate\" options, it would be amazing if we could have togglable options for the market that's always going to be active even after you clear the query. \n\nFor example, the \"Collapse Listings by Account\" is really useful to have active for most trades, but when you clear the query, you have to enable it again. This would be a great QoL option.\n\n\nHere's a concept of what I'm talking about:\n\n",
+        "timeAgo": "8 days",
+        "comments": [],
+        "user": {
+            "name": "jaylay99"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 4,
+        "commentCount": 0
+    },
     "ckzd6digy419082umd17bf59lv": {
         "id": "ckzd6digy419082umd17bf59lv",
         "title": "add stash tab name to item highlight feature",
@@ -275,21 +290,6 @@
             "name": "Open"
         },
         "voteCount": 4,
-        "commentCount": 0
-    },
-    "cllwimuxd009tn629xmdqyvie": {
-        "id": "cllwimuxd009tn629xmdqyvie",
-        "title": "Default Market Filters (permanently enabled options)",
-        "body": "Just like the \"evaluate\" options, it would be amazing if we could have togglable options for the market that's always going to be active even after you clear the query. \n\nFor example, the \"Collapse Listings by Account\" is really useful to have active for most trades, but when you clear the query, you have to enable it again. This would be a great QoL option.\n\n\nHere's a concept of what I'm talking about:\n\n",
-        "timeAgo": "about 21 hours",
-        "comments": [],
-        "user": {
-            "name": "jaylay99"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 3,
         "commentCount": 0
     },
     "cli846ap401dvos280kzwp7vj": {
