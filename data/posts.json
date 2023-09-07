@@ -100,7 +100,7 @@
         "id": "clbz80n9p010bk91yvzyu99m4",
         "title": "Evaluate Grand Heist items on the go",
         "body": "Since we can only evaluate items that are in our inventory, we can't evaluate the final item of Grand Heists without actually picking it up. We have to go on poe.ninja to check every Gem/Replica Uniques which can get tiresome and is quite slow.\n\nIf we could quickly evaluate that are in Curio Display on the go, that'd be great! \n\n",
-        "timeAgo": "3 months",
+        "timeAgo": "9 months",
         "comments": [],
         "user": {
             "name": "jaylay99"
@@ -108,7 +108,7 @@
         "status": {
             "name": "Open"
         },
-        "voteCount": 8,
+        "voteCount": 9,
         "commentCount": 0
     },
     "clculaj5u02stk91ysuokveh6": {
@@ -307,6 +307,21 @@
         "voteCount": 4,
         "commentCount": 0
     },
+    "clgo8w07f09wgoj20rrwsag9p": {
+        "id": "clgo8w07f09wgoj20rrwsag9p",
+        "title": "Trade statistics system",
+        "body": "We do tons of trades with the help of POE overlay, but we don't know how many, or how much currency did we make, or how much currency we spend on the item.\n\n\nI know there is other software that can track profit like Exilence Next. But we don't have a function to auto-record what or how much did we sell/ buy on one item. \n\nInstead of viewing profit from the overlay afk popup window, we can add an option to turn on/off the trade record and record all the trades into an Excel spreadsheet, either .csv or .txt.\n\nSince the overlay knows the trade was selling or buying, when you finish the trade, typically, you will go for click the send finish button, and then the trade goes away anyway. So we can use that finish button action to confirm and save that trade record.\n\nIn that txt file can show information like time(in the log's timestamp), cost(the overlay already recognized), item name, etc.",
+        "timeAgo": "5 months",
+        "comments": [],
+        "user": {
+            "name": "八條麥茶"
+        },
+        "status": {
+            "name": "Accepted"
+        },
+        "voteCount": 3,
+        "commentCount": 0
+    },
     "cld6415hr047jk91ydxgyuf72": {
         "id": "cld6415hr047jk91ydxgyuf72",
         "title": "An integrated notepad",
@@ -385,21 +400,6 @@
         },
         "status": {
             "name": "Open"
-        },
-        "voteCount": 2,
-        "commentCount": 0
-    },
-    "clgo8w07f09wgoj20rrwsag9p": {
-        "id": "clgo8w07f09wgoj20rrwsag9p",
-        "title": "Trade statistics system",
-        "body": "We do tons of trades with the help of POE overlay, but we don't know how many, or how much currency did we make, or how much currency we spend on the item.\n\n\nI know there is other software that can track profit like Exilence Next. But we don't have a function to auto-record what or how much did we sell/ buy on one item. \n\nInstead of viewing profit from the overlay afk popup window, we can add an option to turn on/off the trade record and record all the trades into an Excel spreadsheet, either .csv or .txt.\n\nSince the overlay knows the trade was selling or buying, when you finish the trade, typically, you will go for click the send finish button, and then the trade goes away anyway. So we can use that finish button action to confirm and save that trade record.\n\nIn that txt file can show information like time(in the log's timestamp), cost(the overlay already recognized), item name, etc.",
-        "timeAgo": "6 days",
-        "comments": [],
-        "user": {
-            "name": "八條麥茶"
-        },
-        "status": {
-            "name": "Accepted"
         },
         "voteCount": 2,
         "commentCount": 0
