@@ -680,21 +680,6 @@
         "voteCount": 2,
         "commentCount": 3
     },
-    "clmf5n7bq00bhn629ljwb99ls": {
-        "id": "clmf5n7bq00bhn629ljwb99ls",
-        "title": "Add a sort by button to Market",
-        "body": "Ability to sort Items on Market (ALT+M) by time posted to either see latest or oldest listed items descending or ascending.",
-        "timeAgo": "16 minutes",
-        "comments": [],
-        "user": {
-            "name": "So Hagath"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
-        "commentCount": 0
-    },
     "clmf5lm4c00bcn629vhsnvxt4": {
         "id": "clmf5lm4c00bcn629vhsnvxt4",
         "title": "Better Net worth overview",
