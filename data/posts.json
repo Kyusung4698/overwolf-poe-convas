@@ -329,6 +329,29 @@
         "voteCount": 4,
         "commentCount": 0
     },
+    "clmf5lm4c00bcn629vhsnvxt4": {
+        "id": "clmf5lm4c00bcn629vhsnvxt4",
+        "title": "Tracker - Add Toggle Chaos Orb <> Divine Orb",
+        "body": "Add a button in the Tracker tab to switch Net Worth from Chaos Orb value to Divine Orb value.",
+        "timeAgo": "1 day",
+        "comments": [
+            {
+                "body": "axyenno",
+                "timeAgo": "about 2 hours",
+                "user": {
+                    "name": "ETERNE_ tv"
+                }
+            }
+        ],
+        "user": {
+            "name": "So Hagath"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 3,
+        "commentCount": 1
+    },
     "clgo8w07f09wgoj20rrwsag9p": {
         "id": "clgo8w07f09wgoj20rrwsag9p",
         "title": "Trade statistics system",
@@ -410,29 +433,6 @@
         },
         "voteCount": 3,
         "commentCount": 3
-    },
-    "clmf5lm4c00bcn629vhsnvxt4": {
-        "id": "clmf5lm4c00bcn629vhsnvxt4",
-        "title": "Tracker - Add Toggle Chaos Orb <> Divine Orb",
-        "body": "Add a button in the Tracker tab to switch Net Worth from Chaos Orb value to Divine Orb value.",
-        "timeAgo": "1 day",
-        "comments": [
-            {
-                "body": "axyenno",
-                "timeAgo": "about 2 hours",
-                "user": {
-                    "name": "ETERNE_ tv"
-                }
-            }
-        ],
-        "user": {
-            "name": "So Hagath"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 2,
-        "commentCount": 1
     },
     "clj074hgp01ieos28kyiemadv": {
         "id": "clj074hgp01ieos28kyiemadv",
