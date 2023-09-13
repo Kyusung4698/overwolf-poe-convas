@@ -717,6 +717,21 @@
         "voteCount": 2,
         "commentCount": 3
     },
+    "clmhvgtx000hwn629l892thup": {
+        "id": "clmhvgtx000hwn629l892thup",
+        "title": "[Tracker] Low confidence item value toggle",
+        "body": "Some toggle to include or exclude items with low confidence value.",
+        "timeAgo": "20 minutes",
+        "comments": [],
+        "user": {
+            "name": "MalakaJones"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "clmhven1b00hqn629xp17s8ke": {
         "id": "clmhven1b00hqn629xp17s8ke",
         "title": "[Tracker] Alternate gem quality displayed in name",
