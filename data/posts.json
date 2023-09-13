@@ -736,8 +736,16 @@
         "id": "clmhven1b00hqn629xp17s8ke",
         "title": "[Tracker] Alternate gem quality displayed in name",
         "body": "Have the alternate gem quality displayed in the trackers to better differenciate gems. Either in front of the name or after in parentheses.\n\n",
-        "timeAgo": "less than a minute",
-        "comments": [],
+        "timeAgo": "about 6 hours",
+        "comments": [
+            {
+                "body": "yes please, that is a good idea",
+                "timeAgo": "10 minutes",
+                "user": {
+                    "name": "Private Veryprivate"
+                }
+            }
+        ],
         "user": {
             "name": "MalakaJones"
         },
@@ -745,7 +753,7 @@
             "name": "Open"
         },
         "voteCount": 1,
-        "commentCount": 0
+        "commentCount": 1
     },
     "clmcw66km0073n629vtsfzitb": {
         "id": "clmcw66km0073n629vtsfzitb",
