@@ -717,6 +717,21 @@
         "voteCount": 2,
         "commentCount": 3
     },
+    "clmhven1b00hqn629xp17s8ke": {
+        "id": "clmhven1b00hqn629xp17s8ke",
+        "title": "[Tracker] Alternate gem quality displayed in name",
+        "body": "Have the alternate gem quality displayed in the trackers to better differenciate gems. Either in front of the name or after in parentheses.\n\n",
+        "timeAgo": "less than a minute",
+        "comments": [],
+        "user": {
+            "name": "MalakaJones"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "clmcw66km0073n629vtsfzitb": {
         "id": "clmcw66km0073n629vtsfzitb",
         "title": "Immortal Syndicate Cheat Sheet",
