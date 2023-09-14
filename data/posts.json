@@ -51,43 +51,6 @@
         "voteCount": 16,
         "commentCount": 0
     },
-    "clbsyse2z00hvk91ytoc2axjk": {
-        "id": "clbsyse2z00hvk91ytoc2axjk",
-        "title": "Give us an option to press \"search\" automatically",
-        "body": "I'm aware that the auto-search was removed to prevent getting timed out, but there should be an option for it to be automatic ONLY when you evaluate the first time. \n\nWhat that means is, it wouldn't auto search every time you click on a stat, but only when you Alt+D, the first time wouldn't need to press \"Search\" to give us prices.\n\nIt would be optional in the end, I think many would enjoy it.",
-        "timeAgo": "9 months",
-        "comments": [
-            {
-                "body": "I think this is def. something we could consider again, also given we now have rate limiting in place. It's already done for bulk exchange items, but we could expand that for \"search\" items as well. I think this is especially good for uniques. ",
-                "timeAgo": "9 months",
-                "user": {
-                    "name": "Kyusung"
-                }
-            },
-            {
-                "body": "Also maybe add an option to automatically rerun the search when the selected modifiers change, possibly with some short delay to prevent an unnecessary request when changing multiple modifiers at once. Alternatively, start the search once the user hovers over the search button like Awakened POE Trade does, so you only have to move the mouse down a bit.",
-                "timeAgo": "21 days",
-                "user": {
-                    "name": "iTob"
-                }
-            },
-            {
-                "body": "Has been added with the 1.33.1 preview release. You can enable the preview version in the app settings to test it! ",
-                "timeAgo": "6 minutes",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "jaylay99"
-        },
-        "status": {
-            "name": "Completed"
-        },
-        "voteCount": 10,
-        "commentCount": 3
-    },
     "clg3yuzau086coj205rcnn8fv": {
         "id": "clg3yuzau086coj205rcnn8fv",
         "title": "Labyrinth Compass",
@@ -750,7 +713,7 @@
             "name": "MalakaJones"
         },
         "status": {
-            "name": "Accepted"
+            "name": "Completed"
         },
         "voteCount": 1,
         "commentCount": 1
