@@ -172,6 +172,36 @@
         "voteCount": 5,
         "commentCount": 1
     },
+    "clmf5lm4c00bcn629vhsnvxt4": {
+        "id": "clmf5lm4c00bcn629vhsnvxt4",
+        "title": "[Tracker] Add Toggle Chaos Orb <> Divine Orb",
+        "body": "Add a button in the Tracker tab to switch Net Worth from Chaos Orb value to Divine Orb value.",
+        "timeAgo": "3 days",
+        "comments": [
+            {
+                "body": "axyenno",
+                "timeAgo": "1 day",
+                "user": {
+                    "name": "ETERNE_ tv"
+                }
+            },
+            {
+                "body": "while I dont know if it is  possible it would be a lovely feature",
+                "timeAgo": "1 day",
+                "user": {
+                    "name": "Private Veryprivate"
+                }
+            }
+        ],
+        "user": {
+            "name": "So Hagath"
+        },
+        "status": {
+            "name": "Accepted"
+        },
+        "voteCount": 4,
+        "commentCount": 2
+    },
     "cllwimuxd009tn629xmdqyvie": {
         "id": "cllwimuxd009tn629xmdqyvie",
         "title": "Default Market Filters (permanently enabled options)",
@@ -291,36 +321,6 @@
         },
         "voteCount": 4,
         "commentCount": 0
-    },
-    "clmf5lm4c00bcn629vhsnvxt4": {
-        "id": "clmf5lm4c00bcn629vhsnvxt4",
-        "title": "[Tracker] Add Toggle Chaos Orb <> Divine Orb",
-        "body": "Add a button in the Tracker tab to switch Net Worth from Chaos Orb value to Divine Orb value.",
-        "timeAgo": "1 day",
-        "comments": [
-            {
-                "body": "axyenno",
-                "timeAgo": "about 15 hours",
-                "user": {
-                    "name": "ETERNE_ tv"
-                }
-            },
-            {
-                "body": "while I dont know if it is  possible it would be a lovely feature",
-                "timeAgo": "1 minute",
-                "user": {
-                    "name": "Private Veryprivate"
-                }
-            }
-        ],
-        "user": {
-            "name": "So Hagath"
-        },
-        "status": {
-            "name": "Accepted"
-        },
-        "voteCount": 3,
-        "commentCount": 2
     },
     "clgo8w07f09wgoj20rrwsag9p": {
         "id": "clgo8w07f09wgoj20rrwsag9p",
