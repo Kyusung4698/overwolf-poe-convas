@@ -680,6 +680,21 @@
         "voteCount": 2,
         "commentCount": 3
     },
+    "clmjtd9na00r1n629pdew57t7": {
+        "id": "clmjtd9na00r1n629pdew57t7",
+        "title": "Currency Tracker",
+        "body": "Would it be possible to add a currency tracker that auto-snapshots your stash every 10 minutes or so? The current tracker is nice, but I'm hoping it can add some of the features I enjoyed from Exilence Next now that the app is dead.\n\nIt would also be cool if this info could be displayed on the in-game overlay.",
+        "timeAgo": "1 minute",
+        "comments": [],
+        "user": {
+            "name": "exorcerer"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "clmhvgtx000hwn629l892thup": {
         "id": "clmhvgtx000hwn629l892thup",
         "title": "[Tracker] Low confidence item value toggle",
