@@ -63,7 +63,7 @@
         "status": {
             "name": "Open"
         },
-        "voteCount": 9,
+        "voteCount": 10,
         "commentCount": 0
     },
     "clbz80n9p010bk91yvzyu99m4": {
@@ -149,6 +149,36 @@
         "voteCount": 6,
         "commentCount": 0
     },
+    "clmf5lm4c00bcn629vhsnvxt4": {
+        "id": "clmf5lm4c00bcn629vhsnvxt4",
+        "title": "[Tracker] Add Toggle Chaos Orb <> Divine Orb",
+        "body": "Add a button in the Tracker tab to switch Net Worth from Chaos Orb value to Divine Orb value.",
+        "timeAgo": "3 days",
+        "comments": [
+            {
+                "body": "axyenno",
+                "timeAgo": "2 days",
+                "user": {
+                    "name": "ETERNE_ tv"
+                }
+            },
+            {
+                "body": "while I dont know if it is  possible it would be a lovely feature",
+                "timeAgo": "1 day",
+                "user": {
+                    "name": "Private Veryprivate"
+                }
+            }
+        ],
+        "user": {
+            "name": "So Hagath"
+        },
+        "status": {
+            "name": "Accepted"
+        },
+        "voteCount": 5,
+        "commentCount": 2
+    },
     "ckw56ayp32970472tnum7j4zg02": {
         "id": "ckw56ayp32970472tnum7j4zg02",
         "title": "Thank you message in different languages",
@@ -171,36 +201,6 @@
         },
         "voteCount": 5,
         "commentCount": 1
-    },
-    "clmf5lm4c00bcn629vhsnvxt4": {
-        "id": "clmf5lm4c00bcn629vhsnvxt4",
-        "title": "[Tracker] Add Toggle Chaos Orb <> Divine Orb",
-        "body": "Add a button in the Tracker tab to switch Net Worth from Chaos Orb value to Divine Orb value.",
-        "timeAgo": "3 days",
-        "comments": [
-            {
-                "body": "axyenno",
-                "timeAgo": "1 day",
-                "user": {
-                    "name": "ETERNE_ tv"
-                }
-            },
-            {
-                "body": "while I dont know if it is  possible it would be a lovely feature",
-                "timeAgo": "1 day",
-                "user": {
-                    "name": "Private Veryprivate"
-                }
-            }
-        ],
-        "user": {
-            "name": "So Hagath"
-        },
-        "status": {
-            "name": "Accepted"
-        },
-        "voteCount": 4,
-        "commentCount": 2
     },
     "cllwimuxd009tn629xmdqyvie": {
         "id": "cllwimuxd009tn629xmdqyvie",
