@@ -322,6 +322,29 @@
         "voteCount": 4,
         "commentCount": 0
     },
+    "clmcw66km0073n629vtsfzitb": {
+        "id": "clmcw66km0073n629vtsfzitb",
+        "title": "Immortal Syndicate Cheat Sheet",
+        "body": "Similar to the Shift+Spacebar in Awakened POE trade for easy reference to syndicate rewards per rank",
+        "timeAgo": "6 days",
+        "comments": [
+            {
+                "body": "not only Syndicate. \nAlso Alva, Delve, Heist, Essences",
+                "timeAgo": "22 minutes",
+                "user": {
+                    "name": "Florian Weinbrenner"
+                }
+            }
+        ],
+        "user": {
+            "name": "Michal Jireh Tumamak"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 3,
+        "commentCount": 1
+    },
     "clgo8w07f09wgoj20rrwsag9p": {
         "id": "clgo8w07f09wgoj20rrwsag9p",
         "title": "Trade statistics system",
@@ -418,29 +441,6 @@
         },
         "voteCount": 3,
         "commentCount": 3
-    },
-    "clmcw66km0073n629vtsfzitb": {
-        "id": "clmcw66km0073n629vtsfzitb",
-        "title": "Immortal Syndicate Cheat Sheet",
-        "body": "Similar to the Shift+Spacebar in Awakened POE trade for easy reference to syndicate rewards per rank",
-        "timeAgo": "6 days",
-        "comments": [
-            {
-                "body": "not only Syndicate. \nAlso Alva, Delve, Heist, Essences",
-                "timeAgo": "1 minute",
-                "user": {
-                    "name": "Florian Weinbrenner"
-                }
-            }
-        ],
-        "user": {
-            "name": "Michal Jireh Tumamak"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 2,
-        "commentCount": 1
     },
     "clj074hgp01ieos28kyiemadv": {
         "id": "clj074hgp01ieos28kyiemadv",
