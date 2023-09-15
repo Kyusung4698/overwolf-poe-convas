@@ -421,7 +421,7 @@
     },
     "clj074hgp01ieos28kyiemadv": {
         "id": "clj074hgp01ieos28kyiemadv",
-        "title": "Search button keybind",
+        "title": "[Evaluate] Search button keybind",
         "body": "Some users are requesting a keybind that could be associated to the search button from the evaluate window instead of being forced to click it.",
         "timeAgo": "2 days",
         "comments": [],
@@ -684,8 +684,16 @@
         "id": "clmjtd9na00r1n629pdew57t7",
         "title": "Currency Tracker",
         "body": "Would it be possible to add a currency tracker that auto-snapshots your stash every 10 minutes or so? The current tracker is nice, but I'm hoping it can add some of the features I enjoyed from Exilence Next now that the app is dead.\n\nIt would also be cool if this info could be displayed on the in-game overlay.",
-        "timeAgo": "1 minute",
-        "comments": [],
+        "timeAgo": "about 5 hours",
+        "comments": [
+            {
+                "body": "Hey there, \nthe current tracker creates a new snapshot of the selected profile every ~20 minutes. We won't be able to support taking an automated snapshot as frequent as 10 minutes because depending on how many stashes we need to retrieve, we would reach the rate limits and cause a temporary block from the API. \nLet us know what other features you are missing and what things you'd like to see in-game, cheers! ",
+                "timeAgo": "8 minutes",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "exorcerer"
         },
@@ -693,7 +701,7 @@
             "name": "Open"
         },
         "voteCount": 1,
-        "commentCount": 0
+        "commentCount": 1
     },
     "clmhvgtx000hwn629l892thup": {
         "id": "clmhvgtx000hwn629l892thup",
@@ -709,29 +717,6 @@
         },
         "voteCount": 1,
         "commentCount": 0
-    },
-    "clmhven1b00hqn629xp17s8ke": {
-        "id": "clmhven1b00hqn629xp17s8ke",
-        "title": "[Tracker] Alternate gem quality displayed in name",
-        "body": "Have the alternate gem quality displayed in the trackers to better differenciate gems. Either in front of the name or after in parentheses.\n\n",
-        "timeAgo": "about 6 hours",
-        "comments": [
-            {
-                "body": "yes please, that is a good idea",
-                "timeAgo": "10 minutes",
-                "user": {
-                    "name": "Private Veryprivate"
-                }
-            }
-        ],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "name": "Completed"
-        },
-        "voteCount": 1,
-        "commentCount": 1
     },
     "clmcw66km0073n629vtsfzitb": {
         "id": "clmcw66km0073n629vtsfzitb",
@@ -841,7 +826,7 @@
             "name": "Anonymous #13900"
         },
         "status": {
-            "name": "Open"
+            "name": "Completed"
         },
         "voteCount": 1,
         "commentCount": 0
