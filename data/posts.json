@@ -33,7 +33,7 @@
         "status": {
             "name": "Blocked"
         },
-        "voteCount": 79,
+        "voteCount": 80,
         "commentCount": 3
     },
     "cktsbp2f547461map1rrkovz8d": {
@@ -202,6 +202,29 @@
         "voteCount": 5,
         "commentCount": 1
     },
+    "clmcw66km0073n629vtsfzitb": {
+        "id": "clmcw66km0073n629vtsfzitb",
+        "title": "Immortal Syndicate Cheat Sheet",
+        "body": "Similar to the Shift+Spacebar in Awakened POE trade for easy reference to syndicate rewards per rank",
+        "timeAgo": "6 days",
+        "comments": [
+            {
+                "body": "not only Syndicate. \nAlso Alva, Delve, Heist, Essences",
+                "timeAgo": "about 2 hours",
+                "user": {
+                    "name": "Florian Weinbrenner"
+                }
+            }
+        ],
+        "user": {
+            "name": "Michal Jireh Tumamak"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 4,
+        "commentCount": 1
+    },
     "cllwimuxd009tn629xmdqyvie": {
         "id": "cllwimuxd009tn629xmdqyvie",
         "title": "Default Market Filters (permanently enabled options)",
@@ -321,29 +344,6 @@
         },
         "voteCount": 4,
         "commentCount": 0
-    },
-    "clmcw66km0073n629vtsfzitb": {
-        "id": "clmcw66km0073n629vtsfzitb",
-        "title": "Immortal Syndicate Cheat Sheet",
-        "body": "Similar to the Shift+Spacebar in Awakened POE trade for easy reference to syndicate rewards per rank",
-        "timeAgo": "6 days",
-        "comments": [
-            {
-                "body": "not only Syndicate. \nAlso Alva, Delve, Heist, Essences",
-                "timeAgo": "22 minutes",
-                "user": {
-                    "name": "Florian Weinbrenner"
-                }
-            }
-        ],
-        "user": {
-            "name": "Michal Jireh Tumamak"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 3,
-        "commentCount": 1
     },
     "clgo8w07f09wgoj20rrwsag9p": {
         "id": "clgo8w07f09wgoj20rrwsag9p",
@@ -702,6 +702,21 @@
         },
         "voteCount": 2,
         "commentCount": 3
+    },
+    "clmkyc7om00vgn629qxsmckuq": {
+        "id": "clmkyc7om00vgn629qxsmckuq",
+        "title": "Automatically select fractured mods in item evaluation",
+        "body": "If an item has a fractured mod, this mod should be automatically selected when evaluating the item. Alternatively, this could be implemented as a preference.",
+        "timeAgo": "15 minutes",
+        "comments": [],
+        "user": {
+            "name": "iTob"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
     },
     "clmjtd9na00r1n629pdew57t7": {
         "id": "clmjtd9na00r1n629pdew57t7",
