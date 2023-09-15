@@ -703,6 +703,21 @@
         "voteCount": 2,
         "commentCount": 3
     },
+    "clml5z4lh00wan6292rxhsl1p": {
+        "id": "clml5z4lh00wan6292rxhsl1p",
+        "title": "[TRADE] A sound notification when buyer enters H/O",
+        "body": "In addition to the player's name turning green when a buyer enters your H/O, it could be nice to have a toggle for an audio notification as well.",
+        "timeAgo": "3 minutes",
+        "comments": [],
+        "user": {
+            "name": "MalakaJones"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "clmkyc7om00vgn629qxsmckuq": {
         "id": "clmkyc7om00vgn629qxsmckuq",
         "title": "Automatically select fractured mods in item evaluation",
