@@ -78,7 +78,7 @@
         "status": {
             "name": "Open"
         },
-        "voteCount": 9,
+        "voteCount": 10,
         "commentCount": 0
     },
     "clmf5lm4c00bcn629vhsnvxt4": {
@@ -179,6 +179,29 @@
         "voteCount": 6,
         "commentCount": 0
     },
+    "clmcw66km0073n629vtsfzitb": {
+        "id": "clmcw66km0073n629vtsfzitb",
+        "title": "Immortal Syndicate Cheat Sheet",
+        "body": "Similar to the Shift+Spacebar in Awakened POE trade for easy reference to syndicate rewards per rank",
+        "timeAgo": "6 days",
+        "comments": [
+            {
+                "body": "not only Syndicate. \nAlso Alva, Delve, Heist, Essences",
+                "timeAgo": "about 8 hours",
+                "user": {
+                    "name": "Florian Weinbrenner"
+                }
+            }
+        ],
+        "user": {
+            "name": "Michal Jireh Tumamak"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 5,
+        "commentCount": 1
+    },
     "ckw56ayp32970472tnum7j4zg02": {
         "id": "ckw56ayp32970472tnum7j4zg02",
         "title": "Thank you message in different languages",
@@ -200,29 +223,6 @@
             "name": "Accepted"
         },
         "voteCount": 5,
-        "commentCount": 1
-    },
-    "clmcw66km0073n629vtsfzitb": {
-        "id": "clmcw66km0073n629vtsfzitb",
-        "title": "Immortal Syndicate Cheat Sheet",
-        "body": "Similar to the Shift+Spacebar in Awakened POE trade for easy reference to syndicate rewards per rank",
-        "timeAgo": "6 days",
-        "comments": [
-            {
-                "body": "not only Syndicate. \nAlso Alva, Delve, Heist, Essences",
-                "timeAgo": "about 2 hours",
-                "user": {
-                    "name": "Florian Weinbrenner"
-                }
-            }
-        ],
-        "user": {
-            "name": "Michal Jireh Tumamak"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 4,
         "commentCount": 1
     },
     "cllwimuxd009tn629xmdqyvie": {
