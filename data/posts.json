@@ -748,6 +748,21 @@
         "voteCount": 2,
         "commentCount": 3
     },
+    "clmqwro3a018ln62918z8zo9s": {
+        "id": "clmqwro3a018ln62918z8zo9s",
+        "title": "[EVALUATE] Have the \"Buyout Price\" toggle at the evaluate window",
+        "body": "Having the \"Buyout Price\" toggle directly at the evaluate window would help change the currency type more easily.\n\nRight now, the evaluate window for \"listed items\" does a conversion based on poe.ninja price, which results is erronous amounts, especially for compasses. \n\nFor exemple, default could be chaos orb equivalent as it is right now, but definitly needs a warning that a conversion is happening. Maby something like a gray dot similar to the market. Changing the currency would cancel this conversion and show exact currency.",
+        "timeAgo": "12 minutes",
+        "comments": [],
+        "user": {
+            "name": "MalakaJones"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "clmkyc7om00vgn629qxsmckuq": {
         "id": "clmkyc7om00vgn629qxsmckuq",
         "title": "Automatically select fractured mods in item evaluation",
