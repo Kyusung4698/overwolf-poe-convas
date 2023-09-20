@@ -51,21 +51,6 @@
         "voteCount": 16,
         "commentCount": 0
     },
-    "clg3yuzau086coj205rcnn8fv": {
-        "id": "clg3yuzau086coj205rcnn8fv",
-        "title": "Labyrinth Compass",
-        "body": "Integrate labyrinth compass that pops up when you enter the labyrinth.\n\nAnd download the newest labyrinth layout\n\nProbably does not know witch lab difficulty it is so a popup need to come up and ask.",
-        "timeAgo": "5 months",
-        "comments": [],
-        "user": {
-            "name": "Zekhap"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 10,
-        "commentCount": 0
-    },
     "clbz80n9p010bk91yvzyu99m4": {
         "id": "clbz80n9p010bk91yvzyu99m4",
         "title": "Evaluate Grand Heist items on the go",
@@ -74,6 +59,21 @@
         "comments": [],
         "user": {
             "name": "jaylay99"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 11,
+        "commentCount": 0
+    },
+    "clg3yuzau086coj205rcnn8fv": {
+        "id": "clg3yuzau086coj205rcnn8fv",
+        "title": "Labyrinth Compass",
+        "body": "Integrate labyrinth compass that pops up when you enter the labyrinth.\n\nAnd download the newest labyrinth layout\n\nProbably does not know witch lab difficulty it is so a popup need to come up and ask.",
+        "timeAgo": "5 months",
+        "comments": [],
+        "user": {
+            "name": "Zekhap"
         },
         "status": {
             "name": "Open"
@@ -270,6 +270,36 @@
         "voteCount": 4,
         "commentCount": 0
     },
+    "cldgcll3h0062r71saost1l2s": {
+        "id": "cldgcll3h0062r71saost1l2s",
+        "title": "Inbuilt REGEX generator",
+        "body": "Some regex generator for rolling maps. It could check for a range of quantity/rarity/packsize, but also highlight blocked mods.",
+        "timeAgo": "8 months",
+        "comments": [],
+        "user": {
+            "name": "MalakaJones"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 4,
+        "commentCount": 0
+    },
+    "cld6415hr047jk91ydxgyuf72": {
+        "id": "cld6415hr047jk91ydxgyuf72",
+        "title": "An integrated notepad",
+        "body": "An integrated notepad where you could write some stuff like regexes for rolling maps. Very basic stuff not to have to pull out an extra file or website.\n\nCould be a new tab in the Option UI next to the change log.",
+        "timeAgo": "8 months",
+        "comments": [],
+        "user": {
+            "name": "MalakaJones"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 4,
+        "commentCount": 0
+    },
     "clchq1ohh01ytk91yr2ugbv7g": {
         "id": "clchq1ohh01ytk91yr2ugbv7g",
         "title": "Trade whisper validation",
@@ -416,36 +446,6 @@
         },
         "status": {
             "name": "Accepted"
-        },
-        "voteCount": 3,
-        "commentCount": 0
-    },
-    "cldgcll3h0062r71saost1l2s": {
-        "id": "cldgcll3h0062r71saost1l2s",
-        "title": "Inbuilt REGEX generator",
-        "body": "Some regex generator for rolling maps. It could check for a range of quantity/rarity/packsize, but also highlight blocked mods.",
-        "timeAgo": "7 months",
-        "comments": [],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 3,
-        "commentCount": 0
-    },
-    "cld6415hr047jk91ydxgyuf72": {
-        "id": "cld6415hr047jk91ydxgyuf72",
-        "title": "An integrated notepad",
-        "body": "An integrated notepad where you could write some stuff like regexes for rolling maps. Very basic stuff not to have to pull out an extra file or website.\n\nCould be a new tab in the Option UI next to the change log.",
-        "timeAgo": "7 days",
-        "comments": [],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "name": "Open"
         },
         "voteCount": 3,
         "commentCount": 0
