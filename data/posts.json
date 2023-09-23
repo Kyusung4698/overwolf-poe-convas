@@ -51,6 +51,36 @@
         "voteCount": 16,
         "commentCount": 0
     },
+    "clmf5lm4c00bcn629vhsnvxt4": {
+        "id": "clmf5lm4c00bcn629vhsnvxt4",
+        "title": "[Tracker] Add Toggle Chaos Orb <> Divine Orb",
+        "body": "Add a button in the Tracker tab to switch Net Worth from Chaos Orb value to Divine Orb value.",
+        "timeAgo": "12 days",
+        "comments": [
+            {
+                "body": "axyenno",
+                "timeAgo": "11 days",
+                "user": {
+                    "name": "ETERNE_ tv"
+                }
+            },
+            {
+                "body": "while I dont know if it is  possible it would be a lovely feature",
+                "timeAgo": "10 days",
+                "user": {
+                    "name": "Private Veryprivate"
+                }
+            }
+        ],
+        "user": {
+            "name": "So Hagath"
+        },
+        "status": {
+            "name": "Accepted"
+        },
+        "voteCount": 11,
+        "commentCount": 2
+    },
     "clg3yuzau086coj205rcnn8fv": {
         "id": "clg3yuzau086coj205rcnn8fv",
         "title": "Labyrinth Compass",
@@ -81,45 +111,15 @@
         "voteCount": 11,
         "commentCount": 0
     },
-    "clmf5lm4c00bcn629vhsnvxt4": {
-        "id": "clmf5lm4c00bcn629vhsnvxt4",
-        "title": "[Tracker] Add Toggle Chaos Orb <> Divine Orb",
-        "body": "Add a button in the Tracker tab to switch Net Worth from Chaos Orb value to Divine Orb value.",
-        "timeAgo": "10 days",
-        "comments": [
-            {
-                "body": "axyenno",
-                "timeAgo": "9 days",
-                "user": {
-                    "name": "ETERNE_ tv"
-                }
-            },
-            {
-                "body": "while I dont know if it is  possible it would be a lovely feature",
-                "timeAgo": "8 days",
-                "user": {
-                    "name": "Private Veryprivate"
-                }
-            }
-        ],
-        "user": {
-            "name": "So Hagath"
-        },
-        "status": {
-            "name": "Accepted"
-        },
-        "voteCount": 10,
-        "commentCount": 2
-    },
     "clmcw66km0073n629vtsfzitb": {
         "id": "clmcw66km0073n629vtsfzitb",
         "title": "Immortal Syndicate Cheat Sheet",
         "body": "Similar to the Shift+Spacebar in Awakened POE trade for easy reference to syndicate rewards per rank",
-        "timeAgo": "12 days",
+        "timeAgo": "14 days",
         "comments": [
             {
                 "body": "not only Syndicate. \nAlso Alva, Delve, Heist, Essences",
-                "timeAgo": "6 days",
+                "timeAgo": "8 days",
                 "user": {
                     "name": "Florian Weinbrenner"
                 }
@@ -131,14 +131,14 @@
         "status": {
             "name": "Open"
         },
-        "voteCount": 7,
+        "voteCount": 8,
         "commentCount": 1
     },
     "cllp771r5001vob29k1nrgbgh": {
         "id": "cllp771r5001vob29k1nrgbgh",
         "title": "Vendor paster",
         "body": "Hi I like a functionality similar to awakened poe trade that allow you to set up a series of regex to search in the stash or in the vendor. It would work the following:\n\nSave a regex with a name\n\nPress a shortcut that show the different regex saved\n\nApply \"ctrl+f\" automatically plus the regex",
-        "timeAgo": "27 days",
+        "timeAgo": "about 1 month",
         "comments": [],
         "user": {
             "name": "Javier Garcia"
@@ -146,7 +146,7 @@
         "status": {
             "name": "Open"
         },
-        "voteCount": 6,
+        "voteCount": 7,
         "commentCount": 0
     },
     "clculaj5u02stk91ysuokveh6": {
@@ -217,6 +217,21 @@
         "voteCount": 6,
         "commentCount": 0
     },
+    "cldgcll3h0062r71saost1l2s": {
+        "id": "cldgcll3h0062r71saost1l2s",
+        "title": "Inbuilt REGEX generator",
+        "body": "Some regex generator for rolling maps. It could check for a range of quantity/rarity/packsize, but also highlight blocked mods.",
+        "timeAgo": "8 months",
+        "comments": [],
+        "user": {
+            "name": "MalakaJones"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 5,
+        "commentCount": 0
+    },
     "ckw56ayp32970472tnum7j4zg02": {
         "id": "ckw56ayp32970472tnum7j4zg02",
         "title": "Thank you message in different languages",
@@ -260,21 +275,6 @@
         "title": "Highlight bank item after \"x\" amout of time listed",
         "body": "A feature that would highlight items in your bank after they have been \"X\" amount of time on the market (listing age). It would help identify items that need their price to be lowered.\n\nI don't know if this is some kind of information that is retrievable from the oauth connection.\n\n",
         "timeAgo": "3 months",
-        "comments": [],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 4,
-        "commentCount": 0
-    },
-    "cldgcll3h0062r71saost1l2s": {
-        "id": "cldgcll3h0062r71saost1l2s",
-        "title": "Inbuilt REGEX generator",
-        "body": "Some regex generator for rolling maps. It could check for a range of quantity/rarity/packsize, but also highlight blocked mods.",
-        "timeAgo": "8 months",
         "comments": [],
         "user": {
             "name": "MalakaJones"
@@ -495,6 +495,21 @@
         "comments": [],
         "user": {
             "name": "MalakaJones"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 2,
+        "commentCount": 0
+    },
+    "clmkyc7om00vgn629qxsmckuq": {
+        "id": "clmkyc7om00vgn629qxsmckuq",
+        "title": "Automatically select fractured mods in item evaluation",
+        "body": "If an item has a fractured mod, this mod should be automatically selected when evaluating the item. Alternatively, this could be implemented as a preference.",
+        "timeAgo": "8 days",
+        "comments": [],
+        "user": {
+            "name": "iTob"
         },
         "status": {
             "name": "Open"
@@ -771,21 +786,6 @@
         "comments": [],
         "user": {
             "name": "Josh Mra"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
-        "commentCount": 0
-    },
-    "clmkyc7om00vgn629qxsmckuq": {
-        "id": "clmkyc7om00vgn629qxsmckuq",
-        "title": "Automatically select fractured mods in item evaluation",
-        "body": "If an item has a fractured mod, this mod should be automatically selected when evaluating the item. Alternatively, this could be implemented as a preference.",
-        "timeAgo": "15 minutes",
-        "comments": [],
-        "user": {
-            "name": "iTob"
         },
         "status": {
             "name": "Open"
