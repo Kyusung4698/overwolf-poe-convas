@@ -33,7 +33,7 @@
         "status": {
             "name": "Blocked"
         },
-        "voteCount": 82,
+        "voteCount": 83,
         "commentCount": 3
     },
     "cktsbp2f547461map1rrkovz8d": {
@@ -55,18 +55,18 @@
         "id": "clmf5lm4c00bcn629vhsnvxt4",
         "title": "[Tracker] Add Toggle Chaos Orb <> Divine Orb",
         "body": "Add a button in the Tracker tab to switch Net Worth from Chaos Orb value to Divine Orb value.",
-        "timeAgo": "12 days",
+        "timeAgo": "14 days",
         "comments": [
             {
                 "body": "axyenno",
-                "timeAgo": "11 days",
+                "timeAgo": "13 days",
                 "user": {
                     "name": "ETERNE_ tv"
                 }
             },
             {
                 "body": "while I dont know if it is  possible it would be a lovely feature",
-                "timeAgo": "10 days",
+                "timeAgo": "12 days",
                 "user": {
                     "name": "Private Veryprivate"
                 }
@@ -78,23 +78,8 @@
         "status": {
             "name": "Accepted"
         },
-        "voteCount": 11,
+        "voteCount": 12,
         "commentCount": 2
-    },
-    "clg3yuzau086coj205rcnn8fv": {
-        "id": "clg3yuzau086coj205rcnn8fv",
-        "title": "Labyrinth Compass",
-        "body": "Integrate labyrinth compass that pops up when you enter the labyrinth.\n\nAnd download the newest labyrinth layout\n\nProbably does not know witch lab difficulty it is so a popup need to come up and ask.",
-        "timeAgo": "6 months",
-        "comments": [],
-        "user": {
-            "name": "Zekhap"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 11,
-        "commentCount": 0
     },
     "clbz80n9p010bk91yvzyu99m4": {
         "id": "clbz80n9p010bk91yvzyu99m4",
@@ -104,6 +89,21 @@
         "comments": [],
         "user": {
             "name": "jaylay99"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 12,
+        "commentCount": 0
+    },
+    "clg3yuzau086coj205rcnn8fv": {
+        "id": "clg3yuzau086coj205rcnn8fv",
+        "title": "Labyrinth Compass",
+        "body": "Integrate labyrinth compass that pops up when you enter the labyrinth.\n\nAnd download the newest labyrinth layout\n\nProbably does not know witch lab difficulty it is so a popup need to come up and ask.",
+        "timeAgo": "6 months",
+        "comments": [],
+        "user": {
+            "name": "Zekhap"
         },
         "status": {
             "name": "Open"
