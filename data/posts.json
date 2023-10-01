@@ -778,6 +778,21 @@
         "voteCount": 2,
         "commentCount": 3
     },
+    "cln80qjnz00rjsr29wbskp68b": {
+        "id": "cln80qjnz00rjsr29wbskp68b",
+        "title": "Option to look up timeless jewel only by seed",
+        "body": "Please add an option when looking up timeless jewels to search for that specific seed number with any possible name (Kaom/Rakiata/etc).\n\n\nMany timeless jewels have value based on the seed alone regardless of the changed keystone passive as you only care about the stats added to the notable passives and don't pick up the keystone.\n\nBasically this search:\nhttps://www.pathofexile.com/trade/search/Ancestor/2GgP3Gjfk\n\nInstead of this default one:\nhttps://www.pathofexile.com/trade/search/Ancestor/gmlkay6UQ",
+        "timeAgo": "10 minutes",
+        "comments": [],
+        "user": {
+            "name": "Ingvar Pálmarsson"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "clmwd4pav001asr29gbxm0nvd": {
         "id": "clmwd4pav001asr29gbxm0nvd",
         "title": "Match Icon gear piece to know where to put gems",
