@@ -115,11 +115,11 @@
         "id": "clmcw66km0073n629vtsfzitb",
         "title": "Immortal Syndicate Cheat Sheet",
         "body": "Similar to the Shift+Spacebar in Awakened POE trade for easy reference to syndicate rewards per rank",
-        "timeAgo": "16 days",
+        "timeAgo": "about 1 month",
         "comments": [
             {
                 "body": "not only Syndicate. \nAlso Alva, Delve, Heist, Essences",
-                "timeAgo": "10 days",
+                "timeAgo": "26 days",
                 "user": {
                     "name": "Florian Weinbrenner"
                 }
@@ -131,14 +131,14 @@
         "status": {
             "name": "Open"
         },
-        "voteCount": 9,
+        "voteCount": 10,
         "commentCount": 1
     },
     "cllp771r5001vob29k1nrgbgh": {
         "id": "cllp771r5001vob29k1nrgbgh",
         "title": "Vendor paster",
         "body": "Hi I like a functionality similar to awakened poe trade that allow you to set up a series of regex to search in the stash or in the vendor. It would work the following:\n\nSave a regex with a name\n\nPress a shortcut that show the different regex saved\n\nApply \"ctrl+f\" automatically plus the regex",
-        "timeAgo": "about 1 month",
+        "timeAgo": "about 2 months",
         "comments": [],
         "user": {
             "name": "Javier Garcia"
@@ -146,7 +146,7 @@
         "status": {
             "name": "Open"
         },
-        "voteCount": 8,
+        "voteCount": 9,
         "commentCount": 0
     },
     "cldgcll3h0062r71saost1l2s": {
