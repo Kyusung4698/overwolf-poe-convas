@@ -40,7 +40,7 @@
         "id": "cktsbp2f547461map1rrkovz8d",
         "title": "Programable timer on active trades",
         "body": "Some timer that could be set to a fixed amount and where active trades in the trade module would auto clear when that timer ends.",
-        "timeAgo": "almost 2 years",
+        "timeAgo": "about 2 years",
         "comments": [],
         "user": {
             "name": "MalakaJones"
@@ -48,7 +48,7 @@
         "status": {
             "name": "Accepted"
         },
-        "voteCount": 16,
+        "voteCount": 17,
         "commentCount": 0
     },
     "clbz80n9p010bk91yvzyu99m4": {
@@ -63,25 +63,25 @@
         "status": {
             "name": "Open"
         },
-        "voteCount": 15,
+        "voteCount": 16,
         "commentCount": 0
     },
     "clmf5lm4c00bcn629vhsnvxt4": {
         "id": "clmf5lm4c00bcn629vhsnvxt4",
         "title": "[Tracker] Add Toggle Chaos Orb <> Divine Orb",
         "body": "Add a button in the Tracker tab to switch Net Worth from Chaos Orb value to Divine Orb value.",
-        "timeAgo": "14 days",
+        "timeAgo": "about 2 months",
         "comments": [
             {
                 "body": "axyenno",
-                "timeAgo": "13 days",
+                "timeAgo": "about 2 months",
                 "user": {
                     "name": "ETERNE_ tv"
                 }
             },
             {
                 "body": "while I dont know if it is  possible it would be a lovely feature",
-                "timeAgo": "12 days",
+                "timeAgo": "about 2 months",
                 "user": {
                     "name": "Private Veryprivate"
                 }
@@ -93,14 +93,14 @@
         "status": {
             "name": "Accepted"
         },
-        "voteCount": 12,
+        "voteCount": 13,
         "commentCount": 2
     },
     "clg3yuzau086coj205rcnn8fv": {
         "id": "clg3yuzau086coj205rcnn8fv",
         "title": "Labyrinth Compass",
         "body": "Integrate labyrinth compass that pops up when you enter the labyrinth.\n\nAnd download the newest labyrinth layout\n\nProbably does not know witch lab difficulty it is so a popup need to come up and ask.",
-        "timeAgo": "6 months",
+        "timeAgo": "7 months",
         "comments": [],
         "user": {
             "name": "Zekhap"
@@ -108,18 +108,18 @@
         "status": {
             "name": "Open"
         },
-        "voteCount": 12,
+        "voteCount": 13,
         "commentCount": 0
     },
     "clmcw66km0073n629vtsfzitb": {
         "id": "clmcw66km0073n629vtsfzitb",
         "title": "Immortal Syndicate Cheat Sheet",
         "body": "Similar to the Shift+Spacebar in Awakened POE trade for easy reference to syndicate rewards per rank",
-        "timeAgo": "about 1 month",
+        "timeAgo": "about 2 months",
         "comments": [
             {
                 "body": "not only Syndicate. \nAlso Alva, Delve, Heist, Essences",
-                "timeAgo": "26 days",
+                "timeAgo": "about 1 month",
                 "user": {
                     "name": "Florian Weinbrenner"
                 }
@@ -131,14 +131,14 @@
         "status": {
             "name": "Open"
         },
-        "voteCount": 10,
+        "voteCount": 11,
         "commentCount": 1
     },
     "cllp771r5001vob29k1nrgbgh": {
         "id": "cllp771r5001vob29k1nrgbgh",
         "title": "Vendor paster",
         "body": "Hi I like a functionality similar to awakened poe trade that allow you to set up a series of regex to search in the stash or in the vendor. It would work the following:\n\nSave a regex with a name\n\nPress a shortcut that show the different regex saved\n\nApply \"ctrl+f\" automatically plus the regex",
-        "timeAgo": "about 2 months",
+        "timeAgo": "2 months",
         "comments": [],
         "user": {
             "name": "Javier Garcia"
@@ -146,14 +146,14 @@
         "status": {
             "name": "Open"
         },
-        "voteCount": 9,
+        "voteCount": 10,
         "commentCount": 0
     },
     "cldgcll3h0062r71saost1l2s": {
         "id": "cldgcll3h0062r71saost1l2s",
         "title": "Inbuilt REGEX generator",
         "body": "Some regex generator for rolling maps. It could check for a range of quantity/rarity/packsize, but also highlight blocked mods.",
-        "timeAgo": "8 months",
+        "timeAgo": "9 months",
         "comments": [],
         "user": {
             "name": "MalakaJones"
@@ -161,7 +161,45 @@
         "status": {
             "name": "Open"
         },
-        "voteCount": 6,
+        "voteCount": 7,
+        "commentCount": 0
+    },
+    "ckx3rzbui794452skvfl9bv9uw": {
+        "id": "ckx3rzbui794452skvfl9bv9uw",
+        "title": "Multi Client Option",
+        "body": "Hi, I am using two POE clients, one for trading and one for playing the game.\n\nOne is the Steam Client and one is the normal Client.\n\nI would like to use the overlay for both clients, at the moment the overlay is stuck to the last open client. So if I close the game with did not have the overlay and reboot it gets then the overlay. \n\nI don't know if it's possible, but if you could make an option so that you maybe can switch between separate clients so that we don't have to close and open the games, that would be awesome. \n\nLG CTekk\n\n",
+        "timeAgo": "almost 2 years",
+        "comments": [
+            {
+                "body": "Good Idee, have the Same Problem. At the moment, I use a sec software to check Items on my Main Account.\nWould be really nice if I could use this for Both of my Games.",
+                "timeAgo": "almost 2 years",
+                "user": {
+                    "name": "Anonymous #1512"
+                }
+            }
+        ],
+        "user": {
+            "name": "CTekk"
+        },
+        "status": {
+            "name": "Blocked"
+        },
+        "voteCount": 7,
+        "commentCount": 1
+    },
+    "ckw8d09ht4165702tnu2q9yrpyu": {
+        "id": "ckw8d09ht4165702tnu2q9yrpyu",
+        "title": "Poe Overlay Market",
+        "body": "Hello, I would like to add a function that allows us to move the poe overlay market where we want in the screen ex:  over the inventory. Move left to right",
+        "timeAgo": "almost 2 years",
+        "comments": [],
+        "user": {
+            "name": "Anonymous #7378"
+        },
+        "status": {
+            "name": "Accepted"
+        },
+        "voteCount": 7,
         "commentCount": 0
     },
     "clculaj5u02stk91ysuokveh6": {
@@ -194,43 +232,72 @@
         "voteCount": 6,
         "commentCount": 0
     },
-    "ckx3rzbui794452skvfl9bv9uw": {
-        "id": "ckx3rzbui794452skvfl9bv9uw",
-        "title": "Multi Client Option",
-        "body": "Hi, I am using two POE clients, one for trading and one for playing the game.\n\nOne is the Steam Client and one is the normal Client.\n\nI would like to use the overlay for both clients, at the moment the overlay is stuck to the last open client. So if I close the game with did not have the overlay and reboot it gets then the overlay. \n\nI don't know if it's possible, but if you could make an option so that you maybe can switch between separate clients so that we don't have to close and open the games, that would be awesome. \n\nLG CTekk\n\n",
+    "cld6415hr047jk91ydxgyuf72": {
+        "id": "cld6415hr047jk91ydxgyuf72",
+        "title": "An integrated notepad",
+        "body": "An integrated notepad where you could write some stuff like regexes for rolling maps. Very basic stuff not to have to pull out an extra file or website.\n\nCould be a new tab in the Option UI next to the change log.",
         "timeAgo": "9 months",
+        "comments": [],
+        "user": {
+            "name": "MalakaJones"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 5,
+        "commentCount": 0
+    },
+    "clchq1ohh01ytk91yr2ugbv7g": {
+        "id": "clchq1ohh01ytk91yr2ugbv7g",
+        "title": "Trade whisper validation",
+        "body": "Validate if the whispered price matches the listed price on the trade website. ",
+        "timeAgo": "10 months",
+        "comments": [],
+        "user": {
+            "name": "Kyusung"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 5,
+        "commentCount": 0
+    },
+    "ckzd6digy419082umd17bf59lv": {
+        "id": "ckzd6digy419082umd17bf59lv",
+        "title": "add stash tab name to item highlight feature",
+        "body": "abbility to see what stash tab is in when somebody send a trade (you can already see the item name in the bottom left i would like it to also show the stash tab name) \n\n",
+        "timeAgo": "over 1 year",
         "comments": [
             {
-                "body": "Good Idee, have the Same Problem. At the moment, I use a sec software to check Items on my Main Account.\nWould be really nice if I could use this for Both of my Games.",
-                "timeAgo": "9 months",
+                "body": "Hi there, we display the stash name in the upper part of the stash overlay. See the green box in the screenshot below.\nPlease let me know if this is enough, or if you still want the stash name to be displayed somewhere else. Thanks for your feedback!",
+                "timeAgo": "over 1 year",
                 "user": {
-                    "name": "Anonymous #1512"
+                    "name": "Kyusung"
+                }
+            },
+            {
+                "body": "I would love if the bar where the stash name is would be a bit bigger. It's pretty small and hard to read. I would suggest making it the same font size as everything else like the size of the search bar or the stash name.",
+                "timeAgo": "over 1 year",
+                "user": {
+                    "name": "Nico Eschner"
+                }
+            },
+            {
+                "body": "That's valid feedback. Hmm, currently there are some technical restriction preventing me from scaling the whole stash highlight window. I will see how we can improve this. Thanks for your suggestion! ",
+                "timeAgo": "about 1 year",
+                "user": {
+                    "name": "Kyusung"
                 }
             }
         ],
         "user": {
-            "name": "CTekk"
-        },
-        "status": {
-            "name": "Blocked"
-        },
-        "voteCount": 6,
-        "commentCount": 1
-    },
-    "ckw8d09ht4165702tnu2q9yrpyu": {
-        "id": "ckw8d09ht4165702tnu2q9yrpyu",
-        "title": "Poe Overlay Market",
-        "body": "Hello, I would like to add a function that allows us to move the poe overlay market where we want in the screen ex:  over the inventory. Move left to right",
-        "timeAgo": "over 1 year",
-        "comments": [],
-        "user": {
-            "name": "Anonymous #7378"
+            "name": "Anonymous #8216"
         },
         "status": {
             "name": "Accepted"
         },
-        "voteCount": 6,
-        "commentCount": 0
+        "voteCount": 5,
+        "commentCount": 3
     },
     "ckw56ayp32970472tnum7j4zg02": {
         "id": "ckw56ayp32970472tnum7j4zg02",
@@ -322,73 +389,6 @@
         },
         "voteCount": 4,
         "commentCount": 1
-    },
-    "cld6415hr047jk91ydxgyuf72": {
-        "id": "cld6415hr047jk91ydxgyuf72",
-        "title": "An integrated notepad",
-        "body": "An integrated notepad where you could write some stuff like regexes for rolling maps. Very basic stuff not to have to pull out an extra file or website.\n\nCould be a new tab in the Option UI next to the change log.",
-        "timeAgo": "8 months",
-        "comments": [],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 4,
-        "commentCount": 0
-    },
-    "clchq1ohh01ytk91yr2ugbv7g": {
-        "id": "clchq1ohh01ytk91yr2ugbv7g",
-        "title": "Trade whisper validation",
-        "body": "Validate if the whispered price matches the listed price on the trade website. ",
-        "timeAgo": "8 months",
-        "comments": [],
-        "user": {
-            "name": "Kyusung"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 4,
-        "commentCount": 0
-    },
-    "ckzd6digy419082umd17bf59lv": {
-        "id": "ckzd6digy419082umd17bf59lv",
-        "title": "add stash tab name to item highlight feature",
-        "body": "abbility to see what stash tab is in when somebody send a trade (you can already see the item name in the bottom left i would like it to also show the stash tab name) \n\n",
-        "timeAgo": "10 months",
-        "comments": [
-            {
-                "body": "Hi there, we display the stash name in the upper part of the stash overlay. See the green box in the screenshot below.\nPlease let me know if this is enough, or if you still want the stash name to be displayed somewhere else. Thanks for your feedback!",
-                "timeAgo": "9 months",
-                "user": {
-                    "name": "Kyusung"
-                }
-            },
-            {
-                "body": "I would love if the bar where the stash name is would be a bit bigger. It's pretty small and hard to read. I would suggest making it the same font size as everything else like the size of the search bar or the stash name.",
-                "timeAgo": "7 months",
-                "user": {
-                    "name": "Nico Eschner"
-                }
-            },
-            {
-                "body": "That's valid feedback. Hmm, currently there are some technical restriction preventing me from scaling the whole stash highlight window. I will see how we can improve this. Thanks for your suggestion! ",
-                "timeAgo": "3 months",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "Anonymous #8216"
-        },
-        "status": {
-            "name": "Accepted"
-        },
-        "voteCount": 4,
-        "commentCount": 3
     },
     "cktsbp2fj47469map1iqn119gj": {
         "id": "cktsbp2fj47469map1iqn119gj",
