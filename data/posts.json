@@ -322,6 +322,21 @@
         "voteCount": 5,
         "commentCount": 1
     },
+    "clml5z4lh00wan6292rxhsl1p": {
+        "id": "clml5z4lh00wan6292rxhsl1p",
+        "title": "[TRADE] A sound notification when buyer enters H/O",
+        "body": "In addition to the player's name turning green when a buyer enters your H/O, it could be nice to have a toggle for an audio notification as well.",
+        "timeAgo": "2 months",
+        "comments": [],
+        "user": {
+            "name": "MalakaJones"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 4,
+        "commentCount": 0
+    },
     "cllxzwvgn00ebn6291kff4lew": {
         "id": "cllxzwvgn00ebn6291kff4lew",
         "title": "Trade Toast Notification: Highlight inviting",
@@ -456,21 +471,6 @@
             "name": "Open"
         },
         "voteCount": 4,
-        "commentCount": 0
-    },
-    "clml5z4lh00wan6292rxhsl1p": {
-        "id": "clml5z4lh00wan6292rxhsl1p",
-        "title": "[TRADE] A sound notification when buyer enters H/O",
-        "body": "In addition to the player's name turning green when a buyer enters your H/O, it could be nice to have a toggle for an audio notification as well.",
-        "timeAgo": "about 16 hours",
-        "comments": [],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 3,
         "commentCount": 0
     },
     "cl8csqp052928991xj5sgt0nkme": {
