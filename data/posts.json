@@ -839,6 +839,21 @@
         "voteCount": 2,
         "commentCount": 3
     },
+    "clpfumqx100xssr1ybp2woa5p": {
+        "id": "clpfumqx100xssr1ybp2woa5p",
+        "title": "Adding experience tracking to the tracker",
+        "body": "would be nice to see our experience in the form of a graph so we know if we are slowing down in exp/hr with some kind of threshold lines for the levels, etc.  ",
+        "timeAgo": "18 minutes",
+        "comments": [],
+        "user": {
+            "name": "Grumpy Grandpa"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "clng6gwr00191sr29yskzuish": {
         "id": "clng6gwr00191sr29yskzuish",
         "title": "Block Traders",
