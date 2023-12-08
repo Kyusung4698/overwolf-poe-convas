@@ -148,9 +148,16 @@
         "comments": [
             {
                 "body": "I love this idea. Even if the steps have to be done manually, it would be better than having to load LabCompass each time.",
-                "timeAgo": "12 minutes",
+                "timeAgo": "about 3 hours",
                 "user": {
                     "name": "TheOne320"
+                }
+            },
+            {
+                "body": "It's technically feasible but we need to see with poelab first if they are okay with us reusing their content. Given how popular the lab gets with the current league we will update this in our priorities. ",
+                "timeAgo": "17 minutes",
+                "user": {
+                    "name": "Kyusung"
                 }
             }
         ],
@@ -161,7 +168,7 @@
             "name": "Open"
         },
         "voteCount": 14,
-        "commentCount": 1
+        "commentCount": 2
     },
     "cllp771r5001vob29k1nrgbgh": {
         "id": "cllp771r5001vob29k1nrgbgh",
