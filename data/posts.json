@@ -88,16 +88,23 @@
             },
             {
                 "body": "Add a button in the Tracker tab to switch Net Worth from Chaos Orb value to Divine Orb value.",
-                "timeAgo": "5 days",
+                "timeAgo": "8 days",
                 "user": {
                     "name": "Hội Mê Game"
                 }
             },
             {
                 "body": "Add a button in the Tracker tab to switch Net Worth from Chaos Orb value to Divine Orb value.",
-                "timeAgo": "5 days",
+                "timeAgo": "8 days",
                 "user": {
                     "name": "Hội Mê Game"
+                }
+            },
+            {
+                "body": "This feature will go live later with the league patch. Keep an eye on the Discord to know when! ",
+                "timeAgo": "16 minutes",
+                "user": {
+                    "name": "Kyusung"
                 }
             }
         ],
@@ -105,10 +112,10 @@
             "name": "So Hagath"
         },
         "status": {
-            "name": "Accepted"
+            "name": "Completed"
         },
         "voteCount": 15,
-        "commentCount": 4
+        "commentCount": 5
     },
     "clg3yuzau086coj205rcnn8fv": {
         "id": "clg3yuzau086coj205rcnn8fv",
