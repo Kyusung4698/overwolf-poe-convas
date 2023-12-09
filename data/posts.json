@@ -48,7 +48,7 @@
         "status": {
             "name": "Open"
         },
-        "voteCount": 19,
+        "voteCount": 20,
         "commentCount": 0
     },
     "cktsbp2f547461map1rrkovz8d": {
@@ -63,7 +63,7 @@
         "status": {
             "name": "Accepted"
         },
-        "voteCount": 17,
+        "voteCount": 18,
         "commentCount": 0
     },
     "clmf5lm4c00bcn629vhsnvxt4": {
@@ -148,14 +148,14 @@
         "comments": [
             {
                 "body": "I love this idea. Even if the steps have to be done manually, it would be better than having to load LabCompass each time.",
-                "timeAgo": "about 3 hours",
+                "timeAgo": "about 23 hours",
                 "user": {
                     "name": "TheOne320"
                 }
             },
             {
                 "body": "It's technically feasible but we need to see with poelab first if they are okay with us reusing their content. Given how popular the lab gets with the current league we will update this in our priorities. ",
-                "timeAgo": "17 minutes",
+                "timeAgo": "about 21 hours",
                 "user": {
                     "name": "Kyusung"
                 }
@@ -167,7 +167,7 @@
         "status": {
             "name": "Open"
         },
-        "voteCount": 14,
+        "voteCount": 15,
         "commentCount": 2
     },
     "cllp771r5001vob29k1nrgbgh": {
@@ -238,6 +238,21 @@
         "voteCount": 7,
         "commentCount": 0
     },
+    "cld6415hr047jk91ydxgyuf72": {
+        "id": "cld6415hr047jk91ydxgyuf72",
+        "title": "An integrated notepad",
+        "body": "An integrated notepad where you could write some stuff like regexes for rolling maps. Very basic stuff not to have to pull out an extra file or website.\n\nCould be a new tab in the Option UI next to the change log.",
+        "timeAgo": "11 months",
+        "comments": [],
+        "user": {
+            "name": "MalakaJones"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 6,
+        "commentCount": 0
+    },
     "clculaj5u02stk91ysuokveh6": {
         "id": "clculaj5u02stk91ysuokveh6",
         "title": "Trade manager stash tab name",
@@ -266,21 +281,6 @@
             "name": "Accepted"
         },
         "voteCount": 6,
-        "commentCount": 0
-    },
-    "cld6415hr047jk91ydxgyuf72": {
-        "id": "cld6415hr047jk91ydxgyuf72",
-        "title": "An integrated notepad",
-        "body": "An integrated notepad where you could write some stuff like regexes for rolling maps. Very basic stuff not to have to pull out an extra file or website.\n\nCould be a new tab in the Option UI next to the change log.",
-        "timeAgo": "9 months",
-        "comments": [],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 5,
         "commentCount": 0
     },
     "clchq1ohh01ytk91yr2ugbv7g": {
