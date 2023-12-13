@@ -172,33 +172,26 @@
     },
     "cllp771r5001vob29k1nrgbgh": {
         "id": "cllp771r5001vob29k1nrgbgh",
-        "title": "Vendor paster",
+        "title": "Vendor paster (Stores and uses Regexes)",
         "body": "Hi I like a functionality similar to awakened poe trade that allow you to set up a series of regex to search in the stash or in the vendor. It would work the following:\n\nSave a regex with a name\n\nPress a shortcut that show the different regex saved\n\nApply \"ctrl+f\" automatically plus the regex",
         "timeAgo": "4 months",
-        "comments": [],
+        "comments": [
+            {
+                "body": "do you believe would be worth to enable an advanced map parsing mode like this: \"press a hotkey, hover your rolled maps, it stores the results and highlights in your stash maps to reroll?\"\nkinda like with regex but much more customizable\nThis was an excerpt from a discord message I sent. Would be cool to combine the 2 functionality to make a better than default map reroll behaviour",
+                "timeAgo": "9 minutes",
+                "user": {
+                    "name": "g-alfieri"
+                }
+            }
+        ],
         "user": {
             "name": "Javier Garcia"
         },
         "status": {
             "name": "Open"
         },
-        "voteCount": 11,
-        "commentCount": 0
-    },
-    "cldgcll3h0062r71saost1l2s": {
-        "id": "cldgcll3h0062r71saost1l2s",
-        "title": "Inbuilt REGEX generator",
-        "body": "Some regex generator for rolling maps. It could check for a range of quantity/rarity/packsize, but also highlight blocked mods.",
-        "timeAgo": "9 months",
-        "comments": [],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 7,
-        "commentCount": 0
+        "voteCount": 12,
+        "commentCount": 1
     },
     "ckx3rzbui794452skvfl9bv9uw": {
         "id": "ckx3rzbui794452skvfl9bv9uw",
@@ -283,26 +276,11 @@
         "voteCount": 6,
         "commentCount": 0
     },
-    "clchq1ohh01ytk91yr2ugbv7g": {
-        "id": "clchq1ohh01ytk91yr2ugbv7g",
-        "title": "Trade whisper validation",
-        "body": "Validate if the whispered price matches the listed price on the trade website. ",
-        "timeAgo": "10 months",
-        "comments": [],
-        "user": {
-            "name": "Kyusung"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 5,
-        "commentCount": 0
-    },
     "ckzd6digy419082umd17bf59lv": {
         "id": "ckzd6digy419082umd17bf59lv",
         "title": "add stash tab name to item highlight feature",
         "body": "abbility to see what stash tab is in when somebody send a trade (you can already see the item name in the bottom left i would like it to also show the stash tab name) \n\n",
-        "timeAgo": "over 1 year",
+        "timeAgo": "almost 2 years",
         "comments": [
             {
                 "body": "Hi there, we display the stash name in the upper part of the stash overlay. See the green box in the screenshot below.\nPlease let me know if this is enough, or if you still want the stash name to be displayed somewhere else. Thanks for your feedback!",
@@ -332,8 +310,38 @@
         "status": {
             "name": "Accepted"
         },
-        "voteCount": 5,
+        "voteCount": 6,
         "commentCount": 3
+    },
+    "clml5z4lh00wan6292rxhsl1p": {
+        "id": "clml5z4lh00wan6292rxhsl1p",
+        "title": "[TRADE] A sound notification when buyer enters H/O",
+        "body": "In addition to the player's name turning green when a buyer enters your H/O, it could be nice to have a toggle for an audio notification as well.",
+        "timeAgo": "3 months",
+        "comments": [],
+        "user": {
+            "name": "MalakaJones"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 5,
+        "commentCount": 0
+    },
+    "clchq1ohh01ytk91yr2ugbv7g": {
+        "id": "clchq1ohh01ytk91yr2ugbv7g",
+        "title": "Trade whisper validation",
+        "body": "Validate if the whispered price matches the listed price on the trade website. ",
+        "timeAgo": "10 months",
+        "comments": [],
+        "user": {
+            "name": "Kyusung"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 5,
+        "commentCount": 0
     },
     "ckw56ayp32970472tnum7j4zg02": {
         "id": "ckw56ayp32970472tnum7j4zg02",
@@ -357,36 +365,6 @@
         },
         "voteCount": 5,
         "commentCount": 1
-    },
-    "clml5z4lh00wan6292rxhsl1p": {
-        "id": "clml5z4lh00wan6292rxhsl1p",
-        "title": "[TRADE] A sound notification when buyer enters H/O",
-        "body": "In addition to the player's name turning green when a buyer enters your H/O, it could be nice to have a toggle for an audio notification as well.",
-        "timeAgo": "2 months",
-        "comments": [],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 4,
-        "commentCount": 0
-    },
-    "cllxzwvgn00ebn6291kff4lew": {
-        "id": "cllxzwvgn00ebn6291kff4lew",
-        "title": "Trade Toast Notification: Highlight inviting",
-        "body": "Highlight with a yellow border people who invites you to party when you're doing multiple trades to point them for whispering later when you finished trade with previous one",
-        "timeAgo": "2 months",
-        "comments": [],
-        "user": {
-            "name": "g-alfieri"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 4,
-        "commentCount": 0
     },
     "cllwimuxd009tn629xmdqyvie": {
         "id": "cllwimuxd009tn629xmdqyvie",
@@ -507,6 +485,21 @@
             "name": "Open"
         },
         "voteCount": 4,
+        "commentCount": 0
+    },
+    "cllxzwvgn00ebn6291kff4lew": {
+        "id": "cllxzwvgn00ebn6291kff4lew",
+        "title": "Trade Toast Notification: Highlight inviting",
+        "body": "Highlight with a yellow border people who invites you to party when you're doing multiple trades to point them for whispering later when you finished trade with previous one",
+        "timeAgo": "4 months",
+        "comments": [],
+        "user": {
+            "name": "g-alfieri"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 3,
         "commentCount": 0
     },
     "cl8csqp052928991xj5sgt0nkme": {
