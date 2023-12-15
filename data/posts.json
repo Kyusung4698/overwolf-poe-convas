@@ -487,6 +487,21 @@
         "voteCount": 4,
         "commentCount": 0
     },
+    "clmkyc7om00vgn629qxsmckuq": {
+        "id": "clmkyc7om00vgn629qxsmckuq",
+        "title": "Automatically select fractured mods in item evaluation",
+        "body": "If an item has a fractured mod, this mod should be automatically selected when evaluating the item. Alternatively, this could be implemented as a preference.",
+        "timeAgo": "3 months",
+        "comments": [],
+        "user": {
+            "name": "iTob"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 3,
+        "commentCount": 0
+    },
     "cllxzwvgn00ebn6291kff4lew": {
         "id": "cllxzwvgn00ebn6291kff4lew",
         "title": "Trade Toast Notification: Highlight inviting",
@@ -562,21 +577,6 @@
         "comments": [],
         "user": {
             "name": "MalakaJones"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 2,
-        "commentCount": 0
-    },
-    "clmkyc7om00vgn629qxsmckuq": {
-        "id": "clmkyc7om00vgn629qxsmckuq",
-        "title": "Automatically select fractured mods in item evaluation",
-        "body": "If an item has a fractured mod, this mod should be automatically selected when evaluating the item. Alternatively, this could be implemented as a preference.",
-        "timeAgo": "8 days",
-        "comments": [],
-        "user": {
-            "name": "iTob"
         },
         "status": {
             "name": "Open"
