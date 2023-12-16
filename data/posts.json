@@ -89,57 +89,6 @@
         "voteCount": 18,
         "commentCount": 0
     },
-    "clmf5lm4c00bcn629vhsnvxt4": {
-        "id": "clmf5lm4c00bcn629vhsnvxt4",
-        "title": "[Tracker] Add Toggle Chaos Orb <> Divine Orb",
-        "body": "Add a button in the Tracker tab to switch Net Worth from Chaos Orb value to Divine Orb value.",
-        "timeAgo": "3 months",
-        "comments": [
-            {
-                "body": "axyenno",
-                "timeAgo": "3 months",
-                "user": {
-                    "name": "ETERNE_ tv"
-                }
-            },
-            {
-                "body": "while I dont know if it is  possible it would be a lovely feature",
-                "timeAgo": "3 months",
-                "user": {
-                    "name": "Private Veryprivate"
-                }
-            },
-            {
-                "body": "Add a button in the Tracker tab to switch Net Worth from Chaos Orb value to Divine Orb value.",
-                "timeAgo": "8 days",
-                "user": {
-                    "name": "Hội Mê Game"
-                }
-            },
-            {
-                "body": "Add a button in the Tracker tab to switch Net Worth from Chaos Orb value to Divine Orb value.",
-                "timeAgo": "8 days",
-                "user": {
-                    "name": "Hội Mê Game"
-                }
-            },
-            {
-                "body": "This feature will go live later with the league patch. Keep an eye on the Discord to know when! ",
-                "timeAgo": "16 minutes",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "So Hagath"
-        },
-        "status": {
-            "name": "Completed"
-        },
-        "voteCount": 15,
-        "commentCount": 5
-    },
     "clg3yuzau086coj205rcnn8fv": {
         "id": "clg3yuzau086coj205rcnn8fv",
         "title": "Labyrinth Compass",
@@ -212,7 +161,7 @@
         "id": "ckx3rzbui794452skvfl9bv9uw",
         "title": "Multi Client Option",
         "body": "Hi, I am using two POE clients, one for trading and one for playing the game.\n\nOne is the Steam Client and one is the normal Client.\n\nI would like to use the overlay for both clients, at the moment the overlay is stuck to the last open client. So if I close the game with did not have the overlay and reboot it gets then the overlay. \n\nI don't know if it's possible, but if you could make an option so that you maybe can switch between separate clients so that we don't have to close and open the games, that would be awesome. \n\nLG CTekk\n\n",
-        "timeAgo": "almost 2 years",
+        "timeAgo": "about 2 years",
         "comments": [
             {
                 "body": "Good Idee, have the Same Problem. At the moment, I use a sec software to check Items on my Main Account.\nWould be really nice if I could use this for Both of my Games.",
@@ -220,16 +169,23 @@
                 "user": {
                     "name": "Anonymous #1512"
                 }
+            },
+            {
+                "body": "This won't be support. There is a workaround by renaming the executable of the client you don't want the app to stick to e.g. PathOfExile.exe -> PathOfExileIgnore.exe",
+                "timeAgo": "17 minutes",
+                "user": {
+                    "name": "Kyusung"
+                }
             }
         ],
         "user": {
             "name": "CTekk"
         },
         "status": {
-            "name": "Blocked"
+            "name": "Wont Fix"
         },
         "voteCount": 7,
-        "commentCount": 1
+        "commentCount": 2
     },
     "ckw8d09ht4165702tnu2q9yrpyu": {
         "id": "ckw8d09ht4165702tnu2q9yrpyu",
@@ -584,44 +540,6 @@
         "voteCount": 2,
         "commentCount": 0
     },
-    "clj074hgp01ieos28kyiemadv": {
-        "id": "clj074hgp01ieos28kyiemadv",
-        "title": "[Evaluate] Search button keybind",
-        "body": "Some users are requesting a keybind that could be associated to the search button from the evaluate window instead of being forced to click it.",
-        "timeAgo": "2 days",
-        "comments": [],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 2,
-        "commentCount": 0
-    },
-    "clgzdig1n00faos28uuiw6j5s": {
-        "id": "clgzdig1n00faos28uuiw6j5s",
-        "title": "Option to Disable Build Module",
-        "body": "let you disable it if you dont rly use it and only once tryd it",
-        "timeAgo": "6 months",
-        "comments": [
-            {
-                "body": "You can press the locate button while PoB isn't running to \"disable\" the module. ",
-                "timeAgo": "6 months",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "Xenos Omega"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 2,
-        "commentCount": 1
-    },
     "cleamd7aq0090mk1r2x0z6wk5": {
         "id": "cleamd7aq0090mk1r2x0z6wk5",
         "title": "Item highlight option",
@@ -913,21 +831,6 @@
         "voteCount": 1,
         "commentCount": 0
     },
-    "clq3ct9ib00ckis265st5zv42": {
-        "id": "clq3ct9ib00ckis265st5zv42",
-        "title": "Poe lab compass feature",
-        "body": "integrate poe lab compass i to overlay.",
-        "timeAgo": "11 minutes",
-        "comments": [],
-        "user": {
-            "name": "rpdiss"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
-        "commentCount": 0
-    },
     "clpynh65f006uis26b8xsujpo": {
         "id": "clpynh65f006uis26b8xsujpo",
         "title": "price check Sanctum runs",
@@ -1154,21 +1057,6 @@
         "comments": [],
         "user": {
             "name": "blahblahdrugs"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
-        "commentCount": 0
-    },
-    "cldymx9e7000lkx1s3uzcadlt": {
-        "id": "cldymx9e7000lkx1s3uzcadlt",
-        "title": "Searching Bar Problem",
-        "body": "After a while i play (around every 10-15 min) i must reopen the overlay in order to use searching bars.When i press P button for example in search bar it opens skill tree instead of searching an item starting with P.The problem goes when i restart the overlay as i said but it is quite uncomfortable that i need to do this every 10 min or so.",
-        "timeAgo": "4 minutes",
-        "comments": [],
-        "user": {
-            "name": "AliTalhaK"
         },
         "status": {
             "name": "Open"
