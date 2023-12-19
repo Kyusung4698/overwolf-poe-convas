@@ -443,6 +443,21 @@
         "voteCount": 4,
         "commentCount": 0
     },
+    "clq60zkdf00h4is26ojytjgxu": {
+        "id": "clq60zkdf00h4is26ojytjgxu",
+        "title": "[Evaluate] Toggle for enabling/disabling auto search",
+        "body": "A toggle in the preferences that could let us enable or disable auto search when pressing alt+d (evaluate).",
+        "timeAgo": "5 days",
+        "comments": [],
+        "user": {
+            "name": "MalakaJones"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 3,
+        "commentCount": 0
+    },
     "clmkyc7om00vgn629qxsmckuq": {
         "id": "clmkyc7om00vgn629qxsmckuq",
         "title": "Automatically select fractured mods in item evaluation",
@@ -785,21 +800,6 @@
         },
         "voteCount": 2,
         "commentCount": 3
-    },
-    "clq60zkdf00h4is26ojytjgxu": {
-        "id": "clq60zkdf00h4is26ojytjgxu",
-        "title": "[Evaluate] Toggle for enabling/disabling auto search",
-        "body": "A toggle in the preferences that could let us enable or disable auto search when pressing alt+d (evaluate).",
-        "timeAgo": "18 minutes",
-        "comments": [],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
-        "commentCount": 0
     },
     "clq483k0y00ezis26j47he4cb": {
         "id": "clq483k0y00ezis26j47he4cb",
