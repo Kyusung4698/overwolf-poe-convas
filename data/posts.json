@@ -36,21 +36,6 @@
         "voteCount": 83,
         "commentCount": 3
     },
-    "clbz80n9p010bk91yvzyu99m4": {
-        "id": "clbz80n9p010bk91yvzyu99m4",
-        "title": "Evaluate Grand Heist items on the go",
-        "body": "Since we can only evaluate items that are in our inventory, we can't evaluate the final item of Grand Heists without actually picking it up. We have to go on poe.ninja to check every Gem/Replica Uniques which can get tiresome and is quite slow.\n\nIf we could quickly evaluate that are in Curio Display on the go, that'd be great! \n\n",
-        "timeAgo": "12 months",
-        "comments": [],
-        "user": {
-            "name": "jaylay99"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 20,
-        "commentCount": 0
-    },
     "clmcw66km0073n629vtsfzitb": {
         "id": "clmcw66km0073n629vtsfzitb",
         "title": "Immortal Syndicate Cheat Sheet",
@@ -71,8 +56,23 @@
         "status": {
             "name": "Open"
         },
-        "voteCount": 19,
+        "voteCount": 20,
         "commentCount": 1
+    },
+    "clbz80n9p010bk91yvzyu99m4": {
+        "id": "clbz80n9p010bk91yvzyu99m4",
+        "title": "Evaluate Grand Heist items on the go",
+        "body": "Since we can only evaluate items that are in our inventory, we can't evaluate the final item of Grand Heists without actually picking it up. We have to go on poe.ninja to check every Gem/Replica Uniques which can get tiresome and is quite slow.\n\nIf we could quickly evaluate that are in Curio Display on the go, that'd be great! \n\n",
+        "timeAgo": "12 months",
+        "comments": [],
+        "user": {
+            "name": "jaylay99"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 20,
+        "commentCount": 0
     },
     "cktsbp2f547461map1rrkovz8d": {
         "id": "cktsbp2f547461map1rrkovz8d",
