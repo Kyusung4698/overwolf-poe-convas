@@ -805,8 +805,16 @@
         "id": "clqfepcon00sbis26kbdu5p7k",
         "title": "PoB configuration",
         "body": "When updating the PoB from the Overlay, please do not reset the configuration tab of PoB or the damage etc. displayed does not match the correct values.",
-        "timeAgo": "8 minutes",
-        "comments": [],
+        "timeAgo": "24 minutes",
+        "comments": [
+            {
+                "body": "I realised this too. The full DPS also seems to be doubled for some reason. Maby it would be best to report this in the bug section.",
+                "timeAgo": "12 minutes",
+                "user": {
+                    "name": "MalakaJones"
+                }
+            }
+        ],
         "user": {
             "name": "TheOne320"
         },
@@ -814,7 +822,7 @@
             "name": "Open"
         },
         "voteCount": 1,
-        "commentCount": 0
+        "commentCount": 1
     },
     "clq483k0y00ezis26j47he4cb": {
         "id": "clq483k0y00ezis26j47he4cb",
