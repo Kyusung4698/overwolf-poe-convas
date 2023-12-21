@@ -801,6 +801,21 @@
         "voteCount": 2,
         "commentCount": 3
     },
+    "clqfepcon00sbis26kbdu5p7k": {
+        "id": "clqfepcon00sbis26kbdu5p7k",
+        "title": "PoB configuration",
+        "body": "When updating the PoB from the Overlay, please do not reset the configuration tab of PoB or the damage etc. displayed does not match the correct values.",
+        "timeAgo": "8 minutes",
+        "comments": [],
+        "user": {
+            "name": "TheOne320"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "clq483k0y00ezis26j47he4cb": {
         "id": "clq483k0y00ezis26j47he4cb",
         "title": "Tracker Party",
