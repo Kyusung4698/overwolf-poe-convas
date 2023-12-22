@@ -805,13 +805,20 @@
         "id": "clqfepcon00sbis26kbdu5p7k",
         "title": "PoB configuration",
         "body": "When updating the PoB from the Overlay, please do not reset the configuration tab of PoB or the damage etc. displayed does not match the correct values.",
-        "timeAgo": "24 minutes",
+        "timeAgo": "about 9 hours",
         "comments": [
             {
                 "body": "I realised this too. The full DPS also seems to be doubled for some reason. Maby it would be best to report this in the bug section.",
-                "timeAgo": "12 minutes",
+                "timeAgo": "about 9 hours",
                 "user": {
                     "name": "MalakaJones"
+                }
+            },
+            {
+                "body": "Could you please post screenshots of the PoB configuration before and after updating the build through the app.\nThe app does not intentionally change any configuration. It works the same way as importing your character in PoB. If that also changes your configuration, we would need to find a way to restore them afterwards. ",
+                "timeAgo": "26 minutes",
+                "user": {
+                    "name": "Kyusung"
                 }
             }
         ],
@@ -822,7 +829,7 @@
             "name": "Open"
         },
         "voteCount": 1,
-        "commentCount": 1
+        "commentCount": 2
     },
     "clq483k0y00ezis26j47he4cb": {
         "id": "clq483k0y00ezis26j47he4cb",
