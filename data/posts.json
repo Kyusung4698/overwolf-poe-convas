@@ -48,6 +48,13 @@
                 "user": {
                     "name": "Florian Weinbrenner"
                 }
+            },
+            {
+                "body": "Yes Yes Yes to all the core cheatsheets Betrayal and Incursion at a minimum.",
+                "timeAgo": "6 minutes",
+                "user": {
+                    "name": "Gordon Brandyburg"
+                }
             }
         ],
         "user": {
@@ -56,8 +63,8 @@
         "status": {
             "name": "Open"
         },
-        "voteCount": 20,
-        "commentCount": 1
+        "voteCount": 21,
+        "commentCount": 2
     },
     "clbz80n9p010bk91yvzyu99m4": {
         "id": "clbz80n9p010bk91yvzyu99m4",
@@ -89,6 +96,29 @@
         "voteCount": 18,
         "commentCount": 0
     },
+    "cllp771r5001vob29k1nrgbgh": {
+        "id": "cllp771r5001vob29k1nrgbgh",
+        "title": "Vendor paster (Stores and uses Regexes)",
+        "body": "Hi I like a functionality similar to awakened poe trade that allow you to set up a series of regex to search in the stash or in the vendor. It would work the following:\n\nSave a regex with a name\n\nPress a shortcut that show the different regex saved\n\nApply \"ctrl+f\" automatically plus the regex",
+        "timeAgo": "4 months",
+        "comments": [
+            {
+                "body": "do you believe would be worth to enable an advanced map parsing mode like this: \"press a hotkey, hover your rolled maps, it stores the results and highlights in your stash maps to reroll?\"\nkinda like with regex but much more customizable\nThis was an excerpt from a discord message I sent. Would be cool to combine the 2 functionality to make a better than default map reroll behaviour",
+                "timeAgo": "10 days",
+                "user": {
+                    "name": "g-alfieri"
+                }
+            }
+        ],
+        "user": {
+            "name": "Javier Garcia"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 15,
+        "commentCount": 1
+    },
     "clg3yuzau086coj205rcnn8fv": {
         "id": "clg3yuzau086coj205rcnn8fv",
         "title": "Labyrinth Compass",
@@ -119,28 +149,20 @@
         "voteCount": 15,
         "commentCount": 2
     },
-    "cllp771r5001vob29k1nrgbgh": {
-        "id": "cllp771r5001vob29k1nrgbgh",
-        "title": "Vendor paster (Stores and uses Regexes)",
-        "body": "Hi I like a functionality similar to awakened poe trade that allow you to set up a series of regex to search in the stash or in the vendor. It would work the following:\n\nSave a regex with a name\n\nPress a shortcut that show the different regex saved\n\nApply \"ctrl+f\" automatically plus the regex",
-        "timeAgo": "4 months",
-        "comments": [
-            {
-                "body": "do you believe would be worth to enable an advanced map parsing mode like this: \"press a hotkey, hover your rolled maps, it stores the results and highlights in your stash maps to reroll?\"\nkinda like with regex but much more customizable\nThis was an excerpt from a discord message I sent. Would be cool to combine the 2 functionality to make a better than default map reroll behaviour",
-                "timeAgo": "about 14 hours",
-                "user": {
-                    "name": "g-alfieri"
-                }
-            }
-        ],
+    "clculaj5u02stk91ysuokveh6": {
+        "id": "clculaj5u02stk91ysuokveh6",
+        "title": "Trade manager stash tab name",
+        "body": "Hello!\n\nI am selling my compass to make some money\n\nTradeManager is really useful, but in the case of the compass, it only shows CHARGED COMPASS and the amount.\n\nI don't know what the name of the stash tab is.\n\nIs it possible to display the name of the stash tab below the current amount?",
+        "timeAgo": "11 months",
+        "comments": [],
         "user": {
-            "name": "Javier Garcia"
+            "name": "Anonymous #12594"
         },
         "status": {
             "name": "Open"
         },
-        "voteCount": 14,
-        "commentCount": 1
+        "voteCount": 7,
+        "commentCount": 0
     },
     "clb40eb3p006pny1z2lfph6y9": {
         "id": "clb40eb3p006pny1z2lfph6y9",
@@ -202,11 +224,11 @@
         "voteCount": 7,
         "commentCount": 0
     },
-    "cld6415hr047jk91ydxgyuf72": {
-        "id": "cld6415hr047jk91ydxgyuf72",
-        "title": "An integrated notepad",
-        "body": "An integrated notepad where you could write some stuff like regexes for rolling maps. Very basic stuff not to have to pull out an extra file or website.\n\nCould be a new tab in the Option UI next to the change log.",
-        "timeAgo": "11 months",
+    "clml5z4lh00wan6292rxhsl1p": {
+        "id": "clml5z4lh00wan6292rxhsl1p",
+        "title": "[TRADE] A sound notification when buyer enters H/O",
+        "body": "In addition to the player's name turning green when a buyer enters your H/O, it could be nice to have a toggle for an audio notification as well.",
+        "timeAgo": "3 months",
         "comments": [],
         "user": {
             "name": "MalakaJones"
@@ -217,14 +239,14 @@
         "voteCount": 6,
         "commentCount": 0
     },
-    "clculaj5u02stk91ysuokveh6": {
-        "id": "clculaj5u02stk91ysuokveh6",
-        "title": "Trade manager stash tab name",
-        "body": "Hello!\n\nI am selling my compass to make some money\n\nTradeManager is really useful, but in the case of the compass, it only shows CHARGED COMPASS and the amount.\n\nI don't know what the name of the stash tab is.\n\nIs it possible to display the name of the stash tab below the current amount?",
-        "timeAgo": "about 1 month",
+    "cld6415hr047jk91ydxgyuf72": {
+        "id": "cld6415hr047jk91ydxgyuf72",
+        "title": "An integrated notepad",
+        "body": "An integrated notepad where you could write some stuff like regexes for rolling maps. Very basic stuff not to have to pull out an extra file or website.\n\nCould be a new tab in the Option UI next to the change log.",
+        "timeAgo": "11 months",
         "comments": [],
         "user": {
-            "name": "Anonymous #12594"
+            "name": "MalakaJones"
         },
         "status": {
             "name": "Open"
@@ -268,21 +290,6 @@
         },
         "voteCount": 6,
         "commentCount": 3
-    },
-    "clml5z4lh00wan6292rxhsl1p": {
-        "id": "clml5z4lh00wan6292rxhsl1p",
-        "title": "[TRADE] A sound notification when buyer enters H/O",
-        "body": "In addition to the player's name turning green when a buyer enters your H/O, it could be nice to have a toggle for an audio notification as well.",
-        "timeAgo": "3 months",
-        "comments": [],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 5,
-        "commentCount": 0
     },
     "clchq1ohh01ytk91yr2ugbv7g": {
         "id": "clchq1ohh01ytk91yr2ugbv7g",
