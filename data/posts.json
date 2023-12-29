@@ -51,7 +51,7 @@
             },
             {
                 "body": "Yes Yes Yes to all the core cheatsheets Betrayal and Incursion at a minimum.",
-                "timeAgo": "4 days",
+                "timeAgo": "6 days",
                 "user": {
                     "name": "Gordon Brandyburg"
                 }
@@ -63,7 +63,7 @@
         "status": {
             "name": "Open"
         },
-        "voteCount": 22,
+        "voteCount": 23,
         "commentCount": 2
     },
     "clbz80n9p010bk91yvzyu99m4": {
@@ -85,7 +85,7 @@
         "id": "cktsbp2f547461map1rrkovz8d",
         "title": "Programable timer on active trades",
         "body": "Some timer that could be set to a fixed amount and where active trades in the trade module would auto clear when that timer ends.",
-        "timeAgo": "about 2 years",
+        "timeAgo": "over 2 years",
         "comments": [],
         "user": {
             "name": "MalakaJones"
@@ -93,7 +93,7 @@
         "status": {
             "name": "Accepted"
         },
-        "voteCount": 18,
+        "voteCount": 19,
         "commentCount": 0
     },
     "cllp771r5001vob29k1nrgbgh": {
