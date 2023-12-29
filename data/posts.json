@@ -827,25 +827,32 @@
         "id": "clqfepcon00sbis26kbdu5p7k",
         "title": "PoB configuration",
         "body": "When updating the PoB from the Overlay, please do not reset the configuration tab of PoB or the damage etc. displayed does not match the correct values.",
-        "timeAgo": "2 days",
+        "timeAgo": "8 days",
         "comments": [
             {
                 "body": "I realised this too. The full DPS also seems to be doubled for some reason. Maby it would be best to report this in the bug section.",
-                "timeAgo": "2 days",
+                "timeAgo": "8 days",
                 "user": {
                     "name": "MalakaJones"
                 }
             },
             {
                 "body": "Could you please post screenshots of the PoB configuration before and after updating the build through the app.\nThe app does not intentionally change any configuration. It works the same way as importing your character in PoB. If that also changes your configuration, we would need to find a way to restore them afterwards. ",
-                "timeAgo": "1 day",
+                "timeAgo": "8 days",
                 "user": {
                     "name": "Kyusung"
                 }
             },
             {
                 "body": "I am currently on vacation in the UK. I will try to record something when I am back.",
-                "timeAgo": "less than a minute",
+                "timeAgo": "6 days",
+                "user": {
+                    "name": "TheOne320"
+                }
+            },
+            {
+                "body": "Very weird. I just tried is just now and the configuration settings were not reset. I am sure the last time I tested it, it did reset the settings.",
+                "timeAgo": "9 minutes",
                 "user": {
                     "name": "TheOne320"
                 }
@@ -858,7 +865,7 @@
             "name": "Open"
         },
         "voteCount": 1,
-        "commentCount": 3
+        "commentCount": 4
     },
     "clq483k0y00ezis26j47he4cb": {
         "id": "clq483k0y00ezis26j47he4cb",
