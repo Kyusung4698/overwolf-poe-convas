@@ -547,6 +547,58 @@
         "voteCount": 3,
         "commentCount": 3
     },
+    "cktsbp2fx47477map1602cke1k": {
+        "id": "cktsbp2fx47477map1602cke1k",
+        "title": "Party member highlight when trading",
+        "body": "Through the trade feature, could it be possible to highlight the party member you have to trade with once you're in the same party? This would help quickly figure out which player you need to join its hideout. This would really help with non-greek alphabet names or vice-versa.",
+        "timeAgo": "over 2 years",
+        "comments": [
+            {
+                "body": "I don't think there is a way of knowing the party members and their respective order in the UI through the logs. But this could possible be provided through Overwolf. Let's ask them 😇\nhttps://discuss.overwolf.com/t/path-of-exile-party-members/2046",
+                "timeAgo": "over 2 years",
+                "user": {
+                    "name": "Kyusung"
+                }
+            },
+            {
+                "body": "Just to follow up. I'm also currently providing a button within my trade helper, which lets you go to the hideout of the player if you have outgoing requests enabled. Doesn't this solve the issue?",
+                "timeAgo": "over 2 years",
+                "user": {
+                    "name": "Kyusung"
+                }
+            },
+            {
+                "body": "When you're trading with multiple people, it can be really confusing with who you're trading. Especially when names dont checkout.",
+                "timeAgo": "over 2 years",
+                "user": {
+                    "name": "MalakaJones"
+                }
+            }
+        ],
+        "user": {
+            "name": "MalakaJones"
+        },
+        "status": {
+            "name": "Blocked"
+        },
+        "voteCount": 3,
+        "commentCount": 3
+    },
+    "clqllf0qh01utis26q5znc539": {
+        "id": "clqllf0qh01utis26q5znc539",
+        "title": "Add Map Bosses to \"Dangerous Mods\" List",
+        "body": "When farming bosses for Maven some are rippier than others. It would be nice if for example I could set The Goddess of Justice as a dangerous mod so that I remember not to run Orchard or Plaza.",
+        "timeAgo": "6 days",
+        "comments": [],
+        "user": {
+            "name": "argash"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 2,
+        "commentCount": 0
+    },
     "clmqwro3a018ln62918z8zo9s": {
         "id": "clmqwro3a018ln62918z8zo9s",
         "title": "[EVALUATE] Have the \"Buyout Price\" toggle at the evaluate window",
@@ -771,43 +823,6 @@
         "voteCount": 2,
         "commentCount": 0
     },
-    "cktsbp2fx47477map1602cke1k": {
-        "id": "cktsbp2fx47477map1602cke1k",
-        "title": "Party member highlight when trading",
-        "body": "Through the trade feature, could it be possible to highlight the party member you have to trade with once you're in the same party? This would help quickly figure out which player you need to join its hideout. This would really help with non-greek alphabet names or vice-versa.",
-        "timeAgo": "about 1 year",
-        "comments": [
-            {
-                "body": "I don't think there is a way of knowing the party members and their respective order in the UI through the logs. But this could possible be provided through Overwolf. Let's ask them 😇\nhttps://discuss.overwolf.com/t/path-of-exile-party-members/2046",
-                "timeAgo": "about 1 year",
-                "user": {
-                    "name": "Kyusung"
-                }
-            },
-            {
-                "body": "Just to follow up. I'm also currently providing a button within my trade helper, which lets you go to the hideout of the player if you have outgoing requests enabled. Doesn't this solve the issue?",
-                "timeAgo": "about 1 year",
-                "user": {
-                    "name": "Kyusung"
-                }
-            },
-            {
-                "body": "When you're trading with multiple people, it can be really confusing with who you're trading. Especially when names dont checkout.",
-                "timeAgo": "12 months",
-                "user": {
-                    "name": "MalakaJones"
-                }
-            }
-        ],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "name": "Blocked"
-        },
-        "voteCount": 2,
-        "commentCount": 3
-    },
     "clqsjcova022lis26ezzmvkwo": {
         "id": "clqsjcova022lis26ezzmvkwo",
         "title": "Auto Update on Currency tracker",
@@ -816,21 +831,6 @@
         "comments": [],
         "user": {
             "name": "Enzo Pelotte (CptAlbatar)"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
-        "commentCount": 0
-    },
-    "clqllf0qh01utis26q5znc539": {
-        "id": "clqllf0qh01utis26q5znc539",
-        "title": "Add Map Bosses to \"Dangerous Mods\" List",
-        "body": "When farming bosses for Maven some are rippier than others. It would be nice if for example I could set The Goddess of Justice as a dangerous mod so that I remember not to run Orchard or Plaza.",
-        "timeAgo": "19 minutes",
-        "comments": [],
-        "user": {
-            "name": "argash"
         },
         "status": {
             "name": "Open"
