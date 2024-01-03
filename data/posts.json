@@ -291,6 +291,21 @@
         "voteCount": 6,
         "commentCount": 3
     },
+    "clq60zkdf00h4is26ojytjgxu": {
+        "id": "clq60zkdf00h4is26ojytjgxu",
+        "title": "[Evaluate] Toggle for enabling/disabling auto search",
+        "body": "A toggle in the preferences that could let us enable or disable auto search when pressing alt+d (evaluate).",
+        "timeAgo": "19 days",
+        "comments": [],
+        "user": {
+            "name": "MalakaJones"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 5,
+        "commentCount": 0
+    },
     "clchq1ohh01ytk91yr2ugbv7g": {
         "id": "clchq1ohh01ytk91yr2ugbv7g",
         "title": "Trade whisper validation",
@@ -328,21 +343,6 @@
         },
         "voteCount": 5,
         "commentCount": 1
-    },
-    "clq60zkdf00h4is26ojytjgxu": {
-        "id": "clq60zkdf00h4is26ojytjgxu",
-        "title": "[Evaluate] Toggle for enabling/disabling auto search",
-        "body": "A toggle in the preferences that could let us enable or disable auto search when pressing alt+d (evaluate).",
-        "timeAgo": "6 days",
-        "comments": [],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 4,
-        "commentCount": 0
     },
     "cllwimuxd009tn629xmdqyvie": {
         "id": "cllwimuxd009tn629xmdqyvie",
