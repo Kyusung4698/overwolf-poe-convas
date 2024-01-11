@@ -153,16 +153,24 @@
         "id": "clculaj5u02stk91ysuokveh6",
         "title": "Trade manager stash tab name",
         "body": "Hello!\n\nI am selling my compass to make some money\n\nTradeManager is really useful, but in the case of the compass, it only shows CHARGED COMPASS and the amount.\n\nI don't know what the name of the stash tab is.\n\nIs it possible to display the name of the stash tab below the current amount?",
-        "timeAgo": "11 months",
-        "comments": [],
+        "timeAgo": "12 months",
+        "comments": [
+            {
+                "body": "yes please, would be super useful, just anywhere in the trade window itself near the item",
+                "timeAgo": "1 minute",
+                "user": {
+                    "name": "ron won"
+                }
+            }
+        ],
         "user": {
             "name": "Anonymous #12594"
         },
         "status": {
             "name": "Open"
         },
-        "voteCount": 7,
-        "commentCount": 0
+        "voteCount": 9,
+        "commentCount": 1
     },
     "clb40eb3p006pny1z2lfph6y9": {
         "id": "clb40eb3p006pny1z2lfph6y9",
