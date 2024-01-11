@@ -157,7 +157,7 @@
         "comments": [
             {
                 "body": "yes please, would be super useful, just anywhere in the trade window itself near the item",
-                "timeAgo": "1 minute",
+                "timeAgo": "17 minutes",
                 "user": {
                     "name": "ron won"
                 }
@@ -169,8 +169,23 @@
         "status": {
             "name": "Open"
         },
-        "voteCount": 9,
+        "voteCount": 10,
         "commentCount": 1
+    },
+    "clml5z4lh00wan6292rxhsl1p": {
+        "id": "clml5z4lh00wan6292rxhsl1p",
+        "title": "[TRADE] A sound notification when buyer enters H/O",
+        "body": "In addition to the player's name turning green when a buyer enters your H/O, it could be nice to have a toggle for an audio notification as well.",
+        "timeAgo": "4 months",
+        "comments": [],
+        "user": {
+            "name": "MalakaJones"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 7,
+        "commentCount": 0
     },
     "clb40eb3p006pny1z2lfph6y9": {
         "id": "clb40eb3p006pny1z2lfph6y9",
@@ -230,21 +245,6 @@
             "name": "Accepted"
         },
         "voteCount": 7,
-        "commentCount": 0
-    },
-    "clml5z4lh00wan6292rxhsl1p": {
-        "id": "clml5z4lh00wan6292rxhsl1p",
-        "title": "[TRADE] A sound notification when buyer enters H/O",
-        "body": "In addition to the player's name turning green when a buyer enters your H/O, it could be nice to have a toggle for an audio notification as well.",
-        "timeAgo": "3 months",
-        "comments": [],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 6,
         "commentCount": 0
     },
     "cld6415hr047jk91ydxgyuf72": {
@@ -829,6 +829,21 @@
             "name": "Open"
         },
         "voteCount": 2,
+        "commentCount": 0
+    },
+    "clr9fcje900s5oo2i2bnyfjsz": {
+        "id": "clr9fcje900s5oo2i2bnyfjsz",
+        "title": "trade window ui on multi monitor",
+        "body": "would be nice to be able to drag the trade window to an  other monitor and not be limited with the game window",
+        "timeAgo": "14 minutes",
+        "comments": [],
+        "user": {
+            "name": "ron won"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
         "commentCount": 0
     },
     "clqsjcova022lis26ezzmvkwo": {
