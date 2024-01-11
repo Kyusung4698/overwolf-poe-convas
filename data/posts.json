@@ -157,7 +157,7 @@
         "comments": [
             {
                 "body": "yes please, would be super useful, just anywhere in the trade window itself near the item",
-                "timeAgo": "17 minutes",
+                "timeAgo": "about 2 hours",
                 "user": {
                     "name": "ron won"
                 }
@@ -169,7 +169,7 @@
         "status": {
             "name": "Open"
         },
-        "voteCount": 10,
+        "voteCount": 11,
         "commentCount": 1
     },
     "clml5z4lh00wan6292rxhsl1p": {
@@ -184,7 +184,7 @@
         "status": {
             "name": "Open"
         },
-        "voteCount": 7,
+        "voteCount": 8,
         "commentCount": 0
     },
     "clb40eb3p006pny1z2lfph6y9": {
@@ -473,6 +473,21 @@
         "voteCount": 4,
         "commentCount": 0
     },
+    "clr9fcje900s5oo2i2bnyfjsz": {
+        "id": "clr9fcje900s5oo2i2bnyfjsz",
+        "title": "trade window ui on multi monitor",
+        "body": "would be nice to be able to drag the trade window to an  other monitor and not be limited with the game window",
+        "timeAgo": "about 2 hours",
+        "comments": [],
+        "user": {
+            "name": "ron won"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 3,
+        "commentCount": 0
+    },
     "cln80qjnz00rjsr29wbskp68b": {
         "id": "cln80qjnz00rjsr29wbskp68b",
         "title": "Option to look up timeless jewel only by seed",
@@ -591,21 +606,6 @@
         },
         "voteCount": 3,
         "commentCount": 3
-    },
-    "clr9fcje900s5oo2i2bnyfjsz": {
-        "id": "clr9fcje900s5oo2i2bnyfjsz",
-        "title": "trade window ui on multi monitor",
-        "body": "would be nice to be able to drag the trade window to an  other monitor and not be limited with the game window",
-        "timeAgo": "about 2 hours",
-        "comments": [],
-        "user": {
-            "name": "ron won"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 2,
-        "commentCount": 0
     },
     "clqllf0qh01utis26q5znc539": {
         "id": "clqllf0qh01utis26q5znc539",
