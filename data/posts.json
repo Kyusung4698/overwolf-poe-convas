@@ -607,6 +607,21 @@
         "voteCount": 3,
         "commentCount": 3
     },
+    "clraqjyoh0008px2fdi3s6v7d": {
+        "id": "clraqjyoh0008px2fdi3s6v7d",
+        "title": "PoeStack/TFT Bulk Trade Support",
+        "body": "Using TFT, PoeStack or TFTrove, you can buy/sell bulk items in this format:\n\nBuyer: WTB {amount} {itemName} {chaosPrice} each. Total {totalAmount}c ({priceInDivAndChaos})\n\nExample messages:\n\nIt would be awesome if this was integrated into PoE Overlay's trade overlay.",
+        "timeAgo": "11 minutes",
+        "comments": [],
+        "user": {
+            "name": "Eren Kara"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 2,
+        "commentCount": 0
+    },
     "clqllf0qh01utis26q5znc539": {
         "id": "clqllf0qh01utis26q5znc539",
         "title": "Add Map Bosses to \"Dangerous Mods\" List",
