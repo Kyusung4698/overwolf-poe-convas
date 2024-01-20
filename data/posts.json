@@ -562,9 +562,16 @@
             },
             {
                 "body": "Where can I find a list of all available placeholders?",
-                "timeAgo": "3 minutes",
+                "timeAgo": "24 minutes",
                 "user": {
                     "name": "Vel"
+                }
+            },
+            {
+                "body": "Here",
+                "timeAgo": "10 minutes",
+                "user": {
+                    "name": "MalakaJones"
                 }
             }
         ],
@@ -575,7 +582,7 @@
             "name": "Open"
         },
         "voteCount": 3,
-        "commentCount": 4
+        "commentCount": 5
     },
     "cktsbp2fx47477map1602cke1k": {
         "id": "cktsbp2fx47477map1602cke1k",
