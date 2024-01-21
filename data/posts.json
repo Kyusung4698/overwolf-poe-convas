@@ -562,16 +562,23 @@
             },
             {
                 "body": "Where can I find a list of all available placeholders?",
-                "timeAgo": "24 minutes",
+                "timeAgo": "about 13 hours",
                 "user": {
                     "name": "Vel"
                 }
             },
             {
                 "body": "Here",
-                "timeAgo": "10 minutes",
+                "timeAgo": "about 13 hours",
                 "user": {
                     "name": "MalakaJones"
+                }
+            },
+            {
+                "body": "Thanks \nMalakaJones. \nThe screenshot you've shared is the reason I'm asking; the list is incomplete. {trader} and {itemname}, for example, are additional placeholders; are there others? I feel like at some point I saw one for {price}, {itemprice} or something similar; perhaps that was another app years ago.\nIt'd be cool to be able to have a custom \"Still interested message\" for something along the lines of, \"{trader}, are you still interested in the {itemname} I have listed for {price}?\"",
+                "timeAgo": "6 minutes",
+                "user": {
+                    "name": "Vel"
                 }
             }
         ],
@@ -582,7 +589,7 @@
             "name": "Open"
         },
         "voteCount": 3,
-        "commentCount": 5
+        "commentCount": 6
     },
     "cktsbp2fx47477map1602cke1k": {
         "id": "cktsbp2fx47477map1602cke1k",
