@@ -562,30 +562,37 @@
             },
             {
                 "body": "Where can I find a list of all available placeholders?",
-                "timeAgo": "about 23 hours",
+                "timeAgo": "1 day",
                 "user": {
                     "name": "Vel"
                 }
             },
             {
                 "body": "Here",
-                "timeAgo": "about 23 hours",
+                "timeAgo": "1 day",
                 "user": {
                     "name": "MalakaJones"
                 }
             },
             {
                 "body": "Thanks \nMalakaJones. \nThe screenshot you've shared is the reason I'm asking; the list is incomplete. {trader} and {itemname}, for example, are additional placeholders; are there others? I feel like at some point I saw one for {price}, {itemprice} or something similar; perhaps that was another app years ago.\nIt'd be cool to be able to have a custom \"Still interested message\" for something along the lines of, \"{trader}, are you still interested in the {itemname} I have listed for {price}?\"",
-                "timeAgo": "about 10 hours",
+                "timeAgo": "about 12 hours",
                 "user": {
                     "name": "Vel"
                 }
             },
             {
                 "body": "Those placeholders are only available within the trade module. They are not usable outside of it as they need to be linked to a specific trade.",
-                "timeAgo": "9 minutes",
+                "timeAgo": "about 2 hours",
                 "user": {
                     "name": "MalakaJones"
+                }
+            },
+            {
+                "body": "Ah, I guess that's what I'm looking for, a list of placehoilders that can be used specifically within the trade module. Are there others beyond {trader} and {itemname}?",
+                "timeAgo": "3 minutes",
+                "user": {
+                    "name": "Vel"
                 }
             }
         ],
@@ -596,7 +603,7 @@
             "name": "Open"
         },
         "voteCount": 3,
-        "commentCount": 7
+        "commentCount": 8
     },
     "cktsbp2fx47477map1602cke1k": {
         "id": "cktsbp2fx47477map1602cke1k",
