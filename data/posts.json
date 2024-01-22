@@ -562,51 +562,58 @@
             },
             {
                 "body": "Where can I find a list of all available placeholders?",
-                "timeAgo": "1 day",
+                "timeAgo": "2 days",
                 "user": {
                     "name": "Vel"
                 }
             },
             {
                 "body": "Here",
-                "timeAgo": "1 day",
+                "timeAgo": "2 days",
                 "user": {
                     "name": "MalakaJones"
                 }
             },
             {
                 "body": "Thanks \nMalakaJones. \nThe screenshot you've shared is the reason I'm asking; the list is incomplete. {trader} and {itemname}, for example, are additional placeholders; are there others? I feel like at some point I saw one for {price}, {itemprice} or something similar; perhaps that was another app years ago.\nIt'd be cool to be able to have a custom \"Still interested message\" for something along the lines of, \"{trader}, are you still interested in the {itemname} I have listed for {price}?\"",
-                "timeAgo": "about 14 hours",
+                "timeAgo": "1 day",
                 "user": {
                     "name": "Vel"
                 }
             },
             {
                 "body": "Those placeholders are only available within the trade module. They are not usable outside of it as they need to be linked to a specific trade.",
-                "timeAgo": "about 4 hours",
+                "timeAgo": "1 day",
                 "user": {
                     "name": "MalakaJones"
                 }
             },
             {
                 "body": "Ah, I guess that's what I'm looking for, a list of placehoilders that can be used specifically within the trade module. Are there others beyond {trader} and {itemname}?",
-                "timeAgo": "about 2 hours",
+                "timeAgo": "about 22 hours",
                 "user": {
                     "name": "Vel"
                 }
             },
             {
                 "body": "Here is the full list, those are available by default if you haven't changed them.",
-                "timeAgo": "18 minutes",
+                "timeAgo": "about 21 hours",
                 "user": {
                     "name": "MalakaJones"
                 }
             },
             {
                 "body": "Looking at the screenshot, looks like the text is krangled. we will look into it.",
-                "timeAgo": "17 minutes",
+                "timeAgo": "about 21 hours",
                 "user": {
                     "name": "MalakaJones"
+                }
+            },
+            {
+                "body": "Thank you, is is what I needed! I had changed the default messages which is why I couldn't see them.",
+                "timeAgo": "4 minutes",
+                "user": {
+                    "name": "Vel"
                 }
             }
         ],
@@ -617,7 +624,7 @@
             "name": "Open"
         },
         "voteCount": 3,
-        "commentCount": 10
+        "commentCount": 11
     },
     "cktsbp2fx47477map1602cke1k": {
         "id": "cktsbp2fx47477map1602cke1k",
