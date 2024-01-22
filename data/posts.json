@@ -917,6 +917,21 @@
         "voteCount": 2,
         "commentCount": 0
     },
+    "clrphed2f006jpx2foqlpt6m5": {
+        "id": "clrphed2f006jpx2foqlpt6m5",
+        "title": "[TRADE] Move whisper listings at the bottom of the list when refreshed",
+        "body": "Instead of just refreshing the timer when you whisper someone multiple times for an item, it would be more suiting to move the lisiting at the bottom as if it was new. Only refreshing the timer ca get confusing when you're trying to find back that listing in order to use the buttons.",
+        "timeAgo": "14 minutes",
+        "comments": [],
+        "user": {
+            "name": "Anonymous #7671"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "clqsjcova022lis26ezzmvkwo": {
         "id": "clqsjcova022lis26ezzmvkwo",
         "title": "Auto Update on Currency tracker",
