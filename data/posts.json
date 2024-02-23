@@ -924,6 +924,21 @@
         "voteCount": 2,
         "commentCount": 0
     },
+    "clsyo5spb015mma2fvp2xt58j": {
+        "id": "clsyo5spb015mma2fvp2xt58j",
+        "title": "Indicator for whether trade was accepted or cancelled",
+        "body": "Problem\n\nWhen there are multiple concurrent trades, it can get a bit hard to tell which trades are already fulfilled and which aren't.\n\nIt happens rarely that someone cancels a trade, but when it happens I often don't realize it until after I have already clicked the \"Thanks for trade + kick from party\"-button.\n\nSuggestion\n\nPoE Overlay already tracks whether the other player has joined the hideout and indicates this with green text. This could be further improved by indicating the current state of the trade request. I believe that tracking this state per player accurately should be possible, as long as I initiate the trade using PoE Overlay's trade-button:\n\nClick \"Trade\"-button -&gt; Trade in progress\n\nLog Message \"Trade accepted.\" -&gt; Trade fulfilled\n\nLog Message \"Trade cancelled.\" -&gt; Trade failed + no longer in progress\n\nLog Message \"Player not found in this area.\" -&gt; Trade failed + no longer in progress",
+        "timeAgo": "13 minutes",
+        "comments": [],
+        "user": {
+            "name": "iTob"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "cls9g2pzn004bkd2flwnwh1bc": {
         "id": "cls9g2pzn004bkd2flwnwh1bc",
         "title": "Price Based on: - additional button to copy trade link",
