@@ -40,25 +40,25 @@
         "id": "clmcw66km0073n629vtsfzitb",
         "title": "Immortal Syndicate Cheat Sheet",
         "body": "Similar to the Shift+Spacebar in Awakened POE trade for easy reference to syndicate rewards per rank",
-        "timeAgo": "5 months",
+        "timeAgo": "6 months",
         "comments": [
             {
                 "body": "not only Syndicate. \nAlso Alva, Delve, Heist, Essences",
-                "timeAgo": "5 months",
+                "timeAgo": "6 months",
                 "user": {
                     "name": "Florian Weinbrenner"
                 }
             },
             {
                 "body": "Yes Yes Yes to all the core cheatsheets Betrayal and Incursion at a minimum.",
-                "timeAgo": "about 2 months",
+                "timeAgo": "2 months",
                 "user": {
                     "name": "Gordon Brandyburg"
                 }
             },
             {
                 "body": "Ir could be placed on the main APP Next to build so that it could Stay Open on the second monitor for those who have and appear as an overlay for those who don't. Thanks!!!",
-                "timeAgo": "16 minutes",
+                "timeAgo": "24 days",
                 "user": {
                     "name": "Bruno Monteiro"
                 }
@@ -70,7 +70,7 @@
         "status": {
             "name": "Open"
         },
-        "voteCount": 24,
+        "voteCount": 25,
         "commentCount": 3
     },
     "clbz80n9p010bk91yvzyu99m4": {
@@ -100,7 +100,7 @@
         "status": {
             "name": "Accepted"
         },
-        "voteCount": 19,
+        "voteCount": 20,
         "commentCount": 0
     },
     "cllp771r5001vob29k1nrgbgh": {
@@ -254,6 +254,29 @@
         "voteCount": 7,
         "commentCount": 0
     },
+    "ckw56ayp32970472tnum7j4zg02": {
+        "id": "ckw56ayp32970472tnum7j4zg02",
+        "title": "Thank you message in different languages",
+        "body": "Send the \"Thank you for trading\" message in the appropriate language, as the initial trade message was in.",
+        "timeAgo": "over 2 years",
+        "comments": [
+            {
+                "body": "This would only be relevant for outgoing trades, as incoming trades are always in your own language. I'm not sure this is worth implementing but if enough users vote, I will consider it :)",
+                "timeAgo": "over 1 year",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
+        "user": {
+            "name": "Slash1y"
+        },
+        "status": {
+            "name": "Accepted"
+        },
+        "voteCount": 7,
+        "commentCount": 1
+    },
     "cld6415hr047jk91ydxgyuf72": {
         "id": "cld6415hr047jk91ydxgyuf72",
         "title": "An integrated notepad",
@@ -305,29 +328,6 @@
         },
         "voteCount": 6,
         "commentCount": 3
-    },
-    "ckw56ayp32970472tnum7j4zg02": {
-        "id": "ckw56ayp32970472tnum7j4zg02",
-        "title": "Thank you message in different languages",
-        "body": "Send the \"Thank you for trading\" message in the appropriate language, as the initial trade message was in.",
-        "timeAgo": "about 2 years",
-        "comments": [
-            {
-                "body": "This would only be relevant for outgoing trades, as incoming trades are always in your own language. I'm not sure this is worth implementing but if enough users vote, I will consider it :)",
-                "timeAgo": "over 1 year",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "Slash1y"
-        },
-        "status": {
-            "name": "Accepted"
-        },
-        "voteCount": 6,
-        "commentCount": 1
     },
     "clq60zkdf00h4is26ojytjgxu": {
         "id": "clq60zkdf00h4is26ojytjgxu",
