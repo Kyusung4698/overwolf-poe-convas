@@ -3,25 +3,25 @@
         "id": "cktsbp06645781map1mdgomfb5",
         "title": "Inventory value calculator",
         "body": "Image and text recognition AI to calculate inventory value using ImageAI and OCR. Similar to what HarvestVendor does but next level 🤓",
-        "timeAgo": "over 2 years",
+        "timeAgo": "3 years ago",
         "comments": [
             {
                 "body": "requested a new game event from overwolf to support this, i will be waiting their response before diving into training models. \nhttps://discuss.overwolf.com/t/path-of-exile-extend-the-opened-page-event-to-include-page-content/2025",
-                "timeAgo": "over 2 years",
+                "timeAgo": "3 years ago",
                 "user": {
                     "name": "Kyusung"
                 }
             },
             {
                 "body": "I really like the idea of counting currency as shown in the picture. This would help making sure people put the correct amount in the trade window. I'd also really like to see a complementary behaviour where it would sum up all currencies and give you an estimate based on poe.ninja prices. Could be in chaos or in exalt.",
-                "timeAgo": "about 2 years",
+                "timeAgo": "3 years ago",
                 "user": {
                     "name": "MalakaJones"
                 }
             },
             {
                 "body": "Maybe you could ask for an update from overwolf. Its already 9 months ago and still no new infos from them.",
-                "timeAgo": "over 1 year",
+                "timeAgo": "2 years ago",
                 "user": {
                     "name": "Nico Eschner"
                 }
@@ -33,7 +33,7 @@
         "status": {
             "name": "Blocked"
         },
-        "voteCount": 84,
+        "voteCount": 85,
         "commentCount": 3
     },
     "clmcw66km0073n629vtsfzitb": {
@@ -209,6 +209,43 @@
         "voteCount": 7,
         "commentCount": 0
     },
+    "ckzd6digy419082umd17bf59lv": {
+        "id": "ckzd6digy419082umd17bf59lv",
+        "title": "add stash tab name to item highlight feature",
+        "body": "abbility to see what stash tab is in when somebody send a trade (you can already see the item name in the bottom left i would like it to also show the stash tab name) \n\n",
+        "timeAgo": "2 years ago",
+        "comments": [
+            {
+                "body": "Hi there, we display the stash name in the upper part of the stash overlay. See the green box in the screenshot below.\nPlease let me know if this is enough, or if you still want the stash name to be displayed somewhere else. Thanks for your feedback!",
+                "timeAgo": "2 years ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            },
+            {
+                "body": "I would love if the bar where the stash name is would be a bit bigger. It's pretty small and hard to read. I would suggest making it the same font size as everything else like the size of the search bar or the stash name.",
+                "timeAgo": "2 years ago",
+                "user": {
+                    "name": "Nico Eschner"
+                }
+            },
+            {
+                "body": "That's valid feedback. Hmm, currently there are some technical restriction preventing me from scaling the whole stash highlight window. I will see how we can improve this. Thanks for your suggestion! ",
+                "timeAgo": "2 years ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
+        "user": {
+            "name": "Anonymous #8216"
+        },
+        "status": {
+            "name": "Accepted"
+        },
+        "voteCount": 7,
+        "commentCount": 3
+    },
     "ckx3rzbui794452skvfl9bv9uw": {
         "id": "ckx3rzbui794452skvfl9bv9uw",
         "title": "Multi Client Option",
@@ -291,43 +328,6 @@
         },
         "voteCount": 6,
         "commentCount": 0
-    },
-    "ckzd6digy419082umd17bf59lv": {
-        "id": "ckzd6digy419082umd17bf59lv",
-        "title": "add stash tab name to item highlight feature",
-        "body": "abbility to see what stash tab is in when somebody send a trade (you can already see the item name in the bottom left i would like it to also show the stash tab name) \n\n",
-        "timeAgo": "almost 2 years",
-        "comments": [
-            {
-                "body": "Hi there, we display the stash name in the upper part of the stash overlay. See the green box in the screenshot below.\nPlease let me know if this is enough, or if you still want the stash name to be displayed somewhere else. Thanks for your feedback!",
-                "timeAgo": "over 1 year",
-                "user": {
-                    "name": "Kyusung"
-                }
-            },
-            {
-                "body": "I would love if the bar where the stash name is would be a bit bigger. It's pretty small and hard to read. I would suggest making it the same font size as everything else like the size of the search bar or the stash name.",
-                "timeAgo": "over 1 year",
-                "user": {
-                    "name": "Nico Eschner"
-                }
-            },
-            {
-                "body": "That's valid feedback. Hmm, currently there are some technical restriction preventing me from scaling the whole stash highlight window. I will see how we can improve this. Thanks for your suggestion! ",
-                "timeAgo": "about 1 year",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "Anonymous #8216"
-        },
-        "status": {
-            "name": "Accepted"
-        },
-        "voteCount": 6,
-        "commentCount": 3
     },
     "clq60zkdf00h4is26ojytjgxu": {
         "id": "clq60zkdf00h4is26ojytjgxu",
