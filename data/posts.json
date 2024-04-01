@@ -931,6 +931,21 @@
         "voteCount": 2,
         "commentCount": 0
     },
+    "cluh21mbr009dm033a1lokkql": {
+        "id": "cluh21mbr009dm033a1lokkql",
+        "title": "rearange the order of the icons in trades whisper",
+        "body": "as title say would be nice to be able to reorder icons of the trade messages (incoming and outgoing)",
+        "timeAgo": "4 minutes ago",
+        "comments": [],
+        "user": {
+            "name": "ron won"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "clsyo5spb015mma2fvp2xt58j": {
         "id": "clsyo5spb015mma2fvp2xt58j",
         "title": "Indicator for whether trade was accepted or cancelled",
