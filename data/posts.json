@@ -201,6 +201,21 @@
         "voteCount": 8,
         "commentCount": 0
     },
+    "clq60zkdf00h4is26ojytjgxu": {
+        "id": "clq60zkdf00h4is26ojytjgxu",
+        "title": "[Evaluate] Toggle for enabling/disabling auto search",
+        "body": "A toggle in the preferences that could let us enable or disable auto search when pressing alt+d (evaluate).",
+        "timeAgo": "2 quarters ago",
+        "comments": [],
+        "user": {
+            "name": "MalakaJones"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 7,
+        "commentCount": 0
+    },
     "clb40eb3p006pny1z2lfph6y9": {
         "id": "clb40eb3p006pny1z2lfph6y9",
         "title": "Have the Evaluate window filter by date",
@@ -321,21 +336,6 @@
         "voteCount": 7,
         "commentCount": 1
     },
-    "clq60zkdf00h4is26ojytjgxu": {
-        "id": "clq60zkdf00h4is26ojytjgxu",
-        "title": "[Evaluate] Toggle for enabling/disabling auto search",
-        "body": "A toggle in the preferences that could let us enable or disable auto search when pressing alt+d (evaluate).",
-        "timeAgo": "2 quarters ago",
-        "comments": [],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 6,
-        "commentCount": 0
-    },
     "cld6415hr047jk91ydxgyuf72": {
         "id": "cld6415hr047jk91ydxgyuf72",
         "title": "An integrated notepad",
@@ -387,6 +387,21 @@
             "name": "Open"
         },
         "voteCount": 5,
+        "commentCount": 0
+    },
+    "clr9fcje900s5oo2i2bnyfjsz": {
+        "id": "clr9fcje900s5oo2i2bnyfjsz",
+        "title": "trade window ui on multi monitor",
+        "body": "would be nice to be able to drag the trade window to an  other monitor and not be limited with the game window",
+        "timeAgo": "3 months ago",
+        "comments": [],
+        "user": {
+            "name": "ron won"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 4,
         "commentCount": 0
     },
     "cllwimuxd009tn629xmdqyvie": {
@@ -485,21 +500,6 @@
             "name": "Open"
         },
         "voteCount": 4,
-        "commentCount": 0
-    },
-    "clr9fcje900s5oo2i2bnyfjsz": {
-        "id": "clr9fcje900s5oo2i2bnyfjsz",
-        "title": "trade window ui on multi monitor",
-        "body": "would be nice to be able to drag the trade window to an  other monitor and not be limited with the game window",
-        "timeAgo": "about 2 hours",
-        "comments": [],
-        "user": {
-            "name": "ron won"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 3,
         "commentCount": 0
     },
     "cln80qjnz00rjsr29wbskp68b": {
@@ -706,6 +706,51 @@
         },
         "voteCount": 3,
         "commentCount": 3
+    },
+    "cluh894xi00a0m033kct0dzga": {
+        "id": "cluh894xi00a0m033kct0dzga",
+        "title": "Customizable Hotkeys for trade whispers",
+        "body": "would be nice to have highly customizable hotkeys for the trade whispers (or for any chat command in general).\nhere an example of the commands: (also from \"poe trades companion\")\n\n\nbasicaly the same feature that is in \"poe trades companion\" ... like this is the next screenshot for the button \"sold and ignore\" and it just send the buyer the message that item is sold and from this point on the app does not pop up anymore for this item even when i get spamed with whispers of that item\n\n",
+        "timeAgo": "4 hours ago",
+        "comments": [],
+        "user": {
+            "name": "ron won"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 2,
+        "commentCount": 0
+    },
+    "cluh27lcg009gm033i4g0g9a5": {
+        "id": "cluh27lcg009gm033i4g0g9a5",
+        "title": " ignore incoming trade messages after pressing \"item sold\"",
+        "body": "sometimes you want sell smth fast but then get bombarded with messages of that item even minutes after it is sold.\n\nSO it would be nice to have incoming messages of that item i just clicked \"item sold\" be ignored for like 5min and not getting any popups for this item for that time anymore",
+        "timeAgo": "7 hours ago",
+        "comments": [],
+        "user": {
+            "name": "ron won"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 2,
+        "commentCount": 0
+    },
+    "cluh21mbr009dm033a1lokkql": {
+        "id": "cluh21mbr009dm033a1lokkql",
+        "title": "rearange the order of the icons in trades whisper",
+        "body": "as title say would be nice to be able to reorder icons of the trade messages (incoming and outgoing)",
+        "timeAgo": "7 hours ago",
+        "comments": [],
+        "user": {
+            "name": "ron won"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 2,
+        "commentCount": 0
     },
     "clraqjyoh0008px2fdi3s6v7d": {
         "id": "clraqjyoh0008px2fdi3s6v7d",
@@ -929,51 +974,6 @@
             "name": "Open"
         },
         "voteCount": 2,
-        "commentCount": 0
-    },
-    "cluh894xi00a0m033kct0dzga": {
-        "id": "cluh894xi00a0m033kct0dzga",
-        "title": "Customizable Hotkeys for trade whispers",
-        "body": "would be nice to have highly customizable hotkeys for the trade whispers (or for any chat command in general).\nhere an example of the commands: (also from \"poe trades companion\")\n\n\nbasicaly the same feature that is in \"poe trades companion\" ... like this is the next screenshot for the button \"sold and ignore\" and it just send the buyer the message that item is sold and from this point on the app does not pop up anymore for this item even when i get spamed with whispers of that item\n\n",
-        "timeAgo": "9 minutes ago",
-        "comments": [],
-        "user": {
-            "name": "ron won"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
-        "commentCount": 0
-    },
-    "cluh27lcg009gm033i4g0g9a5": {
-        "id": "cluh27lcg009gm033i4g0g9a5",
-        "title": " ignore incoming trade messages after pressing \"item sold\"",
-        "body": "sometimes you want sell smth fast but then get bombarded with messages of that item even minutes after it is sold.\n\nSO it would be nice to have incoming messages of that item i just clicked \"item sold\" be ignored for like 5min and not getting any popups for this item for that time anymore",
-        "timeAgo": "19 minutes ago",
-        "comments": [],
-        "user": {
-            "name": "ron won"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
-        "commentCount": 0
-    },
-    "cluh21mbr009dm033a1lokkql": {
-        "id": "cluh21mbr009dm033a1lokkql",
-        "title": "rearange the order of the icons in trades whisper",
-        "body": "as title say would be nice to be able to reorder icons of the trade messages (incoming and outgoing)",
-        "timeAgo": "4 minutes ago",
-        "comments": [],
-        "user": {
-            "name": "ron won"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
         "commentCount": 0
     },
     "clsyo5spb015mma2fvp2xt58j": {
