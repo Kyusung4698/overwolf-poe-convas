@@ -321,6 +321,21 @@
         "voteCount": 7,
         "commentCount": 1
     },
+    "clq60zkdf00h4is26ojytjgxu": {
+        "id": "clq60zkdf00h4is26ojytjgxu",
+        "title": "[Evaluate] Toggle for enabling/disabling auto search",
+        "body": "A toggle in the preferences that could let us enable or disable auto search when pressing alt+d (evaluate).",
+        "timeAgo": "2 quarters ago",
+        "comments": [],
+        "user": {
+            "name": "MalakaJones"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 6,
+        "commentCount": 0
+    },
     "cld6415hr047jk91ydxgyuf72": {
         "id": "cld6415hr047jk91ydxgyuf72",
         "title": "An integrated notepad",
@@ -334,21 +349,6 @@
             "name": "Open"
         },
         "voteCount": 6,
-        "commentCount": 0
-    },
-    "clq60zkdf00h4is26ojytjgxu": {
-        "id": "clq60zkdf00h4is26ojytjgxu",
-        "title": "[Evaluate] Toggle for enabling/disabling auto search",
-        "body": "A toggle in the preferences that could let us enable or disable auto search when pressing alt+d (evaluate).",
-        "timeAgo": "19 days",
-        "comments": [],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 5,
         "commentCount": 0
     },
     "cldwfaesc00p0ml1r3ojnaclj": {
