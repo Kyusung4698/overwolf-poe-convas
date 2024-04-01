@@ -931,6 +931,21 @@
         "voteCount": 2,
         "commentCount": 0
     },
+    "cluh27lcg009gm033i4g0g9a5": {
+        "id": "cluh27lcg009gm033i4g0g9a5",
+        "title": " ignore incoming trade messages after pressing \"item sold\"",
+        "body": "sometimes you want sell smth fast but then get bombarded with messages of that item even minutes after it is sold.\n\nSO it would be nice to have incoming messages of that item i just clicked \"item sold\" be ignored for like 5min and not getting any popups for this item for that time anymore",
+        "timeAgo": "19 minutes ago",
+        "comments": [],
+        "user": {
+            "name": "ron won"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "cluh21mbr009dm033a1lokkql": {
         "id": "cluh21mbr009dm033a1lokkql",
         "title": "rearange the order of the icons in trades whisper",
