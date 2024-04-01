@@ -931,6 +931,21 @@
         "voteCount": 2,
         "commentCount": 0
     },
+    "cluh894xi00a0m033kct0dzga": {
+        "id": "cluh894xi00a0m033kct0dzga",
+        "title": "Customizable Hotkeys for trade whispers",
+        "body": "would be nice to have highly customizable hotkeys for the trade whispers (or for any chat command in general).\nhere an example of the commands: (also from \"poe trades companion\")\n\n\nbasicaly the same feature that is in \"poe trades companion\" ... like this is the next screenshot for the button \"sold and ignore\" and it just send the buyer the message that item is sold and from this point on the app does not pop up anymore for this item even when i get spamed with whispers of that item\n\n",
+        "timeAgo": "9 minutes ago",
+        "comments": [],
+        "user": {
+            "name": "ron won"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "cluh27lcg009gm033i4g0g9a5": {
         "id": "cluh27lcg009gm033i4g0g9a5",
         "title": " ignore incoming trade messages after pressing \"item sold\"",
