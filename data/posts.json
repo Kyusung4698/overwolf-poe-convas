@@ -70,7 +70,7 @@
         "status": {
             "name": "Open"
         },
-        "voteCount": 28,
+        "voteCount": 29,
         "commentCount": 3
     },
     "clbz80n9p010bk91yvzyu99m4": {
@@ -107,11 +107,11 @@
         "id": "cllp771r5001vob29k1nrgbgh",
         "title": "Vendor paster (Stores and uses Regexes)",
         "body": "Hi I like a functionality similar to awakened poe trade that allow you to set up a series of regex to search in the stash or in the vendor. It would work the following:\n\nSave a regex with a name\n\nPress a shortcut that show the different regex saved\n\nApply \"ctrl+f\" automatically plus the regex",
-        "timeAgo": "7 months",
+        "timeAgo": "3 quarters ago",
         "comments": [
             {
                 "body": "do you believe would be worth to enable an advanced map parsing mode like this: \"press a hotkey, hover your rolled maps, it stores the results and highlights in your stash maps to reroll?\"\nkinda like with regex but much more customizable\nThis was an excerpt from a discord message I sent. Would be cool to combine the 2 functionality to make a better than default map reroll behaviour",
-                "timeAgo": "3 months",
+                "timeAgo": "2 quarters ago",
                 "user": {
                     "name": "g-alfieri"
                 }
@@ -123,25 +123,25 @@
         "status": {
             "name": "Open"
         },
-        "voteCount": 17,
+        "voteCount": 18,
         "commentCount": 1
     },
     "clg3yuzau086coj205rcnn8fv": {
         "id": "clg3yuzau086coj205rcnn8fv",
         "title": "Labyrinth Compass",
         "body": "Integrate labyrinth compass that pops up when you enter the labyrinth.\n\nAnd download the newest labyrinth layout\n\nProbably does not know witch lab difficulty it is so a popup need to come up and ask.",
-        "timeAgo": "8 months",
+        "timeAgo": "last year",
         "comments": [
             {
                 "body": "I love this idea. Even if the steps have to be done manually, it would be better than having to load LabCompass each time.",
-                "timeAgo": "about 23 hours",
+                "timeAgo": "2 quarters ago",
                 "user": {
                     "name": "TheOne320"
                 }
             },
             {
                 "body": "It's technically feasible but we need to see with poelab first if they are okay with us reusing their content. Given how popular the lab gets with the current league we will update this in our priorities. ",
-                "timeAgo": "about 21 hours",
+                "timeAgo": "2 quarters ago",
                 "user": {
                     "name": "Kyusung"
                 }
@@ -153,7 +153,7 @@
         "status": {
             "name": "Open"
         },
-        "voteCount": 15,
+        "voteCount": 16,
         "commentCount": 2
     },
     "clculaj5u02stk91ysuokveh6": {
