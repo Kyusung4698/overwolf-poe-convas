@@ -351,6 +351,21 @@
         "voteCount": 6,
         "commentCount": 0
     },
+    "clr9fcje900s5oo2i2bnyfjsz": {
+        "id": "clr9fcje900s5oo2i2bnyfjsz",
+        "title": "trade window ui on multi monitor",
+        "body": "would be nice to be able to drag the trade window to an  other monitor and not be limited with the game window",
+        "timeAgo": "3 months ago",
+        "comments": [],
+        "user": {
+            "name": "ron won"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 5,
+        "commentCount": 0
+    },
     "cldwfaesc00p0ml1r3ojnaclj": {
         "id": "cldwfaesc00p0ml1r3ojnaclj",
         "title": "Shareable favorited/saved searches",
@@ -387,21 +402,6 @@
             "name": "Open"
         },
         "voteCount": 5,
-        "commentCount": 0
-    },
-    "clr9fcje900s5oo2i2bnyfjsz": {
-        "id": "clr9fcje900s5oo2i2bnyfjsz",
-        "title": "trade window ui on multi monitor",
-        "body": "would be nice to be able to drag the trade window to an  other monitor and not be limited with the game window",
-        "timeAgo": "3 months ago",
-        "comments": [],
-        "user": {
-            "name": "ron won"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 4,
         "commentCount": 0
     },
     "cllwimuxd009tn629xmdqyvie": {
@@ -974,6 +974,21 @@
             "name": "Open"
         },
         "voteCount": 2,
+        "commentCount": 0
+    },
+    "clumpan3d00l6m033mjwpjexo": {
+        "id": "clumpan3d00l6m033mjwpjexo",
+        "title": "Group tracked items ",
+        "body": "I would like to be able to create groups in the tracker with value filter between 1 values. Example: Group called \"Low value\"\nFilter is set to 1C to 5C. You can then take a snapshot before you start playing and right away go in to your sale tabs and change the items that has gone up or down in value. ",
+        "timeAgo": "14 minutes ago",
+        "comments": [],
+        "user": {
+            "name": "varazir"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
         "commentCount": 0
     },
     "clsyo5spb015mma2fvp2xt58j": {
