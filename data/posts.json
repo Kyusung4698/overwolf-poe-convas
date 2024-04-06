@@ -939,7 +939,14 @@
         "comments": [
             {
                 "body": "The UI on controller has the inventory and stash on different sides than with MK. When trying to find highlighted items, the highlight is over the inventory over the stash, making the highlight features not possible with a gamepad, thus making it really hard to trade fast. I think the main thing that would help would to add a calibrate option of where the stash it located. ",
-                "timeAgo": "30 seconds ago",
+                "timeAgo": "25 minutes ago",
+                "user": {
+                    "name": "kevin waldron"
+                }
+            },
+            {
+                "body": "Here is a pic",
+                "timeAgo": "23 minutes ago",
                 "user": {
                     "name": "kevin waldron"
                 }
@@ -952,7 +959,7 @@
             "name": "Open"
         },
         "voteCount": 2,
-        "commentCount": 1
+        "commentCount": 2
     },
     "cl0lbtgp21522682uqthmefrssi": {
         "id": "cl0lbtgp21522682uqthmefrssi",
