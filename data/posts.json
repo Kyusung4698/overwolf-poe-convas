@@ -931,6 +931,29 @@
         "voteCount": 2,
         "commentCount": 2
     },
+    "cl5nz8tc42184752yowlo4x28j2": {
+        "id": "cl5nz8tc42184752yowlo4x28j2",
+        "title": "Gamepad",
+        "body": "Please, add an option for gamepad UI. The inventory and stash layout are reversed.",
+        "timeAgo": "2 years ago",
+        "comments": [
+            {
+                "body": "The UI on controller has the inventory and stash on different sides than with MK. When trying to find highlighted items, the highlight is over the inventory over the stash, making the highlight features not possible with a gamepad, thus making it really hard to trade fast. I think the main thing that would help would to add a calibrate option of where the stash it located. ",
+                "timeAgo": "30 seconds ago",
+                "user": {
+                    "name": "kevin waldron"
+                }
+            }
+        ],
+        "user": {
+            "name": "Michael B"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 2,
+        "commentCount": 1
+    },
     "cl0lbtgp21522682uqthmefrssi": {
         "id": "cl0lbtgp21522682uqthmefrssi",
         "title": "Switch the have/want in the exchange to be the same order has the site",
@@ -1411,21 +1434,6 @@
         },
         "voteCount": 1,
         "commentCount": 1
-    },
-    "cl5nz8tc42184752yowlo4x28j2": {
-        "id": "cl5nz8tc42184752yowlo4x28j2",
-        "title": "Gamepad",
-        "body": "Please, add an option for gamepad UI. The inventory and stash layout are reversed.",
-        "timeAgo": "2 months",
-        "comments": [],
-        "user": {
-            "name": "Michael B"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 0,
-        "commentCount": 0
     },
     "cl2z5z9la2500192yo9hmibk3l7": {
         "id": "cl2z5z9la2500192yo9hmibk3l7",
