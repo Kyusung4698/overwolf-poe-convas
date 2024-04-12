@@ -73,6 +73,36 @@
         "voteCount": 31,
         "commentCount": 3
     },
+    "cllp771r5001vob29k1nrgbgh": {
+        "id": "cllp771r5001vob29k1nrgbgh",
+        "title": "Vendor paster (Stores and uses Regexes)",
+        "body": "Hi I like a functionality similar to awakened poe trade that allow you to set up a series of regex to search in the stash or in the vendor. It would work the following:\n\nSave a regex with a name\n\nPress a shortcut that show the different regex saved\n\nApply \"ctrl+f\" automatically plus the regex",
+        "timeAgo": "3 quarters ago",
+        "comments": [
+            {
+                "body": "do you believe would be worth to enable an advanced map parsing mode like this: \"press a hotkey, hover your rolled maps, it stores the results and highlights in your stash maps to reroll?\"\nkinda like with regex but much more customizable\nThis was an excerpt from a discord message I sent. Would be cool to combine the 2 functionality to make a better than default map reroll behaviour",
+                "timeAgo": "2 quarters ago",
+                "user": {
+                    "name": "g-alfieri"
+                }
+            },
+            {
+                "body": "I wanted to suggest making such a function myself, as it is very convenient in awakened poe trade and I hope it will be implemented soon",
+                "timeAgo": "15 minutes ago",
+                "user": {
+                    "name": "Сергей Мендела"
+                }
+            }
+        ],
+        "user": {
+            "name": "Javier Garcia"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 20,
+        "commentCount": 2
+    },
     "clbz80n9p010bk91yvzyu99m4": {
         "id": "clbz80n9p010bk91yvzyu99m4",
         "title": "Evaluate Grand Heist items on the go",
@@ -102,29 +132,6 @@
         },
         "voteCount": 20,
         "commentCount": 0
-    },
-    "cllp771r5001vob29k1nrgbgh": {
-        "id": "cllp771r5001vob29k1nrgbgh",
-        "title": "Vendor paster (Stores and uses Regexes)",
-        "body": "Hi I like a functionality similar to awakened poe trade that allow you to set up a series of regex to search in the stash or in the vendor. It would work the following:\n\nSave a regex with a name\n\nPress a shortcut that show the different regex saved\n\nApply \"ctrl+f\" automatically plus the regex",
-        "timeAgo": "3 quarters ago",
-        "comments": [
-            {
-                "body": "do you believe would be worth to enable an advanced map parsing mode like this: \"press a hotkey, hover your rolled maps, it stores the results and highlights in your stash maps to reroll?\"\nkinda like with regex but much more customizable\nThis was an excerpt from a discord message I sent. Would be cool to combine the 2 functionality to make a better than default map reroll behaviour",
-                "timeAgo": "2 quarters ago",
-                "user": {
-                    "name": "g-alfieri"
-                }
-            }
-        ],
-        "user": {
-            "name": "Javier Garcia"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 19,
-        "commentCount": 1
     },
     "clg3yuzau086coj205rcnn8fv": {
         "id": "clg3yuzau086coj205rcnn8fv",
