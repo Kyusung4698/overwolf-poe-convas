@@ -70,7 +70,7 @@
         "status": {
             "name": "Open"
         },
-        "voteCount": 35,
+        "voteCount": 36,
         "commentCount": 3
     },
     "cllp771r5001vob29k1nrgbgh": {
@@ -88,7 +88,7 @@
             },
             {
                 "body": "I wanted to suggest making such a function myself, as it is very convenient in awakened poe trade and I hope it will be implemented soon",
-                "timeAgo": "15 minutes ago",
+                "timeAgo": "2 weeks ago",
                 "user": {
                     "name": "Сергей Мендела"
                 }
@@ -96,6 +96,36 @@
         ],
         "user": {
             "name": "Javier Garcia"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 21,
+        "commentCount": 2
+    },
+    "clg3yuzau086coj205rcnn8fv": {
+        "id": "clg3yuzau086coj205rcnn8fv",
+        "title": "Labyrinth Compass",
+        "body": "Integrate labyrinth compass that pops up when you enter the labyrinth.\n\nAnd download the newest labyrinth layout\n\nProbably does not know witch lab difficulty it is so a popup need to come up and ask.",
+        "timeAgo": "last year",
+        "comments": [
+            {
+                "body": "I love this idea. Even if the steps have to be done manually, it would be better than having to load LabCompass each time.",
+                "timeAgo": "2 quarters ago",
+                "user": {
+                    "name": "TheOne320"
+                }
+            },
+            {
+                "body": "It's technically feasible but we need to see with poelab first if they are okay with us reusing their content. Given how popular the lab gets with the current league we will update this in our priorities. ",
+                "timeAgo": "2 quarters ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
+        "user": {
+            "name": "Zekhap"
         },
         "status": {
             "name": "Open"
@@ -132,36 +162,6 @@
         },
         "voteCount": 20,
         "commentCount": 0
-    },
-    "clg3yuzau086coj205rcnn8fv": {
-        "id": "clg3yuzau086coj205rcnn8fv",
-        "title": "Labyrinth Compass",
-        "body": "Integrate labyrinth compass that pops up when you enter the labyrinth.\n\nAnd download the newest labyrinth layout\n\nProbably does not know witch lab difficulty it is so a popup need to come up and ask.",
-        "timeAgo": "last year",
-        "comments": [
-            {
-                "body": "I love this idea. Even if the steps have to be done manually, it would be better than having to load LabCompass each time.",
-                "timeAgo": "2 quarters ago",
-                "user": {
-                    "name": "TheOne320"
-                }
-            },
-            {
-                "body": "It's technically feasible but we need to see with poelab first if they are okay with us reusing their content. Given how popular the lab gets with the current league we will update this in our priorities. ",
-                "timeAgo": "2 quarters ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "Zekhap"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 19,
-        "commentCount": 2
     },
     "clculaj5u02stk91ysuokveh6": {
         "id": "clculaj5u02stk91ysuokveh6",
@@ -225,7 +225,7 @@
     },
     "clb40eb3p006pny1z2lfph6y9": {
         "id": "clb40eb3p006pny1z2lfph6y9",
-        "title": "Have the Evaluate window filter by date",
+        "title": "[EVALUATE] Have the Evaluate window filter by date",
         "body": "With the recent update to the evaluate module, you can now activate or deactivate quickly listings that are online/offline. It would be really nice if you could click the \"age\" column so it sorts them from newest to older,\n\n",
         "timeAgo": "about 1 year",
         "comments": [],
@@ -804,6 +804,21 @@
         "voteCount": 2,
         "commentCount": 0
     },
+    "clmf5n7bq00bhn629ljwb99ls": {
+        "id": "clmf5n7bq00bhn629ljwb99ls",
+        "title": "[MARKET] Add a sorting support to Market",
+        "body": "Ability to sort Items on Market (ALT+M) by time posted to either see latest or oldest listed items descending or ascending. Sorting by ascending or descending price could also be useful.",
+        "timeAgo": "3 quarters ago",
+        "comments": [],
+        "user": {
+            "name": "So Hagath"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 2,
+        "commentCount": 0
+    },
     "cleamd7aq0090mk1r2x0z6wk5": {
         "id": "cleamd7aq0090mk1r2x0z6wk5",
         "title": "Item highlight option",
@@ -1305,29 +1320,6 @@
         },
         "voteCount": 1,
         "commentCount": 0
-    },
-    "clmf5n7bq00bhn629ljwb99ls": {
-        "id": "clmf5n7bq00bhn629ljwb99ls",
-        "title": "Add a sort by button to Market",
-        "body": "Ability to sort Items on Market (ALT+M) by time posted to either see latest or oldest listed items descending or ascending.",
-        "timeAgo": "3 quarters ago",
-        "comments": [
-            {
-                "body": "That could also include the option to sort via price.",
-                "timeAgo": "16 seconds ago",
-                "user": {
-                    "name": "Anonymous #7671"
-                }
-            }
-        ],
-        "user": {
-            "name": "So Hagath"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
-        "commentCount": 1
     },
     "clm6lfnxy00uln629m5ymok68": {
         "id": "clm6lfnxy00uln629m5ymok68",
