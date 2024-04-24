@@ -70,7 +70,7 @@
         "status": {
             "name": "Open"
         },
-        "voteCount": 36,
+        "voteCount": 37,
         "commentCount": 3
     },
     "cllp771r5001vob29k1nrgbgh": {
@@ -1026,6 +1026,36 @@
             "name": "Open"
         },
         "voteCount": 2,
+        "commentCount": 0
+    },
+    "clve9hsd401bnoz33zw3e2yxv": {
+        "id": "clve9hsd401bnoz33zw3e2yxv",
+        "title": "Map inspection - Map screenshot",
+        "body": "As a player when i inspect map i want to see screenshot of map layout to save time. Without need to go to wiki",
+        "timeAgo": "23 seconds ago",
+        "comments": [],
+        "user": {
+            "name": "Владислав Смирнов"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
+    "clve9cwx501bloz33qlsjnuvg": {
+        "id": "clve9cwx501bloz33qlsjnuvg",
+        "title": "Map inspection - add\\remove mods in overlay",
+        "body": "As a player when i do map inspection i want to add\\remove dangerous mods in overlay \"on the fly\". Without need to go to settings",
+        "timeAgo": "4 minutes ago",
+        "comments": [],
+        "user": {
+            "name": "Владислав Смирнов"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
         "commentCount": 0
     },
     "clvcm9k4r0147oz33nppdsr4q": {
