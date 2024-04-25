@@ -1047,16 +1047,24 @@
         "id": "clve9cwx501bloz33qlsjnuvg",
         "title": "Map inspection - add\\remove mods in overlay",
         "body": "As a player when i do map inspection i want to add\\remove dangerous mods in overlay \"on the fly\". Without need to go to settings",
-        "timeAgo": "4 minutes ago",
-        "comments": [],
+        "timeAgo": "yesterday",
+        "comments": [
+            {
+                "body": "This is not something we are considering to add for now. Thanks for your feedback! ",
+                "timeAgo": "2 minutes ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "Владислав Смирнов"
         },
         "status": {
-            "name": "Open"
+            "name": "Wont Implement"
         },
         "voteCount": 1,
-        "commentCount": 0
+        "commentCount": 1
     },
     "clvcm9k4r0147oz33nppdsr4q": {
         "id": "clvcm9k4r0147oz33nppdsr4q",
@@ -1068,7 +1076,7 @@
             "name": "varazir"
         },
         "status": {
-            "name": "Open"
+            "name": "Accepted"
         },
         "voteCount": 1,
         "commentCount": 0
@@ -1077,16 +1085,24 @@
         "id": "clv74j1vw00sqoz33pm97re2b",
         "title": "Restart option on the icon right click menu and or hotkey. ",
         "body": "When the overlay stops taking inputs. In order to restart I have to right click the icon, exit, then open POE webpage and click the icon in the browser. I'd like to have an easy restart. Kind of like when u do an update.",
-        "timeAgo": "12 minutes ago",
-        "comments": [],
+        "timeAgo": "6 days ago",
+        "comments": [
+            {
+                "body": "Has been added in the latest preview version (1.49.2). Thanks for your helping us make the app better! ",
+                "timeAgo": "10 minutes ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "Razzed311"
         },
         "status": {
-            "name": "Open"
+            "name": "Completed"
         },
         "voteCount": 1,
-        "commentCount": 0
+        "commentCount": 1
     },
     "cluy6sk1100a5oz33r58dl6n6": {
         "id": "cluy6sk1100a5oz33r58dl6n6",
@@ -1098,7 +1114,7 @@
             "name": "Ruslan Anikaev"
         },
         "status": {
-            "name": "Open"
+            "name": "Accepted"
         },
         "voteCount": 1,
         "commentCount": 0
@@ -1137,13 +1153,20 @@
         "id": "cls9g2pzn004bkd2flwnwh1bc",
         "title": "Price Based on: - additional button to copy trade link",
         "body": "Overwolf in game browser is very slow and also for some reason I am getting constantly logged out of Overwolf browser poe. My PoE password is random generated 20 symbols so entering it every time is pain. Opening and closing trade clicking on it just to copy link feels very choppy and sluggish.\n\nCan we get button that copies trade site link generated above market listings?\n\n",
-        "timeAgo": "about 3 hours",
+        "timeAgo": "2 months ago",
         "comments": [
             {
                 "body": "You can use your default windows browser not to get disconnected all the time. This should not happen. You can change that behaviour under the general options near your Overwolf account name on the bottom left of the main UI.",
-                "timeAgo": "17 minutes",
+                "timeAgo": "2 months ago",
                 "user": {
                     "name": "Anonymous #7671"
+                }
+            },
+            {
+                "body": "You can either change the browser the app uses when opening links to be your standard browser (App Settings > General), or click the link while holding ctrl to open it with your default browser. \nWe don't plan on adding an extra button to copy the link. Thanks for your feedback! ",
+                "timeAgo": "6 minutes ago",
+                "user": {
+                    "name": "Kyusung"
                 }
             }
         ],
@@ -1151,10 +1174,10 @@
             "name": "M A (Dai-Katana)"
         },
         "status": {
-            "name": "Open"
+            "name": "Wont Implement"
         },
         "voteCount": 1,
-        "commentCount": 1
+        "commentCount": 2
     },
     "clrphed2f006jpx2foqlpt6m5": {
         "id": "clrphed2f006jpx2foqlpt6m5",
