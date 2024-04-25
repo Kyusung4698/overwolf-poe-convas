@@ -163,36 +163,6 @@
         "voteCount": 20,
         "commentCount": 0
     },
-    "clculaj5u02stk91ysuokveh6": {
-        "id": "clculaj5u02stk91ysuokveh6",
-        "title": "Trade manager stash tab name",
-        "body": "Hello!\n\nI am selling my compass to make some money\n\nTradeManager is really useful, but in the case of the compass, it only shows CHARGED COMPASS and the amount.\n\nI don't know what the name of the stash tab is.\n\nIs it possible to display the name of the stash tab below the current amount?",
-        "timeAgo": "last year",
-        "comments": [
-            {
-                "body": "yes please, would be super useful, just anywhere in the trade window itself near the item",
-                "timeAgo": "3 months ago",
-                "user": {
-                    "name": "ron won"
-                }
-            },
-            {
-                "body": "Has been added in 1.44.2 (preview version only, it will go to prod later)\n- Trade now shows the stash name when hovering the item name",
-                "timeAgo": "2 minutes ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "Anonymous #12594"
-        },
-        "status": {
-            "name": "Completed"
-        },
-        "voteCount": 11,
-        "commentCount": 2
-    },
     "clml5z4lh00wan6292rxhsl1p": {
         "id": "clml5z4lh00wan6292rxhsl1p",
         "title": "[TRADE] A sound notification when buyer enters H/O",
@@ -218,7 +188,7 @@
             "name": "MalakaJones"
         },
         "status": {
-            "name": "Open"
+            "name": "Accepted"
         },
         "voteCount": 7,
         "commentCount": 0
@@ -504,7 +474,7 @@
             "name": "MalakaJones"
         },
         "status": {
-            "name": "Open"
+            "name": "Wont Implement"
         },
         "voteCount": 4,
         "commentCount": 0
@@ -519,7 +489,7 @@
             "name": "Ingvar Pálmarsson"
         },
         "status": {
-            "name": "Open"
+            "name": "Accepted"
         },
         "voteCount": 3,
         "commentCount": 0
@@ -534,7 +504,7 @@
             "name": "iTob"
         },
         "status": {
-            "name": "Open"
+            "name": "Accepted"
         },
         "voteCount": 3,
         "commentCount": 0
@@ -1023,7 +993,7 @@
             "name": "MalakaJones"
         },
         "status": {
-            "name": "Open"
+            "name": "Wont Implement"
         },
         "voteCount": 2,
         "commentCount": 0
@@ -1123,31 +1093,31 @@
         "id": "clumpan3d00l6m033mjwpjexo",
         "title": "Group tracked items ",
         "body": "I would like to be able to create groups in the tracker with value filter between 1 values. Example: Group called \"Low value\"\nFilter is set to 1C to 5C. You can then take a snapshot before you start playing and right away go in to your sale tabs and change the items that has gone up or down in value. ",
-        "timeAgo": "14 minutes ago",
-        "comments": [],
+        "timeAgo": "3 weeks ago",
+        "comments": [
+            {
+                "body": "Does adding a \"Max value threshold\"/\"Max total value threshold\" to the view above fulfil your request? ",
+                "timeAgo": "14 minutes ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            },
+            {
+                "body": "Yes it works. ",
+                "timeAgo": "10 minutes ago",
+                "user": {
+                    "name": "varazir"
+                }
+            }
+        ],
         "user": {
             "name": "varazir"
         },
         "status": {
-            "name": "Open"
+            "name": "Accepted"
         },
         "voteCount": 1,
-        "commentCount": 0
-    },
-    "clsyo5spb015mma2fvp2xt58j": {
-        "id": "clsyo5spb015mma2fvp2xt58j",
-        "title": "Indicator for whether trade was accepted or cancelled",
-        "body": "Problem\n\nWhen there are multiple concurrent trades, it can get a bit hard to tell which trades are already fulfilled and which aren't.\n\nIt happens rarely that someone cancels a trade, but when it happens I often don't realize it until after I have already clicked the \"Thanks for trade + kick from party\"-button.\n\nSuggestion\n\nPoE Overlay already tracks whether the other player has joined the hideout and indicates this with green text. This could be further improved by indicating the current state of the trade request. I believe that tracking this state per player accurately should be possible, as long as I initiate the trade using PoE Overlay's trade-button:\n\nClick \"Trade\"-button -&gt; Trade in progress\n\nLog Message \"Trade accepted.\" -&gt; Trade fulfilled\n\nLog Message \"Trade cancelled.\" -&gt; Trade failed + no longer in progress\n\nLog Message \"Player not found in this area.\" -&gt; Trade failed + no longer in progress",
-        "timeAgo": "13 minutes",
-        "comments": [],
-        "user": {
-            "name": "iTob"
-        },
-        "status": {
-            "name": "Completed"
-        },
-        "voteCount": 1,
-        "commentCount": 0
+        "commentCount": 2
     },
     "cls9g2pzn004bkd2flwnwh1bc": {
         "id": "cls9g2pzn004bkd2flwnwh1bc",
@@ -1179,102 +1149,51 @@
         "voteCount": 1,
         "commentCount": 2
     },
-    "clrphed2f006jpx2foqlpt6m5": {
-        "id": "clrphed2f006jpx2foqlpt6m5",
-        "title": "[TRADE] Move whisper listings at the bottom of the list when refreshed",
-        "body": "Instead of just refreshing the timer when you whisper someone multiple times for an item, it would be more suiting to move the lisiting at the bottom as if it was new. Only refreshing the timer ca get confusing when you're trying to find back that listing in order to use the buttons.",
-        "timeAgo": "3 months ago",
-        "comments": [
-            {
-                "body": "Has been added with `1.43.0`. Thanks for your suggestion! ",
-                "timeAgo": "19 minutes ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "Anonymous #7671"
-        },
-        "status": {
-            "name": "Completed"
-        },
-        "voteCount": 1,
-        "commentCount": 1
-    },
     "clqsjcova022lis26ezzmvkwo": {
         "id": "clqsjcova022lis26ezzmvkwo",
         "title": "Auto Update on Currency tracker",
         "body": "would love to have an programmable auto snapshot option on the currency tracker :D \nAs well as editable prices so people can fix prices that don't match well with reality due to price fixers.",
-        "timeAgo": "13 minutes",
-        "comments": [],
-        "user": {
-            "name": "Enzo Pelotte (CptAlbatar)"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
-        "commentCount": 0
-    },
-    "clqfepcon00sbis26kbdu5p7k": {
-        "id": "clqfepcon00sbis26kbdu5p7k",
-        "title": "PoB configuration",
-        "body": "When updating the PoB from the Overlay, please do not reset the configuration tab of PoB or the damage etc. displayed does not match the correct values.",
-        "timeAgo": "8 days",
+        "timeAgo": "2 quarters ago",
         "comments": [
             {
-                "body": "I realised this too. The full DPS also seems to be doubled for some reason. Maby it would be best to report this in the bug section.",
-                "timeAgo": "8 days",
-                "user": {
-                    "name": "MalakaJones"
-                }
-            },
-            {
-                "body": "Could you please post screenshots of the PoB configuration before and after updating the build through the app.\nThe app does not intentionally change any configuration. It works the same way as importing your character in PoB. If that also changes your configuration, we would need to find a way to restore them afterwards. ",
-                "timeAgo": "8 days",
+                "body": "The currency tracker takes snapshots every 20 minutes. Making the prices editable is not something we are considering for now. Thanks for your feedback! ",
+                "timeAgo": "11 minutes ago",
                 "user": {
                     "name": "Kyusung"
-                }
-            },
-            {
-                "body": "I am currently on vacation in the UK. I will try to record something when I am back.",
-                "timeAgo": "6 days",
-                "user": {
-                    "name": "TheOne320"
-                }
-            },
-            {
-                "body": "Very weird. I just tried is just now and the configuration settings were not reset. I am sure the last time I tested it, it did reset the settings.",
-                "timeAgo": "9 minutes",
-                "user": {
-                    "name": "TheOne320"
                 }
             }
         ],
         "user": {
-            "name": "TheOne320"
+            "name": "Enzo Pelotte (CptAlbatar)"
         },
         "status": {
-            "name": "Open"
+            "name": "Wont Implement"
         },
         "voteCount": 1,
-        "commentCount": 4
+        "commentCount": 1
     },
     "clq483k0y00ezis26j47he4cb": {
         "id": "clq483k0y00ezis26j47he4cb",
         "title": "Tracker Party",
         "body": "Not sure if anyone used exilence before? You could make little party's which would snapshot your stash and compare everyone else's income on a graph, That of course was invited to the party.  Created little competition.",
-        "timeAgo": "14 minutes",
-        "comments": [],
+        "timeAgo": "2 quarters ago",
+        "comments": [
+            {
+                "body": "While this feature sounds interesting, it is out of scope of what we see the tracker should be doing for now. Thanks for your feedback! ",
+                "timeAgo": "10 minutes ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "Mads"
         },
         "status": {
-            "name": "Open"
+            "name": "Wont Implement"
         },
         "voteCount": 1,
-        "commentCount": 0
+        "commentCount": 1
     },
     "clq3lyiye00diis26hun8yk1v": {
         "id": "clq3lyiye00diis26hun8yk1v",
@@ -1346,7 +1265,7 @@
             "name": "Josh Mra"
         },
         "status": {
-            "name": "Open"
+            "name": "Accepted"
         },
         "voteCount": 1,
         "commentCount": 0
@@ -1373,21 +1292,6 @@
         },
         "voteCount": 1,
         "commentCount": 1
-    },
-    "clmhvgtx000hwn629l892thup": {
-        "id": "clmhvgtx000hwn629l892thup",
-        "title": "[Tracker] Low confidence item value toggle",
-        "body": "Some toggle to include or exclude items with low confidence value.",
-        "timeAgo": "20 minutes",
-        "comments": [],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "name": "Accepted"
-        },
-        "voteCount": 1,
-        "commentCount": 0
     },
     "clm6lfnxy00uln629m5ymok68": {
         "id": "clm6lfnxy00uln629m5ymok68",
