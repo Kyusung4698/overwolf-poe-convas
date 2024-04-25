@@ -98,7 +98,7 @@
             "name": "Javier Garcia"
         },
         "status": {
-            "name": "Open"
+            "name": "Accepted"
         },
         "voteCount": 21,
         "commentCount": 2
@@ -308,7 +308,7 @@
             "name": "Slash1y"
         },
         "status": {
-            "name": "Accepted"
+            "name": "Wont Implement"
         },
         "voteCount": 7,
         "commentCount": 1
@@ -459,7 +459,7 @@
             "name": "MalakaJones"
         },
         "status": {
-            "name": "Accepted"
+            "name": "Blocked"
         },
         "voteCount": 4,
         "commentCount": 1
@@ -519,7 +519,7 @@
             "name": "g-alfieri"
         },
         "status": {
-            "name": "Open"
+            "name": "Blocked"
         },
         "voteCount": 3,
         "commentCount": 0
@@ -789,21 +789,6 @@
         "voteCount": 2,
         "commentCount": 0
     },
-    "cleamd7aq0090mk1r2x0z6wk5": {
-        "id": "cleamd7aq0090mk1r2x0z6wk5",
-        "title": "Item highlight option",
-        "body": "I would like an option to set these positions.\n\nI need a setting to make this invisible.",
-        "timeAgo": "about 10 hours",
-        "comments": [],
-        "user": {
-            "name": "Tesraunread"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 2,
-        "commentCount": 0
-    },
     "cldwjl4nz00p4ml1rxhi7ts4z": {
         "id": "cldwjl4nz00p4ml1rxhi7ts4z",
         "title": "Parse specific veiled mods",
@@ -1008,7 +993,7 @@
             "name": "Владислав Смирнов"
         },
         "status": {
-            "name": "Open"
+            "name": "Accepted"
         },
         "voteCount": 1,
         "commentCount": 0
@@ -1270,29 +1255,6 @@
         "voteCount": 1,
         "commentCount": 0
     },
-    "clmjtd9na00r1n629pdew57t7": {
-        "id": "clmjtd9na00r1n629pdew57t7",
-        "title": "Currency Tracker",
-        "body": "Would it be possible to add a currency tracker that auto-snapshots your stash every 10 minutes or so? The current tracker is nice, but I'm hoping it can add some of the features I enjoyed from Exilence Next now that the app is dead.\n\nIt would also be cool if this info could be displayed on the in-game overlay.",
-        "timeAgo": "about 5 hours",
-        "comments": [
-            {
-                "body": "Hey there, \nthe current tracker creates a new snapshot of the selected profile every ~20 minutes. We won't be able to support taking an automated snapshot as frequent as 10 minutes because depending on how many stashes we need to retrieve, we would reach the rate limits and cause a temporary block from the API. \nLet us know what other features you are missing and what things you'd like to see in-game, cheers! ",
-                "timeAgo": "8 minutes",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "exorcerer"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
-        "commentCount": 1
-    },
     "clm6lfnxy00uln629m5ymok68": {
         "id": "clm6lfnxy00uln629m5ymok68",
         "title": "Listing by vendor account: special map search",
@@ -1318,7 +1280,7 @@
             "name": "MalakaJones"
         },
         "status": {
-            "name": "Open"
+            "name": "Accepted"
         },
         "voteCount": 1,
         "commentCount": 0
@@ -1378,7 +1340,7 @@
             "name": "Peterrr"
         },
         "status": {
-            "name": "Open"
+            "name": "Wont Implement"
         },
         "voteCount": 1,
         "commentCount": 0
@@ -1438,7 +1400,7 @@
             "name": "Subutai"
         },
         "status": {
-            "name": "Open"
+            "name": "Blocked"
         },
         "voteCount": 1,
         "commentCount": 0
@@ -1476,7 +1438,7 @@
             "name": "Amine Mlil"
         },
         "status": {
-            "name": "Open"
+            "name": "Wont Implement"
         },
         "voteCount": 0,
         "commentCount": 0
