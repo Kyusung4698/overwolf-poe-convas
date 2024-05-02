@@ -983,6 +983,21 @@
         "voteCount": 2,
         "commentCount": 0
     },
+    "clvplgx2f01ykoz334vfuysqk": {
+        "id": "clvplgx2f01ykoz334vfuysqk",
+        "title": "Integration with Poexchange",
+        "body": "Hi I just tested poexchange and it works very well. Is there any way to integrate it better?",
+        "timeAgo": "18 minutes ago",
+        "comments": [],
+        "user": {
+            "name": "g-alfieri"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "clve9hsd401bnoz33zw3e2yxv": {
         "id": "clve9hsd401bnoz33zw3e2yxv",
         "title": "Map inspection - Map screenshot",
