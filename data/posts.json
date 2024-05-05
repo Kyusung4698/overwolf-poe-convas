@@ -987,8 +987,16 @@
         "id": "clvplgx2f01ykoz334vfuysqk",
         "title": "Integration with Poexchange",
         "body": "Hi I just tested poexchange and it works very well. Is there any way to integrate it better?",
-        "timeAgo": "18 minutes ago",
-        "comments": [],
+        "timeAgo": "3 days ago",
+        "comments": [
+            {
+                "body": "Hey, could you expand on what kind of integration you would like to see? Thanks!  ",
+                "timeAgo": "6 minutes ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "g-alfieri"
         },
@@ -996,7 +1004,7 @@
             "name": "Open"
         },
         "voteCount": 1,
-        "commentCount": 0
+        "commentCount": 1
     },
     "clve9hsd401bnoz33zw3e2yxv": {
         "id": "clve9hsd401bnoz33zw3e2yxv",
