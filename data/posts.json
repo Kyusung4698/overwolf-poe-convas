@@ -1297,16 +1297,24 @@
         "id": "cllpjc4ku0009n629n4tqvlnw",
         "title": "Foiled version support",
         "body": "Having the foil toggle supported at the Evaluate window could be nice. Here is an exemple of a foiled item.\n\n\nItem Class: One Hand Axes\n\nRarity: Unique\n\nActum\n\nButcher Axe\n\n--------\n\nOne Handed Axe\n\nPhysical Damage: 157-291 (augmented)\n\nCritical Strike Chance: 5.00%\n\nAttacks per Second: 1.30\n\nWeapon Range: 11\n\n--------\n\nRequirements:\n\nLevel: 63\n\nStr: 149\n\nDex: 76\n\n--------\n\nItem Level: 75\n\n--------\n\n{ Unique Modifier }\n\nHas no Sockets — Unscalable Value\n\n{ Unique Modifier — Damage, Physical, Attack }\n\n235(200-250)% increased Physical Damage\n\n{ Unique Modifier — Attribute }\n\nYou have no Intelligence — Unscalable Value\n\n{ Unique Modifier — Critical }\n\nCritical Strike Chance is 24(20-30)% for Hits with this Weapon\n\n--------\n\nBetter to act without thought\n\nthan to think without action.\n\n--------\n\nFoil Unique (Ruby)\n\n--------\n\n",
-        "timeAgo": "15 minutes",
-        "comments": [],
+        "timeAgo": "3 quarters ago",
+        "comments": [
+            {
+                "body": "The latest preview version (1.50.1) now supports this! Thanks for your feedback! ",
+                "timeAgo": "6 minutes ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "MalakaJones"
         },
         "status": {
-            "name": "Accepted"
+            "name": "Completed"
         },
         "voteCount": 1,
-        "commentCount": 0
+        "commentCount": 1
     },
     "clgseniuo0ac9oj20sz83keoq": {
         "id": "clgseniuo0ac9oj20sz83keoq",
