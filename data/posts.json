@@ -684,6 +684,21 @@
         "voteCount": 3,
         "commentCount": 3
     },
+    "cluy6sk1100a5oz33r58dl6n6": {
+        "id": "cluy6sk1100a5oz33r58dl6n6",
+        "title": "Divine orb breakdown for change calculation",
+        "body": "Problem:\n\nWhen the buyer asks for a change from div, it is tedious to calculate it.\n\nExample: price is 1.8 div. Buyer has 2 div and asks for change. Need to give 0.2 div in chaos.\n\nCurrent flow is:\n\nPrice check div price.\n\nOpen calculator to calculate or do it in your head.\n\nAwakened poe has a divine break down chart: https://www.reddit.com/r/pathofexile/comments/194fj8p/psa_if_youre_using_awakened_poe_trade_theres_a/\n\nProposal:\n\nDo something similar to Awakened poe\n\nor\n\nAutomatically calculate change in the trade list. Put it somewhere - add a button to show it, or in the hover message when hovering the price.",
+        "timeAgo": "4 weeks ago",
+        "comments": [],
+        "user": {
+            "name": "Ruslan Anikaev"
+        },
+        "status": {
+            "name": "Accepted"
+        },
+        "voteCount": 2,
+        "commentCount": 0
+    },
     "cluh894xi00a0m033kct0dzga": {
         "id": "cluh894xi00a0m033kct0dzga",
         "title": "Customizable Hotkeys for trade whispers",
@@ -1081,21 +1096,6 @@
         },
         "voteCount": 1,
         "commentCount": 1
-    },
-    "cluy6sk1100a5oz33r58dl6n6": {
-        "id": "cluy6sk1100a5oz33r58dl6n6",
-        "title": "Divine orb breakdown for change calculation",
-        "body": "Problem:\n\nWhen the buyer asks for a change from div, it is tedious to calculate it.\n\nExample: price is 1.8 div. Buyer has 2 div and asks for change. Need to give 0.2 div in chaos.\n\nCurrent flow is:\n\nPrice check div price.\n\nOpen calculator to calculate or do it in your head.\n\nAwakened poe has a divine break down chart: https://www.reddit.com/r/pathofexile/comments/194fj8p/psa_if_youre_using_awakened_poe_trade_theres_a/\n\nProposal:\n\nDo something similar to Awakened poe\n\nor\n\nAutomatically calculate change in the trade list. Put it somewhere - add a button to show it, or in the hover message when hovering the price.",
-        "timeAgo": "18 minutes ago",
-        "comments": [],
-        "user": {
-            "name": "Ruslan Anikaev"
-        },
-        "status": {
-            "name": "Accepted"
-        },
-        "voteCount": 1,
-        "commentCount": 0
     },
     "clumpan3d00l6m033mjwpjexo": {
         "id": "clumpan3d00l6m033mjwpjexo",
