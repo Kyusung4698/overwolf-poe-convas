@@ -178,6 +178,29 @@
         "voteCount": 9,
         "commentCount": 0
     },
+    "clr9fcje900s5oo2i2bnyfjsz": {
+        "id": "clr9fcje900s5oo2i2bnyfjsz",
+        "title": "trade window ui on multi monitor",
+        "body": "would be nice to be able to drag the trade window to an  other monitor and not be limited with the game window",
+        "timeAgo": "last quarter",
+        "comments": [
+            {
+                "body": "agreed!",
+                "timeAgo": "16 minutes ago",
+                "user": {
+                    "name": "K C"
+                }
+            }
+        ],
+        "user": {
+            "name": "ron won"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 7,
+        "commentCount": 1
+    },
     "clq60zkdf00h4is26ojytjgxu": {
         "id": "clq60zkdf00h4is26ojytjgxu",
         "title": "[Evaluate] Toggle for enabling/disabling auto search",
@@ -312,21 +335,6 @@
         },
         "voteCount": 7,
         "commentCount": 1
-    },
-    "clr9fcje900s5oo2i2bnyfjsz": {
-        "id": "clr9fcje900s5oo2i2bnyfjsz",
-        "title": "trade window ui on multi monitor",
-        "body": "would be nice to be able to drag the trade window to an  other monitor and not be limited with the game window",
-        "timeAgo": "last quarter",
-        "comments": [],
-        "user": {
-            "name": "ron won"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 6,
-        "commentCount": 0
     },
     "cldwfaesc00p0ml1r3ojnaclj": {
         "id": "cldwfaesc00p0ml1r3ojnaclj",
