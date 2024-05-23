@@ -1006,6 +1006,21 @@
         "voteCount": 2,
         "commentCount": 0
     },
+    "clwin58om03gnoz33monryyr5": {
+        "id": "clwin58om03gnoz33monryyr5",
+        "title": "Price Threshold on Bulk Searches",
+        "body": "Hello, I love this tool!  One thing I've been doing a lot lately is doing bulk searches for allflames and scarabs of a similar price range, 25c for example.  I want to do a bulk search on all Syndicate allflames from the same seller, ok great--we can do this currently.  But many sellers have a couple of the syndicate allflame types priced in the right range, but one is priced like 2, 3 or 10x for some reason.  I don't want to click the offer button because it will message them saying that I also want the overpriced allflame, but I DO want the rest of the bulk that they have.  An option to set a price threshold for the bulk \"same seller\" search would be awesome, OR, a way to set one of the items in their bulk sell list to \"zero\" quantity so that it's not included in the whisper. Thanks!!",
+        "timeAgo": "7 minutes ago",
+        "comments": [],
+        "user": {
+            "name": "K C"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "clvplgx2f01ykoz334vfuysqk": {
         "id": "clvplgx2f01ykoz334vfuysqk",
         "title": "Integration with Poexchange",
