@@ -62,16 +62,23 @@
                 "user": {
                     "name": "Bruno Monteiro"
                 }
+            },
+            {
+                "body": "This is now available in the latest preview version (1.51.3). It will go to prod with the league start update!",
+                "timeAgo": "3 minutes ago",
+                "user": {
+                    "name": "Kyusung"
+                }
             }
         ],
         "user": {
             "name": "Michal Jireh Tumamak"
         },
         "status": {
-            "name": "Planned"
+            "name": "Completed"
         },
         "voteCount": 39,
-        "commentCount": 3
+        "commentCount": 4
     },
     "clbz80n9p010bk91yvzyu99m4": {
         "id": "clbz80n9p010bk91yvzyu99m4",
@@ -92,20 +99,27 @@
         "id": "cllp771r5001vob29k1nrgbgh",
         "title": "Vendor paster (Stores and uses Regexes)",
         "body": "Hi I like a functionality similar to awakened poe trade that allow you to set up a series of regex to search in the stash or in the vendor. It would work the following:\n\nSave a regex with a name\n\nPress a shortcut that show the different regex saved\n\nApply \"ctrl+f\" automatically plus the regex",
-        "timeAgo": "3 quarters ago",
+        "timeAgo": "4 quarters ago",
         "comments": [
             {
                 "body": "do you believe would be worth to enable an advanced map parsing mode like this: \"press a hotkey, hover your rolled maps, it stores the results and highlights in your stash maps to reroll?\"\nkinda like with regex but much more customizable\nThis was an excerpt from a discord message I sent. Would be cool to combine the 2 functionality to make a better than default map reroll behaviour",
-                "timeAgo": "2 quarters ago",
+                "timeAgo": "3 quarters ago",
                 "user": {
                     "name": "g-alfieri"
                 }
             },
             {
                 "body": "I wanted to suggest making such a function myself, as it is very convenient in awakened poe trade and I hope it will be implemented soon",
-                "timeAgo": "2 weeks ago",
+                "timeAgo": "last quarter",
                 "user": {
                     "name": "Сергей Мендела"
+                }
+            },
+            {
+                "body": "This is now available in the latest preview version (1.51.3). It will go to prod with the league start update!",
+                "timeAgo": "3 minutes ago",
+                "user": {
+                    "name": "Kyusung"
                 }
             }
         ],
@@ -113,10 +127,10 @@
             "name": "Javier Garcia"
         },
         "status": {
-            "name": "Planned"
+            "name": "Completed"
         },
         "voteCount": 21,
-        "commentCount": 2
+        "commentCount": 3
     },
     "clg3yuzau086coj205rcnn8fv": {
         "id": "clg3yuzau086coj205rcnn8fv",
@@ -363,16 +377,24 @@
         "id": "cld6415hr047jk91ydxgyuf72",
         "title": "An integrated notepad",
         "body": "An integrated notepad where you could write some stuff like regexes for rolling maps. Very basic stuff not to have to pull out an extra file or website.\n\nCould be a new tab in the Option UI next to the change log.",
-        "timeAgo": "11 months",
-        "comments": [],
+        "timeAgo": "last year",
+        "comments": [
+            {
+                "body": "This is now available in the latest preview version (1.51.3). It will go to prod with the league start update!",
+                "timeAgo": "2 minutes ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "MalakaJones"
         },
         "status": {
-            "name": "Accepted"
+            "name": "Completed"
         },
         "voteCount": 6,
-        "commentCount": 0
+        "commentCount": 1
     },
     "cllwimuxd009tn629xmdqyvie": {
         "id": "cllwimuxd009tn629xmdqyvie",
@@ -1063,16 +1085,24 @@
         "id": "clve9hsd401bnoz33zw3e2yxv",
         "title": "Map inspection - Map screenshot",
         "body": "As a player when i inspect map i want to see screenshot of map layout to save time. Without need to go to wiki",
-        "timeAgo": "23 seconds ago",
-        "comments": [],
+        "timeAgo": "3 months ago",
+        "comments": [
+            {
+                "body": "This is now available in the latest preview version (1.51.3). It will go to prod with the league start update!",
+                "timeAgo": "1 minute ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "Владислав Смирнов"
         },
         "status": {
-            "name": "Accepted"
+            "name": "Completed"
         },
         "voteCount": 1,
-        "commentCount": 0
+        "commentCount": 1
     },
     "clve9cwx501bloz33qlsjnuvg": {
         "id": "clve9cwx501bloz33qlsjnuvg",
@@ -1275,16 +1305,24 @@
         "id": "clpfumqx100xssr1ybp2woa5p",
         "title": "Adding experience tracking to the tracker",
         "body": "would be nice to see our experience in the form of a graph so we know if we are slowing down in exp/hr with some kind of threshold lines for the levels, etc.  ",
-        "timeAgo": "18 minutes",
-        "comments": [],
+        "timeAgo": "3 quarters ago",
+        "comments": [
+            {
+                "body": "This is now available in the latest preview version (1.51.3). It will go to prod with the league start update!",
+                "timeAgo": "1 minute ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "Grumpy Grandpa"
         },
         "status": {
-            "name": "Open"
+            "name": "Completed"
         },
         "voteCount": 1,
-        "commentCount": 0
+        "commentCount": 1
     },
     "clng6gwr00191sr29yskzuish": {
         "id": "clng6gwr00191sr29yskzuish",
