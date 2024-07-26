@@ -33,7 +33,7 @@
         "status": {
             "name": "Blocked"
         },
-        "voteCount": 86,
+        "voteCount": 87,
         "commentCount": 3
     },
     "clmcw66km0073n629vtsfzitb": {
@@ -99,7 +99,7 @@
         "status": {
             "name": "Open"
         },
-        "voteCount": 22,
+        "voteCount": 23,
         "commentCount": 0
     },
     "cllp771r5001vob29k1nrgbgh": {
@@ -826,6 +826,29 @@
         "voteCount": 2,
         "commentCount": 0
     },
+    "clq3lyiye00diis26hun8yk1v": {
+        "id": "clq3lyiye00diis26hun8yk1v",
+        "title": "Interactive Leveling Roadmap",
+        "body": "Method to see and check leveling Steps like\n\nhttps://heartofphos.github.io/exile-leveling/\n\n",
+        "timeAgo": "3 quarters ago",
+        "comments": [
+            {
+                "body": "I do not even want the map layout, just the gem info and other info that Lailloken-UI Act‐Tracker has would be sweet.\nhttps://github.com/Lailloken/Lailloken-UI/wiki/Act%E2%80%90Tracker",
+                "timeAgo": "17 minutes ago",
+                "user": {
+                    "name": "TheOne320"
+                }
+            }
+        ],
+        "user": {
+            "name": "schefera"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 2,
+        "commentCount": 1
+    },
     "clmqwro3a018ln62918z8zo9s": {
         "id": "clmqwro3a018ln62918z8zo9s",
         "title": "[EVALUATE] Have the \"Buyout Price\" toggle at the evaluate window",
@@ -1277,21 +1300,6 @@
         },
         "voteCount": 1,
         "commentCount": 1
-    },
-    "clq3lyiye00diis26hun8yk1v": {
-        "id": "clq3lyiye00diis26hun8yk1v",
-        "title": "Interactive Leveling Roadmap",
-        "body": "Method to see and check leveling Steps like\n\nhttps://heartofphos.github.io/exile-leveling/\n\n",
-        "timeAgo": "18 minutes",
-        "comments": [],
-        "user": {
-            "name": "schefera"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
-        "commentCount": 0
     },
     "clpynh65f006uis26b8xsujpo": {
         "id": "clpynh65f006uis26b8xsujpo",
