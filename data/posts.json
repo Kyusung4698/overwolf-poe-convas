@@ -1073,6 +1073,21 @@
         "voteCount": 2,
         "commentCount": 0
     },
+    "clz8qqdqt00n1mg2y23xa5i0j": {
+        "id": "clz8qqdqt00n1mg2y23xa5i0j",
+        "title": "Mouse [hover] item overlay in the app",
+        "body": "in the POB website, when you hover your mouse on an item/gem, it displays what the item looks like, where it can be aquired etc.. in the poe overlay application, that does not happen making new players (like me) require to have either both the application and the website open, or, to discard the application and only use the pob website. \n\nnote: this is a suggestion for the [builds] tab, just to clear any possible confusion.\n\n(and since im already making this feature suggestion, the link to the wiki like its displayed in the lower right corner would be pretty nice).",
+        "timeAgo": "10 minutes ago",
+        "comments": [],
+        "user": {
+            "name": "TheDarling"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "clz6xkyta00kxmg2yqlvh025x": {
         "id": "clz6xkyta00kxmg2yqlvh025x",
         "title": "Adding service support Pushbullet",
