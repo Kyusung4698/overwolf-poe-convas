@@ -1073,6 +1073,21 @@
         "voteCount": 2,
         "commentCount": 0
     },
+    "clzbilb3100pmmg2ybdetgiao": {
+        "id": "clzbilb3100pmmg2ybdetgiao",
+        "title": "Include a link to the wiki in the title banner",
+        "body": "Could the highlighted part link to the wiki. I was trying to find the items this can create and had to tab out to hit up the wiki for that. In the spirit of \"never having to leave the game\" Something like the Zana bot on discord where it links to the wiki.",
+        "timeAgo": "9 minutes ago",
+        "comments": [],
+        "user": {
+            "name": "Teonlight"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "clz8qqdqt00n1mg2y23xa5i0j": {
         "id": "clz8qqdqt00n1mg2y23xa5i0j",
         "title": "Mouse [hover] item overlay in the app",
