@@ -1073,6 +1073,21 @@
         "voteCount": 2,
         "commentCount": 0
     },
+    "clzdowps800rfmg2ylul2r124": {
+        "id": "clzdowps800rfmg2ylul2r124",
+        "title": "Private League Support",
+        "body": "Currently, if you link your PoE account, you can view your private league for item lookup, which is great. However, a lot of times my PL tends to price things based on the trade league as a rough baseline. The current behavior is that the overlay will default to the league the logged in character is in, leading to having to manually swap before querying an item, every time you want to query an item. \n\nIf it could stick to what I select and not change based on my character (as a toggle) that would be fantastic.",
+        "timeAgo": "16 minutes ago",
+        "comments": [],
+        "user": {
+            "name": "Djriff"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "clzbilb3100pmmg2ybdetgiao": {
         "id": "clzbilb3100pmmg2ybdetgiao",
         "title": "Include a link to the wiki in the title banner",
