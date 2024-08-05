@@ -131,9 +131,16 @@
             },
             {
                 "body": "How do I access this function looked everywhere online ",
-                "timeAgo": "2 minutes ago",
+                "timeAgo": "1 hour ago",
                 "user": {
                     "name": "kaleb"
+                }
+            },
+            {
+                "body": " the default hotkey is alt+shift+f, you configure the regexes and hotkey in the app preferences (f9) ",
+                "timeAgo": "11 minutes ago",
+                "user": {
+                    "name": "Kyusung"
                 }
             }
         ],
@@ -144,7 +151,7 @@
             "name": "Completed"
         },
         "voteCount": 21,
-        "commentCount": 4
+        "commentCount": 5
     },
     "clg3yuzau086coj205rcnn8fv": {
         "id": "clg3yuzau086coj205rcnn8fv",
