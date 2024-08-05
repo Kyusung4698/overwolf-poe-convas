@@ -124,9 +124,16 @@
             },
             {
                 "body": "This is now available in the latest preview version (1.51.3). It will go to prod with the league start update!",
-                "timeAgo": "3 minutes ago",
+                "timeAgo": "2 weeks ago",
                 "user": {
                     "name": "Kyusung"
+                }
+            },
+            {
+                "body": "How do I access this function looked everywhere online ",
+                "timeAgo": "2 minutes ago",
+                "user": {
+                    "name": "kaleb"
                 }
             }
         ],
@@ -137,7 +144,7 @@
             "name": "Completed"
         },
         "voteCount": 21,
-        "commentCount": 3
+        "commentCount": 4
     },
     "clg3yuzau086coj205rcnn8fv": {
         "id": "clg3yuzau086coj205rcnn8fv",
