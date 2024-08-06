@@ -371,6 +371,21 @@
         "voteCount": 7,
         "commentCount": 1
     },
+    "cllwimuxd009tn629xmdqyvie": {
+        "id": "cllwimuxd009tn629xmdqyvie",
+        "title": "Default Market Filters (permanently enabled options)",
+        "body": "Just like the \"evaluate\" options, it would be amazing if we could have togglable options for the market that's always going to be active even after you clear the query. \n\nFor example, the \"Collapse Listings by Account\" is really useful to have active for most trades, but when you clear the query, you have to enable it again. This would be a great QoL option.\n\n\nHere's a concept of what I'm talking about:\n\n",
+        "timeAgo": "4 quarters ago",
+        "comments": [],
+        "user": {
+            "name": "jaylay99"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 6,
+        "commentCount": 0
+    },
     "cldwfaesc00p0ml1r3ojnaclj": {
         "id": "cldwfaesc00p0ml1r3ojnaclj",
         "title": "Shareable favorited/saved searches",
@@ -416,21 +431,6 @@
         },
         "voteCount": 6,
         "commentCount": 1
-    },
-    "cllwimuxd009tn629xmdqyvie": {
-        "id": "cllwimuxd009tn629xmdqyvie",
-        "title": "Default Market Filters (permanently enabled options)",
-        "body": "Just like the \"evaluate\" options, it would be amazing if we could have togglable options for the market that's always going to be active even after you clear the query. \n\nFor example, the \"Collapse Listings by Account\" is really useful to have active for most trades, but when you clear the query, you have to enable it again. This would be a great QoL option.\n\n\nHere's a concept of what I'm talking about:\n\n",
-        "timeAgo": "3 quarters ago",
-        "comments": [],
-        "user": {
-            "name": "jaylay99"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 5,
-        "commentCount": 0
     },
     "cli846ap401dvos280kzwp7vj": {
         "id": "cli846ap401dvos280kzwp7vj",
