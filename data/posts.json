@@ -1095,6 +1095,21 @@
         "voteCount": 2,
         "commentCount": 0
     },
+    "clznaea4g0188mg2y056u3jdy": {
+        "id": "clznaea4g0188mg2y056u3jdy",
+        "title": "Support trades for wealthyexile.com",
+        "body": "Hi\n\nAtm, trade messages like this are not hooked up (no trade popup triggered):\n\"Hi, I'd like to buy your 5 Abyss Scarab for my : 0 Divine Orb, 4 Chaos Orb in Settlers\"\n\n\nAnd also this (for bulk trades):\n\n\"WTB Scarabs listing for 7d 131c\"\n\nCan u add support for this. Or maybe an ability to configure pattern?\n\nThanks",
+        "timeAgo": "4 minutes ago",
+        "comments": [],
+        "user": {
+            "name": "Lyova"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "clzdowps800rfmg2ylul2r124": {
         "id": "clzdowps800rfmg2ylul2r124",
         "title": "Private League Support",
