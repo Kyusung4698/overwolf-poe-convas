@@ -161,14 +161,14 @@
         "comments": [
             {
                 "body": "I love this idea. Even if the steps have to be done manually, it would be better than having to load LabCompass each time.",
-                "timeAgo": "2 quarters ago",
+                "timeAgo": "3 quarters ago",
                 "user": {
                     "name": "TheOne320"
                 }
             },
             {
                 "body": "It's technically feasible but we need to see with poelab first if they are okay with us reusing their content. Given how popular the lab gets with the current league we will update this in our priorities. ",
-                "timeAgo": "2 quarters ago",
+                "timeAgo": "3 quarters ago",
                 "user": {
                     "name": "Kyusung"
                 }
@@ -180,7 +180,7 @@
         "status": {
             "name": "Open"
         },
-        "voteCount": 20,
+        "voteCount": 21,
         "commentCount": 2
     },
     "cktsbp2f547461map1rrkovz8d": {
@@ -394,6 +394,21 @@
         "voteCount": 7,
         "commentCount": 1
     },
+    "cli846ap401dvos280kzwp7vj": {
+        "id": "cli846ap401dvos280kzwp7vj",
+        "title": "Highlight bank item after \"x\" amout of time listed",
+        "body": "A feature that would highlight items in your bank after they have been \"X\" amount of time on the market (listing age). It would help identify items that need their price to be lowered.\n\nI don't know if this is some kind of information that is retrievable from the oauth connection.\n\n",
+        "timeAgo": "last year",
+        "comments": [],
+        "user": {
+            "name": "MalakaJones"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 6,
+        "commentCount": 0
+    },
     "cldwfaesc00p0ml1r3ojnaclj": {
         "id": "cldwfaesc00p0ml1r3ojnaclj",
         "title": "Shareable favorited/saved searches",
@@ -440,21 +455,6 @@
         "voteCount": 6,
         "commentCount": 1
     },
-    "cli846ap401dvos280kzwp7vj": {
-        "id": "cli846ap401dvos280kzwp7vj",
-        "title": "Highlight bank item after \"x\" amout of time listed",
-        "body": "A feature that would highlight items in your bank after they have been \"X\" amount of time on the market (listing age). It would help identify items that need their price to be lowered.\n\nI don't know if this is some kind of information that is retrievable from the oauth connection.\n\n",
-        "timeAgo": "4 quarters ago",
-        "comments": [],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 5,
-        "commentCount": 0
-    },
     "clchq1ohh01ytk91yr2ugbv7g": {
         "id": "clchq1ohh01ytk91yr2ugbv7g",
         "title": "Trade whisper validation",
@@ -468,6 +468,21 @@
             "name": "Open"
         },
         "voteCount": 5,
+        "commentCount": 0
+    },
+    "clmkyc7om00vgn629qxsmckuq": {
+        "id": "clmkyc7om00vgn629qxsmckuq",
+        "title": "Automatically select fractured mods in item evaluation",
+        "body": "If an item has a fractured mod, this mod should be automatically selected when evaluating the item. Alternatively, this could be implemented as a preference.",
+        "timeAgo": "4 quarters ago",
+        "comments": [],
+        "user": {
+            "name": "iTob"
+        },
+        "status": {
+            "name": "Accepted"
+        },
+        "voteCount": 4,
         "commentCount": 0
     },
     "clgo8w07f09wgoj20rrwsag9p": {
@@ -553,6 +568,36 @@
         "voteCount": 3,
         "commentCount": 0
     },
+    "cluy6sk1100a5oz33r58dl6n6": {
+        "id": "cluy6sk1100a5oz33r58dl6n6",
+        "title": "Divine orb breakdown for change calculation",
+        "body": "Problem:\n\nWhen the buyer asks for a change from div, it is tedious to calculate it.\n\nExample: price is 1.8 div. Buyer has 2 div and asks for change. Need to give 0.2 div in chaos.\n\nCurrent flow is:\n\nPrice check div price.\n\nOpen calculator to calculate or do it in your head.\n\nAwakened poe has a divine break down chart: https://www.reddit.com/r/pathofexile/comments/194fj8p/psa_if_youre_using_awakened_poe_trade_theres_a/\n\nProposal:\n\nDo something similar to Awakened poe\n\nor\n\nAutomatically calculate change in the trade list. Put it somewhere - add a button to show it, or in the hover message when hovering the price.",
+        "timeAgo": "last quarter",
+        "comments": [],
+        "user": {
+            "name": "Ruslan Anikaev"
+        },
+        "status": {
+            "name": "Accepted"
+        },
+        "voteCount": 3,
+        "commentCount": 0
+    },
+    "cluh27lcg009gm033i4g0g9a5": {
+        "id": "cluh27lcg009gm033i4g0g9a5",
+        "title": " ignore incoming trade messages after pressing \"item sold\"",
+        "body": "sometimes you want sell smth fast but then get bombarded with messages of that item even minutes after it is sold.\n\nSO it would be nice to have incoming messages of that item i just clicked \"item sold\" be ignored for like 5min and not getting any popups for this item for that time anymore",
+        "timeAgo": "last quarter",
+        "comments": [],
+        "user": {
+            "name": "ron won"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 3,
+        "commentCount": 0
+    },
     "cln80qjnz00rjsr29wbskp68b": {
         "id": "cln80qjnz00rjsr29wbskp68b",
         "title": "Option to look up timeless jewel only by seed",
@@ -561,21 +606,6 @@
         "comments": [],
         "user": {
             "name": "Ingvar Pálmarsson"
-        },
-        "status": {
-            "name": "Accepted"
-        },
-        "voteCount": 3,
-        "commentCount": 0
-    },
-    "clmkyc7om00vgn629qxsmckuq": {
-        "id": "clmkyc7om00vgn629qxsmckuq",
-        "title": "Automatically select fractured mods in item evaluation",
-        "body": "If an item has a fractured mod, this mod should be automatically selected when evaluating the item. Alternatively, this could be implemented as a preference.",
-        "timeAgo": "3 months",
-        "comments": [],
-        "user": {
-            "name": "iTob"
         },
         "status": {
             "name": "Accepted"
@@ -758,41 +788,11 @@
         "voteCount": 3,
         "commentCount": 3
     },
-    "cluy6sk1100a5oz33r58dl6n6": {
-        "id": "cluy6sk1100a5oz33r58dl6n6",
-        "title": "Divine orb breakdown for change calculation",
-        "body": "Problem:\n\nWhen the buyer asks for a change from div, it is tedious to calculate it.\n\nExample: price is 1.8 div. Buyer has 2 div and asks for change. Need to give 0.2 div in chaos.\n\nCurrent flow is:\n\nPrice check div price.\n\nOpen calculator to calculate or do it in your head.\n\nAwakened poe has a divine break down chart: https://www.reddit.com/r/pathofexile/comments/194fj8p/psa_if_youre_using_awakened_poe_trade_theres_a/\n\nProposal:\n\nDo something similar to Awakened poe\n\nor\n\nAutomatically calculate change in the trade list. Put it somewhere - add a button to show it, or in the hover message when hovering the price.",
-        "timeAgo": "4 weeks ago",
-        "comments": [],
-        "user": {
-            "name": "Ruslan Anikaev"
-        },
-        "status": {
-            "name": "Accepted"
-        },
-        "voteCount": 2,
-        "commentCount": 0
-    },
     "cluh894xi00a0m033kct0dzga": {
         "id": "cluh894xi00a0m033kct0dzga",
         "title": "Customizable Hotkeys for trade whispers",
         "body": "would be nice to have highly customizable hotkeys for the trade whispers (or for any chat command in general).\nhere an example of the commands: (also from \"poe trades companion\")\n\n\nbasicaly the same feature that is in \"poe trades companion\" ... like this is the next screenshot for the button \"sold and ignore\" and it just send the buyer the message that item is sold and from this point on the app does not pop up anymore for this item even when i get spamed with whispers of that item\n\n",
         "timeAgo": "4 hours ago",
-        "comments": [],
-        "user": {
-            "name": "ron won"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 2,
-        "commentCount": 0
-    },
-    "cluh27lcg009gm033i4g0g9a5": {
-        "id": "cluh27lcg009gm033i4g0g9a5",
-        "title": " ignore incoming trade messages after pressing \"item sold\"",
-        "body": "sometimes you want sell smth fast but then get bombarded with messages of that item even minutes after it is sold.\n\nSO it would be nice to have incoming messages of that item i just clicked \"item sold\" be ignored for like 5min and not getting any popups for this item for that time anymore",
-        "timeAgo": "7 hours ago",
         "comments": [],
         "user": {
             "name": "ron won"
