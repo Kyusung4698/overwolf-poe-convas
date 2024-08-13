@@ -1114,16 +1114,24 @@
         "id": "clznaea4g0188mg2y056u3jdy",
         "title": "Support trades for wealthyexile.com",
         "body": "Hi\n\nAtm, trade messages like this are not hooked up (no trade popup triggered):\n\"Hi, I'd like to buy your 5 Abyss Scarab for my : 0 Divine Orb, 4 Chaos Orb in Settlers\"\n\n\nAnd also this (for bulk trades):\n\n\"WTB Scarabs listing for 7d 131c\"\n\nCan u add support for this. Or maybe an ability to configure pattern?\n\nThanks",
-        "timeAgo": "4 minutes ago",
-        "comments": [],
+        "timeAgo": "4 days ago",
+        "comments": [
+            {
+                "body": "This has been added and is available in the latest preview version (1.58.5). It will go live later this week. ",
+                "timeAgo": "2 minutes ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "Lyova"
         },
         "status": {
-            "name": "Open"
+            "name": "Completed"
         },
         "voteCount": 1,
-        "commentCount": 0
+        "commentCount": 1
     },
     "clzdowps800rfmg2ylul2r124": {
         "id": "clzdowps800rfmg2ylul2r124",
@@ -1174,16 +1182,24 @@
         "id": "clz6xkyta00kxmg2yqlvh025x",
         "title": "Adding service support Pushbullet",
         "body": "I kindly ask you to add support for the Pushbullet notification service, for integration on all platforms and the ability to receive information about trading requests.\n\n\n",
-        "timeAgo": "9 minutes ago",
-        "comments": [],
+        "timeAgo": "2 weeks ago",
+        "comments": [
+            {
+                "body": "We've added our own solution for this. This is available in the latest preview version (1.58.5) and will go live later this week. See \nhttps://portal.poeoverlay.com/",
+                "timeAgo": "1 minute ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "Артем Митичкин"
         },
         "status": {
-            "name": "Open"
+            "name": "Completed"
         },
         "voteCount": 1,
-        "commentCount": 0
+        "commentCount": 1
     },
     "clwin58om03gnoz33monryyr5": {
         "id": "clwin58om03gnoz33monryyr5",
