@@ -213,6 +213,29 @@
         "voteCount": 10,
         "commentCount": 0
     },
+    "cllwimuxd009tn629xmdqyvie": {
+        "id": "cllwimuxd009tn629xmdqyvie",
+        "title": "Default Market Filters (permanently enabled options)",
+        "body": "Just like the \"evaluate\" options, it would be amazing if we could have togglable options for the market that's always going to be active even after you clear the query. \n\nFor example, the \"Collapse Listings by Account\" is really useful to have active for most trades, but when you clear the query, you have to enable it again. This would be a great QoL option.\n\n\nHere's a concept of what I'm talking about:\n\n",
+        "timeAgo": "4 quarters ago",
+        "comments": [
+            {
+                "body": "Or just remeber last option used. I second that!",
+                "timeAgo": "last week",
+                "user": {
+                    "name": "Anonymous #7671"
+                }
+            }
+        ],
+        "user": {
+            "name": "jaylay99"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 8,
+        "commentCount": 1
+    },
     "ckzd6digy419082umd17bf59lv": {
         "id": "ckzd6digy419082umd17bf59lv",
         "title": "add stash tab name to item highlight feature",
@@ -287,29 +310,6 @@
         },
         "voteCount": 7,
         "commentCount": 0
-    },
-    "cllwimuxd009tn629xmdqyvie": {
-        "id": "cllwimuxd009tn629xmdqyvie",
-        "title": "Default Market Filters (permanently enabled options)",
-        "body": "Just like the \"evaluate\" options, it would be amazing if we could have togglable options for the market that's always going to be active even after you clear the query. \n\nFor example, the \"Collapse Listings by Account\" is really useful to have active for most trades, but when you clear the query, you have to enable it again. This would be a great QoL option.\n\n\nHere's a concept of what I'm talking about:\n\n",
-        "timeAgo": "4 quarters ago",
-        "comments": [
-            {
-                "body": "Or just remeber last option used. I second that!",
-                "timeAgo": "22 minutes ago",
-                "user": {
-                    "name": "Anonymous #7671"
-                }
-            }
-        ],
-        "user": {
-            "name": "jaylay99"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 7,
-        "commentCount": 1
     },
     "clb40eb3p006pny1z2lfph6y9": {
         "id": "clb40eb3p006pny1z2lfph6y9",
