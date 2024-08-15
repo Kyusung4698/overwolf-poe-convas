@@ -273,6 +273,29 @@
         "voteCount": 8,
         "commentCount": 3
     },
+    "ckw56ayp32970472tnum7j4zg02": {
+        "id": "ckw56ayp32970472tnum7j4zg02",
+        "title": "Thank you message in different languages",
+        "body": "Send the \"Thank you for trading\" message in the appropriate language, as the initial trade message was in.",
+        "timeAgo": "3 years ago",
+        "comments": [
+            {
+                "body": "This would only be relevant for outgoing trades, as incoming trades are always in your own language. I'm not sure this is worth implementing but if enough users vote, I will consider it :)",
+                "timeAgo": "2 years ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
+        "user": {
+            "name": "Slash1y"
+        },
+        "status": {
+            "name": "Wont Implement"
+        },
+        "voteCount": 8,
+        "commentCount": 1
+    },
     "clr9fcje900s5oo2i2bnyfjsz": {
         "id": "clr9fcje900s5oo2i2bnyfjsz",
         "title": "trade window ui on multi monitor",
@@ -370,29 +393,6 @@
         },
         "voteCount": 7,
         "commentCount": 0
-    },
-    "ckw56ayp32970472tnum7j4zg02": {
-        "id": "ckw56ayp32970472tnum7j4zg02",
-        "title": "Thank you message in different languages",
-        "body": "Send the \"Thank you for trading\" message in the appropriate language, as the initial trade message was in.",
-        "timeAgo": "over 2 years",
-        "comments": [
-            {
-                "body": "This would only be relevant for outgoing trades, as incoming trades are always in your own language. I'm not sure this is worth implementing but if enough users vote, I will consider it :)",
-                "timeAgo": "over 1 year",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "Slash1y"
-        },
-        "status": {
-            "name": "Wont Implement"
-        },
-        "voteCount": 7,
-        "commentCount": 1
     },
     "cli846ap401dvos280kzwp7vj": {
         "id": "cli846ap401dvos280kzwp7vj",
