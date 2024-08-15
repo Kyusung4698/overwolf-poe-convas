@@ -455,6 +455,21 @@
         "voteCount": 6,
         "commentCount": 1
     },
+    "clgj1nu3i09feoj20jv6j2bdp": {
+        "id": "clgj1nu3i09feoj20jv6j2bdp",
+        "title": "divine price placeholder for messages",
+        "body": "l would like to be able to send other players a message containing the divine price listed on poe.ninja. Something like '{latestWhisper} Divine Orbs are currently worth {divinePrice} chaos'.\n\nOr even better would be a button on the trade window that tells the other player the fractional prices displayed in the window, so we can agree on a price before we begin the trade.",
+        "timeAgo": "last year",
+        "comments": [],
+        "user": {
+            "name": "lvlvllvlvllvlvl"
+        },
+        "status": {
+            "name": "Accepted"
+        },
+        "voteCount": 5,
+        "commentCount": 0
+    },
     "clchq1ohh01ytk91yr2ugbv7g": {
         "id": "clchq1ohh01ytk91yr2ugbv7g",
         "title": "Trade whisper validation",
@@ -468,6 +483,21 @@
             "name": "Open"
         },
         "voteCount": 5,
+        "commentCount": 0
+    },
+    "cluy6sk1100a5oz33r58dl6n6": {
+        "id": "cluy6sk1100a5oz33r58dl6n6",
+        "title": "Divine orb breakdown for change calculation",
+        "body": "Problem:\n\nWhen the buyer asks for a change from div, it is tedious to calculate it.\n\nExample: price is 1.8 div. Buyer has 2 div and asks for change. Need to give 0.2 div in chaos.\n\nCurrent flow is:\n\nPrice check div price.\n\nOpen calculator to calculate or do it in your head.\n\nAwakened poe has a divine break down chart: https://www.reddit.com/r/pathofexile/comments/194fj8p/psa_if_youre_using_awakened_poe_trade_theres_a/\n\nProposal:\n\nDo something similar to Awakened poe\n\nor\n\nAutomatically calculate change in the trade list. Put it somewhere - add a button to show it, or in the hover message when hovering the price.",
+        "timeAgo": "last quarter",
+        "comments": [],
+        "user": {
+            "name": "Ruslan Anikaev"
+        },
+        "status": {
+            "name": "Accepted"
+        },
+        "voteCount": 4,
         "commentCount": 0
     },
     "clmkyc7om00vgn629qxsmckuq": {
@@ -493,21 +523,6 @@
         "comments": [],
         "user": {
             "name": "八條麥茶"
-        },
-        "status": {
-            "name": "Accepted"
-        },
-        "voteCount": 4,
-        "commentCount": 0
-    },
-    "clgj1nu3i09feoj20jv6j2bdp": {
-        "id": "clgj1nu3i09feoj20jv6j2bdp",
-        "title": "divine price placeholder for messages",
-        "body": "l would like to be able to send other players a message containing the divine price listed on poe.ninja. Something like '{latestWhisper} Divine Orbs are currently worth {divinePrice} chaos'.\n\nOr even better would be a button on the trade window that tells the other player the fractional prices displayed in the window, so we can agree on a price before we begin the trade.",
-        "timeAgo": "6 months",
-        "comments": [],
-        "user": {
-            "name": "lvlvllvlvllvlvl"
         },
         "status": {
             "name": "Accepted"
@@ -564,21 +579,6 @@
         },
         "status": {
             "name": "Open"
-        },
-        "voteCount": 3,
-        "commentCount": 0
-    },
-    "cluy6sk1100a5oz33r58dl6n6": {
-        "id": "cluy6sk1100a5oz33r58dl6n6",
-        "title": "Divine orb breakdown for change calculation",
-        "body": "Problem:\n\nWhen the buyer asks for a change from div, it is tedious to calculate it.\n\nExample: price is 1.8 div. Buyer has 2 div and asks for change. Need to give 0.2 div in chaos.\n\nCurrent flow is:\n\nPrice check div price.\n\nOpen calculator to calculate or do it in your head.\n\nAwakened poe has a divine break down chart: https://www.reddit.com/r/pathofexile/comments/194fj8p/psa_if_youre_using_awakened_poe_trade_theres_a/\n\nProposal:\n\nDo something similar to Awakened poe\n\nor\n\nAutomatically calculate change in the trade list. Put it somewhere - add a button to show it, or in the hover message when hovering the price.",
-        "timeAgo": "last quarter",
-        "comments": [],
-        "user": {
-            "name": "Ruslan Anikaev"
-        },
-        "status": {
-            "name": "Accepted"
         },
         "voteCount": 3,
         "commentCount": 0
