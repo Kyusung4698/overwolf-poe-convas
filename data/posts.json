@@ -65,14 +65,14 @@
             },
             {
                 "body": "This is now available in the latest preview version (1.51.3). It will go to prod with the league start update!",
-                "timeAgo": "36 minutes ago",
+                "timeAgo": "3 weeks ago",
                 "user": {
                     "name": "Kyusung"
                 }
             },
             {
                 "body": "❤️",
-                "timeAgo": "1 minute ago",
+                "timeAgo": "3 weeks ago",
                 "user": {
                     "name": "Gordon Brandyburg"
                 }
@@ -84,7 +84,7 @@
         "status": {
             "name": "Completed"
         },
-        "voteCount": 39,
+        "voteCount": 40,
         "commentCount": 5
     },
     "clbz80n9p010bk91yvzyu99m4": {
@@ -236,6 +236,21 @@
         "voteCount": 8,
         "commentCount": 1
     },
+    "clb40eb3p006pny1z2lfph6y9": {
+        "id": "clb40eb3p006pny1z2lfph6y9",
+        "title": "[EVALUATE] Have the Evaluate window filter by date",
+        "body": "With the recent update to the evaluate module, you can now activate or deactivate quickly listings that are online/offline. It would be really nice if you could click the \"age\" column so it sorts them from newest to older,\n\n",
+        "timeAgo": "2 years ago",
+        "comments": [],
+        "user": {
+            "name": "MalakaJones"
+        },
+        "status": {
+            "name": "Accepted"
+        },
+        "voteCount": 8,
+        "commentCount": 0
+    },
     "ckzd6digy419082umd17bf59lv": {
         "id": "ckzd6digy419082umd17bf59lv",
         "title": "add stash tab name to item highlight feature",
@@ -324,21 +339,6 @@
         "title": "[Evaluate] Toggle for enabling/disabling auto search",
         "body": "A toggle in the preferences that could let us enable or disable auto search when pressing alt+d (evaluate).",
         "timeAgo": "2 quarters ago",
-        "comments": [],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "name": "Accepted"
-        },
-        "voteCount": 7,
-        "commentCount": 0
-    },
-    "clb40eb3p006pny1z2lfph6y9": {
-        "id": "clb40eb3p006pny1z2lfph6y9",
-        "title": "[EVALUATE] Have the Evaluate window filter by date",
-        "body": "With the recent update to the evaluate module, you can now activate or deactivate quickly listings that are online/offline. It would be really nice if you could click the \"age\" column so it sorts them from newest to older,\n\n",
-        "timeAgo": "about 1 year",
         "comments": [],
         "user": {
             "name": "MalakaJones"
