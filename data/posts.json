@@ -36,57 +36,6 @@
         "voteCount": 87,
         "commentCount": 3
     },
-    "clmcw66km0073n629vtsfzitb": {
-        "id": "clmcw66km0073n629vtsfzitb",
-        "title": "Immortal Syndicate Cheat Sheet",
-        "body": "Similar to the Shift+Spacebar in Awakened POE trade for easy reference to syndicate rewards per rank",
-        "timeAgo": "4 quarters ago",
-        "comments": [
-            {
-                "body": "not only Syndicate. \nAlso Alva, Delve, Heist, Essences",
-                "timeAgo": "4 quarters ago",
-                "user": {
-                    "name": "Florian Weinbrenner"
-                }
-            },
-            {
-                "body": "Yes Yes Yes to all the core cheatsheets Betrayal and Incursion at a minimum.",
-                "timeAgo": "3 quarters ago",
-                "user": {
-                    "name": "Gordon Brandyburg"
-                }
-            },
-            {
-                "body": "Ir could be placed on the main APP Next to build so that it could Stay Open on the second monitor for those who have and appear as an overlay for those who don't. Thanks!!!",
-                "timeAgo": "2 quarters ago",
-                "user": {
-                    "name": "Bruno Monteiro"
-                }
-            },
-            {
-                "body": "This is now available in the latest preview version (1.51.3). It will go to prod with the league start update!",
-                "timeAgo": "3 weeks ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            },
-            {
-                "body": "❤️",
-                "timeAgo": "3 weeks ago",
-                "user": {
-                    "name": "Gordon Brandyburg"
-                }
-            }
-        ],
-        "user": {
-            "name": "Michal Jireh Tumamak"
-        },
-        "status": {
-            "name": "Completed"
-        },
-        "voteCount": 40,
-        "commentCount": 5
-    },
     "clbz80n9p010bk91yvzyu99m4": {
         "id": "clbz80n9p010bk91yvzyu99m4",
         "title": "Evaluate Grand Heist items on the go",
@@ -101,57 +50,6 @@
         },
         "voteCount": 23,
         "commentCount": 0
-    },
-    "cllp771r5001vob29k1nrgbgh": {
-        "id": "cllp771r5001vob29k1nrgbgh",
-        "title": "Vendor paster (Stores and uses Regexes)",
-        "body": "Hi I like a functionality similar to awakened poe trade that allow you to set up a series of regex to search in the stash or in the vendor. It would work the following:\n\nSave a regex with a name\n\nPress a shortcut that show the different regex saved\n\nApply \"ctrl+f\" automatically plus the regex",
-        "timeAgo": "4 quarters ago",
-        "comments": [
-            {
-                "body": "do you believe would be worth to enable an advanced map parsing mode like this: \"press a hotkey, hover your rolled maps, it stores the results and highlights in your stash maps to reroll?\"\nkinda like with regex but much more customizable\nThis was an excerpt from a discord message I sent. Would be cool to combine the 2 functionality to make a better than default map reroll behaviour",
-                "timeAgo": "3 quarters ago",
-                "user": {
-                    "name": "g-alfieri"
-                }
-            },
-            {
-                "body": "I wanted to suggest making such a function myself, as it is very convenient in awakened poe trade and I hope it will be implemented soon",
-                "timeAgo": "last quarter",
-                "user": {
-                    "name": "Сергей Мендела"
-                }
-            },
-            {
-                "body": "This is now available in the latest preview version (1.51.3). It will go to prod with the league start update!",
-                "timeAgo": "2 weeks ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            },
-            {
-                "body": "How do I access this function looked everywhere online ",
-                "timeAgo": "2 days ago",
-                "user": {
-                    "name": "kaleb"
-                }
-            },
-            {
-                "body": " the default hotkey is alt+shift+f, you configure the regexes and hotkey in the app preferences (f9) ",
-                "timeAgo": "2 days ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "Javier Garcia"
-        },
-        "status": {
-            "name": "Completed"
-        },
-        "voteCount": 22,
-        "commentCount": 5
     },
     "clg3yuzau086coj205rcnn8fv": {
         "id": "clg3yuzau086coj205rcnn8fv",
@@ -428,29 +326,6 @@
         },
         "status": {
             "name": "Accepted"
-        },
-        "voteCount": 6,
-        "commentCount": 1
-    },
-    "cld6415hr047jk91ydxgyuf72": {
-        "id": "cld6415hr047jk91ydxgyuf72",
-        "title": "An integrated notepad",
-        "body": "An integrated notepad where you could write some stuff like regexes for rolling maps. Very basic stuff not to have to pull out an extra file or website.\n\nCould be a new tab in the Option UI next to the change log.",
-        "timeAgo": "last year",
-        "comments": [
-            {
-                "body": "This is now available in the latest preview version (1.51.3). It will go to prod with the league start update!",
-                "timeAgo": "2 minutes ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "name": "Completed"
         },
         "voteCount": 6,
         "commentCount": 1
@@ -1110,29 +985,6 @@
         "voteCount": 1,
         "commentCount": 0
     },
-    "clznaea4g0188mg2y056u3jdy": {
-        "id": "clznaea4g0188mg2y056u3jdy",
-        "title": "Support trades for wealthyexile.com",
-        "body": "Hi\n\nAtm, trade messages like this are not hooked up (no trade popup triggered):\n\"Hi, I'd like to buy your 5 Abyss Scarab for my : 0 Divine Orb, 4 Chaos Orb in Settlers\"\n\n\nAnd also this (for bulk trades):\n\n\"WTB Scarabs listing for 7d 131c\"\n\nCan u add support for this. Or maybe an ability to configure pattern?\n\nThanks",
-        "timeAgo": "4 days ago",
-        "comments": [
-            {
-                "body": "This has been added and is available in the latest preview version (1.58.5). It will go live later this week. ",
-                "timeAgo": "2 minutes ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "Lyova"
-        },
-        "status": {
-            "name": "Completed"
-        },
-        "voteCount": 1,
-        "commentCount": 1
-    },
     "clzdowps800rfmg2ylul2r124": {
         "id": "clzdowps800rfmg2ylul2r124",
         "title": "Private League Support",
@@ -1178,29 +1030,6 @@
         "voteCount": 1,
         "commentCount": 0
     },
-    "clz6xkyta00kxmg2yqlvh025x": {
-        "id": "clz6xkyta00kxmg2yqlvh025x",
-        "title": "Adding service support Pushbullet",
-        "body": "I kindly ask you to add support for the Pushbullet notification service, for integration on all platforms and the ability to receive information about trading requests.\n\n\n",
-        "timeAgo": "2 weeks ago",
-        "comments": [
-            {
-                "body": "We've added our own solution for this. This is available in the latest preview version (1.58.5) and will go live later this week. See \nhttps://portal.poeoverlay.com/",
-                "timeAgo": "1 minute ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "Артем Митичкин"
-        },
-        "status": {
-            "name": "Completed"
-        },
-        "voteCount": 1,
-        "commentCount": 1
-    },
     "clwin58om03gnoz33monryyr5": {
         "id": "clwin58om03gnoz33monryyr5",
         "title": "Price Threshold on Bulk Searches",
@@ -1235,29 +1064,6 @@
         },
         "status": {
             "name": "Open"
-        },
-        "voteCount": 1,
-        "commentCount": 1
-    },
-    "clve9hsd401bnoz33zw3e2yxv": {
-        "id": "clve9hsd401bnoz33zw3e2yxv",
-        "title": "Map inspection - Map screenshot",
-        "body": "As a player when i inspect map i want to see screenshot of map layout to save time. Without need to go to wiki",
-        "timeAgo": "3 months ago",
-        "comments": [
-            {
-                "body": "This is now available in the latest preview version (1.51.3). It will go to prod with the league start update!",
-                "timeAgo": "1 minute ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "Владислав Смирнов"
-        },
-        "status": {
-            "name": "Completed"
         },
         "voteCount": 1,
         "commentCount": 1
@@ -1299,29 +1105,6 @@
         },
         "voteCount": 1,
         "commentCount": 0
-    },
-    "clv74j1vw00sqoz33pm97re2b": {
-        "id": "clv74j1vw00sqoz33pm97re2b",
-        "title": "Restart option on the icon right click menu and or hotkey. ",
-        "body": "When the overlay stops taking inputs. In order to restart I have to right click the icon, exit, then open POE webpage and click the icon in the browser. I'd like to have an easy restart. Kind of like when u do an update.",
-        "timeAgo": "6 days ago",
-        "comments": [
-            {
-                "body": "Has been added in the latest preview version (1.49.2). Thanks for your helping us make the app better! ",
-                "timeAgo": "10 minutes ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "Razzed311"
-        },
-        "status": {
-            "name": "Completed"
-        },
-        "voteCount": 1,
-        "commentCount": 1
     },
     "clumpan3d00l6m033mjwpjexo": {
         "id": "clumpan3d00l6m033mjwpjexo",
@@ -1444,29 +1227,6 @@
         "voteCount": 1,
         "commentCount": 0
     },
-    "clpfumqx100xssr1ybp2woa5p": {
-        "id": "clpfumqx100xssr1ybp2woa5p",
-        "title": "Adding experience tracking to the tracker",
-        "body": "would be nice to see our experience in the form of a graph so we know if we are slowing down in exp/hr with some kind of threshold lines for the levels, etc.  ",
-        "timeAgo": "3 quarters ago",
-        "comments": [
-            {
-                "body": "This is now available in the latest preview version (1.51.3). It will go to prod with the league start update!",
-                "timeAgo": "1 minute ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "Grumpy Grandpa"
-        },
-        "status": {
-            "name": "Completed"
-        },
-        "voteCount": 1,
-        "commentCount": 1
-    },
     "clng6gwr00191sr29yskzuish": {
         "id": "clng6gwr00191sr29yskzuish",
         "title": "Block Traders",
@@ -1508,44 +1268,6 @@
         },
         "status": {
             "name": "Open"
-        },
-        "voteCount": 1,
-        "commentCount": 0
-    },
-    "cllpjc4ku0009n629n4tqvlnw": {
-        "id": "cllpjc4ku0009n629n4tqvlnw",
-        "title": "Foiled version support",
-        "body": "Having the foil toggle supported at the Evaluate window could be nice. Here is an exemple of a foiled item.\n\n\nItem Class: One Hand Axes\n\nRarity: Unique\n\nActum\n\nButcher Axe\n\n--------\n\nOne Handed Axe\n\nPhysical Damage: 157-291 (augmented)\n\nCritical Strike Chance: 5.00%\n\nAttacks per Second: 1.30\n\nWeapon Range: 11\n\n--------\n\nRequirements:\n\nLevel: 63\n\nStr: 149\n\nDex: 76\n\n--------\n\nItem Level: 75\n\n--------\n\n{ Unique Modifier }\n\nHas no Sockets — Unscalable Value\n\n{ Unique Modifier — Damage, Physical, Attack }\n\n235(200-250)% increased Physical Damage\n\n{ Unique Modifier — Attribute }\n\nYou have no Intelligence — Unscalable Value\n\n{ Unique Modifier — Critical }\n\nCritical Strike Chance is 24(20-30)% for Hits with this Weapon\n\n--------\n\nBetter to act without thought\n\nthan to think without action.\n\n--------\n\nFoil Unique (Ruby)\n\n--------\n\n",
-        "timeAgo": "3 quarters ago",
-        "comments": [
-            {
-                "body": "The latest preview version (1.50.1) now supports this! Thanks for your feedback! ",
-                "timeAgo": "6 minutes ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "name": "Completed"
-        },
-        "voteCount": 1,
-        "commentCount": 1
-    },
-    "clgseniuo0ac9oj20sz83keoq": {
-        "id": "clgseniuo0ac9oj20sz83keoq",
-        "title": "All Session Currency Tracking",
-        "body": "I would find it useful to have a section where I can see past days currency value to track my personal progress. A little like Exilence Next but simpler. I like the new currency overview after a session it would just be an extension of this.",
-        "timeAgo": "10 minutes",
-        "comments": [],
-        "user": {
-            "name": "Anonymous #13900"
-        },
-        "status": {
-            "name": "Completed"
         },
         "voteCount": 1,
         "commentCount": 0
