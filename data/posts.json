@@ -663,6 +663,21 @@
         "voteCount": 3,
         "commentCount": 3
     },
+    "cm03d2x0k01vimg2yh0b5n07t": {
+        "id": "cm03d2x0k01vimg2yh0b5n07t",
+        "title": "multiple monitor overlay on top of game",
+        "body": "i would really like to have the f9 overlay ingame while having two monitors. this way i would not have to use alt-tab to get to f9 menu. I suggest adding an option for that to override two monitors detection",
+        "timeAgo": "9 hours ago",
+        "comments": [],
+        "user": {
+            "name": "Tellegar"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 2,
+        "commentCount": 0
+    },
     "cluh894xi00a0m033kct0dzga": {
         "id": "cluh894xi00a0m033kct0dzga",
         "title": "Customizable Hotkeys for trade whispers",
@@ -983,21 +998,6 @@
             "name": "Wont Implement"
         },
         "voteCount": 2,
-        "commentCount": 0
-    },
-    "cm03d2x0k01vimg2yh0b5n07t": {
-        "id": "cm03d2x0k01vimg2yh0b5n07t",
-        "title": "multiple monitor overlay on top of game",
-        "body": "i would really like to have the f9 overlay ingame while having two monitors. this way i would not have to use alt-tab to get to f9 menu. I suggest adding an option for that to override two monitors detection",
-        "timeAgo": "6 minutes ago",
-        "comments": [],
-        "user": {
-            "name": "Tellegar"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
         "commentCount": 0
     },
     "cm012rr1j01ormg2y1edpabu5": {
