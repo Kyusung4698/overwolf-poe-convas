@@ -1411,13 +1411,20 @@
         "id": "cl2udd62a855152yo947oig1nn",
         "title": "Reset to default key-binds button",
         "body": "A way to reset keybinds to their original value would be great. Could be a global reset button or one per module.",
-        "timeAgo": "12 months",
+        "timeAgo": "2 years ago",
         "comments": [
             {
                 "body": "Hi, for now this would require reinstalling the app. We will see how we can improve on this behaviour. Thanks for your suggestion! ",
-                "timeAgo": "7 months",
+                "timeAgo": "2 years ago",
                 "user": {
                     "name": "Kyusung"
+                }
+            },
+            {
+                "body": "2 year ago he write about this problem and now this function does't exist! ",
+                "timeAgo": "8 seconds ago",
+                "user": {
+                    "name": "misha aleggs"
                 }
             }
         ],
@@ -1428,7 +1435,7 @@
             "name": "Accepted"
         },
         "voteCount": 1,
-        "commentCount": 1
+        "commentCount": 2
     },
     "cl2z5z9la2500192yo9hmibk3l7": {
         "id": "cl2z5z9la2500192yo9hmibk3l7",
