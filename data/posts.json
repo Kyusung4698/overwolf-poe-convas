@@ -1004,8 +1004,16 @@
         "id": "cm061lvdv020emg2ybkfzdibz",
         "title": "Multi Client",
         "body": "Hi, I am using two POE clients. I just want to show the overlay for 1 main client but how to change it? I don't know how the overlay detect. Sometimes it overlay the first login, sometime detect the second login.",
-        "timeAgo": "7 minutes ago",
-        "comments": [],
+        "timeAgo": "38 minutes ago",
+        "comments": [
+            {
+                "body": "There is a workaround by renaming the client executable e.g. PathOfExile.exe to PathOfExile2.exe",
+                "timeAgo": "26 minutes ago",
+                "user": {
+                    "name": "Anonymous #7671"
+                }
+            }
+        ],
         "user": {
             "name": "Ṇġụỵễn Ḍụỵ Ṣỹ"
         },
@@ -1013,7 +1021,7 @@
             "name": "Open"
         },
         "voteCount": 1,
-        "commentCount": 0
+        "commentCount": 1
     },
     "cm012rr1j01ormg2y1edpabu5": {
         "id": "cm012rr1j01ormg2y1edpabu5",
