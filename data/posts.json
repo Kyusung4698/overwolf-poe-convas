@@ -1000,6 +1000,21 @@
         "voteCount": 2,
         "commentCount": 0
     },
+    "cm0bp7ldx027vmg2yrtlk6ybm": {
+        "id": "cm0bp7ldx027vmg2yrtlk6ybm",
+        "title": "Evaluate wealth irrespective of the league a stash is in",
+        "body": "For the Tracker feature, I'd like to be able to add a profile that evaluates wealth for the selected league rather than the league that the stash exists in. My specific use-case is that I am playing SSF Settlers and would like to track my wealth compared to the current trading league. It is useful for identifying high-end items that I might want to migrate to trading.",
+        "timeAgo": "22 minutes ago",
+        "comments": [],
+        "user": {
+            "name": "jrobinson3k1"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "cm061lvdv020emg2ybkfzdibz": {
         "id": "cm061lvdv020emg2ybkfzdibz",
         "title": "Multi Client",
