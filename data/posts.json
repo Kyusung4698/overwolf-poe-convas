@@ -348,7 +348,7 @@
             "name": "Tellegar"
         },
         "status": {
-            "name": "Open"
+            "name": "Accepted"
         },
         "voteCount": 5,
         "commentCount": 1
@@ -803,16 +803,24 @@
         "id": "clmf5n7bq00bhn629ljwb99ls",
         "title": "[MARKET] Add a sorting support to Market",
         "body": "Ability to sort Items on Market (ALT+M) by time posted to either see latest or oldest listed items descending or ascending. Sorting by ascending or descending price could also be useful.",
-        "timeAgo": "3 quarters ago",
-        "comments": [],
+        "timeAgo": "4 quarters ago",
+        "comments": [
+            {
+                "body": "This has been added with this league version! Thanks for your feedback :) !",
+                "timeAgo": "15 minutes ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "So Hagath"
         },
         "status": {
-            "name": "Open"
+            "name": "Completed"
         },
         "voteCount": 2,
-        "commentCount": 0
+        "commentCount": 1
     },
     "cldwjl4nz00p4ml1rxhi7ts4z": {
         "id": "cldwjl4nz00p4ml1rxhi7ts4z",
@@ -1022,43 +1030,6 @@
         },
         "voteCount": 1,
         "commentCount": 0
-    },
-    "cm061lvdv020emg2ybkfzdibz": {
-        "id": "cm061lvdv020emg2ybkfzdibz",
-        "title": "Multi Client",
-        "body": "Hi, I am using two POE clients. I just want to show the overlay for 1 main client but how to change it? I don't know how the overlay detect. Sometimes it overlay the first login, sometime detect the second login.",
-        "timeAgo": "3 days ago",
-        "comments": [
-            {
-                "body": "There is a workaround by renaming the client executable e.g. PathOfExile.exe to PathOfExile2.exe",
-                "timeAgo": "3 days ago",
-                "user": {
-                    "name": "Anonymous #7671"
-                }
-            },
-            {
-                "body": "Thank you for your replied, so the poe overlay is not detect PathOfExile2.exe, right?",
-                "timeAgo": "5 hours ago",
-                "user": {
-                    "name": "Ṇġụỵễn Ḍụỵ Ṣỹ"
-                }
-            },
-            {
-                "body": "correct",
-                "timeAgo": "14 minutes ago",
-                "user": {
-                    "name": "Anonymous #7671"
-                }
-            }
-        ],
-        "user": {
-            "name": "Ṇġụỵễn Ḍụỵ Ṣỹ"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
-        "commentCount": 3
     },
     "cm012rr1j01ormg2y1edpabu5": {
         "id": "cm012rr1j01ormg2y1edpabu5",
