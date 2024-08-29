@@ -292,6 +292,29 @@
         "voteCount": 7,
         "commentCount": 0
     },
+    "cm03d2x0k01vimg2yh0b5n07t": {
+        "id": "cm03d2x0k01vimg2yh0b5n07t",
+        "title": "multiple monitor overlay on top of game",
+        "body": "i would really like to have the f9 overlay ingame while having two monitors. this way i would not have to use alt-tab to get to f9 menu. I suggest adding an option for that to override two monitors detection",
+        "timeAgo": "last week",
+        "comments": [
+            {
+                "body": "to reiterate, there should be \noption\n to disable multi-monitor detection, so that the whole poe overlay can be inside the game even when having two monitors",
+                "timeAgo": "yesterday",
+                "user": {
+                    "name": "Tellegar"
+                }
+            }
+        ],
+        "user": {
+            "name": "Tellegar"
+        },
+        "status": {
+            "name": "Accepted"
+        },
+        "voteCount": 6,
+        "commentCount": 1
+    },
     "cli846ap401dvos280kzwp7vj": {
         "id": "cli846ap401dvos280kzwp7vj",
         "title": "Highlight bank item after \"x\" amout of time listed",
@@ -328,29 +351,6 @@
             "name": "Accepted"
         },
         "voteCount": 6,
-        "commentCount": 1
-    },
-    "cm03d2x0k01vimg2yh0b5n07t": {
-        "id": "cm03d2x0k01vimg2yh0b5n07t",
-        "title": "multiple monitor overlay on top of game",
-        "body": "i would really like to have the f9 overlay ingame while having two monitors. this way i would not have to use alt-tab to get to f9 menu. I suggest adding an option for that to override two monitors detection",
-        "timeAgo": "last week",
-        "comments": [
-            {
-                "body": "to reiterate, there should be \noption\n to disable multi-monitor detection, so that the whole poe overlay can be inside the game even when having two monitors",
-                "timeAgo": "21 minutes ago",
-                "user": {
-                    "name": "Tellegar"
-                }
-            }
-        ],
-        "user": {
-            "name": "Tellegar"
-        },
-        "status": {
-            "name": "Accepted"
-        },
-        "voteCount": 5,
         "commentCount": 1
     },
     "clmkyc7om00vgn629qxsmckuq": {
