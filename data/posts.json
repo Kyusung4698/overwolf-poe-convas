@@ -213,13 +213,20 @@
         "id": "clr9fcje900s5oo2i2bnyfjsz",
         "title": "trade window ui on multi monitor",
         "body": "would be nice to be able to drag the trade window to an  other monitor and not be limited with the game window",
-        "timeAgo": "last quarter",
+        "timeAgo": "2 quarters ago",
         "comments": [
             {
                 "body": "agreed!",
-                "timeAgo": "16 minutes ago",
+                "timeAgo": "last quarter",
                 "user": {
                     "name": "K C"
+                }
+            },
+            {
+                "body": "Wait, why would you want that?",
+                "timeAgo": "6 minutes ago",
+                "user": {
+                    "name": "Mushkela"
                 }
             }
         ],
@@ -230,7 +237,7 @@
             "name": "Open"
         },
         "voteCount": 7,
-        "commentCount": 1
+        "commentCount": 2
     },
     "clq60zkdf00h4is26ojytjgxu": {
         "id": "clq60zkdf00h4is26ojytjgxu",
@@ -353,6 +360,21 @@
         "voteCount": 6,
         "commentCount": 1
     },
+    "cluy6sk1100a5oz33r58dl6n6": {
+        "id": "cluy6sk1100a5oz33r58dl6n6",
+        "title": "Divine orb breakdown for change calculation",
+        "body": "Problem:\n\nWhen the buyer asks for a change from div, it is tedious to calculate it.\n\nExample: price is 1.8 div. Buyer has 2 div and asks for change. Need to give 0.2 div in chaos.\n\nCurrent flow is:\n\nPrice check div price.\n\nOpen calculator to calculate or do it in your head.\n\nAwakened poe has a divine break down chart: https://www.reddit.com/r/pathofexile/comments/194fj8p/psa_if_youre_using_awakened_poe_trade_theres_a/\n\nProposal:\n\nDo something similar to Awakened poe\n\nor\n\nAutomatically calculate change in the trade list. Put it somewhere - add a button to show it, or in the hover message when hovering the price.",
+        "timeAgo": "last quarter",
+        "comments": [],
+        "user": {
+            "name": "Ruslan Anikaev"
+        },
+        "status": {
+            "name": "Accepted"
+        },
+        "voteCount": 5,
+        "commentCount": 0
+    },
     "clmkyc7om00vgn629qxsmckuq": {
         "id": "clmkyc7om00vgn629qxsmckuq",
         "title": "Automatically select fractured mods in item evaluation",
@@ -396,21 +418,6 @@
             "name": "Open"
         },
         "voteCount": 5,
-        "commentCount": 0
-    },
-    "cluy6sk1100a5oz33r58dl6n6": {
-        "id": "cluy6sk1100a5oz33r58dl6n6",
-        "title": "Divine orb breakdown for change calculation",
-        "body": "Problem:\n\nWhen the buyer asks for a change from div, it is tedious to calculate it.\n\nExample: price is 1.8 div. Buyer has 2 div and asks for change. Need to give 0.2 div in chaos.\n\nCurrent flow is:\n\nPrice check div price.\n\nOpen calculator to calculate or do it in your head.\n\nAwakened poe has a divine break down chart: https://www.reddit.com/r/pathofexile/comments/194fj8p/psa_if_youre_using_awakened_poe_trade_theres_a/\n\nProposal:\n\nDo something similar to Awakened poe\n\nor\n\nAutomatically calculate change in the trade list. Put it somewhere - add a button to show it, or in the hover message when hovering the price.",
-        "timeAgo": "last quarter",
-        "comments": [],
-        "user": {
-            "name": "Ruslan Anikaev"
-        },
-        "status": {
-            "name": "Accepted"
-        },
-        "voteCount": 4,
         "commentCount": 0
     },
     "clgo8w07f09wgoj20rrwsag9p": {
@@ -685,6 +692,21 @@
         },
         "voteCount": 3,
         "commentCount": 3
+    },
+    "clz8qqdqt00n1mg2y23xa5i0j": {
+        "id": "clz8qqdqt00n1mg2y23xa5i0j",
+        "title": "Mouse [hover] item overlay in the app",
+        "body": "in the POB website, when you hover your mouse on an item/gem, it displays what the item looks like, where it can be aquired etc.. in the poe overlay application, that does not happen making new players (like me) require to have either both the application and the website open, or, to discard the application and only use the pob website. \n\nnote: this is a suggestion for the [builds] tab, just to clear any possible confusion.\n\n(and since im already making this feature suggestion, the link to the wiki like its displayed in the lower right corner would be pretty nice).",
+        "timeAgo": "2 months ago",
+        "comments": [],
+        "user": {
+            "name": "TheDarling"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 2,
+        "commentCount": 0
     },
     "cluh894xi00a0m033kct0dzga": {
         "id": "cluh894xi00a0m033kct0dzga",
@@ -1099,21 +1121,6 @@
         "comments": [],
         "user": {
             "name": "Teonlight"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
-        "commentCount": 0
-    },
-    "clz8qqdqt00n1mg2y23xa5i0j": {
-        "id": "clz8qqdqt00n1mg2y23xa5i0j",
-        "title": "Mouse [hover] item overlay in the app",
-        "body": "in the POB website, when you hover your mouse on an item/gem, it displays what the item looks like, where it can be aquired etc.. in the poe overlay application, that does not happen making new players (like me) require to have either both the application and the website open, or, to discard the application and only use the pob website. \n\nnote: this is a suggestion for the [builds] tab, just to clear any possible confusion.\n\n(and since im already making this feature suggestion, the link to the wiki like its displayed in the lower right corner would be pretty nice).",
-        "timeAgo": "10 minutes ago",
-        "comments": [],
-        "user": {
-            "name": "TheDarling"
         },
         "status": {
             "name": "Open"
