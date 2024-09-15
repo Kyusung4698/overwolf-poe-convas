@@ -1016,6 +1016,21 @@
         "voteCount": 2,
         "commentCount": 0
     },
+    "cm13vi2l903jxmg2yx2fvaa42": {
+        "id": "cm13vi2l903jxmg2yx2fvaa42",
+        "title": "Stash/Vendor Search names",
+        "body": "I like that it has a picture, but a lot of time I forget which regex is which, so allowing us to add a name to each search would be tremendously appreciated.\n(Also helps a lot if you have map regex for different characters)",
+        "timeAgo": "11 minutes ago",
+        "comments": [],
+        "user": {
+            "name": "Mushkela"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "cm0bp7ldx027vmg2yrtlk6ybm": {
         "id": "cm0bp7ldx027vmg2yrtlk6ybm",
         "title": "Evaluate wealth irrespective of the league a stash is in",
