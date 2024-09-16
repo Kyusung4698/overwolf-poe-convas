@@ -111,6 +111,43 @@
         "voteCount": 10,
         "commentCount": 0
     },
+    "clr9fcje900s5oo2i2bnyfjsz": {
+        "id": "clr9fcje900s5oo2i2bnyfjsz",
+        "title": "trade window ui on multi monitor",
+        "body": "would be nice to be able to drag the trade window to an  other monitor and not be limited with the game window",
+        "timeAgo": "2 quarters ago",
+        "comments": [
+            {
+                "body": "agreed!",
+                "timeAgo": "last quarter",
+                "user": {
+                    "name": "K C"
+                }
+            },
+            {
+                "body": "Wait, why would you want that?",
+                "timeAgo": "yesterday",
+                "user": {
+                    "name": "Mushkela"
+                }
+            },
+            {
+                "body": "well why would someone use a second or third monitor?\nits simple. i like to have my game clean from apps.\nnothing more annoying than an ingame popup when doing juiced content. on another monitor i can leave it open without limiting my game experience.",
+                "timeAgo": "yesterday",
+                "user": {
+                    "name": "ron won"
+                }
+            }
+        ],
+        "user": {
+            "name": "ron won"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 8,
+        "commentCount": 3
+    },
     "cllwimuxd009tn629xmdqyvie": {
         "id": "cllwimuxd009tn629xmdqyvie",
         "title": "Default Market Filters (permanently enabled options)",
@@ -208,43 +245,6 @@
         },
         "voteCount": 8,
         "commentCount": 1
-    },
-    "clr9fcje900s5oo2i2bnyfjsz": {
-        "id": "clr9fcje900s5oo2i2bnyfjsz",
-        "title": "trade window ui on multi monitor",
-        "body": "would be nice to be able to drag the trade window to an  other monitor and not be limited with the game window",
-        "timeAgo": "2 quarters ago",
-        "comments": [
-            {
-                "body": "agreed!",
-                "timeAgo": "last quarter",
-                "user": {
-                    "name": "K C"
-                }
-            },
-            {
-                "body": "Wait, why would you want that?",
-                "timeAgo": "1 hour ago",
-                "user": {
-                    "name": "Mushkela"
-                }
-            },
-            {
-                "body": "well why would someone use a second or third monitor?\nits simple. i like to have my game clean from apps.\nnothing more annoying than an ingame popup when doing juiced content. on another monitor i can leave it open without limiting my game experience.",
-                "timeAgo": "14 minutes ago",
-                "user": {
-                    "name": "ron won"
-                }
-            }
-        ],
-        "user": {
-            "name": "ron won"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 7,
-        "commentCount": 3
     },
     "clq60zkdf00h4is26ojytjgxu": {
         "id": "clq60zkdf00h4is26ojytjgxu",
