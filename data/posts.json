@@ -36,6 +36,36 @@
         "voteCount": 88,
         "commentCount": 3
     },
+    "clg3yuzau086coj205rcnn8fv": {
+        "id": "clg3yuzau086coj205rcnn8fv",
+        "title": "Labyrinth Compass",
+        "body": "Integrate labyrinth compass that pops up when you enter the labyrinth.\n\nAnd download the newest labyrinth layout\n\nProbably does not know witch lab difficulty it is so a popup need to come up and ask.",
+        "timeAgo": "last year",
+        "comments": [
+            {
+                "body": "I love this idea. Even if the steps have to be done manually, it would be better than having to load LabCompass each time.",
+                "timeAgo": "4 quarters ago",
+                "user": {
+                    "name": "TheOne320"
+                }
+            },
+            {
+                "body": "It's technically feasible but we need to see with poelab first if they are okay with us reusing their content. Given how popular the lab gets with the current league we will update this in our priorities. ",
+                "timeAgo": "4 quarters ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
+        "user": {
+            "name": "Zekhap"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 23,
+        "commentCount": 2
+    },
     "clbz80n9p010bk91yvzyu99m4": {
         "id": "clbz80n9p010bk91yvzyu99m4",
         "title": "Evaluate Grand Heist items on the go",
@@ -50,36 +80,6 @@
         },
         "voteCount": 23,
         "commentCount": 0
-    },
-    "clg3yuzau086coj205rcnn8fv": {
-        "id": "clg3yuzau086coj205rcnn8fv",
-        "title": "Labyrinth Compass",
-        "body": "Integrate labyrinth compass that pops up when you enter the labyrinth.\n\nAnd download the newest labyrinth layout\n\nProbably does not know witch lab difficulty it is so a popup need to come up and ask.",
-        "timeAgo": "last year",
-        "comments": [
-            {
-                "body": "I love this idea. Even if the steps have to be done manually, it would be better than having to load LabCompass each time.",
-                "timeAgo": "3 quarters ago",
-                "user": {
-                    "name": "TheOne320"
-                }
-            },
-            {
-                "body": "It's technically feasible but we need to see with poelab first if they are okay with us reusing their content. Given how popular the lab gets with the current league we will update this in our priorities. ",
-                "timeAgo": "3 quarters ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "Zekhap"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 22,
-        "commentCount": 2
     },
     "cktsbp2f547461map1rrkovz8d": {
         "id": "cktsbp2f547461map1rrkovz8d",
