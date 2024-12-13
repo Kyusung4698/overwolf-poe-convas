@@ -744,6 +744,21 @@
         "voteCount": 3,
         "commentCount": 3
     },
+    "cm4mcqeeb01elms2fraho6xw8": {
+        "id": "cm4mcqeeb01elms2fraho6xw8",
+        "title": "Сompatibility POE 2 overlay  with game through GFN",
+        "body": "Playing POE 2 through Geforce Now, and want that POE 2 overlay work with Geforce Now. Is this possible to implement?",
+        "timeAgo": "6 hours ago",
+        "comments": [],
+        "user": {
+            "name": "Дима Дунаев"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 2,
+        "commentCount": 0
+    },
     "clz8qqdqt00n1mg2y23xa5i0j": {
         "id": "clz8qqdqt00n1mg2y23xa5i0j",
         "title": "Mouse [hover] item overlay in the app",
@@ -1079,21 +1094,6 @@
             "name": "Wont Implement"
         },
         "voteCount": 2,
-        "commentCount": 0
-    },
-    "cm4mcqeeb01elms2fraho6xw8": {
-        "id": "cm4mcqeeb01elms2fraho6xw8",
-        "title": "Сompatibility POE 2 overlay  with game through GFN",
-        "body": "Playing POE 2 through Geforce Now, and want that POE 2 overlay work with Geforce Now. Is this possible to implement?",
-        "timeAgo": "16 minutes ago",
-        "comments": [],
-        "user": {
-            "name": "Дима Дунаев"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
         "commentCount": 0
     },
     "cm13vi2l903jxmg2yx2fvaa42": {
