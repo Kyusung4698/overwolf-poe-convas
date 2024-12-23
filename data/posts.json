@@ -335,6 +335,21 @@
         "voteCount": 7,
         "commentCount": 0
     },
+    "clgo8w07f09wgoj20rrwsag9p": {
+        "id": "clgo8w07f09wgoj20rrwsag9p",
+        "title": "Trade statistics system",
+        "body": "We do tons of trades with the help of POE overlay, but we don't know how many, or how much currency did we make, or how much currency we spend on the item.\n\n\nI know there is other software that can track profit like Exilence Next. But we don't have a function to auto-record what or how much did we sell/ buy on one item. \n\nInstead of viewing profit from the overlay afk popup window, we can add an option to turn on/off the trade record and record all the trades into an Excel spreadsheet, either .csv or .txt.\n\nSince the overlay knows the trade was selling or buying, when you finish the trade, typically, you will go for click the send finish button, and then the trade goes away anyway. So we can use that finish button action to confirm and save that trade record.\n\nIn that txt file can show information like time(in the log's timestamp), cost(the overlay already recognized), item name, etc.",
+        "timeAgo": "last year",
+        "comments": [],
+        "user": {
+            "name": "八條麥茶"
+        },
+        "status": {
+            "name": "Accepted"
+        },
+        "voteCount": 7,
+        "commentCount": 0
+    },
     "ckx3rzbui794452skvfl9bv9uw": {
         "id": "ckx3rzbui794452skvfl9bv9uw",
         "title": "Multi Client Option",
@@ -380,21 +395,6 @@
         "voteCount": 6,
         "commentCount": 0
     },
-    "clgo8w07f09wgoj20rrwsag9p": {
-        "id": "clgo8w07f09wgoj20rrwsag9p",
-        "title": "Trade statistics system",
-        "body": "We do tons of trades with the help of POE overlay, but we don't know how many, or how much currency did we make, or how much currency we spend on the item.\n\n\nI know there is other software that can track profit like Exilence Next. But we don't have a function to auto-record what or how much did we sell/ buy on one item. \n\nInstead of viewing profit from the overlay afk popup window, we can add an option to turn on/off the trade record and record all the trades into an Excel spreadsheet, either .csv or .txt.\n\nSince the overlay knows the trade was selling or buying, when you finish the trade, typically, you will go for click the send finish button, and then the trade goes away anyway. So we can use that finish button action to confirm and save that trade record.\n\nIn that txt file can show information like time(in the log's timestamp), cost(the overlay already recognized), item name, etc.",
-        "timeAgo": "last year",
-        "comments": [],
-        "user": {
-            "name": "八條麥茶"
-        },
-        "status": {
-            "name": "Accepted"
-        },
-        "voteCount": 6,
-        "commentCount": 0
-    },
     "cldwfaesc00p0ml1r3ojnaclj": {
         "id": "cldwfaesc00p0ml1r3ojnaclj",
         "title": "Shareable favorited/saved searches",
@@ -417,6 +417,21 @@
         },
         "voteCount": 6,
         "commentCount": 1
+    },
+    "clchq1ohh01ytk91yr2ugbv7g": {
+        "id": "clchq1ohh01ytk91yr2ugbv7g",
+        "title": "Trade whisper validation",
+        "body": "Validate if the whispered price matches the listed price on the trade website. ",
+        "timeAgo": "last year",
+        "comments": [],
+        "user": {
+            "name": "Kyusung"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 6,
+        "commentCount": 0
     },
     "cm4mcqeeb01elms2fraho6xw8": {
         "id": "cm4mcqeeb01elms2fraho6xw8",
@@ -467,21 +482,6 @@
         },
         "status": {
             "name": "Accepted"
-        },
-        "voteCount": 5,
-        "commentCount": 0
-    },
-    "clchq1ohh01ytk91yr2ugbv7g": {
-        "id": "clchq1ohh01ytk91yr2ugbv7g",
-        "title": "Trade whisper validation",
-        "body": "Validate if the whispered price matches the listed price on the trade website. ",
-        "timeAgo": "10 months",
-        "comments": [],
-        "user": {
-            "name": "Kyusung"
-        },
-        "status": {
-            "name": "Open"
         },
         "voteCount": 5,
         "commentCount": 0
@@ -1102,6 +1102,21 @@
             "name": "Wont Implement"
         },
         "voteCount": 2,
+        "commentCount": 0
+    },
+    "cm51blpn301vfms2f129a1why": {
+        "id": "cm51blpn301vfms2f129a1why",
+        "title": "Potential scammer warning using TFT data",
+        "body": "There is a browser plugin that shows the people that are flagged by TFT as potential scammers. \"TFT Trade Extension\". Is it possible to have a similar warning on incoming trades, based on the user?",
+        "timeAgo": "3 minutes ago",
+        "comments": [],
+        "user": {
+            "name": "Leon van Heerden"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
         "commentCount": 0
     },
     "cm13vi2l903jxmg2yx2fvaa42": {
