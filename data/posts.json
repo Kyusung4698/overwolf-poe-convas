@@ -611,20 +611,27 @@
         "id": "clbwklgie00spk91ya5ov0c1x",
         "title": "Ability to save and share settings",
         "body": "It would be great to be able to save and share settings for Evaluate (or anything else). \n\nI am a fan of the new (2 leagues ago) default search settings but I still have several things that I change every time those settings all get reset. I have some friends who also use PoE Overlay and I would like to easily share those settings. ",
-        "timeAgo": "about 1 year",
+        "timeAgo": "2 years ago",
         "comments": [
             {
                 "body": "That's a great idea! I think my only concern is, how we can prevent importing settings from older/newer version(s), may cause some issues if the data structure now longer fits.\nWould this still work for you if you could only import settings from a specific version?",
-                "timeAgo": "about 1 year",
+                "timeAgo": "2 years ago",
                 "user": {
                     "name": "Kyusung"
                 }
             },
             {
                 "body": "yes, though my hope is to not have settings entirely reset when the data structure changes. Some aspects don't change (from user perspective) for things like evaluate settings, keybinds and the like. Much easier said than done. \nBut sharing would make it so only one person in a group would need to update all the settings again. Maybe If it is a popular feature, then you could have a way to import from a list of people",
-                "timeAgo": "about 1 year",
+                "timeAgo": "2 years ago",
                 "user": {
                     "name": "Anonymous #7275"
+                }
+            },
+            {
+                "body": "so? did anything change for past 2 years?\nany options to import-export setting?\nat least manually, by file copy?",
+                "timeAgo": "7 minutes ago",
+                "user": {
+                    "name": "Stas Gunin"
                 }
             }
         ],
@@ -635,7 +642,7 @@
             "name": "Accepted"
         },
         "voteCount": 3,
-        "commentCount": 2
+        "commentCount": 3
     },
     "cl8csqp052928991xj5sgt0nkme": {
         "id": "cl8csqp052928991xj5sgt0nkme",
