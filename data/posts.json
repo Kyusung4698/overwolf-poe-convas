@@ -1111,6 +1111,21 @@
         "voteCount": 2,
         "commentCount": 0
     },
+    "cm51y6p9j01vzms2fvvwua8hk": {
+        "id": "cm51y6p9j01vzms2fvvwua8hk",
+        "title": "POE2: Show type of affix on the left of Evaluate",
+        "body": "Show a P for Prefix and S for Suffix next to the affixes. \n\nCan even show how many pre/suffixes are used and slots available. \n\nThis could be useful since there are some that are dual affixes and there might actually be an open slot available. ",
+        "timeAgo": "17 minutes ago",
+        "comments": [],
+        "user": {
+            "name": "L.POE2"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "cm51xtlmg01vums2fqlxm9gfo": {
         "id": "cm51xtlmg01vums2fqlxm9gfo",
         "title": "Auto select pre/suffixes above a configured Tier for evaluate",
@@ -1130,16 +1145,24 @@
         "id": "cm51xqr8g01vrms2fswjm58ab",
         "title": "Show the Tiers of the Pre/suffixes on Evaluate",
         "body": "POE2 uses the Tier structure starting at T1 for lowest and going up to T10 for best at the moment. Can you show these next to the lines on the right side? Will help to make a quick discission to even bother price checking. ",
-        "timeAgo": "5 minutes ago",
-        "comments": [],
+        "timeAgo": "29 minutes ago",
+        "comments": [
+            {
+                "body": "Just found an item with T11, so there are even higher Tiers. ",
+                "timeAgo": "21 minutes ago",
+                "user": {
+                    "name": "L.POE2"
+                }
+            }
+        ],
         "user": {
-            "name": "Leon van Heerden"
+            "name": "L.POE2"
         },
         "status": {
             "name": "Open"
         },
         "voteCount": 1,
-        "commentCount": 0
+        "commentCount": 1
     },
     "cm51blpn301vfms2f129a1why": {
         "id": "cm51blpn301vfms2f129a1why",
