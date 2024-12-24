@@ -1111,6 +1111,36 @@
         "voteCount": 2,
         "commentCount": 0
     },
+    "cm520i8a101w6ms2f8nms1smz": {
+        "id": "cm520i8a101w6ms2f8nms1smz",
+        "title": "POE2: Track number of times a map has been done. ",
+        "body": "Currently ( v 0.2.2) only the amount of time in a map is accumulated. It would be nice to see how many times I have done a map. ",
+        "timeAgo": "11 minutes ago",
+        "comments": [],
+        "user": {
+            "name": "L.POE2"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
+    "cm520fluj01w2ms2f55fk0ap5": {
+        "id": "cm520fluj01w2ms2f55fk0ap5",
+        "title": "POE2: track deaths",
+        "body": "Can you call /deaths on entering hideout or entering or exiting map. Then keep track per map or per hour the number of deaths. Just for the stats freaks :)",
+        "timeAgo": "13 minutes ago",
+        "comments": [],
+        "user": {
+            "name": "L.POE2"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "cm51y6p9j01vzms2fvvwua8hk": {
         "id": "cm51y6p9j01vzms2fvvwua8hk",
         "title": "POE2: Show type of affix on the left of Evaluate",
