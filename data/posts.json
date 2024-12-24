@@ -96,6 +96,21 @@
         "voteCount": 21,
         "commentCount": 0
     },
+    "clml5z4lh00wan6292rxhsl1p": {
+        "id": "clml5z4lh00wan6292rxhsl1p",
+        "title": "[TRADE] A sound notification when buyer enters H/O",
+        "body": "In addition to the player's name turning green when a buyer enters your H/O, it could be nice to have a toggle for an audio notification as well.",
+        "timeAgo": "last year",
+        "comments": [],
+        "user": {
+            "name": "MalakaJones"
+        },
+        "status": {
+            "name": "Accepted"
+        },
+        "voteCount": 13,
+        "commentCount": 0
+    },
     "clr9fcje900s5oo2i2bnyfjsz": {
         "id": "clr9fcje900s5oo2i2bnyfjsz",
         "title": "trade window ui on multi monitor",
@@ -153,21 +168,6 @@
         },
         "voteCount": 12,
         "commentCount": 6
-    },
-    "clml5z4lh00wan6292rxhsl1p": {
-        "id": "clml5z4lh00wan6292rxhsl1p",
-        "title": "[TRADE] A sound notification when buyer enters H/O",
-        "body": "In addition to the player's name turning green when a buyer enters your H/O, it could be nice to have a toggle for an audio notification as well.",
-        "timeAgo": "last year",
-        "comments": [],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "name": "Accepted"
-        },
-        "voteCount": 12,
-        "commentCount": 0
     },
     "cm03d2x0k01vimg2yh0b5n07t": {
         "id": "cm03d2x0k01vimg2yh0b5n07t",
@@ -1109,6 +1109,36 @@
             "name": "Wont Implement"
         },
         "voteCount": 2,
+        "commentCount": 0
+    },
+    "cm51xtlmg01vums2fqlxm9gfo": {
+        "id": "cm51xtlmg01vums2fqlxm9gfo",
+        "title": "Auto select pre/suffixes above a configured Tier for evaluate",
+        "body": "Have a configured lowest TIER for a prefix/Suffix that will auto select.\n\nWhen selecting an item to price check, all the affixes that are in tiers above the configured value, can be auto selected. \n\nIt does not have to perform the search automatically. ",
+        "timeAgo": "3 minutes ago",
+        "comments": [],
+        "user": {
+            "name": "Leon van Heerden"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
+    "cm51xqr8g01vrms2fswjm58ab": {
+        "id": "cm51xqr8g01vrms2fswjm58ab",
+        "title": "Show the Tiers of the Pre/suffixes on Evaluate",
+        "body": "POE2 uses the Tier structure starting at T1 for lowest and going up to T10 for best at the moment. Can you show these next to the lines on the right side? Will help to make a quick discission to even bother price checking. ",
+        "timeAgo": "5 minutes ago",
+        "comments": [],
+        "user": {
+            "name": "Leon van Heerden"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
         "commentCount": 0
     },
     "cm51blpn301vfms2f129a1why": {
