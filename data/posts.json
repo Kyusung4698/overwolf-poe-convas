@@ -1145,13 +1145,20 @@
         "id": "cm51xqr8g01vrms2fswjm58ab",
         "title": "Show the Tiers of the Pre/suffixes on Evaluate",
         "body": "POE2 uses the Tier structure starting at T1 for lowest and going up to T10 for best at the moment. Can you show these next to the lines on the right side? Will help to make a quick discission to even bother price checking. ",
-        "timeAgo": "29 minutes ago",
+        "timeAgo": "45 minutes ago",
         "comments": [
             {
                 "body": "Just found an item with T11, so there are even higher Tiers. ",
-                "timeAgo": "21 minutes ago",
+                "timeAgo": "36 minutes ago",
                 "user": {
                     "name": "L.POE2"
+                }
+            },
+            {
+                "body": "We will add this the moment they,re introduced in the clipboard info. Right now its only a game visual feature.",
+                "timeAgo": "13 minutes ago",
+                "user": {
+                    "name": "Anonymous #7671"
                 }
             }
         ],
@@ -1162,7 +1169,7 @@
             "name": "Open"
         },
         "voteCount": 1,
-        "commentCount": 1
+        "commentCount": 2
     },
     "cm51blpn301vfms2f129a1why": {
         "id": "cm51blpn301vfms2f129a1why",
