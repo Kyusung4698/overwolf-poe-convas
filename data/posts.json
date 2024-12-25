@@ -169,6 +169,58 @@
         "voteCount": 12,
         "commentCount": 6
     },
+    "ckzd6digy419082umd17bf59lv": {
+        "id": "ckzd6digy419082umd17bf59lv",
+        "title": "add stash tab name to item highlight feature",
+        "body": "abbility to see what stash tab is in when somebody send a trade (you can already see the item name in the bottom left i would like it to also show the stash tab name) \n\n",
+        "timeAgo": "2 years ago",
+        "comments": [
+            {
+                "body": "Hi there, we display the stash name in the upper part of the stash overlay. See the green box in the screenshot below.\nPlease let me know if this is enough, or if you still want the stash name to be displayed somewhere else. Thanks for your feedback!",
+                "timeAgo": "2 years ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            },
+            {
+                "body": "I would love if the bar where the stash name is would be a bit bigger. It's pretty small and hard to read. I would suggest making it the same font size as everything else like the size of the search bar or the stash name.",
+                "timeAgo": "2 years ago",
+                "user": {
+                    "name": "Nico Eschner"
+                }
+            },
+            {
+                "body": "That's valid feedback. Hmm, currently there are some technical restriction preventing me from scaling the whole stash highlight window. I will see how we can improve this. Thanks for your suggestion! ",
+                "timeAgo": "2 years ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
+        "user": {
+            "name": "Anonymous #8216"
+        },
+        "status": {
+            "name": "Accepted"
+        },
+        "voteCount": 9,
+        "commentCount": 3
+    },
+    "ckw8d09ht4165702tnu2q9yrpyu": {
+        "id": "ckw8d09ht4165702tnu2q9yrpyu",
+        "title": "Poe Overlay Market",
+        "body": "Hello, I would like to add a function that allows us to move the poe overlay market where we want in the screen ex:  over the inventory. Move left to right",
+        "timeAgo": "3 years ago",
+        "comments": [],
+        "user": {
+            "name": "Anonymous #7378"
+        },
+        "status": {
+            "name": "Accepted"
+        },
+        "voteCount": 9,
+        "commentCount": 0
+    },
     "cm03d2x0k01vimg2yh0b5n07t": {
         "id": "cm03d2x0k01vimg2yh0b5n07t",
         "title": "multiple monitor overlay on top of game",
@@ -223,58 +275,6 @@
         "comments": [],
         "user": {
             "name": "MalakaJones"
-        },
-        "status": {
-            "name": "Accepted"
-        },
-        "voteCount": 8,
-        "commentCount": 0
-    },
-    "ckzd6digy419082umd17bf59lv": {
-        "id": "ckzd6digy419082umd17bf59lv",
-        "title": "add stash tab name to item highlight feature",
-        "body": "abbility to see what stash tab is in when somebody send a trade (you can already see the item name in the bottom left i would like it to also show the stash tab name) \n\n",
-        "timeAgo": "2 years ago",
-        "comments": [
-            {
-                "body": "Hi there, we display the stash name in the upper part of the stash overlay. See the green box in the screenshot below.\nPlease let me know if this is enough, or if you still want the stash name to be displayed somewhere else. Thanks for your feedback!",
-                "timeAgo": "2 years ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            },
-            {
-                "body": "I would love if the bar where the stash name is would be a bit bigger. It's pretty small and hard to read. I would suggest making it the same font size as everything else like the size of the search bar or the stash name.",
-                "timeAgo": "2 years ago",
-                "user": {
-                    "name": "Nico Eschner"
-                }
-            },
-            {
-                "body": "That's valid feedback. Hmm, currently there are some technical restriction preventing me from scaling the whole stash highlight window. I will see how we can improve this. Thanks for your suggestion! ",
-                "timeAgo": "2 years ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "Anonymous #8216"
-        },
-        "status": {
-            "name": "Accepted"
-        },
-        "voteCount": 8,
-        "commentCount": 3
-    },
-    "ckw8d09ht4165702tnu2q9yrpyu": {
-        "id": "ckw8d09ht4165702tnu2q9yrpyu",
-        "title": "Poe Overlay Market",
-        "body": "Hello, I would like to add a function that allows us to move the poe overlay market where we want in the screen ex:  over the inventory. Move left to right",
-        "timeAgo": "3 years ago",
-        "comments": [],
-        "user": {
-            "name": "Anonymous #7378"
         },
         "status": {
             "name": "Accepted"
