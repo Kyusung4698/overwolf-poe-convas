@@ -1126,6 +1126,36 @@
         "voteCount": 2,
         "commentCount": 0
     },
+    "cm55syeva002emx2y3e1ozkaz": {
+        "id": "cm55syeva002emx2y3e1ozkaz",
+        "title": "HDR fix for Overlay",
+        "body": "Hey,\n\nOverlay looks completely broken when using HDR. Is it possible to fix this somehow?\n\nRn i've disabled HDR in favour of the Overlay ;)\n\nGreatly appreciated! &lt;3",
+        "timeAgo": "7 minutes ago",
+        "comments": [],
+        "user": {
+            "name": "Onkèlbé"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
+    "cm55ssy3q002amx2yb3e2lqbw": {
+        "id": "cm55ssy3q002amx2yb3e2lqbw",
+        "title": "+Add Search Query String Generator",
+        "body": "Hello!\n\nCreating a Search Query is a very tedious experience.\n\nWould it be possible to add a generator that creates the search string you want?  With options that are relevant, like quality, tier, level, type, properties etc etc ?\n\nGreatly appreciated! &lt;3",
+        "timeAgo": "11 minutes ago",
+        "comments": [],
+        "user": {
+            "name": "Onkèlbé"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "cm55rnwxd0024mx2yag6ll6fm": {
         "id": "cm55rnwxd0024mx2yag6ll6fm",
         "title": "Option to filter Item Rarity Tier in overlay search",
