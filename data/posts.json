@@ -207,6 +207,21 @@
         "voteCount": 9,
         "commentCount": 1
     },
+    "clchq1ohh01ytk91yr2ugbv7g": {
+        "id": "clchq1ohh01ytk91yr2ugbv7g",
+        "title": "Trade whisper validation",
+        "body": "Validate if the whispered price matches the listed price on the trade website. ",
+        "timeAgo": "last year",
+        "comments": [],
+        "user": {
+            "name": "Kyusung"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 9,
+        "commentCount": 0
+    },
     "ckzd6digy419082umd17bf59lv": {
         "id": "ckzd6digy419082umd17bf59lv",
         "title": "add stash tab name to item highlight feature",
@@ -346,21 +361,6 @@
         },
         "status": {
             "name": "Accepted"
-        },
-        "voteCount": 7,
-        "commentCount": 0
-    },
-    "clchq1ohh01ytk91yr2ugbv7g": {
-        "id": "clchq1ohh01ytk91yr2ugbv7g",
-        "title": "Trade whisper validation",
-        "body": "Validate if the whispered price matches the listed price on the trade website. ",
-        "timeAgo": "last year",
-        "comments": [],
-        "user": {
-            "name": "Kyusung"
-        },
-        "status": {
-            "name": "Open"
         },
         "voteCount": 7,
         "commentCount": 0
