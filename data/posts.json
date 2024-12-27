@@ -169,21 +169,6 @@
         "voteCount": 12,
         "commentCount": 6
     },
-    "ckw8d09ht4165702tnu2q9yrpyu": {
-        "id": "ckw8d09ht4165702tnu2q9yrpyu",
-        "title": "Poe Overlay Market",
-        "body": "Hello, I would like to add a function that allows us to move the poe overlay market where we want in the screen ex:  over the inventory. Move left to right",
-        "timeAgo": "3 years ago",
-        "comments": [],
-        "user": {
-            "name": "Anonymous #7378"
-        },
-        "status": {
-            "name": "Accepted"
-        },
-        "voteCount": 10,
-        "commentCount": 0
-    },
     "cllwimuxd009tn629xmdqyvie": {
         "id": "cllwimuxd009tn629xmdqyvie",
         "title": "Default Market Filters (permanently enabled options)",
@@ -204,8 +189,23 @@
         "status": {
             "name": "Open"
         },
-        "voteCount": 9,
+        "voteCount": 10,
         "commentCount": 1
+    },
+    "ckw8d09ht4165702tnu2q9yrpyu": {
+        "id": "ckw8d09ht4165702tnu2q9yrpyu",
+        "title": "Poe Overlay Market",
+        "body": "Hello, I would like to add a function that allows us to move the poe overlay market where we want in the screen ex:  over the inventory. Move left to right",
+        "timeAgo": "3 years ago",
+        "comments": [],
+        "user": {
+            "name": "Anonymous #7378"
+        },
+        "status": {
+            "name": "Accepted"
+        },
+        "voteCount": 10,
+        "commentCount": 0
     },
     "clchq1ohh01ytk91yr2ugbv7g": {
         "id": "clchq1ohh01ytk91yr2ugbv7g",
