@@ -752,6 +752,43 @@
         "voteCount": 3,
         "commentCount": 11
     },
+    "cl7b0se3776455824q39vrnjbgl": {
+        "id": "cl7b0se3776455824q39vrnjbgl",
+        "title": "Shortcuts for Evaluate",
+        "body": "That'd be great if we could have a way to directly evaluate the exact value of selected stat(s) with right click or scroll click (or custom keybind) \n\nLeft click would keep the \"min/max range and Right click would copy the same stat value. (see picture to understand what I mean)\n\n",
+        "timeAgo": "2 years ago",
+        "comments": [
+            {
+                "body": "no content.",
+                "timeAgo": "2 years ago",
+                "user": {
+                    "name": "Laureano Gorozito"
+                }
+            },
+            {
+                "body": "Hi there, that's a good suggestion. I will see how I can implement this, so it's clear for everyone. Thanks!",
+                "timeAgo": "2 years ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            },
+            {
+                "body": "Would be very nice to be able to choose max stat search instead of only min search! .:D <3",
+                "timeAgo": "4 minutes ago",
+                "user": {
+                    "name": "Onkèlbé"
+                }
+            }
+        ],
+        "user": {
+            "name": "jaylay99"
+        },
+        "status": {
+            "name": "Accepted"
+        },
+        "voteCount": 3,
+        "commentCount": 3
+    },
     "cktsbp2fx47477map1602cke1k": {
         "id": "cktsbp2fx47477map1602cke1k",
         "title": "Party member highlight when trading",
@@ -1020,36 +1057,6 @@
         },
         "voteCount": 2,
         "commentCount": 3
-    },
-    "cl7b0se3776455824q39vrnjbgl": {
-        "id": "cl7b0se3776455824q39vrnjbgl",
-        "title": "Shortcuts for Evaluate",
-        "body": "That'd be great if we could have a way to directly evaluate the exact value of selected stat(s) with right click or scroll click (or custom keybind) \n\nLeft click would keep the \"min/max range and Right click would copy the same stat value. (see picture to understand what I mean)\n\n",
-        "timeAgo": "about 1 month",
-        "comments": [
-            {
-                "body": "no content.",
-                "timeAgo": "11 days",
-                "user": {
-                    "name": "Laureano Gorozito"
-                }
-            },
-            {
-                "body": "Hi there, that's a good suggestion. I will see how I can implement this, so it's clear for everyone. Thanks!",
-                "timeAgo": "25 minutes",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "jaylay99"
-        },
-        "status": {
-            "name": "Accepted"
-        },
-        "voteCount": 2,
-        "commentCount": 2
     },
     "cl5nz8tc42184752yowlo4x28j2": {
         "id": "cl5nz8tc42184752yowlo4x28j2",
