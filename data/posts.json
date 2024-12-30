@@ -290,9 +290,16 @@
         "comments": [
             {
                 "body": "Would this be like \"Activate Live Search\" in POE Trade? If so, I would really like this feature. Especially if can have with several active tabs and a little ball appears in that tab along with a sound when an item is entered. Just like it is on the POE Trade website.",
-                "timeAgo": "15 minutes ago",
+                "timeAgo": "35 minutes ago",
                 "user": {
                     "name": "Vinícius Miranda"
+                }
+            },
+            {
+                "body": " This post is not about live search, but we are working on porting it to Overlay II at the moment stay tuned.",
+                "timeAgo": "19 minutes ago",
+                "user": {
+                    "name": "Anonymous #7671"
                 }
             }
         ],
@@ -303,7 +310,7 @@
             "name": "Accepted"
         },
         "voteCount": 8,
-        "commentCount": 1
+        "commentCount": 2
     },
     "clb40eb3p006pny1z2lfph6y9": {
         "id": "clb40eb3p006pny1z2lfph6y9",
