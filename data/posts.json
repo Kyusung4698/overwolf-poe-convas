@@ -282,6 +282,29 @@
         "voteCount": 8,
         "commentCount": 1
     },
+    "clq60zkdf00h4is26ojytjgxu": {
+        "id": "clq60zkdf00h4is26ojytjgxu",
+        "title": "[Evaluate] Toggle for enabling/disabling auto search",
+        "body": "A toggle in the preferences that could let us enable or disable auto search when pressing alt+d (evaluate).",
+        "timeAgo": "last year",
+        "comments": [
+            {
+                "body": "Would this be like \"Activate Live Search\" in POE Trade? If so, I would really like this feature. Especially if can have with several active tabs and a little ball appears in that tab along with a sound when an item is entered. Just like it is on the POE Trade website.",
+                "timeAgo": "15 minutes ago",
+                "user": {
+                    "name": "Vinícius Miranda"
+                }
+            }
+        ],
+        "user": {
+            "name": "MalakaJones"
+        },
+        "status": {
+            "name": "Accepted"
+        },
+        "voteCount": 8,
+        "commentCount": 1
+    },
     "clb40eb3p006pny1z2lfph6y9": {
         "id": "clb40eb3p006pny1z2lfph6y9",
         "title": "[EVALUATE] Have the Evaluate window filter by date",
@@ -319,21 +342,6 @@
         },
         "voteCount": 8,
         "commentCount": 1
-    },
-    "clq60zkdf00h4is26ojytjgxu": {
-        "id": "clq60zkdf00h4is26ojytjgxu",
-        "title": "[Evaluate] Toggle for enabling/disabling auto search",
-        "body": "A toggle in the preferences that could let us enable or disable auto search when pressing alt+d (evaluate).",
-        "timeAgo": "2 quarters ago",
-        "comments": [],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "name": "Accepted"
-        },
-        "voteCount": 7,
-        "commentCount": 0
     },
     "cli846ap401dvos280kzwp7vj": {
         "id": "cli846ap401dvos280kzwp7vj",
