@@ -852,8 +852,16 @@
         "id": "cm55syeva002emx2y3e1ozkaz",
         "title": "HDR fix for Overlay",
         "body": "Hey,\n\nOverlay looks completely broken when using HDR. Is it possible to fix this somehow?\n\nRn i've disabled HDR in favour of the Overlay ;)\n\nGreatly appreciated! &lt;3",
-        "timeAgo": "4 days ago",
-        "comments": [],
+        "timeAgo": "5 days ago",
+        "comments": [
+            {
+                "body": "Thank you",
+                "timeAgo": "10 minutes ago",
+                "user": {
+                    "name": "Will Scarlett"
+                }
+            }
+        ],
         "user": {
             "name": "Onkèlbé"
         },
@@ -861,7 +869,7 @@
             "name": "In Progress"
         },
         "voteCount": 2,
-        "commentCount": 0
+        "commentCount": 1
     },
     "cm520fluj01w2ms2f55fk0ap5": {
         "id": "cm520fluj01w2ms2f55fk0ap5",
