@@ -207,6 +207,29 @@
         "voteCount": 10,
         "commentCount": 0
     },
+    "cm03d2x0k01vimg2yh0b5n07t": {
+        "id": "cm03d2x0k01vimg2yh0b5n07t",
+        "title": "multiple monitor overlay on top of game",
+        "body": "i would really like to have the f9 overlay ingame while having two monitors. this way i would not have to use alt-tab to get to f9 menu. I suggest adding an option for that to override two monitors detection",
+        "timeAgo": "last quarter",
+        "comments": [
+            {
+                "body": "to reiterate, there should be \noption\n to disable multi-monitor detection, so that the whole poe overlay can be inside the game even when having two monitors",
+                "timeAgo": "last quarter",
+                "user": {
+                    "name": "Tellegar"
+                }
+            }
+        ],
+        "user": {
+            "name": "Tellegar"
+        },
+        "status": {
+            "name": "Accepted"
+        },
+        "voteCount": 9,
+        "commentCount": 1
+    },
     "clchq1ohh01ytk91yr2ugbv7g": {
         "id": "clchq1ohh01ytk91yr2ugbv7g",
         "title": "Trade whisper validation",
@@ -258,29 +281,6 @@
         },
         "voteCount": 9,
         "commentCount": 3
-    },
-    "cm03d2x0k01vimg2yh0b5n07t": {
-        "id": "cm03d2x0k01vimg2yh0b5n07t",
-        "title": "multiple monitor overlay on top of game",
-        "body": "i would really like to have the f9 overlay ingame while having two monitors. this way i would not have to use alt-tab to get to f9 menu. I suggest adding an option for that to override two monitors detection",
-        "timeAgo": "2 months ago",
-        "comments": [
-            {
-                "body": "to reiterate, there should be \noption\n to disable multi-monitor detection, so that the whole poe overlay can be inside the game even when having two monitors",
-                "timeAgo": "2 months ago",
-                "user": {
-                    "name": "Tellegar"
-                }
-            }
-        ],
-        "user": {
-            "name": "Tellegar"
-        },
-        "status": {
-            "name": "Accepted"
-        },
-        "voteCount": 8,
-        "commentCount": 1
     },
     "clq60zkdf00h4is26ojytjgxu": {
         "id": "clq60zkdf00h4is26ojytjgxu",
@@ -544,6 +544,36 @@
             "name": "Wont Implement"
         },
         "voteCount": 4,
+        "commentCount": 0
+    },
+    "cm520fluj01w2ms2f55fk0ap5": {
+        "id": "cm520fluj01w2ms2f55fk0ap5",
+        "title": "POE2: track deaths",
+        "body": "Can you call /deaths on entering hideout or entering or exiting map. Then keep track per map or per hour the number of deaths. Just for the stats freaks :)",
+        "timeAgo": "last week",
+        "comments": [],
+        "user": {
+            "name": "L.POE2"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 3,
+        "commentCount": 0
+    },
+    "clz8qqdqt00n1mg2y23xa5i0j": {
+        "id": "clz8qqdqt00n1mg2y23xa5i0j",
+        "title": "Mouse [hover] item overlay in the app",
+        "body": "in the POB website, when you hover your mouse on an item/gem, it displays what the item looks like, where it can be aquired etc.. in the poe overlay application, that does not happen making new players (like me) require to have either both the application and the website open, or, to discard the application and only use the pob website. \n\nnote: this is a suggestion for the [builds] tab, just to clear any possible confusion.\n\n(and since im already making this feature suggestion, the link to the wiki like its displayed in the lower right corner would be pretty nice).",
+        "timeAgo": "last quarter",
+        "comments": [],
+        "user": {
+            "name": "TheDarling"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 3,
         "commentCount": 0
     },
     "clx28c9mo00o5sh2ftbmqecry": {
@@ -870,36 +900,6 @@
         },
         "voteCount": 2,
         "commentCount": 1
-    },
-    "cm520fluj01w2ms2f55fk0ap5": {
-        "id": "cm520fluj01w2ms2f55fk0ap5",
-        "title": "POE2: track deaths",
-        "body": "Can you call /deaths on entering hideout or entering or exiting map. Then keep track per map or per hour the number of deaths. Just for the stats freaks :)",
-        "timeAgo": "yesterday",
-        "comments": [],
-        "user": {
-            "name": "L.POE2"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 2,
-        "commentCount": 0
-    },
-    "clz8qqdqt00n1mg2y23xa5i0j": {
-        "id": "clz8qqdqt00n1mg2y23xa5i0j",
-        "title": "Mouse [hover] item overlay in the app",
-        "body": "in the POB website, when you hover your mouse on an item/gem, it displays what the item looks like, where it can be aquired etc.. in the poe overlay application, that does not happen making new players (like me) require to have either both the application and the website open, or, to discard the application and only use the pob website. \n\nnote: this is a suggestion for the [builds] tab, just to clear any possible confusion.\n\n(and since im already making this feature suggestion, the link to the wiki like its displayed in the lower right corner would be pretty nice).",
-        "timeAgo": "2 months ago",
-        "comments": [],
-        "user": {
-            "name": "TheDarling"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 2,
-        "commentCount": 0
     },
     "clvcm9k4r0147oz33nppdsr4q": {
         "id": "clvcm9k4r0147oz33nppdsr4q",
