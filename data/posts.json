@@ -410,6 +410,21 @@
         "voteCount": 7,
         "commentCount": 2
     },
+    "cluy6sk1100a5oz33r58dl6n6": {
+        "id": "cluy6sk1100a5oz33r58dl6n6",
+        "title": "Divine orb breakdown for change calculation",
+        "body": "Problem:\n\nWhen the buyer asks for a change from div, it is tedious to calculate it.\n\nExample: price is 1.8 div. Buyer has 2 div and asks for change. Need to give 0.2 div in chaos.\n\nCurrent flow is:\n\nPrice check div price.\n\nOpen calculator to calculate or do it in your head.\n\nAwakened poe has a divine break down chart: https://www.reddit.com/r/pathofexile/comments/194fj8p/psa_if_youre_using_awakened_poe_trade_theres_a/\n\nProposal:\n\nDo something similar to Awakened poe\n\nor\n\nAutomatically calculate change in the trade list. Put it somewhere - add a button to show it, or in the hover message when hovering the price.",
+        "timeAgo": "3 quarters ago",
+        "comments": [],
+        "user": {
+            "name": "Ruslan Anikaev"
+        },
+        "status": {
+            "name": "Accepted"
+        },
+        "voteCount": 6,
+        "commentCount": 0
+    },
     "clmkyc7om00vgn629qxsmckuq": {
         "id": "clmkyc7om00vgn629qxsmckuq",
         "title": "Automatically select fractured mods in item evaluation",
@@ -477,21 +492,6 @@
         },
         "voteCount": 5,
         "commentCount": 2
-    },
-    "cluy6sk1100a5oz33r58dl6n6": {
-        "id": "cluy6sk1100a5oz33r58dl6n6",
-        "title": "Divine orb breakdown for change calculation",
-        "body": "Problem:\n\nWhen the buyer asks for a change from div, it is tedious to calculate it.\n\nExample: price is 1.8 div. Buyer has 2 div and asks for change. Need to give 0.2 div in chaos.\n\nCurrent flow is:\n\nPrice check div price.\n\nOpen calculator to calculate or do it in your head.\n\nAwakened poe has a divine break down chart: https://www.reddit.com/r/pathofexile/comments/194fj8p/psa_if_youre_using_awakened_poe_trade_theres_a/\n\nProposal:\n\nDo something similar to Awakened poe\n\nor\n\nAutomatically calculate change in the trade list. Put it somewhere - add a button to show it, or in the hover message when hovering the price.",
-        "timeAgo": "last quarter",
-        "comments": [],
-        "user": {
-            "name": "Ruslan Anikaev"
-        },
-        "status": {
-            "name": "Accepted"
-        },
-        "voteCount": 5,
-        "commentCount": 0
     },
     "clgj1nu3i09feoj20jv6j2bdp": {
         "id": "clgj1nu3i09feoj20jv6j2bdp",
