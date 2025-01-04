@@ -1193,6 +1193,21 @@
         "voteCount": 2,
         "commentCount": 0
     },
+    "cm5hizcz1002rri2yci24zmx0": {
+        "id": "cm5hizcz1002rri2yci24zmx0",
+        "title": "Stream Deck support",
+        "body": "Maybe a good consideration would be Stream deck POE2 Overlay plugin. Adding connections to all trade actions, market check and so on.",
+        "timeAgo": "3 minutes ago",
+        "comments": [],
+        "user": {
+            "name": "MichalJes"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "cm59kp71n0057mx2y4r68ukkr": {
         "id": "cm59kp71n0057mx2y4r68ukkr",
         "title": "Ingame Market Resize",
