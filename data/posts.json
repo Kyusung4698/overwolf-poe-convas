@@ -546,6 +546,44 @@
         "voteCount": 4,
         "commentCount": 1
     },
+    "cm5hizcz1002rri2yci24zmx0": {
+        "id": "cm5hizcz1002rri2yci24zmx0",
+        "title": "Stream Deck support",
+        "body": "Maybe a good consideration would be Stream deck POE2 Overlay plugin. Adding connections to all trade actions, market check and so on.",
+        "timeAgo": "9 hours ago",
+        "comments": [],
+        "user": {
+            "name": "MichalJes"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 3,
+        "commentCount": 0
+    },
+    "cm55syeva002emx2y3e1ozkaz": {
+        "id": "cm55syeva002emx2y3e1ozkaz",
+        "title": "HDR fix for Overlay",
+        "body": "Hey,\n\nOverlay looks completely broken when using HDR. Is it possible to fix this somehow?\n\nRn i've disabled HDR in favour of the Overlay ;)\n\nGreatly appreciated! &lt;3",
+        "timeAgo": "last week",
+        "comments": [
+            {
+                "body": "Thank you",
+                "timeAgo": "4 days ago",
+                "user": {
+                    "name": "Will Scarlett"
+                }
+            }
+        ],
+        "user": {
+            "name": "Onkèlbé"
+        },
+        "status": {
+            "name": "In Progress"
+        },
+        "voteCount": 3,
+        "commentCount": 1
+    },
     "cm520fluj01w2ms2f55fk0ap5": {
         "id": "cm520fluj01w2ms2f55fk0ap5",
         "title": "POE2: track deaths",
@@ -878,29 +916,6 @@
         "voteCount": 3,
         "commentCount": 3
     },
-    "cm55syeva002emx2y3e1ozkaz": {
-        "id": "cm55syeva002emx2y3e1ozkaz",
-        "title": "HDR fix for Overlay",
-        "body": "Hey,\n\nOverlay looks completely broken when using HDR. Is it possible to fix this somehow?\n\nRn i've disabled HDR in favour of the Overlay ;)\n\nGreatly appreciated! &lt;3",
-        "timeAgo": "5 days ago",
-        "comments": [
-            {
-                "body": "Thank you",
-                "timeAgo": "10 minutes ago",
-                "user": {
-                    "name": "Will Scarlett"
-                }
-            }
-        ],
-        "user": {
-            "name": "Onkèlbé"
-        },
-        "status": {
-            "name": "In Progress"
-        },
-        "voteCount": 2,
-        "commentCount": 1
-    },
     "clvcm9k4r0147oz33nppdsr4q": {
         "id": "clvcm9k4r0147oz33nppdsr4q",
         "title": "Add skillgems to market from POB view ",
@@ -1191,21 +1206,6 @@
             "name": "Wont Implement"
         },
         "voteCount": 2,
-        "commentCount": 0
-    },
-    "cm5hizcz1002rri2yci24zmx0": {
-        "id": "cm5hizcz1002rri2yci24zmx0",
-        "title": "Stream Deck support",
-        "body": "Maybe a good consideration would be Stream deck POE2 Overlay plugin. Adding connections to all trade actions, market check and so on.",
-        "timeAgo": "3 minutes ago",
-        "comments": [],
-        "user": {
-            "name": "MichalJes"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
         "commentCount": 0
     },
     "cm59kp71n0057mx2y4r68ukkr": {
