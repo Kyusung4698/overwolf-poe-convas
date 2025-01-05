@@ -1208,6 +1208,21 @@
         "voteCount": 2,
         "commentCount": 0
     },
+    "cm5jpjyt7004rri2y55yhkq72": {
+        "id": "cm5jpjyt7004rri2y55yhkq72",
+        "title": "Resize",
+        "body": "Quality of Life Suggestion: It would be great to have the option to resize the in-game overlay, as it can sometimes feel too intrusive when trying to compare items in our inventory. Adding more customization options for the overlay would be fantastic. Additionally, separating item filters from search filters could make the interface much more user-friendly.",
+        "timeAgo": "13 minutes ago",
+        "comments": [],
+        "user": {
+            "name": "Louis Despres"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "cm5jpdi0z004ori2y6oem254y": {
         "id": "cm5jpdi0z004ori2y6oem254y",
         "title": "Trials Filter",
