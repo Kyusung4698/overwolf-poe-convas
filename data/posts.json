@@ -1208,6 +1208,29 @@
         "voteCount": 2,
         "commentCount": 0
     },
+    "cm5mnba0g0077ri2y5kdtrqx5": {
+        "id": "cm5mnba0g0077ri2y5kdtrqx5",
+        "title": "Valuable Items Highlight",
+        "body": "It would be great if we had an option some  hotkey that would look at inventories or open stash tabs and determine wether items are \"Valuable\". This would be a NON API check initially and would work like this. \n\nHotkey is triggered.\n\nOverlay looks at all items, in all slots and passes each item through a parser.\n\nThe parser then checks to see the following stats on that item.\n\nTier of Affix\n\nRoll of Affix\n\nDesireability of Affix\n\nSynergized Affixes (Eg Crit Damage + Crit Chance)\n\nOverlay \"Weights\" the affixes and highlights them from worst to best based on their rolls &amp; affixes for that item type.\n\nWhy?\n\nThis would help users quickly sort out what items are worth putting in a sale tab, or safe to disenchant/drop. It could then later encourage a \"Good value\" for the sale item",
+        "timeAgo": "10 minutes ago",
+        "comments": [
+            {
+                "body": "Forgot to mention this request is for PoE2 Overlay",
+                "timeAgo": "8 minutes ago",
+                "user": {
+                    "name": "mkaulfers"
+                }
+            }
+        ],
+        "user": {
+            "name": "mkaulfers"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 1
+    },
     "cm5jpjyt7004rri2y55yhkq72": {
         "id": "cm5jpjyt7004rri2y55yhkq72",
         "title": "Resize",
