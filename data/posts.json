@@ -588,8 +588,16 @@
         "id": "cm520fluj01w2ms2f55fk0ap5",
         "title": "POE2: track deaths",
         "body": "Can you call /deaths on entering hideout or entering or exiting map. Then keep track per map or per hour the number of deaths. Just for the stats freaks :)",
-        "timeAgo": "last week",
-        "comments": [],
+        "timeAgo": "2 weeks ago",
+        "comments": [
+            {
+                "body": "This would also be useful while leveling and the over mapping and loss of exp. \nMaybe also keep track of the map tier that you died in to allow you to better decide which to do until you level up. ",
+                "timeAgo": "1 minute ago",
+                "user": {
+                    "name": "L.POE2"
+                }
+            }
+        ],
         "user": {
             "name": "L.POE2"
         },
@@ -597,7 +605,7 @@
             "name": "Open"
         },
         "voteCount": 3,
-        "commentCount": 0
+        "commentCount": 1
     },
     "clz8qqdqt00n1mg2y23xa5i0j": {
         "id": "clz8qqdqt00n1mg2y23xa5i0j",
