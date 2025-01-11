@@ -592,7 +592,14 @@
         "comments": [
             {
                 "body": "This would also be useful while leveling and the over mapping and loss of exp. \nMaybe also keep track of the map tier that you died in to allow you to better decide which to do until you level up. ",
-                "timeAgo": "1 minute ago",
+                "timeAgo": "3 days ago",
+                "user": {
+                    "name": "L.POE2"
+                }
+            },
+            {
+                "body": "Can you potentially add a facility to copy the MAP modifiers to track with a hot key, before you slot it into the map device. Then track if you complete or die in the map. \nThen keep stats of success and failed attributes and maps.",
+                "timeAgo": "12 minutes ago",
                 "user": {
                     "name": "L.POE2"
                 }
@@ -605,7 +612,7 @@
             "name": "Open"
         },
         "voteCount": 3,
-        "commentCount": 1
+        "commentCount": 2
     },
     "clz8qqdqt00n1mg2y23xa5i0j": {
         "id": "clz8qqdqt00n1mg2y23xa5i0j",
@@ -923,6 +930,21 @@
         },
         "voteCount": 3,
         "commentCount": 3
+    },
+    "cm59kp71n0057mx2y4r68ukkr": {
+        "id": "cm59kp71n0057mx2y4r68ukkr",
+        "title": "Ingame Market Resize",
+        "body": "Hello, i would love to be able to resize the ingame market panel specially in height but the width can be nice too.",
+        "timeAgo": "last week",
+        "comments": [],
+        "user": {
+            "name": "Exxaxion Reav"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 2,
+        "commentCount": 0
     },
     "clvcm9k4r0147oz33nppdsr4q": {
         "id": "clvcm9k4r0147oz33nppdsr4q",
@@ -1322,21 +1344,6 @@
         "comments": [],
         "user": {
             "name": "DEvolve101"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
-        "commentCount": 0
-    },
-    "cm59kp71n0057mx2y4r68ukkr": {
-        "id": "cm59kp71n0057mx2y4r68ukkr",
-        "title": "Ingame Market Resize",
-        "body": "Hello, i would love to be able to resize the ingame market panel specially in height but the width can be nice too.",
-        "timeAgo": "15 minutes ago",
-        "comments": [],
-        "user": {
-            "name": "Exxaxion Reav"
         },
         "status": {
             "name": "Open"
