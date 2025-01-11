@@ -1216,6 +1216,21 @@
         "voteCount": 2,
         "commentCount": 0
     },
+    "cm5rynr8v000eih2xz4wd5tkc": {
+        "id": "cm5rynr8v000eih2xz4wd5tkc",
+        "title": "Custom \"Profanity\" Filter (Block RMT website names)",
+        "body": "So you could add certain phrases/website names like \"POE2Items4Sale\" and it would filter them from your messages - could have a secondary option to \"Auto-Ignore\" too.",
+        "timeAgo": "19 minutes ago",
+        "comments": [],
+        "user": {
+            "name": "Anonymous #19850"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "cm5mut67l0082ri2ymjtpjv0e": {
         "id": "cm5mut67l0082ri2ymjtpjv0e",
         "title": "list of your most wanted items during a session",
