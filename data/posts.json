@@ -96,6 +96,21 @@
         "voteCount": 21,
         "commentCount": 0
     },
+    "cm5is1k24004ari2y6x4qwc4s": {
+        "id": "cm5is1k24004ari2y6x4qwc4s",
+        "title": "PC - Controller Layout: Fix for highlight Item",
+        "body": "PoE for some reason made two different potions for the stash tabs. If you log in with controller it moves the stash tabs. I still use mouse when interacting with PoE Overlay but would love if the highlight could align if using controller layout. ",
+        "timeAgo": "2 weeks ago",
+        "comments": [],
+        "user": {
+            "name": "DEvolve101"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 20,
+        "commentCount": 0
+    },
     "clr9fcje900s5oo2i2bnyfjsz": {
         "id": "clr9fcje900s5oo2i2bnyfjsz",
         "title": "trade window ui on multi monitor",
@@ -930,21 +945,6 @@
         },
         "voteCount": 3,
         "commentCount": 3
-    },
-    "cm5is1k24004ari2y6x4qwc4s": {
-        "id": "cm5is1k24004ari2y6x4qwc4s",
-        "title": "PC - Controller Layout: Fix for highlight Item",
-        "body": "PoE for some reason made two different potions for the stash tabs. If you log in with controller it moves the stash tabs. I still use mouse when interacting with PoE Overlay but would love if the highlight could align if using controller layout. ",
-        "timeAgo": "2 weeks ago",
-        "comments": [],
-        "user": {
-            "name": "DEvolve101"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 2,
-        "commentCount": 0
     },
     "cm59kp71n0057mx2y4r68ukkr": {
         "id": "cm59kp71n0057mx2y4r68ukkr",
