@@ -129,7 +129,7 @@
         "id": "cktsbp2f547461map1rrkovz8d",
         "title": "Programable timer on active trades",
         "body": "Some timer that could be set to a fixed amount and where active trades in the trade module would auto clear when that timer ends.",
-        "timeAgo": "3 years ago",
+        "timeAgo": "4 years ago",
         "comments": [],
         "user": {
             "name": "MalakaJones"
@@ -137,7 +137,7 @@
         "status": {
             "name": "Accepted"
         },
-        "voteCount": 21,
+        "voteCount": 22,
         "commentCount": 0
     },
     "clr9fcje900s5oo2i2bnyfjsz": {
