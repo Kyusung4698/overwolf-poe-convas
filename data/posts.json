@@ -44,23 +44,30 @@
         "comments": [
             {
                 "body": "Хотелось бы что бы на контролере были видны верные разметки при продаже в сундуке.   ",
-                "timeAgo": "17 minutes ago",
+                "timeAgo": "5 days ago",
                 "user": {
                     "name": "Anonymous #19857"
                 }
             },
             {
                 "body": "Good afternoon, please add the interface shift function for the controller, it is not very convenient to play with the controller, but there is no trading, positions are not displayed correctly when playing with the controller. It would be very convenient to adjust this to the controller, rather than constantly switching between input methods.",
-                "timeAgo": "14 minutes ago",
+                "timeAgo": "5 days ago",
                 "user": {
                     "name": "Gaz"
                 }
             },
             {
                 "body": "Hi I would like to play see controller",
-                "timeAgo": "5 minutes ago",
+                "timeAgo": "5 days ago",
                 "user": {
                     "name": "Anonymous #19859"
+                }
+            },
+            {
+                "body": "This has been added in version 0.9.0+ Thanks for the feedback! ",
+                "timeAgo": "7 minutes ago",
+                "user": {
+                    "name": "Kyusung"
                 }
             }
         ],
@@ -68,10 +75,10 @@
             "name": "DEvolve101"
         },
         "status": {
-            "name": "Open"
+            "name": "Completed"
         },
         "voteCount": 41,
-        "commentCount": 3
+        "commentCount": 4
     },
     "clbz80n9p010bk91yvzyu99m4": {
         "id": "clbz80n9p010bk91yvzyu99m4",
