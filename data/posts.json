@@ -1282,6 +1282,21 @@
         "voteCount": 2,
         "commentCount": 0
     },
+    "cm62vh4bo00k4ih2xw88u51pv": {
+        "id": "cm62vh4bo00k4ih2xw88u51pv",
+        "title": "Reset hotkeys",
+        "body": "Please add a button to the settings that allows you to reset all hotkeys to their default values.",
+        "timeAgo": "14 minutes ago",
+        "comments": [],
+        "user": {
+            "name": "TheOne320"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "cm5x87p4500a4ih2xafpyombh": {
         "id": "cm5x87p4500a4ih2xafpyombh",
         "title": "Stash/Vendor Searches",
