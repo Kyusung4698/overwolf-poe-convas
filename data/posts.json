@@ -1305,6 +1305,21 @@
         "voteCount": 2,
         "commentCount": 0
     },
+    "cm6849lp600pmih2x7pldnayt": {
+        "id": "cm6849lp600pmih2x7pldnayt",
+        "title": "search filters on Ctrl+F",
+        "body": "Having a way to bulk search for a specific item/affix from a keybind (mostly ctrl+f which is already used for searching) would be awesome.\n\nLet's say you need to filter &gt;60% rarity/deli on maps, just hit the keybind while hovering over the item (just like a price check), click on whatever you need to filter and it will output a regex for that stat.\n\nCan either be self-made filters (\" \"rare\" tier:15 \", or by adding our own regex) or baked into the app (which sounds like a pain to setup for \"most if not all\" modifiers/affixes if you're willing to go with regex).",
+        "timeAgo": "1 minute ago",
+        "comments": [],
+        "user": {
+            "name": "Ano"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "cm67pek1o00osih2xh7d74mfz": {
         "id": "cm67pek1o00osih2xh7d74mfz",
         "title": "Bright or grey mode for OLED",
