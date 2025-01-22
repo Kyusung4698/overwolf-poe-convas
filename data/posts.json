@@ -1282,6 +1282,21 @@
         "voteCount": 2,
         "commentCount": 0
     },
+    "cm67pek1o00osih2xh7d74mfz": {
+        "id": "cm67pek1o00osih2xh7d74mfz",
+        "title": "Bright or grey mode for OLED",
+        "body": "The pure black design of the UI forces OLED HDR displays to dim the screen strongly because the difference between the brightest and most dimmed pixel on the screen has a limit (a pure black pixel, aka a turned off pixel, being the worst lower limit you can have), so the chances for burn-in effects is lessened.\n\nThis is super inconvenient when using PoE Overlay ingame because as soon as you check an item with it the whole screen brightness goes down at least 70 % so there is no burn-in.\n\nPlease add a bright mode, a greyish mode or maybe a transparency slider for the UI background so OLED HDR display users don't need to suffer.",
+        "timeAgo": "11 minutes ago",
+        "comments": [],
+        "user": {
+            "name": "Braintelligence"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "cm634z3sw00keih2xin1s4p5v": {
         "id": "cm634z3sw00keih2xin1s4p5v",
         "title": "Different Notification Sounds for different Values",
