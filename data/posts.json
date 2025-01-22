@@ -975,6 +975,29 @@
         "voteCount": 3,
         "commentCount": 3
     },
+    "cm67u4qkh00p1ih2xtkk36m6k": {
+        "id": "cm67u4qkh00p1ih2xtkk36m6k",
+        "title": "Adding weighted search (and programmable filter presets?)",
+        "body": "Hi!\n\nLove the tool so far, being a forever Overwolf hater I just can't go back.\n\nOne thing I'd love to get added is weighted search capabilities on the market search. \n\nSometimes I'm trynna switch my gear around and need to find gear with either 2 or more res or a stat panned through different affixes (lightning/extra/spell damage).\n\nI'm using a count filter for now, but I feel like having weighted search would make search just a bit easier.\n\nOn that second note, having to add a count and multiple filters everytime gets tiring, so here's my second suggestion : search filter presets.\n\nJust like the favorite/save function, having an option to automatically add and save specific filter presets (like cited above, 2+ res, multiple spell damage etc) instead of saving a different item search each time would be dope.",
+        "timeAgo": "1 hour ago",
+        "comments": [
+            {
+                "body": "up!",
+                "timeAgo": "19 minutes ago",
+                "user": {
+                    "name": "Andrew Greed"
+                }
+            }
+        ],
+        "user": {
+            "name": "Ano"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 2,
+        "commentCount": 1
+    },
     "cm59kp71n0057mx2y4r68ukkr": {
         "id": "cm59kp71n0057mx2y4r68ukkr",
         "title": "Ingame Market Resize",
@@ -1280,21 +1303,6 @@
             "name": "Wont Implement"
         },
         "voteCount": 2,
-        "commentCount": 0
-    },
-    "cm67u4qkh00p1ih2xtkk36m6k": {
-        "id": "cm67u4qkh00p1ih2xtkk36m6k",
-        "title": "Adding weighted search (and programmable filter presets?)",
-        "body": "Hi!\n\nLove the tool so far, being a forever Overwolf hater I just can't go back.\n\nOne thing I'd love to get added is weighted search capabilities on the market search. \n\nSometimes I'm trynna switch my gear around and need to find gear with either 2 or more res or a stat panned through different affixes (lightning/extra/spell damage).\n\nI'm using a count filter for now, but I feel like having weighted search would make search just a bit easier.\n\nOn that second note, having to add a count and multiple filters everytime gets tiring, so here's my second suggestion : search filter presets.\n\nJust like the favorite/save function, having an option to automatically add and save specific filter presets (like cited above, 2+ res, multiple spell damage etc) instead of saving a different item search each time would be dope.",
-        "timeAgo": "21 minutes ago",
-        "comments": [],
-        "user": {
-            "name": "Ano"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
         "commentCount": 0
     },
     "cm67pek1o00osih2xh7d74mfz": {
