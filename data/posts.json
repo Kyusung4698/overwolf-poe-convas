@@ -582,6 +582,29 @@
         "voteCount": 5,
         "commentCount": 0
     },
+    "cm55syeva002emx2y3e1ozkaz": {
+        "id": "cm55syeva002emx2y3e1ozkaz",
+        "title": "HDR fix for Overlay",
+        "body": "Hey,\n\nOverlay looks completely broken when using HDR. Is it possible to fix this somehow?\n\nRn i've disabled HDR in favour of the Overlay ;)\n\nGreatly appreciated! &lt;3",
+        "timeAgo": "4 weeks ago",
+        "comments": [
+            {
+                "body": "Thank you",
+                "timeAgo": "3 weeks ago",
+                "user": {
+                    "name": "Will Scarlett"
+                }
+            }
+        ],
+        "user": {
+            "name": "Onkèlbé"
+        },
+        "status": {
+            "name": "In Progress"
+        },
+        "voteCount": 4,
+        "commentCount": 1
+    },
     "cktsbp2fj47469map1iqn119gj": {
         "id": "cktsbp2fj47469map1iqn119gj",
         "title": "Player ignore built-in feature",
@@ -603,29 +626,6 @@
             "name": "Blocked"
         },
         "voteCount": 4,
-        "commentCount": 1
-    },
-    "cm55syeva002emx2y3e1ozkaz": {
-        "id": "cm55syeva002emx2y3e1ozkaz",
-        "title": "HDR fix for Overlay",
-        "body": "Hey,\n\nOverlay looks completely broken when using HDR. Is it possible to fix this somehow?\n\nRn i've disabled HDR in favour of the Overlay ;)\n\nGreatly appreciated! &lt;3",
-        "timeAgo": "last week",
-        "comments": [
-            {
-                "body": "Thank you",
-                "timeAgo": "4 days ago",
-                "user": {
-                    "name": "Will Scarlett"
-                }
-            }
-        ],
-        "user": {
-            "name": "Onkèlbé"
-        },
-        "status": {
-            "name": "In Progress"
-        },
-        "voteCount": 3,
         "commentCount": 1
     },
     "cm520fluj01w2ms2f55fk0ap5": {
