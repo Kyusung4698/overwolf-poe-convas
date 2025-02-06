@@ -1312,6 +1312,21 @@
         "voteCount": 2,
         "commentCount": 0
     },
+    "cm6t6uzdq01goih2x5iyhxjz2": {
+        "id": "cm6t6uzdq01goih2x5iyhxjz2",
+        "title": "Telegram API or other API trade notification",
+        "body": "I would like to be able to receive trade notifications on my phone using messengers such as Telegram. In my country Discord is blocked and I can't receive notifications in this way. I must always use VPN to receive notifications on Discord.\n\nIt would be great if you added this kind of functionality. Thanks!",
+        "timeAgo": "4 minutes ago",
+        "comments": [],
+        "user": {
+            "name": "hfn"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "cm6r3mgvq01f6ih2xxryqz5qk": {
         "id": "cm6r3mgvq01f6ih2xxryqz5qk",
         "title": "DPS Meter",
