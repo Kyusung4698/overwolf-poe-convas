@@ -982,6 +982,21 @@
         "voteCount": 3,
         "commentCount": 3
     },
+    "cm6r3mgvq01f6ih2xxryqz5qk": {
+        "id": "cm6r3mgvq01f6ih2xxryqz5qk",
+        "title": "DPS Meter",
+        "body": "DPS Meter for maps like WOW Details! DMG Meter. ",
+        "timeAgo": "2 weeks ago",
+        "comments": [],
+        "user": {
+            "name": "Philipp M."
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 2,
+        "commentCount": 0
+    },
     "cm67u4qkh00p1ih2xtkk36m6k": {
         "id": "cm67u4qkh00p1ih2xtkk36m6k",
         "title": "Adding weighted search (and programmable filter presets?)",
@@ -1320,21 +1335,6 @@
         "comments": [],
         "user": {
             "name": "hfn"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
-        "commentCount": 0
-    },
-    "cm6r3mgvq01f6ih2xxryqz5qk": {
-        "id": "cm6r3mgvq01f6ih2xxryqz5qk",
-        "title": "DPS Meter",
-        "body": "DPS Meter for maps like WOW Details! DMG Meter. ",
-        "timeAgo": "7 minutes ago",
-        "comments": [],
-        "user": {
-            "name": "Philipp M."
         },
         "status": {
             "name": "Open"
