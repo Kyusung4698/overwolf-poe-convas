@@ -1327,6 +1327,21 @@
         "voteCount": 2,
         "commentCount": 0
     },
+    "cm7aweeah0002m02ya9sekn6w": {
+        "id": "cm7aweeah0002m02ya9sekn6w",
+        "title": "Open in default browser by default or without pressing ctrl",
+        "body": "I’d like to open my default browser by default without needing to press control. The overwolf browser is blocked by a cloudflare loop and isn’t usable at all anyways. Can you please remove the ctrl key requirement or make an option to always use default browser? Thanks. ",
+        "timeAgo": "13 minutes ago",
+        "comments": [],
+        "user": {
+            "name": "Jordan E"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "cm6t6uzdq01goih2x5iyhxjz2": {
         "id": "cm6t6uzdq01goih2x5iyhxjz2",
         "title": "Telegram API or other API trade notification",
@@ -2087,20 +2102,5 @@
         },
         "voteCount": 1,
         "commentCount": 2
-    },
-    "cl2z5z9la2500192yo9hmibk3l7": {
-        "id": "cl2z5z9la2500192yo9hmibk3l7",
-        "title": "Maps Layout For leveling",
-        "body": "Hey, I dnt know if its possible or not buy I'd like an overlay of all maps or at least throughout the acts with quests that give skill points and waypoints pointed ",
-        "timeAgo": "4 months",
-        "comments": [],
-        "user": {
-            "name": "Amine Mlil"
-        },
-        "status": {
-            "name": "Wont Implement"
-        },
-        "voteCount": 0,
-        "commentCount": 0
     }
 }
