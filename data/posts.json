@@ -236,6 +236,43 @@
         "voteCount": 10,
         "commentCount": 1
     },
+    "ckzd6digy419082umd17bf59lv": {
+        "id": "ckzd6digy419082umd17bf59lv",
+        "title": "add stash tab name to item highlight feature",
+        "body": "abbility to see what stash tab is in when somebody send a trade (you can already see the item name in the bottom left i would like it to also show the stash tab name) \n\n",
+        "timeAgo": "3 years ago",
+        "comments": [
+            {
+                "body": "Hi there, we display the stash name in the upper part of the stash overlay. See the green box in the screenshot below.\nPlease let me know if this is enough, or if you still want the stash name to be displayed somewhere else. Thanks for your feedback!",
+                "timeAgo": "3 years ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            },
+            {
+                "body": "I would love if the bar where the stash name is would be a bit bigger. It's pretty small and hard to read. I would suggest making it the same font size as everything else like the size of the search bar or the stash name.",
+                "timeAgo": "3 years ago",
+                "user": {
+                    "name": "Nico Eschner"
+                }
+            },
+            {
+                "body": "That's valid feedback. Hmm, currently there are some technical restriction preventing me from scaling the whole stash highlight window. I will see how we can improve this. Thanks for your suggestion! ",
+                "timeAgo": "3 years ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
+        "user": {
+            "name": "Anonymous #8216"
+        },
+        "status": {
+            "name": "Accepted"
+        },
+        "voteCount": 10,
+        "commentCount": 3
+    },
     "ckw8d09ht4165702tnu2q9yrpyu": {
         "id": "ckw8d09ht4165702tnu2q9yrpyu",
         "title": "Poe Overlay Market",
@@ -340,43 +377,6 @@
         },
         "voteCount": 9,
         "commentCount": 0
-    },
-    "ckzd6digy419082umd17bf59lv": {
-        "id": "ckzd6digy419082umd17bf59lv",
-        "title": "add stash tab name to item highlight feature",
-        "body": "abbility to see what stash tab is in when somebody send a trade (you can already see the item name in the bottom left i would like it to also show the stash tab name) \n\n",
-        "timeAgo": "2 years ago",
-        "comments": [
-            {
-                "body": "Hi there, we display the stash name in the upper part of the stash overlay. See the green box in the screenshot below.\nPlease let me know if this is enough, or if you still want the stash name to be displayed somewhere else. Thanks for your feedback!",
-                "timeAgo": "2 years ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            },
-            {
-                "body": "I would love if the bar where the stash name is would be a bit bigger. It's pretty small and hard to read. I would suggest making it the same font size as everything else like the size of the search bar or the stash name.",
-                "timeAgo": "2 years ago",
-                "user": {
-                    "name": "Nico Eschner"
-                }
-            },
-            {
-                "body": "That's valid feedback. Hmm, currently there are some technical restriction preventing me from scaling the whole stash highlight window. I will see how we can improve this. Thanks for your suggestion! ",
-                "timeAgo": "2 years ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "Anonymous #8216"
-        },
-        "status": {
-            "name": "Accepted"
-        },
-        "voteCount": 9,
-        "commentCount": 3
     },
     "clq60zkdf00h4is26ojytjgxu": {
         "id": "clq60zkdf00h4is26ojytjgxu",
@@ -1035,6 +1035,21 @@
         "voteCount": 2,
         "commentCount": 0
     },
+    "cm51y6p9j01vzms2fvvwua8hk": {
+        "id": "cm51y6p9j01vzms2fvvwua8hk",
+        "title": "POE2: Show type of affix on the left of Evaluate",
+        "body": "Show a P for Prefix and S for Suffix next to the affixes. \n\nCan even show how many pre/suffixes are used and slots available. \n\nThis could be useful since there are some that are dual affixes and there might actually be an open slot available. ",
+        "timeAgo": "2 months ago",
+        "comments": [],
+        "user": {
+            "name": "L.POE2"
+        },
+        "status": {
+            "name": "Accepted"
+        },
+        "voteCount": 2,
+        "commentCount": 0
+    },
     "clvcm9k4r0147oz33nppdsr4q": {
         "id": "clvcm9k4r0147oz33nppdsr4q",
         "title": "Add skillgems to market from POB view ",
@@ -1596,21 +1611,6 @@
         "title": "POE2: Track number of times a map has been done. ",
         "body": "Currently ( v 0.2.2) only the amount of time in a map is accumulated. It would be nice to see how many times I have done a map. ",
         "timeAgo": "11 minutes ago",
-        "comments": [],
-        "user": {
-            "name": "L.POE2"
-        },
-        "status": {
-            "name": "Accepted"
-        },
-        "voteCount": 1,
-        "commentCount": 0
-    },
-    "cm51y6p9j01vzms2fvvwua8hk": {
-        "id": "cm51y6p9j01vzms2fvvwua8hk",
-        "title": "POE2: Show type of affix on the left of Evaluate",
-        "body": "Show a P for Prefix and S for Suffix next to the affixes. \n\nCan even show how many pre/suffixes are used and slots available. \n\nThis could be useful since there are some that are dual affixes and there might actually be an open slot available. ",
-        "timeAgo": "17 minutes ago",
         "comments": [],
         "user": {
             "name": "L.POE2"
