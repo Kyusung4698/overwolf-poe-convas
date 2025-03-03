@@ -657,6 +657,99 @@
         "voteCount": 4,
         "commentCount": 0
     },
+    "cl8csqp052928991xj5sgt0nkme": {
+        "id": "cl8csqp052928991xj5sgt0nkme",
+        "title": "Custom Messages",
+        "body": "I would like to see an option where u could maybe add custom messages besides the default 4 that you have ",
+        "timeAgo": "3 years ago",
+        "comments": [
+            {
+                "body": "Hi there, thanks for creating this issue. Could you explain it a bit further and give an example on how this should work? Does it only affect trade message? (should you be able to use data from the trade message as placeholders) Or are those messages more globally and can be send anytime? ",
+                "timeAgo": "3 years ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            },
+            {
+                "body": "basically would be for like trading wise so something like you are doing sextants (selling them) but people keep wanting to only buy 1 at a time but you are only wanting to sell in bulk so having like the option where you could may addon another box in this area \nhttps://i.imgur.com/k0U5nr6.png\n where you could add in a message using the placeholders telling the person you are only wanting to sell in bulk something like that if you understand what im saying",
+                "timeAgo": "3 years ago",
+                "user": {
+                    "name": "Jimmy Straight"
+                }
+            },
+            {
+                "body": "I gotcha. I think for now you could use a command as a workaround by using the {latestWhisper} placeholder. See the screenshot below.\nIf this gets more traction in the future, we may implement this as part of the trade module. ",
+                "timeAgo": "3 years ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            },
+            {
+                "body": "Where can I find a list of all available placeholders?",
+                "timeAgo": "last year",
+                "user": {
+                    "name": "Vel"
+                }
+            },
+            {
+                "body": "Here",
+                "timeAgo": "last year",
+                "user": {
+                    "name": "MalakaJones"
+                }
+            },
+            {
+                "body": "Thanks \nMalakaJones. \nThe screenshot you've shared is the reason I'm asking; the list is incomplete. {trader} and {itemname}, for example, are additional placeholders; are there others? I feel like at some point I saw one for {price}, {itemprice} or something similar; perhaps that was another app years ago.\nIt'd be cool to be able to have a custom \"Still interested message\" for something along the lines of, \"{trader}, are you still interested in the {itemname} I have listed for {price}?\"",
+                "timeAgo": "last year",
+                "user": {
+                    "name": "Vel"
+                }
+            },
+            {
+                "body": "Those placeholders are only available within the trade module. They are not usable outside of it as they need to be linked to a specific trade.",
+                "timeAgo": "last year",
+                "user": {
+                    "name": "MalakaJones"
+                }
+            },
+            {
+                "body": "Ah, I guess that's what I'm looking for, a list of placehoilders that can be used specifically within the trade module. Are there others beyond {trader} and {itemname}?",
+                "timeAgo": "last year",
+                "user": {
+                    "name": "Vel"
+                }
+            },
+            {
+                "body": "Here is the full list, those are available by default if you haven't changed them.",
+                "timeAgo": "last year",
+                "user": {
+                    "name": "MalakaJones"
+                }
+            },
+            {
+                "body": "Looking at the screenshot, looks like the text is krangled. we will look into it.",
+                "timeAgo": "last year",
+                "user": {
+                    "name": "MalakaJones"
+                }
+            },
+            {
+                "body": "Thank you, is is what I needed! I had changed the default messages which is why I couldn't see them.",
+                "timeAgo": "last year",
+                "user": {
+                    "name": "Vel"
+                }
+            }
+        ],
+        "user": {
+            "name": "Jimmy Straight"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 4,
+        "commentCount": 11
+    },
     "cktsbp2fj47469map1iqn119gj": {
         "id": "cktsbp2fj47469map1iqn119gj",
         "title": "Player ignore built-in feature",
@@ -837,99 +930,6 @@
         },
         "voteCount": 3,
         "commentCount": 3
-    },
-    "cl8csqp052928991xj5sgt0nkme": {
-        "id": "cl8csqp052928991xj5sgt0nkme",
-        "title": "Custom Messages",
-        "body": "I would like to see an option where u could maybe add custom messages besides the default 4 that you have ",
-        "timeAgo": "over 1 year",
-        "comments": [
-            {
-                "body": "Hi there, thanks for creating this issue. Could you explain it a bit further and give an example on how this should work? Does it only affect trade message? (should you be able to use data from the trade message as placeholders) Or are those messages more globally and can be send anytime? ",
-                "timeAgo": "over 1 year",
-                "user": {
-                    "name": "Kyusung"
-                }
-            },
-            {
-                "body": "basically would be for like trading wise so something like you are doing sextants (selling them) but people keep wanting to only buy 1 at a time but you are only wanting to sell in bulk so having like the option where you could may addon another box in this area \nhttps://i.imgur.com/k0U5nr6.png\n where you could add in a message using the placeholders telling the person you are only wanting to sell in bulk something like that if you understand what im saying",
-                "timeAgo": "over 1 year",
-                "user": {
-                    "name": "Jimmy Straight"
-                }
-            },
-            {
-                "body": "I gotcha. I think for now you could use a command as a workaround by using the {latestWhisper} placeholder. See the screenshot below.\nIf this gets more traction in the future, we may implement this as part of the trade module. ",
-                "timeAgo": "over 1 year",
-                "user": {
-                    "name": "Kyusung"
-                }
-            },
-            {
-                "body": "Where can I find a list of all available placeholders?",
-                "timeAgo": "2 days",
-                "user": {
-                    "name": "Vel"
-                }
-            },
-            {
-                "body": "Here",
-                "timeAgo": "2 days",
-                "user": {
-                    "name": "MalakaJones"
-                }
-            },
-            {
-                "body": "Thanks \nMalakaJones. \nThe screenshot you've shared is the reason I'm asking; the list is incomplete. {trader} and {itemname}, for example, are additional placeholders; are there others? I feel like at some point I saw one for {price}, {itemprice} or something similar; perhaps that was another app years ago.\nIt'd be cool to be able to have a custom \"Still interested message\" for something along the lines of, \"{trader}, are you still interested in the {itemname} I have listed for {price}?\"",
-                "timeAgo": "1 day",
-                "user": {
-                    "name": "Vel"
-                }
-            },
-            {
-                "body": "Those placeholders are only available within the trade module. They are not usable outside of it as they need to be linked to a specific trade.",
-                "timeAgo": "1 day",
-                "user": {
-                    "name": "MalakaJones"
-                }
-            },
-            {
-                "body": "Ah, I guess that's what I'm looking for, a list of placehoilders that can be used specifically within the trade module. Are there others beyond {trader} and {itemname}?",
-                "timeAgo": "about 22 hours",
-                "user": {
-                    "name": "Vel"
-                }
-            },
-            {
-                "body": "Here is the full list, those are available by default if you haven't changed them.",
-                "timeAgo": "about 21 hours",
-                "user": {
-                    "name": "MalakaJones"
-                }
-            },
-            {
-                "body": "Looking at the screenshot, looks like the text is krangled. we will look into it.",
-                "timeAgo": "about 21 hours",
-                "user": {
-                    "name": "MalakaJones"
-                }
-            },
-            {
-                "body": "Thank you, is is what I needed! I had changed the default messages which is why I couldn't see them.",
-                "timeAgo": "4 minutes",
-                "user": {
-                    "name": "Vel"
-                }
-            }
-        ],
-        "user": {
-            "name": "Jimmy Straight"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 3,
-        "commentCount": 11
     },
     "cl7b0se3776455824q39vrnjbgl": {
         "id": "cl7b0se3776455824q39vrnjbgl",
