@@ -642,6 +642,21 @@
         "voteCount": 4,
         "commentCount": 2
     },
+    "cluh27lcg009gm033i4g0g9a5": {
+        "id": "cluh27lcg009gm033i4g0g9a5",
+        "title": " ignore incoming trade messages after pressing \"item sold\"",
+        "body": "sometimes you want sell smth fast but then get bombarded with messages of that item even minutes after it is sold.\n\nSO it would be nice to have incoming messages of that item i just clicked \"item sold\" be ignored for like 5min and not getting any popups for this item for that time anymore",
+        "timeAgo": "3 quarters ago",
+        "comments": [],
+        "user": {
+            "name": "ron won"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 4,
+        "commentCount": 0
+    },
     "cktsbp2fj47469map1iqn119gj": {
         "id": "cktsbp2fj47469map1iqn119gj",
         "title": "Player ignore built-in feature",
@@ -688,21 +703,6 @@
         "comments": [],
         "user": {
             "name": "Marc Vandenabeele"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 3,
-        "commentCount": 0
-    },
-    "cluh27lcg009gm033i4g0g9a5": {
-        "id": "cluh27lcg009gm033i4g0g9a5",
-        "title": " ignore incoming trade messages after pressing \"item sold\"",
-        "body": "sometimes you want sell smth fast but then get bombarded with messages of that item even minutes after it is sold.\n\nSO it would be nice to have incoming messages of that item i just clicked \"item sold\" be ignored for like 5min and not getting any popups for this item for that time anymore",
-        "timeAgo": "last quarter",
-        "comments": [],
-        "user": {
-            "name": "ron won"
         },
         "status": {
             "name": "Open"
