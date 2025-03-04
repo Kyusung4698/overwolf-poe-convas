@@ -1005,6 +1005,21 @@
         "voteCount": 3,
         "commentCount": 3
     },
+    "cm7ulse0q0iy6m02fnq4btf17": {
+        "id": "cm7ulse0q0iy6m02fnq4btf17",
+        "title": "Hope to support Chinese languages.",
+        "body": "I am a player who switched from POE2 to POE1. After using overlay in POE2, I found it very convenient. However, POE1 does not support Chinese, which makes me very confused. I hope that overlay I can also support Chinese pricing and trading.",
+        "timeAgo": "15 minutes ago",
+        "comments": [],
+        "user": {
+            "name": "Anonymous #20100"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 2,
+        "commentCount": 0
+    },
     "cm6r3mgvq01f6ih2xxryqz5qk": {
         "id": "cm6r3mgvq01f6ih2xxryqz5qk",
         "title": "DPS Meter",
@@ -2077,21 +2092,6 @@
         },
         "status": {
             "name": "Open"
-        },
-        "voteCount": 1,
-        "commentCount": 0
-    },
-    "clcfi6ao901nxk91ydct1zvde": {
-        "id": "clcfi6ao901nxk91ydct1zvde",
-        "title": "Ideas for if/when we can know party members",
-        "body": "Automatically closing the notification window when someone leaves party. I think this would be really appreciated. Still suited as an option and not always active.\n\nBetter detection if they are in the same hideout as you. Even if they were sitting in hideout before you got there.\n\nThe one you brought up, putting a border around which person you want to trade with.\n\nCould have a border like that but maybe a different color if in the same hideout. ",
-        "timeAgo": "16 minutes",
-        "comments": [],
-        "user": {
-            "name": "Subutai"
-        },
-        "status": {
-            "name": "Blocked"
         },
         "voteCount": 1,
         "commentCount": 0
