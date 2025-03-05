@@ -778,7 +778,15 @@
         "title": "Hope to support Chinese languages.",
         "body": "I am a player who switched from POE2 to POE1. After using overlay in POE2, I found it very convenient. However, POE1 does not support Chinese, which makes me very confused. I hope that overlay I can also support Chinese pricing and trading.",
         "timeAgo": "yesterday",
-        "comments": [],
+        "comments": [
+            {
+                "body": "Hi! Chinese should be supported in PoE Overlay. Could you let us know exactly what issue you're running into? If it's related to item parsing, please paste the item data (Ctrl+Alt+C while hovering over the item) so we can check. If possible, join our Discord for easier troubleshooting!",
+                "timeAgo": "13 minutes ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "Anonymous #20100"
         },
@@ -786,7 +794,7 @@
             "name": "Open"
         },
         "voteCount": 3,
-        "commentCount": 0
+        "commentCount": 1
     },
     "clz8qqdqt00n1mg2y23xa5i0j": {
         "id": "clz8qqdqt00n1mg2y23xa5i0j",
