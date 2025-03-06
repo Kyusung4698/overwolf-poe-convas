@@ -335,7 +335,7 @@
             "name": "Anonymous #7378"
         },
         "status": {
-            "name": "Accepted"
+            "name": "Completed"
         },
         "voteCount": 10,
         "commentCount": 0
@@ -465,16 +465,24 @@
         "id": "clgo8w07f09wgoj20rrwsag9p",
         "title": "Trade statistics system",
         "body": "We do tons of trades with the help of POE overlay, but we don't know how many, or how much currency did we make, or how much currency we spend on the item.\n\n\nI know there is other software that can track profit like Exilence Next. But we don't have a function to auto-record what or how much did we sell/ buy on one item. \n\nInstead of viewing profit from the overlay afk popup window, we can add an option to turn on/off the trade record and record all the trades into an Excel spreadsheet, either .csv or .txt.\n\nSince the overlay knows the trade was selling or buying, when you finish the trade, typically, you will go for click the send finish button, and then the trade goes away anyway. So we can use that finish button action to confirm and save that trade record.\n\nIn that txt file can show information like time(in the log's timestamp), cost(the overlay already recognized), item name, etc.",
-        "timeAgo": "last year",
-        "comments": [],
+        "timeAgo": "2 years ago",
+        "comments": [
+            {
+                "body": "This has been added in \n1.63.0 for PoE Overlay I\n and \n0.7.0 for PoE Overlay II\n—thanks for the suggestion!",
+                "timeAgo": "2 minutes ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "八條麥茶"
         },
         "status": {
-            "name": "Accepted"
+            "name": "Completed"
         },
         "voteCount": 7,
-        "commentCount": 0
+        "commentCount": 1
     },
     "ckx3rzbui794452skvfl9bv9uw": {
         "id": "ckx3rzbui794452skvfl9bv9uw",
@@ -525,16 +533,24 @@
         "id": "clmkyc7om00vgn629qxsmckuq",
         "title": "Automatically select fractured mods in item evaluation",
         "body": "If an item has a fractured mod, this mod should be automatically selected when evaluating the item. Alternatively, this could be implemented as a preference.",
-        "timeAgo": "last year",
-        "comments": [],
+        "timeAgo": "2 years ago",
+        "comments": [
+            {
+                "body": "This has been added in \n1.63.0\n—fractured mods will now be auto-selected when evaluating items. Thanks for the suggestion!",
+                "timeAgo": "1 minute ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "iTob"
         },
         "status": {
-            "name": "Accepted"
+            "name": "Completed"
         },
         "voteCount": 6,
-        "commentCount": 0
+        "commentCount": 1
     },
     "cldwfaesc00p0ml1r3ojnaclj": {
         "id": "cldwfaesc00p0ml1r3ojnaclj",
