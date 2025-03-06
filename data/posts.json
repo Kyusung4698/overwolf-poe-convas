@@ -1078,13 +1078,20 @@
         "id": "cm67u4qkh00p1ih2xtkk36m6k",
         "title": "Adding weighted search (and programmable filter presets?)",
         "body": "Hi!\n\nLove the tool so far, being a forever Overwolf hater I just can't go back.\n\nOne thing I'd love to get added is weighted search capabilities on the market search. \n\nSometimes I'm trynna switch my gear around and need to find gear with either 2 or more res or a stat panned through different affixes (lightning/extra/spell damage).\n\nI'm using a count filter for now, but I feel like having weighted search would make search just a bit easier.\n\nOn that second note, having to add a count and multiple filters everytime gets tiring, so here's my second suggestion : search filter presets.\n\nJust like the favorite/save function, having an option to automatically add and save specific filter presets (like cited above, 2+ res, multiple spell damage etc) instead of saving a different item search each time would be dope.",
-        "timeAgo": "1 hour ago",
+        "timeAgo": "2 months ago",
         "comments": [
             {
                 "body": "up!",
-                "timeAgo": "19 minutes ago",
+                "timeAgo": "2 months ago",
                 "user": {
                     "name": "Andrew Greed"
+                }
+            },
+            {
+                "body": "This has been added in \n0.10.0\n—weighted search are now available! Thanks for the great suggestion, glad you're enjoying the tool! ",
+                "timeAgo": "18 minutes ago",
+                "user": {
+                    "name": "Kyusung"
                 }
             }
         ],
@@ -1092,10 +1099,10 @@
             "name": "Ano"
         },
         "status": {
-            "name": "Open"
+            "name": "Completed"
         },
         "voteCount": 2,
-        "commentCount": 1
+        "commentCount": 2
     },
     "cm5x87p4500a4ih2xafpyombh": {
         "id": "cm5x87p4500a4ih2xafpyombh",
@@ -1131,16 +1138,24 @@
         "id": "cm51y6p9j01vzms2fvvwua8hk",
         "title": "POE2: Show type of affix on the left of Evaluate",
         "body": "Show a P for Prefix and S for Suffix next to the affixes. \n\nCan even show how many pre/suffixes are used and slots available. \n\nThis could be useful since there are some that are dual affixes and there might actually be an open slot available. ",
-        "timeAgo": "2 months ago",
-        "comments": [],
+        "timeAgo": "3 months ago",
+        "comments": [
+            {
+                "body": "This has been added in \n0.13.0\n—now shows \nP\n for Prefix and \nS\n for Suffix. Additionally, for \nunique items\n, you’ll see the roll of each mod. Thanks for the suggestion!",
+                "timeAgo": "17 minutes ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "L.POE2"
         },
         "status": {
-            "name": "Accepted"
+            "name": "Completed"
         },
         "voteCount": 2,
-        "commentCount": 0
+        "commentCount": 1
     },
     "clvcm9k4r0147oz33nppdsr4q": {
         "id": "clvcm9k4r0147oz33nppdsr4q",
@@ -1221,16 +1236,24 @@
         "id": "clmqwro3a018ln62918z8zo9s",
         "title": "[EVALUATE] Have the \"Buyout Price\" toggle at the evaluate window",
         "body": "Having the \"Buyout Price\" toggle directly at the evaluate window would help change the currency type more easily.\n\nRight now, the evaluate window for \"listed items\" does a conversion based on poe.ninja price, which results is erronous amounts, especially for compasses. \n\nFor exemple, default could be chaos orb equivalent as it is right now, but definitly needs a warning that a conversion is happening. Maby something like a gray dot similar to the market. Changing the currency would cancel this conversion and show exact currency.",
-        "timeAgo": "about 23 hours",
-        "comments": [],
+        "timeAgo": "2 years ago",
+        "comments": [
+            {
+                "body": "This has been added in \n1.63.0\n—the \nBuyout Price\n toggle is now in the evaluate window. Thanks for the suggestion!",
+                "timeAgo": "15 minutes ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "MalakaJones"
         },
         "status": {
-            "name": "Open"
+            "name": "Completed"
         },
         "voteCount": 2,
-        "commentCount": 0
+        "commentCount": 1
     },
     "clge1jjvc0952oj201i5v8vd9": {
         "id": "clge1jjvc0952oj201i5v8vd9",
