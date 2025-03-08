@@ -382,20 +382,27 @@
         "id": "clq60zkdf00h4is26ojytjgxu",
         "title": "[Evaluate] Toggle for enabling/disabling auto search",
         "body": "A toggle in the preferences that could let us enable or disable auto search when pressing alt+d (evaluate).",
-        "timeAgo": "last year",
+        "timeAgo": "2 years ago",
         "comments": [
             {
                 "body": "Would this be like \"Activate Live Search\" in POE Trade? If so, I would really like this feature. Especially if can have with several active tabs and a little ball appears in that tab along with a sound when an item is entered. Just like it is on the POE Trade website.",
-                "timeAgo": "35 minutes ago",
+                "timeAgo": "3 months ago",
                 "user": {
                     "name": "Vinícius Miranda"
                 }
             },
             {
                 "body": " This post is not about live search, but we are working on porting it to Overlay II at the moment stay tuned.",
-                "timeAgo": "19 minutes ago",
+                "timeAgo": "3 months ago",
                 "user": {
                     "name": "Anonymous #7671"
+                }
+            },
+            {
+                "body": "After the rework of the evaluate config, we no longer plan to implement this. Thanks for your feedback!",
+                "timeAgo": "24 minutes ago",
+                "user": {
+                    "name": "Kyusung"
                 }
             }
         ],
@@ -403,25 +410,33 @@
             "name": "MalakaJones"
         },
         "status": {
-            "name": "Accepted"
+            "name": "Wont Implement"
         },
         "voteCount": 8,
-        "commentCount": 2
+        "commentCount": 3
     },
     "clb40eb3p006pny1z2lfph6y9": {
         "id": "clb40eb3p006pny1z2lfph6y9",
         "title": "[EVALUATE] Have the Evaluate window filter by date",
         "body": "With the recent update to the evaluate module, you can now activate or deactivate quickly listings that are online/offline. It would be really nice if you could click the \"age\" column so it sorts them from newest to older,\n\n",
-        "timeAgo": "2 years ago",
-        "comments": [],
+        "timeAgo": "3 years ago",
+        "comments": [
+            {
+                "body": "This has been added in 1.64.0—you can now sort listings by the \"age\" column from newest to oldest. Thanks for the suggestion!",
+                "timeAgo": "26 minutes ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "MalakaJones"
         },
         "status": {
-            "name": "Accepted"
+            "name": "Completed"
         },
         "voteCount": 8,
-        "commentCount": 0
+        "commentCount": 1
     },
     "ckw56ayp32970472tnum7j4zg02": {
         "id": "ckw56ayp32970472tnum7j4zg02",
@@ -1746,7 +1761,7 @@
             "name": "L.POE2"
         },
         "status": {
-            "name": "Open"
+            "name": "Completed"
         },
         "voteCount": 1,
         "commentCount": 2
