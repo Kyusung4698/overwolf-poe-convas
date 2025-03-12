@@ -202,7 +202,7 @@
         "id": "clml5z4lh00wan6292rxhsl1p",
         "title": "[TRADE] A sound notification when buyer enters H/O",
         "body": "In addition to the player's name turning green when a buyer enters your H/O, it could be nice to have a toggle for an audio notification as well.",
-        "timeAgo": "last year",
+        "timeAgo": "2 years ago",
         "comments": [],
         "user": {
             "name": "MalakaJones"
@@ -210,7 +210,7 @@
         "status": {
             "name": "Accepted"
         },
-        "voteCount": 13,
+        "voteCount": 14,
         "commentCount": 0
     },
     "cm4mcqeeb01elms2fraho6xw8": {
@@ -1434,6 +1434,29 @@
         "voteCount": 2,
         "commentCount": 0
     },
+    "cm857s6tk0j7qm02f3oul5nw6": {
+        "id": "cm857s6tk0j7qm02f3oul5nw6",
+        "title": "Spam filter based on keywords to auto-ignore messages",
+        "body": "Is there a way to implement spam filter in POE2 Overlay to detect certain keywords and automatically block/ignore/report the messages? Example attached with keywords like \"rsgamer2\" which is known for spamming illegal RMTs\n\n\n",
+        "timeAgo": "54 minutes ago",
+        "comments": [
+            {
+                "body": "For the keywords - was thinking if it could also be in UI/UX for user-maintainable list (similar to Adblock concepts) as RMT-ers will find ways around it every time",
+                "timeAgo": "40 minutes ago",
+                "user": {
+                    "name": "gracielline"
+                }
+            }
+        ],
+        "user": {
+            "name": "gracielline"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 1
+    },
     "cm7etuesg0cb3m02fqhfwqbin": {
         "id": "cm7etuesg0cb3m02fqhfwqbin",
         "title": "Controller: poe makes cursor invisible in overlay.",
@@ -2133,21 +2156,6 @@
         "title": "Some stat search ideas",
         "body": "Preface: I am not a professional programmer so I can not speak to the ease with which these can be accomplished. These are functions I would like to have available, but I do understand that they may be difficult or maybe even impossible to do. Regardless, I wanted to share them for your consideration just in case.\n\nGeneralized stat searches - Say I want all rings that impact chaos in any ways, regardless of resistance, damage, penetration.. I don't know exactly what mods are available and so I was to browse an overview of items with that particular keywords.\n\nItem Type and Item Name grouping - \n\nPerhaps I am interested in the items that provide the most Increased Item Quantity. This often returns many results of the same item making it difficult to get an idea of what alternatives may be available. If instead, all items named \"Goldrim\" were nested in a collapsible manner then I could see the next best option for the price, ect. Different types of filters for collapsing would be nice too.\n\nItem Base exclusion\n\nOr in general any sort of exclusion options would be good here. We can exclude stats using the NOT stat filters at the moment but say I wanted to search all amulets for IIR but didn't want to see and Gold Amulet results. This would address that use case.",
         "timeAgo": "1 minute",
-        "comments": [],
-        "user": {
-            "name": "blahblahdrugs"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
-        "commentCount": 0
-    },
-    "cleu89p6e02oeoj20yw9lefzf": {
-        "id": "cleu89p6e02oeoj20yw9lefzf",
-        "title": "Drag and drop stat filters",
-        "body": "I would like to be able to drag a stat from market results into the stat filters. I think this would be especially useful when trying to search for terms that have multiple implementations with the same name (This can require adding many of the same filter line trying to find the one that's valid for your particular item type. Pseudo does not work in all cases.)\n\nAnother example from the above image would being able to drag and drop the implicit. While pseudo should cover this particular implicit, that is not always the case.\n\n",
-        "timeAgo": "9 minutes",
         "comments": [],
         "user": {
             "name": "blahblahdrugs"
