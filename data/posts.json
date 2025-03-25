@@ -1274,16 +1274,24 @@
         "id": "clge1jjvc0952oj201i5v8vd9",
         "title": "Be able to move searches saved as favorites to a folder on the market",
         "body": "Be able to move searches (left and right) saved as favorites to a folder on the market",
-        "timeAgo": "last year",
-        "comments": [],
+        "timeAgo": "2 years ago",
+        "comments": [
+            {
+                "body": "Has been added in \n1.67.0 (2025-3-25)\n, thanks for your feedback! ",
+                "timeAgo": "13 minutes ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "Peterrr"
         },
         "status": {
-            "name": "Open"
+            "name": "Completed"
         },
         "voteCount": 2,
-        "commentCount": 0
+        "commentCount": 1
     },
     "cld8wpaf504e9k91yjrq7eosv": {
         "id": "cld8wpaf504e9k91yjrq7eosv",
@@ -1672,16 +1680,24 @@
         "id": "cm5jpan94004kri2yj5tfwvb9",
         "title": "Moving Favourite Tabs",
         "body": "I would like to suggest a QOL update for us to be able to move tabs around for our favourite items or gear. Instead of the pain having to remake all the tabs just to keep it nice and organised. ",
-        "timeAgo": "4 minutes ago",
-        "comments": [],
+        "timeAgo": "2 months ago",
+        "comments": [
+            {
+                "body": "Has been added in \n0.15.0\n/\n1.67.0 (2025-3-25)\n, thanks for your feedback! ",
+                "timeAgo": "12 minutes ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "Louis Despres"
         },
         "status": {
-            "name": "Open"
+            "name": "Completed"
         },
         "voteCount": 1,
-        "commentCount": 0
+        "commentCount": 1
     },
     "cm55ssy3q002amx2yb3e2lqbw": {
         "id": "cm55ssy3q002amx2yb3e2lqbw",
@@ -2125,16 +2141,24 @@
         "id": "clge1ghyk094zoj20dkscg0rb",
         "title": "Modify a search already saved as favorites on the market",
         "body": "Modify a search already saved as favorites on the market",
-        "timeAgo": "1 minute",
-        "comments": [],
+        "timeAgo": "2 years ago",
+        "comments": [
+            {
+                "body": "Has been added in \n0.15.0\n/\n1.67.0 (2025-3-25)\n, thanks for your feedback!",
+                "timeAgo": "11 minutes ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "Peterrr"
         },
         "status": {
-            "name": "Wont Implement"
+            "name": "Completed"
         },
         "voteCount": 1,
-        "commentCount": 0
+        "commentCount": 1
     },
     "clf7anf7t04scoj20jyvbqzmo": {
         "id": "clf7anf7t04scoj20jyvbqzmo",
