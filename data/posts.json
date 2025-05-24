@@ -827,6 +827,21 @@
         "voteCount": 4,
         "commentCount": 1
     },
+    "cm6t6uzdq01goih2x5iyhxjz2": {
+        "id": "cm6t6uzdq01goih2x5iyhxjz2",
+        "title": "Telegram API or other API trade notification",
+        "body": "I would like to be able to receive trade notifications on my phone using messengers such as Telegram. In my country Discord is blocked and I can't receive notifications in this way. I must always use VPN to receive notifications on Discord.\n\nIt would be great if you added this kind of functionality. Thanks!",
+        "timeAgo": "last quarter",
+        "comments": [],
+        "user": {
+            "name": "hfn"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 3,
+        "commentCount": 0
+    },
     "clz8qqdqt00n1mg2y23xa5i0j": {
         "id": "clz8qqdqt00n1mg2y23xa5i0j",
         "title": "Mouse [hover] item overlay in the app",
@@ -1073,21 +1088,6 @@
         },
         "voteCount": 3,
         "commentCount": 3
-    },
-    "cm6t6uzdq01goih2x5iyhxjz2": {
-        "id": "cm6t6uzdq01goih2x5iyhxjz2",
-        "title": "Telegram API or other API trade notification",
-        "body": "I would like to be able to receive trade notifications on my phone using messengers such as Telegram. In my country Discord is blocked and I can't receive notifications in this way. I must always use VPN to receive notifications on Discord.\n\nIt would be great if you added this kind of functionality. Thanks!",
-        "timeAgo": "last quarter",
-        "comments": [],
-        "user": {
-            "name": "hfn"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 2,
-        "commentCount": 0
     },
     "cm6r3mgvq01f6ih2xxryqz5qk": {
         "id": "cm6r3mgvq01f6ih2xxryqz5qk",
