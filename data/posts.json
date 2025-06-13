@@ -1457,6 +1457,21 @@
         "voteCount": 2,
         "commentCount": 0
     },
+    "cmbuxgla600w5n43lgoail38z": {
+        "id": "cmbuxgla600w5n43lgoail38z",
+        "title": "‌Adding Simplified Chinese Support Could Attract More Players in China",
+        "body": "‌Could you add support for Simplified Chinese? Just like you already do for Traditional Chinese. There are ‌thousands‌ of players here in China using either ‌APT or farm‌. If you added Simplified Chinese support, it would definitely ‌bring in a lot more players‌. If you guys ‌don't have a Simplified Chinese patch‌ yet, I can ‌provide you with one‌. This is the same patch ‌tens of thousands of Chinese users‌ are already using to ‌change the game's text to Simplified Chinese‌",
+        "timeAgo": "9 minutes ago",
+        "comments": [],
+        "user": {
+            "name": "淡定的阿关"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "cm857s6tk0j7qm02f3oul5nw6": {
         "id": "cm857s6tk0j7qm02f3oul5nw6",
         "title": "Spam filter based on keywords to auto-ignore messages",
@@ -2165,21 +2180,6 @@
         "title": "Add a roll percentage feature when searching for uniques.",
         "body": "Often when I am trying to evaluate a unique I have to check it at many different stat roll points to see what is valuable and what is not. It would be nice if there was some way to choose something like. 90% perfect, 100% perfect, ect. Also it would be nice if there was a way to use base percentile when searching the market as part of the parameters.",
         "timeAgo": "25 minutes",
-        "comments": [],
-        "user": {
-            "name": "blahblahdrugs"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
-        "commentCount": 0
-    },
-    "cleu8knyw02ogoj20u6d9hqd1": {
-        "id": "cleu8knyw02ogoj20u6d9hqd1",
-        "title": "Some stat search ideas",
-        "body": "Preface: I am not a professional programmer so I can not speak to the ease with which these can be accomplished. These are functions I would like to have available, but I do understand that they may be difficult or maybe even impossible to do. Regardless, I wanted to share them for your consideration just in case.\n\nGeneralized stat searches - Say I want all rings that impact chaos in any ways, regardless of resistance, damage, penetration.. I don't know exactly what mods are available and so I was to browse an overview of items with that particular keywords.\n\nItem Type and Item Name grouping - \n\nPerhaps I am interested in the items that provide the most Increased Item Quantity. This often returns many results of the same item making it difficult to get an idea of what alternatives may be available. If instead, all items named \"Goldrim\" were nested in a collapsible manner then I could see the next best option for the price, ect. Different types of filters for collapsing would be nice too.\n\nItem Base exclusion\n\nOr in general any sort of exclusion options would be good here. We can exclude stats using the NOT stat filters at the moment but say I wanted to search all amulets for IIR but didn't want to see and Gold Amulet results. This would address that use case.",
-        "timeAgo": "1 minute",
         "comments": [],
         "user": {
             "name": "blahblahdrugs"
