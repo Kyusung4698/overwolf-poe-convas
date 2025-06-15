@@ -1461,8 +1461,16 @@
         "id": "cmbuxgla600w5n43lgoail38z",
         "title": "‌Adding Simplified Chinese Support Could Attract More Players in China",
         "body": "‌Could you add support for Simplified Chinese? Just like you already do for Traditional Chinese. There are ‌thousands‌ of players here in China using either ‌APT or farm‌. If you added Simplified Chinese support, it would definitely ‌bring in a lot more players‌. If you guys ‌don't have a Simplified Chinese patch‌ yet, I can ‌provide you with one‌. This is the same patch ‌tens of thousands of Chinese users‌ are already using to ‌change the game's text to Simplified Chinese‌",
-        "timeAgo": "9 minutes ago",
-        "comments": [],
+        "timeAgo": "2 days ago",
+        "comments": [
+            {
+                "body": "Hey! Thanks a ton for the offer—really appreciate it. If you can provide the Simplified Chinese patch you're using, we can take a look and see if it’s something we can integrate into our data pipeline. No promises though—it depends on how well it fits in. We'll have more time to dig into it after the league launch, so feel free to send it over then",
+                "timeAgo": "3 minutes ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "淡定的阿关"
         },
@@ -1470,7 +1478,7 @@
             "name": "Open"
         },
         "voteCount": 1,
-        "commentCount": 0
+        "commentCount": 1
     },
     "cm857s6tk0j7qm02f3oul5nw6": {
         "id": "cm857s6tk0j7qm02f3oul5nw6",
