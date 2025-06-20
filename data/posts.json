@@ -740,11 +740,18 @@
         "id": "cm7ulse0q0iy6m02fnq4btf17",
         "title": "Hope to support Chinese languages.",
         "body": "I am a player who switched from POE2 to POE1. After using overlay in POE2, I found it very convenient. However, POE1 does not support Chinese, which makes me very confused. I hope that overlay I can also support Chinese pricing and trading.",
-        "timeAgo": "2 days ago",
+        "timeAgo": "last quarter",
         "comments": [
             {
                 "body": "Hi! Chinese should be supported in PoE Overlay. Could you let us know exactly what issue you're running into? If it's related to item parsing, please paste the item data (Ctrl+Alt+C while hovering over the item) so we can check. If possible, join our Discord for easier troubleshooting!",
-                "timeAgo": "yesterday",
+                "timeAgo": "last quarter",
+                "user": {
+                    "name": "Kyusung"
+                }
+            },
+            {
+                "body": "1.72.0 now has support for Simplified Chinese! Thanks for the suggestion",
+                "timeAgo": "25 minutes ago",
                 "user": {
                     "name": "Kyusung"
                 }
@@ -754,10 +761,10 @@
             "name": "Anonymous #20100"
         },
         "status": {
-            "name": "Open"
+            "name": "Completed"
         },
         "voteCount": 4,
-        "commentCount": 1
+        "commentCount": 2
     },
     "cm520fluj01w2ms2f55fk0ap5": {
         "id": "cm520fluj01w2ms2f55fk0ap5",
@@ -1461,11 +1468,18 @@
         "id": "cmbuxgla600w5n43lgoail38z",
         "title": "‌Adding Simplified Chinese Support Could Attract More Players in China",
         "body": "‌Could you add support for Simplified Chinese? Just like you already do for Traditional Chinese. There are ‌thousands‌ of players here in China using either ‌APT or farm‌. If you added Simplified Chinese support, it would definitely ‌bring in a lot more players‌. If you guys ‌don't have a Simplified Chinese patch‌ yet, I can ‌provide you with one‌. This is the same patch ‌tens of thousands of Chinese users‌ are already using to ‌change the game's text to Simplified Chinese‌",
-        "timeAgo": "2 days ago",
+        "timeAgo": "last week",
         "comments": [
             {
                 "body": "Hey! Thanks a ton for the offer—really appreciate it. If you can provide the Simplified Chinese patch you're using, we can take a look and see if it’s something we can integrate into our data pipeline. No promises though—it depends on how well it fits in. We'll have more time to dig into it after the league launch, so feel free to send it over then",
-                "timeAgo": "3 minutes ago",
+                "timeAgo": "5 days ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            },
+            {
+                "body": "1.72.0 now has support for Simplified Chinese! Thanks for the suggestion ",
+                "timeAgo": "25 minutes ago",
                 "user": {
                     "name": "Kyusung"
                 }
@@ -1475,10 +1489,10 @@
             "name": "淡定的阿关"
         },
         "status": {
-            "name": "Open"
+            "name": "Completed"
         },
         "voteCount": 1,
-        "commentCount": 1
+        "commentCount": 2
     },
     "cm857s6tk0j7qm02f3oul5nw6": {
         "id": "cm857s6tk0j7qm02f3oul5nw6",
