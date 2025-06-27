@@ -203,15 +203,23 @@
         "title": "[TRADE] A sound notification when buyer enters H/O",
         "body": "In addition to the player's name turning green when a buyer enters your H/O, it could be nice to have a toggle for an audio notification as well.",
         "timeAgo": "2 years ago",
-        "comments": [],
+        "comments": [
+            {
+                "body": "Has been added in \n1.74.0\n Thanks for the suggestion! ",
+                "timeAgo": "11 minutes ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "MalakaJones"
         },
         "status": {
-            "name": "Accepted"
+            "name": "Completed"
         },
         "voteCount": 14,
-        "commentCount": 0
+        "commentCount": 1
     },
     "cm5hizcz1002rri2yci24zmx0": {
         "id": "cm5hizcz1002rri2yci24zmx0",
@@ -608,7 +616,7 @@
             "name": "Onkèlbé"
         },
         "status": {
-            "name": "In Progress"
+            "name": "Completed"
         },
         "voteCount": 5,
         "commentCount": 1
