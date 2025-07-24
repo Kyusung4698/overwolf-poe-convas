@@ -221,6 +221,29 @@
         "voteCount": 14,
         "commentCount": 6
     },
+    "cm03d2x0k01vimg2yh0b5n07t": {
+        "id": "cm03d2x0k01vimg2yh0b5n07t",
+        "title": "multiple monitor overlay on top of game",
+        "body": "i would really like to have the f9 overlay ingame while having two monitors. this way i would not have to use alt-tab to get to f9 menu. I suggest adding an option for that to override two monitors detection",
+        "timeAgo": "4 quarters ago",
+        "comments": [
+            {
+                "body": "to reiterate, there should be \noption\n to disable multi-monitor detection, so that the whole poe overlay can be inside the game even when having two monitors",
+                "timeAgo": "4 quarters ago",
+                "user": {
+                    "name": "Tellegar"
+                }
+            }
+        ],
+        "user": {
+            "name": "Tellegar"
+        },
+        "status": {
+            "name": "Accepted"
+        },
+        "voteCount": 11,
+        "commentCount": 1
+    },
     "cm5hizcz1002rri2yci24zmx0": {
         "id": "cm5hizcz1002rri2yci24zmx0",
         "title": "Stream Deck support",
@@ -272,29 +295,6 @@
         },
         "voteCount": 10,
         "commentCount": 3
-    },
-    "cm03d2x0k01vimg2yh0b5n07t": {
-        "id": "cm03d2x0k01vimg2yh0b5n07t",
-        "title": "multiple monitor overlay on top of game",
-        "body": "i would really like to have the f9 overlay ingame while having two monitors. this way i would not have to use alt-tab to get to f9 menu. I suggest adding an option for that to override two monitors detection",
-        "timeAgo": "3 quarters ago",
-        "comments": [
-            {
-                "body": "to reiterate, there should be \noption\n to disable multi-monitor detection, so that the whole poe overlay can be inside the game even when having two monitors",
-                "timeAgo": "3 quarters ago",
-                "user": {
-                    "name": "Tellegar"
-                }
-            }
-        ],
-        "user": {
-            "name": "Tellegar"
-        },
-        "status": {
-            "name": "Accepted"
-        },
-        "voteCount": 10,
-        "commentCount": 1
     },
     "cllwimuxd009tn629xmdqyvie": {
         "id": "cllwimuxd009tn629xmdqyvie",
