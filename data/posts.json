@@ -1104,6 +1104,36 @@
         "voteCount": 3,
         "commentCount": 3
     },
+    "cmdnldyzt00hvmw4pwv5sl64v": {
+        "id": "cmdnldyzt00hvmw4pwv5sl64v",
+        "title": "Show Dust of unique ",
+        "body": "Hello ! I was thinking about small Dust checker when you check price it will show how many dust you will get from dusting the unique item. this should work only on the unique one items, Small  square somewhere down in corner in price checker? Dust will be rounded to \"K\"  What do you think about it?",
+        "timeAgo": "2 minutes ago",
+        "comments": [],
+        "user": {
+            "name": "Tomasz SaCus"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 2,
+        "commentCount": 0
+    },
+    "cmdn1ji7a00f8mw4p5eq32ffu": {
+        "id": "cmdn1ji7a00f8mw4p5eq32ffu",
+        "title": "Market your own stash",
+        "body": "Hello, \n\nI'm horder but I never know what's good or bad or something I need. So I turn to market to search for what I need  even if I have in my stash.  So what I'm looking for is to maybe offline/outside the game app search for items in my own stash. \nAs you can only have 10 tabs per profile I could setup up several and do search to all of them. ",
+        "timeAgo": "9 hours ago",
+        "comments": [],
+        "user": {
+            "name": "varazir"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 2,
+        "commentCount": 0
+    },
     "cm6r3mgvq01f6ih2xxryqz5qk": {
         "id": "cm6r3mgvq01f6ih2xxryqz5qk",
         "title": "DPS Meter",
@@ -1470,21 +1500,6 @@
             "name": "Wont Implement"
         },
         "voteCount": 2,
-        "commentCount": 0
-    },
-    "cmdn1ji7a00f8mw4p5eq32ffu": {
-        "id": "cmdn1ji7a00f8mw4p5eq32ffu",
-        "title": "Market your own stash",
-        "body": "Hello, \n\nI'm horder but I never know what's good or bad or something I need. So I turn to market to search for what I need  even if I have in my stash.  So what I'm looking for is to maybe offline/outside the game app search for items in my own stash. \nAs you can only have 10 tabs per profile I could setup up several and do search to all of them. ",
-        "timeAgo": "19 minutes ago",
-        "comments": [],
-        "user": {
-            "name": "varazir"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
         "commentCount": 0
     },
     "cmcbqmm6e0018of4ow3xvw34i": {
@@ -2187,21 +2202,6 @@
         "title": "Listing by vendor account: special map search",
         "body": "The only way to search in your map stash tab for special maps is to use trade API, according to this video.\n\nSo I suggest adding the option to filter by account name, or at least my account, in trade filters",
         "timeAgo": "4 minutes",
-        "comments": [],
-        "user": {
-            "name": "g-alfieri"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
-        "commentCount": 0
-    },
-    "clgsemdjh0ac4oj2076w4e83s": {
-        "id": "clgsemdjh0ac4oj2076w4e83s",
-        "title": "Add feedback with thumbs up/down",
-        "body": "I would like to vote feedback up or down after trade, maybe, simply store the feedback like upvote if I click on trade finished button and rank the trader by feedback",
-        "timeAgo": "11 minutes",
         "comments": [],
         "user": {
             "name": "g-alfieri"
