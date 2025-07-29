@@ -1502,6 +1502,21 @@
         "voteCount": 2,
         "commentCount": 0
     },
+    "cmdo9oi4r00ixmw4p5s0dohlk": {
+        "id": "cmdo9oi4r00ixmw4p5s0dohlk",
+        "title": "Custom Trade Message Buttons",
+        "body": "I'm switching over from PoE Trades Companion, and I really miss the custom trade buttons to tell traders with one click that I only wanna sell in bulk, my maps are corrupted, I wanna buy all, etc. Any chance something like this could be implemented?\n\nBut I also want to give positive feedback, just came back to your tool and loving the changes. I was using two programs before, and this one can mostly do the same and then some! =D",
+        "timeAgo": "9 minutes ago",
+        "comments": [],
+        "user": {
+            "name": "Lendoria"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "cmcbqmm6e0018of4ow3xvw34i": {
         "id": "cmcbqmm6e0018of4ow3xvw34i",
         "title": "Path of building 2",
@@ -2190,21 +2205,6 @@
         "comments": [],
         "user": {
             "name": "RedBlue Devil"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
-        "commentCount": 0
-    },
-    "clm6lfnxy00uln629m5ymok68": {
-        "id": "clm6lfnxy00uln629m5ymok68",
-        "title": "Listing by vendor account: special map search",
-        "body": "The only way to search in your map stash tab for special maps is to use trade API, according to this video.\n\nSo I suggest adding the option to filter by account name, or at least my account, in trade filters",
-        "timeAgo": "4 minutes",
-        "comments": [],
-        "user": {
-            "name": "g-alfieri"
         },
         "status": {
             "name": "Open"
