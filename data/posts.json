@@ -507,97 +507,6 @@
         "voteCount": 7,
         "commentCount": 1
     },
-    "ckx3rzbui794452skvfl9bv9uw": {
-        "id": "ckx3rzbui794452skvfl9bv9uw",
-        "title": "Multi Client Option",
-        "body": "Hi, I am using two POE clients, one for trading and one for playing the game.\n\nOne is the Steam Client and one is the normal Client.\n\nI would like to use the overlay for both clients, at the moment the overlay is stuck to the last open client. So if I close the game with did not have the overlay and reboot it gets then the overlay. \n\nI don't know if it's possible, but if you could make an option so that you maybe can switch between separate clients so that we don't have to close and open the games, that would be awesome. \n\nLG CTekk\n\n",
-        "timeAgo": "about 2 years",
-        "comments": [
-            {
-                "body": "Good Idee, have the Same Problem. At the moment, I use a sec software to check Items on my Main Account.\nWould be really nice if I could use this for Both of my Games.",
-                "timeAgo": "almost 2 years",
-                "user": {
-                    "name": "Anonymous #1512"
-                }
-            },
-            {
-                "body": "This won't be support. There is a workaround by renaming the executable of the client you don't want the app to stick to e.g. PathOfExile.exe -> PathOfExileIgnore.exe",
-                "timeAgo": "17 minutes",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "CTekk"
-        },
-        "status": {
-            "name": "Wont Fix"
-        },
-        "voteCount": 7,
-        "commentCount": 2
-    },
-    "cluy6sk1100a5oz33r58dl6n6": {
-        "id": "cluy6sk1100a5oz33r58dl6n6",
-        "title": "Divine orb breakdown for change calculation",
-        "body": "Problem:\n\nWhen the buyer asks for a change from div, it is tedious to calculate it.\n\nExample: price is 1.8 div. Buyer has 2 div and asks for change. Need to give 0.2 div in chaos.\n\nCurrent flow is:\n\nPrice check div price.\n\nOpen calculator to calculate or do it in your head.\n\nAwakened poe has a divine break down chart: https://www.reddit.com/r/pathofexile/comments/194fj8p/psa_if_youre_using_awakened_poe_trade_theres_a/\n\nProposal:\n\nDo something similar to Awakened poe\n\nor\n\nAutomatically calculate change in the trade list. Put it somewhere - add a button to show it, or in the hover message when hovering the price.",
-        "timeAgo": "3 quarters ago",
-        "comments": [],
-        "user": {
-            "name": "Ruslan Anikaev"
-        },
-        "status": {
-            "name": "Accepted"
-        },
-        "voteCount": 6,
-        "commentCount": 0
-    },
-    "clmkyc7om00vgn629qxsmckuq": {
-        "id": "clmkyc7om00vgn629qxsmckuq",
-        "title": "Automatically select fractured mods in item evaluation",
-        "body": "If an item has a fractured mod, this mod should be automatically selected when evaluating the item. Alternatively, this could be implemented as a preference.",
-        "timeAgo": "2 years ago",
-        "comments": [
-            {
-                "body": "This has been added in \n1.63.0\n—fractured mods will now be auto-selected when evaluating items. Thanks for the suggestion!",
-                "timeAgo": "1 minute ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "iTob"
-        },
-        "status": {
-            "name": "Completed"
-        },
-        "voteCount": 6,
-        "commentCount": 1
-    },
-    "cldwfaesc00p0ml1r3ojnaclj": {
-        "id": "cldwfaesc00p0ml1r3ojnaclj",
-        "title": "Shareable favorited/saved searches",
-        "body": "Would be an awesome feature to be able to somehow share your favorited/saved searches, I have spent a lot of time creating some for my builds which i would like to share with my friends that play same builds.",
-        "timeAgo": "last year",
-        "comments": [
-            {
-                "body": "If we could do this by importing / exporting trade links, that would be great! Then we could also share with friends who don’t use PoE Overlay yet!",
-                "timeAgo": "2 quarters ago",
-                "user": {
-                    "name": "Rue"
-                }
-            }
-        ],
-        "user": {
-            "name": "Anonymous #12952"
-        },
-        "status": {
-            "name": "Accepted"
-        },
-        "voteCount": 6,
-        "commentCount": 1
-    },
     "cl8csqp052928991xj5sgt0nkme": {
         "id": "cl8csqp052928991xj5sgt0nkme",
         "title": "Custom Messages",
@@ -688,8 +597,99 @@
         "status": {
             "name": "Open"
         },
-        "voteCount": 6,
+        "voteCount": 7,
         "commentCount": 11
+    },
+    "ckx3rzbui794452skvfl9bv9uw": {
+        "id": "ckx3rzbui794452skvfl9bv9uw",
+        "title": "Multi Client Option",
+        "body": "Hi, I am using two POE clients, one for trading and one for playing the game.\n\nOne is the Steam Client and one is the normal Client.\n\nI would like to use the overlay for both clients, at the moment the overlay is stuck to the last open client. So if I close the game with did not have the overlay and reboot it gets then the overlay. \n\nI don't know if it's possible, but if you could make an option so that you maybe can switch between separate clients so that we don't have to close and open the games, that would be awesome. \n\nLG CTekk\n\n",
+        "timeAgo": "about 2 years",
+        "comments": [
+            {
+                "body": "Good Idee, have the Same Problem. At the moment, I use a sec software to check Items on my Main Account.\nWould be really nice if I could use this for Both of my Games.",
+                "timeAgo": "almost 2 years",
+                "user": {
+                    "name": "Anonymous #1512"
+                }
+            },
+            {
+                "body": "This won't be support. There is a workaround by renaming the executable of the client you don't want the app to stick to e.g. PathOfExile.exe -> PathOfExileIgnore.exe",
+                "timeAgo": "17 minutes",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
+        "user": {
+            "name": "CTekk"
+        },
+        "status": {
+            "name": "Wont Fix"
+        },
+        "voteCount": 7,
+        "commentCount": 2
+    },
+    "cluy6sk1100a5oz33r58dl6n6": {
+        "id": "cluy6sk1100a5oz33r58dl6n6",
+        "title": "Divine orb breakdown for change calculation",
+        "body": "Problem:\n\nWhen the buyer asks for a change from div, it is tedious to calculate it.\n\nExample: price is 1.8 div. Buyer has 2 div and asks for change. Need to give 0.2 div in chaos.\n\nCurrent flow is:\n\nPrice check div price.\n\nOpen calculator to calculate or do it in your head.\n\nAwakened poe has a divine break down chart: https://www.reddit.com/r/pathofexile/comments/194fj8p/psa_if_youre_using_awakened_poe_trade_theres_a/\n\nProposal:\n\nDo something similar to Awakened poe\n\nor\n\nAutomatically calculate change in the trade list. Put it somewhere - add a button to show it, or in the hover message when hovering the price.",
+        "timeAgo": "3 quarters ago",
+        "comments": [],
+        "user": {
+            "name": "Ruslan Anikaev"
+        },
+        "status": {
+            "name": "Accepted"
+        },
+        "voteCount": 6,
+        "commentCount": 0
+    },
+    "clmkyc7om00vgn629qxsmckuq": {
+        "id": "clmkyc7om00vgn629qxsmckuq",
+        "title": "Automatically select fractured mods in item evaluation",
+        "body": "If an item has a fractured mod, this mod should be automatically selected when evaluating the item. Alternatively, this could be implemented as a preference.",
+        "timeAgo": "2 years ago",
+        "comments": [
+            {
+                "body": "This has been added in \n1.63.0\n—fractured mods will now be auto-selected when evaluating items. Thanks for the suggestion!",
+                "timeAgo": "1 minute ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
+        "user": {
+            "name": "iTob"
+        },
+        "status": {
+            "name": "Completed"
+        },
+        "voteCount": 6,
+        "commentCount": 1
+    },
+    "cldwfaesc00p0ml1r3ojnaclj": {
+        "id": "cldwfaesc00p0ml1r3ojnaclj",
+        "title": "Shareable favorited/saved searches",
+        "body": "Would be an awesome feature to be able to somehow share your favorited/saved searches, I have spent a lot of time creating some for my builds which i would like to share with my friends that play same builds.",
+        "timeAgo": "last year",
+        "comments": [
+            {
+                "body": "If we could do this by importing / exporting trade links, that would be great! Then we could also share with friends who don’t use PoE Overlay yet!",
+                "timeAgo": "2 quarters ago",
+                "user": {
+                    "name": "Rue"
+                }
+            }
+        ],
+        "user": {
+            "name": "Anonymous #12952"
+        },
+        "status": {
+            "name": "Accepted"
+        },
+        "voteCount": 6,
+        "commentCount": 1
     },
     "cm55syeva002emx2y3e1ozkaz": {
         "id": "cm55syeva002emx2y3e1ozkaz",
