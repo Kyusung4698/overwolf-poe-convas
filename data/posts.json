@@ -655,7 +655,7 @@
             "name": "Jimmy Straight"
         },
         "status": {
-            "name": "Accepted"
+            "name": "Planned"
         },
         "voteCount": 7,
         "commentCount": 12
@@ -1174,7 +1174,7 @@
             "name": "Tomasz SaCus"
         },
         "status": {
-            "name": "Accepted"
+            "name": "Planned"
         },
         "voteCount": 2,
         "commentCount": 0
@@ -1198,16 +1198,24 @@
         "id": "cm6r3mgvq01f6ih2xxryqz5qk",
         "title": "DPS Meter",
         "body": "DPS Meter for maps like WOW Details! DMG Meter. ",
-        "timeAgo": "2 weeks ago",
-        "comments": [],
+        "timeAgo": "2 quarters ago",
+        "comments": [
+            {
+                "body": "Hey @Philipp M. – cool idea in theory, but PoE doesn’t expose the kind of combat data needed for a reliable DPS meter like WoW’s Details. Not something we plan to support. Thanks for the suggestion though!",
+                "timeAgo": "15 minutes ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "Philipp M."
         },
         "status": {
-            "name": "Open"
+            "name": "Wont Implement"
         },
         "voteCount": 2,
-        "commentCount": 0
+        "commentCount": 1
     },
     "cm67u4qkh00p1ih2xtkk36m6k": {
         "id": "cm67u4qkh00p1ih2xtkk36m6k",
@@ -1238,21 +1246,6 @@
         },
         "voteCount": 2,
         "commentCount": 2
-    },
-    "cm5x87p4500a4ih2xafpyombh": {
-        "id": "cm5x87p4500a4ih2xafpyombh",
-        "title": "Stash/Vendor Searches",
-        "body": "For the moment we have plenty of emojis to use, but is it possible to add words aswell? \n\nFor example, i have a regex for quant maps and rarity maps. instead of using emojis i would love to use a single word like RARE or QUANT it's more a Qol improvement i think. ",
-        "timeAgo": "2 months ago",
-        "comments": [],
-        "user": {
-            "name": "Soulixvm"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 2,
-        "commentCount": 0
     },
     "cm59kp71n0057mx2y4r68ukkr": {
         "id": "cm59kp71n0057mx2y4r68ukkr",
@@ -2265,6 +2258,21 @@
         "comments": [],
         "user": {
             "name": "RedBlue Devil"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
+    "clm6lfnxy00uln629m5ymok68": {
+        "id": "clm6lfnxy00uln629m5ymok68",
+        "title": "Listing by vendor account: special map search",
+        "body": "The only way to search in your map stash tab for special maps is to use trade API, according to this video.\n\nSo I suggest adding the option to filter by account name, or at least my account, in trade filters",
+        "timeAgo": "2 years ago",
+        "comments": [],
+        "user": {
+            "name": "g-alfieri"
         },
         "status": {
             "name": "Open"
