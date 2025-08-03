@@ -866,18 +866,26 @@
     },
     "cluh27lcg009gm033i4g0g9a5": {
         "id": "cluh27lcg009gm033i4g0g9a5",
-        "title": " ignore incoming trade messages after pressing \"item sold\"",
+        "title": "[Wont Implement] Ignore Trade Messages After Item Sold",
         "body": "sometimes you want sell smth fast but then get bombarded with messages of that item even minutes after it is sold.\n\nSO it would be nice to have incoming messages of that item i just clicked \"item sold\" be ignored for like 5min and not getting any popups for this item for that time anymore",
-        "timeAgo": "3 quarters ago",
-        "comments": [],
+        "timeAgo": "last year",
+        "comments": [
+            {
+                "body": "Hey @ron won – we get the idea, but we don’t track trades per item, so it’s not really something we can support cleanly. Unlikely to happen for now, but appreciate you bringing it up!",
+                "timeAgo": "19 minutes ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "ron won"
         },
         "status": {
-            "name": "Open"
+            "name": "Wont Implement"
         },
         "voteCount": 4,
-        "commentCount": 0
+        "commentCount": 1
     },
     "cln80qjnz00rjsr29wbskp68b": {
         "id": "cln80qjnz00rjsr29wbskp68b",
@@ -919,48 +927,72 @@
     },
     "cm6t6uzdq01goih2x5iyhxjz2": {
         "id": "cm6t6uzdq01goih2x5iyhxjz2",
-        "title": "Telegram API or other API trade notification",
+        "title": "[Low Priority] Telegram or Alt API Trade Notifications",
         "body": "I would like to be able to receive trade notifications on my phone using messengers such as Telegram. In my country Discord is blocked and I can't receive notifications in this way. I must always use VPN to receive notifications on Discord.\n\nIt would be great if you added this kind of functionality. Thanks!",
-        "timeAgo": "last quarter",
-        "comments": [],
+        "timeAgo": "2 quarters ago",
+        "comments": [
+            {
+                "body": "Hey @hfn – makes sense, and Telegram support is something we’d like to add down the line. Not a high priority at the moment, but definitely on our radar. Thanks for the suggestion!",
+                "timeAgo": "21 minutes ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "hfn"
         },
         "status": {
-            "name": "Open"
+            "name": "Low Priority"
         },
         "voteCount": 3,
-        "commentCount": 0
+        "commentCount": 1
     },
     "clz8qqdqt00n1mg2y23xa5i0j": {
         "id": "clz8qqdqt00n1mg2y23xa5i0j",
-        "title": "Mouse [hover] item overlay in the app",
+        "title": "[Low Priority] Mouse Hover Item Overlay in Builds Tab",
         "body": "in the POB website, when you hover your mouse on an item/gem, it displays what the item looks like, where it can be aquired etc.. in the poe overlay application, that does not happen making new players (like me) require to have either both the application and the website open, or, to discard the application and only use the pob website. \n\nnote: this is a suggestion for the [builds] tab, just to clear any possible confusion.\n\n(and since im already making this feature suggestion, the link to the wiki like its displayed in the lower right corner would be pretty nice).",
-        "timeAgo": "last quarter",
-        "comments": [],
+        "timeAgo": "last year",
+        "comments": [
+            {
+                "body": "Hey @TheDarling – thanks for the clear suggestion! Totally agree this would be a nice QoL, especially for newer players. It’s low priority for now, but definitely something we’d like to improve in the builds tab down the line.",
+                "timeAgo": "17 minutes ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "TheDarling"
         },
         "status": {
-            "name": "Open"
+            "name": "Low Priority"
         },
         "voteCount": 3,
-        "commentCount": 0
+        "commentCount": 1
     },
     "clx28c9mo00o5sh2ftbmqecry": {
         "id": "clx28c9mo00o5sh2ftbmqecry",
-        "title": "Pricing website",
+        "title": "[Low Priority] Option to Disable poeprice.info on Alt+D",
         "body": "please can you make an option on disable poeprice.info when we use alt+D please  ? \n\nthanks ",
-        "timeAgo": "2 months ago",
-        "comments": [],
+        "timeAgo": "last year",
+        "comments": [
+            {
+                "body": "Hey @Marc Vandenabeele – yep, makes sense! Low priority for now, but we’ll look into adding an option to disable \npoeprice.info\n for Alt+D in a future update. Thanks for the suggestion!",
+                "timeAgo": "12 minutes ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "Marc Vandenabeele"
         },
         "status": {
-            "name": "Open"
+            "name": "Low Priority"
         },
         "voteCount": 3,
-        "commentCount": 0
+        "commentCount": 1
     },
     "clraqjyoh0008px2fdi3s6v7d": {
         "id": "clraqjyoh0008px2fdi3s6v7d",
@@ -979,15 +1011,22 @@
     },
     "clq3lyiye00diis26hun8yk1v": {
         "id": "clq3lyiye00diis26hun8yk1v",
-        "title": "Interactive Leveling Roadmap",
+        "title": "[Wont Implement] Interactive Leveling Roadmap",
         "body": "Method to see and check leveling Steps like\n\nhttps://heartofphos.github.io/exile-leveling/\n\n",
         "timeAgo": "2 years ago",
         "comments": [
             {
                 "body": "I do not even want the map layout, just the gem info and other info that Lailloken-UI Act‐Tracker has would be sweet.\nhttps://github.com/Lailloken/Lailloken-UI/wiki/Act%E2%80%90Tracker",
-                "timeAgo": "2 quarters ago",
+                "timeAgo": "last year",
                 "user": {
                     "name": "TheOne320"
+                }
+            },
+            {
+                "body": "Hey @schefera – this would definitely help with early progression, but we’re not planning to support leveling-focused tools for now. Might revisit in the future, but marking it as won’t implement for the time being. Appreciate the suggestion!",
+                "timeAgo": "15 minutes ago",
+                "user": {
+                    "name": "Kyusung"
                 }
             }
         ],
@@ -995,10 +1034,10 @@
             "name": "schefera"
         },
         "status": {
-            "name": "Open"
+            "name": "Wont Implement"
         },
         "voteCount": 3,
-        "commentCount": 1
+        "commentCount": 2
     },
     "clmf5n7bq00bhn629ljwb99ls": {
         "id": "clmf5n7bq00bhn629ljwb99ls",
@@ -1247,20 +1286,51 @@
         "voteCount": 2,
         "commentCount": 2
     },
+    "cm5x87p4500a4ih2xafpyombh": {
+        "id": "cm5x87p4500a4ih2xafpyombh",
+        "title": "Stash/Vendor Searches",
+        "body": "For the moment we have plenty of emojis to use, but is it possible to add words aswell? \n\nFor example, i have a regex for quant maps and rarity maps. instead of using emojis i would love to use a single word like RARE or QUANT it's more a Qol improvement i think. ",
+        "timeAgo": "2 quarters ago",
+        "comments": [
+            {
+                "body": "Hey @Soulixvm – yup, definitely a nice QoL tweak. Not super high priority right now, but it’s something we’d like to add when time allows. Thanks for the suggestion!",
+                "timeAgo": "37 minutes ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
+        "user": {
+            "name": "Soulixvm"
+        },
+        "status": {
+            "name": "Low Priority"
+        },
+        "voteCount": 2,
+        "commentCount": 1
+    },
     "cm59kp71n0057mx2y4r68ukkr": {
         "id": "cm59kp71n0057mx2y4r68ukkr",
-        "title": "Ingame Market Resize",
+        "title": "[Wont Implement] Ingame Market Resize",
         "body": "Hello, i would love to be able to resize the ingame market panel specially in height but the width can be nice too.",
-        "timeAgo": "last week",
-        "comments": [],
+        "timeAgo": "3 quarters ago",
+        "comments": [
+            {
+                "body": "Hey @Exxaxion Reav – not something we plan to support. Keeping the market panel fixed helps maintain consistent layout and usability across setups. Thanks for the suggestion though!",
+                "timeAgo": "14 minutes ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "Exxaxion Reav"
         },
         "status": {
-            "name": "Open"
+            "name": "Wont Implement"
         },
         "voteCount": 2,
-        "commentCount": 0
+        "commentCount": 1
     },
     "cm51y6p9j01vzms2fvvwua8hk": {
         "id": "cm51y6p9j01vzms2fvvwua8hk",
@@ -1317,33 +1387,49 @@
     },
     "cluh21mbr009dm033a1lokkql": {
         "id": "cluh21mbr009dm033a1lokkql",
-        "title": "rearange the order of the icons in trades whisper",
+        "title": "[Wont Implement] Rearrange Trade Whisper Icons",
         "body": "as title say would be nice to be able to reorder icons of the trade messages (incoming and outgoing)",
-        "timeAgo": "7 hours ago",
-        "comments": [],
+        "timeAgo": "last year",
+        "comments": [
+            {
+                "body": "Hey @ron won – we’re not planning to support custom icon order. The current layout follows a consistent logic and grouping that we want to keep. Appreciate the suggestion though!",
+                "timeAgo": "10 minutes ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "ron won"
         },
         "status": {
-            "name": "Open"
+            "name": "Wont Implement"
         },
         "voteCount": 2,
-        "commentCount": 0
+        "commentCount": 1
     },
     "clqllf0qh01utis26q5znc539": {
         "id": "clqllf0qh01utis26q5znc539",
-        "title": "Add Map Bosses to \"Dangerous Mods\" List",
+        "title": "[Wont Implement] Add Map Bosses to Dangerous Mods List",
         "body": "When farming bosses for Maven some are rippier than others. It would be nice if for example I could set The Goddess of Justice as a dangerous mod so that I remember not to run Orchard or Plaza.",
-        "timeAgo": "6 days",
-        "comments": [],
+        "timeAgo": "2 years ago",
+        "comments": [
+            {
+                "body": "Hey @argash – we’re not planning to add boss-specific flags to the dangerous mods system. It’s a bit outside the scope of what that feature was designed for. Thanks for the suggestion though!",
+                "timeAgo": "3 minutes ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "argash"
         },
         "status": {
-            "name": "Open"
+            "name": "Wont Implement"
         },
         "voteCount": 2,
-        "commentCount": 0
+        "commentCount": 1
     },
     "clmwd4pav001asr29gbxm0nvd": {
         "id": "clmwd4pav001asr29gbxm0nvd",
@@ -1559,8 +1645,16 @@
         "id": "cmdo9oi4r00ixmw4p5s0dohlk",
         "title": "Custom Trade Message Buttons",
         "body": "I'm switching over from PoE Trades Companion, and I really miss the custom trade buttons to tell traders with one click that I only wanna sell in bulk, my maps are corrupted, I wanna buy all, etc. Any chance something like this could be implemented?\n\nBut I also want to give positive feedback, just came back to your tool and loving the changes. I was using two programs before, and this one can mostly do the same and then some! =D",
-        "timeAgo": "9 minutes ago",
-        "comments": [],
+        "timeAgo": "5 days ago",
+        "comments": [
+            {
+                "body": "Hey – thanks a ton for the kind words, glad you're liking the recent changes! 😄\nWe’ve got a similar suggestion already open about custom trade messages, so I’ll mark this one as a duplicate – but your use case is noted and definitely lines up with what we’re planning. Appreciate the feedback!",
+                "timeAgo": "1 minute ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "Lendoria"
         },
@@ -1568,22 +1662,30 @@
             "name": "Open"
         },
         "voteCount": 1,
-        "commentCount": 0
+        "commentCount": 1
     },
     "cmcbqmm6e0018of4ow3xvw34i": {
         "id": "cmcbqmm6e0018of4ow3xvw34i",
-        "title": "Path of building 2",
+        "title": "[Planned] Path of Building 2 Support",
         "body": "Support for builds in POE2 Overlay like POE1 supports path of building to compare equipment and stats etc",
-        "timeAgo": "14 minutes ago",
-        "comments": [],
+        "timeAgo": "2 months ago",
+        "comments": [
+            {
+                "body": "Hey @Matthew Currie – yep, this is planned! We’ll add PoB2 support once it’s a bit more stable. Definitely on the roadmap. Thanks for the suggestion!",
+                "timeAgo": "5 minutes ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "Matthew Currie (Joop)"
         },
         "status": {
-            "name": "Open"
+            "name": "Planned"
         },
         "voteCount": 1,
-        "commentCount": 0
+        "commentCount": 1
     },
     "cmbuxgla600w5n43lgoail38z": {
         "id": "cmbuxgla600w5n43lgoail38z",
@@ -2258,21 +2360,6 @@
         "comments": [],
         "user": {
             "name": "RedBlue Devil"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
-        "commentCount": 0
-    },
-    "clm6lfnxy00uln629m5ymok68": {
-        "id": "clm6lfnxy00uln629m5ymok68",
-        "title": "Listing by vendor account: special map search",
-        "body": "The only way to search in your map stash tab for special maps is to use trade API, according to this video.\n\nSo I suggest adding the option to filter by account name, or at least my account, in trade filters",
-        "timeAgo": "2 years ago",
-        "comments": [],
-        "user": {
-            "name": "g-alfieri"
         },
         "status": {
             "name": "Open"
