@@ -9,7 +9,7 @@
             "name": "MalakaJones"
         },
         "status": {
-            "name": "Accepted"
+            "name": "Open"
         },
         "voteCount": 23,
         "commentCount": 0
@@ -32,7 +32,7 @@
             "name": "Tellegar"
         },
         "status": {
-            "name": "Low Priority"
+            "name": "Open"
         },
         "voteCount": 11,
         "commentCount": 1
@@ -147,7 +147,7 @@
             "name": "Ruslan Anikaev"
         },
         "status": {
-            "name": "Accepted"
+            "name": "Open"
         },
         "voteCount": 6,
         "commentCount": 0
@@ -170,7 +170,7 @@
             "name": "Anonymous #12952"
         },
         "status": {
-            "name": "Accepted"
+            "name": "Open"
         },
         "voteCount": 6,
         "commentCount": 1
@@ -185,7 +185,7 @@
             "name": "lvlvllvlvllvlvl"
         },
         "status": {
-            "name": "Accepted"
+            "name": "Open"
         },
         "voteCount": 5,
         "commentCount": 0
@@ -237,33 +237,10 @@
             "name": "Ingvar Pálmarsson"
         },
         "status": {
-            "name": "Accepted"
+            "name": "Open"
         },
         "voteCount": 4,
         "commentCount": 0
-    },
-    "cktsbp2fj47469map1iqn119gj": {
-        "id": "cktsbp2fj47469map1iqn119gj",
-        "title": "Player ignore built-in feature",
-        "body": "I would love to see my player ignore list be linked from the official website. Could also be a totaly independant one if it's simpler to implement. Being able to directly add players to that list from the evaluate or market feature would be awsome.",
-        "timeAgo": "over 1 year",
-        "comments": [
-            {
-                "body": "This is somewhat supported if you link your GGG account. The market results should already be using the ignore list of your linked account. I'm planning extending on this integration by also making the ignore list editable in the market. So stay tuned o/ ",
-                "timeAgo": "3 months",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "name": "Blocked"
-        },
-        "voteCount": 4,
-        "commentCount": 1
     },
     "cm6t6uzdq01goih2x5iyhxjz2": {
         "id": "cm6t6uzdq01goih2x5iyhxjz2",
@@ -283,7 +260,7 @@
             "name": "hfn"
         },
         "status": {
-            "name": "Low Priority"
+            "name": "Planned"
         },
         "voteCount": 3,
         "commentCount": 1
@@ -306,7 +283,7 @@
             "name": "TheDarling"
         },
         "status": {
-            "name": "Low Priority"
+            "name": "Open"
         },
         "voteCount": 3,
         "commentCount": 1
@@ -329,25 +306,10 @@
             "name": "Marc Vandenabeele"
         },
         "status": {
-            "name": "Low Priority"
+            "name": "Open"
         },
         "voteCount": 3,
         "commentCount": 1
-    },
-    "cllxzwvgn00ebn6291kff4lew": {
-        "id": "cllxzwvgn00ebn6291kff4lew",
-        "title": "Trade Toast Notification: Highlight inviting",
-        "body": "Highlight with a yellow border people who invites you to party when you're doing multiple trades to point them for whispering later when you finished trade with previous one",
-        "timeAgo": "4 months",
-        "comments": [],
-        "user": {
-            "name": "g-alfieri"
-        },
-        "status": {
-            "name": "Blocked"
-        },
-        "voteCount": 3,
-        "commentCount": 0
     },
     "cldwjl4nz00p4ml1rxhi7ts4z": {
         "id": "cldwjl4nz00p4ml1rxhi7ts4z",
@@ -359,7 +321,7 @@
             "name": "MalakaJones"
         },
         "status": {
-            "name": "Accepted"
+            "name": "Open"
         },
         "voteCount": 3,
         "commentCount": 0
@@ -396,7 +358,7 @@
             "name": "Subutai"
         },
         "status": {
-            "name": "Accepted"
+            "name": "Open"
         },
         "voteCount": 3,
         "commentCount": 3
@@ -433,44 +395,7 @@
             "name": "jaylay99"
         },
         "status": {
-            "name": "Accepted"
-        },
-        "voteCount": 3,
-        "commentCount": 3
-    },
-    "cktsbp2fx47477map1602cke1k": {
-        "id": "cktsbp2fx47477map1602cke1k",
-        "title": "Party member highlight when trading",
-        "body": "Through the trade feature, could it be possible to highlight the party member you have to trade with once you're in the same party? This would help quickly figure out which player you need to join its hideout. This would really help with non-greek alphabet names or vice-versa.",
-        "timeAgo": "over 2 years",
-        "comments": [
-            {
-                "body": "I don't think there is a way of knowing the party members and their respective order in the UI through the logs. But this could possible be provided through Overwolf. Let's ask them 😇\nhttps://discuss.overwolf.com/t/path-of-exile-party-members/2046",
-                "timeAgo": "over 2 years",
-                "user": {
-                    "name": "Kyusung"
-                }
-            },
-            {
-                "body": "Just to follow up. I'm also currently providing a button within my trade helper, which lets you go to the hideout of the player if you have outgoing requests enabled. Doesn't this solve the issue?",
-                "timeAgo": "over 2 years",
-                "user": {
-                    "name": "Kyusung"
-                }
-            },
-            {
-                "body": "When you're trading with multiple people, it can be really confusing with who you're trading. Especially when names dont checkout.",
-                "timeAgo": "over 2 years",
-                "user": {
-                    "name": "MalakaJones"
-                }
-            }
-        ],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "name": "Blocked"
+            "name": "Open"
         },
         "voteCount": 3,
         "commentCount": 3
@@ -508,7 +433,7 @@
             "name": "Soulixvm"
         },
         "status": {
-            "name": "Low Priority"
+            "name": "Open"
         },
         "voteCount": 2,
         "commentCount": 1
@@ -523,7 +448,7 @@
             "name": "varazir"
         },
         "status": {
-            "name": "Accepted"
+            "name": "Open"
         },
         "voteCount": 2,
         "commentCount": 0
@@ -538,47 +463,10 @@
             "name": "Josh Mra"
         },
         "status": {
-            "name": "Low Priority"
+            "name": "Open"
         },
         "voteCount": 2,
         "commentCount": 0
-    },
-    "cl8kgkuka12171311xnxzoy0w13z": {
-        "id": "cl8kgkuka12171311xnxzoy0w13z",
-        "title": "Trade: Automatically close trade window upon leaving",
-        "body": "It would  be nice to have a setting for automatically closing a poe trade window whenever that person leaves the party.\n\nYou can say \"Thanks\" then remove them from party which will remove the window but lots of times for me; people join and then leave without trading (notably in currency trade).\nyou can manually remove them right now but it can get tedious.\nHopefully this would be a keybind to toggle this function on and off. Just a setting would work too.",
-        "timeAgo": "24 days",
-        "comments": [
-            {
-                "body": "There is this circling arrow button that clears the whole list if that’s what you’re looking for.",
-                "timeAgo": "24 days",
-                "user": {
-                    "name": "MalakaJones"
-                }
-            },
-            {
-                "body": "this is more for consistent trading. I wouldn't want to close other trades still active. just the ones that are completed or the guy left group before completing.\nCould have another limiter of only removing them if they are both not in my hideout and left the group (some people leave the group early).\n I realize I am an edge case, trading as much as I do, but I think it would be good QoL for regular trading too.",
-                "timeAgo": "24 days",
-                "user": {
-                    "name": "Subutai"
-                }
-            },
-            {
-                "body": "Hey there, thanks for posting this suggestion. For now the app is unable to get any information about the current party. It's not part of the game logs. So the only way of retrieving this information would be through Overwolf events. I've request a new event for this in the past but it hasn't been processed yet. See following topic: \nhttps://discuss.overwolf.com/t/path-of-exile-party-members/2046",
-                "timeAgo": "24 days",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "Subutai"
-        },
-        "status": {
-            "name": "Blocked"
-        },
-        "voteCount": 2,
-        "commentCount": 3
     },
     "cl5nz8tc42184752yowlo4x28j2": {
         "id": "cl5nz8tc42184752yowlo4x28j2",
@@ -612,7 +500,7 @@
             "name": "Michael B"
         },
         "status": {
-            "name": "Low Priority"
+            "name": "Open"
         },
         "voteCount": 2,
         "commentCount": 3
@@ -742,7 +630,7 @@
             "name": "L.POE2"
         },
         "status": {
-            "name": "Accepted"
+            "name": "Open"
         },
         "voteCount": 1,
         "commentCount": 0
@@ -765,7 +653,7 @@
             "name": "jrobinson3k1"
         },
         "status": {
-            "name": "Low Priority"
+            "name": "Open"
         },
         "voteCount": 1,
         "commentCount": 1
@@ -788,7 +676,7 @@
             "name": "K C"
         },
         "status": {
-            "name": "Low Priority"
+            "name": "Open"
         },
         "voteCount": 1,
         "commentCount": 1
@@ -818,7 +706,7 @@
             "name": "varazir"
         },
         "status": {
-            "name": "Accepted"
+            "name": "Open"
         },
         "voteCount": 1,
         "commentCount": 2
@@ -869,21 +757,6 @@
         "voteCount": 1,
         "commentCount": 1
     },
-    "clcfi6ao901nxk91ydct1zvde": {
-        "id": "clcfi6ao901nxk91ydct1zvde",
-        "title": "Ideas for if/when we can know party members",
-        "body": "Automatically closing the notification window when someone leaves party. I think this would be really appreciated. Still suited as an option and not always active.\n\nBetter detection if they are in the same hideout as you. Even if they were sitting in hideout before you got there.\n\nThe one you brought up, putting a border around which person you want to trade with.\n\nCould have a border like that but maybe a different color if in the same hideout. ",
-        "timeAgo": "2 years ago",
-        "comments": [],
-        "user": {
-            "name": "Subutai"
-        },
-        "status": {
-            "name": "Blocked"
-        },
-        "voteCount": 1,
-        "commentCount": 0
-    },
     "cl2udd62a855152yo947oig1nn": {
         "id": "cl2udd62a855152yo947oig1nn",
         "title": "Reset to default key-binds button",
@@ -909,7 +782,7 @@
             "name": "Anonymous #7671"
         },
         "status": {
-            "name": "Accepted"
+            "name": "Open"
         },
         "voteCount": 1,
         "commentCount": 2
