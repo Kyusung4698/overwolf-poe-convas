@@ -85,15 +85,23 @@
         "title": "Evaluate Grand Heist items on the go",
         "body": "Since we can only evaluate items that are in our inventory, we can't evaluate the final item of Grand Heists without actually picking it up. We have to go on poe.ninja to check every Gem/Replica Uniques which can get tiresome and is quite slow.\n\nIf we could quickly evaluate that are in Curio Display on the go, that'd be great! \n\n",
         "timeAgo": "3 years ago",
-        "comments": [],
+        "comments": [
+            {
+                "body": "Hey @jaylay99 – can’t lie, this one’s been sitting for a while 😅 It’s still a cool idea, just a bit too niche for our current roadmap. If things ease up in the future, we might circle back to it. Appreciate you dropping it in regardless!",
+                "timeAgo": "10 minutes ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "jaylay99"
         },
         "status": {
-            "name": "Open"
+            "name": "Wont Implement"
         },
         "voteCount": 28,
-        "commentCount": 0
+        "commentCount": 1
     },
     "clg3yuzau086coj205rcnn8fv": {
         "id": "clg3yuzau086coj205rcnn8fv",
@@ -109,10 +117,17 @@
                 }
             },
             {
-                "body": "It's technically feasible but we need to see with poelab first if they are okay with us reusing their content. Given how popular the lab gets with the current league we will update this in our priorities. ",
+                "body": "Hey @Zekhap – this would definitely be handy, but we’re not looking to pull layout data from poelab since that’d cut into their ad revenue. Unless they provide an API or public integration path, it's unlikely we’ll move forward with this. Appreciate the suggestion though!",
                 "timeAgo": "2 years ago",
                 "user": {
                     "name": "Kyusung"
+                }
+            },
+            {
+                "body": "What about allowing us to manually import layout files like it works with LabCompass? That would not reduce their ad revenue. I just want to reduce the number of apps I have to use.",
+                "timeAgo": "5 minutes ago",
+                "user": {
+                    "name": "TheOne320"
                 }
             }
         ],
@@ -120,10 +135,10 @@
             "name": "Zekhap"
         },
         "status": {
-            "name": "Open"
+            "name": "Wont Implement"
         },
         "voteCount": 26,
-        "commentCount": 2
+        "commentCount": 3
     },
     "cktsbp2f547461map1rrkovz8d": {
         "id": "cktsbp2f547461map1rrkovz8d",
@@ -255,16 +270,24 @@
         "id": "cm5hizcz1002rri2yci24zmx0",
         "title": "Stream Deck support",
         "body": "Maybe a good consideration would be Stream deck POE2 Overlay plugin. Adding connections to all trade actions, market check and so on.",
-        "timeAgo": "last quarter",
-        "comments": [],
+        "timeAgo": "2 quarters ago",
+        "comments": [
+            {
+                "body": "Hey @MichalJes – cool idea, but Stream Deck support would mainly benefit users outside of our current Windows-only scope. Since we’re not planning to support other OSes for now, this isn’t something we’re likely to pursue. Appreciate the suggestion though!",
+                "timeAgo": "7 minutes ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "MichalJes"
         },
         "status": {
-            "name": "Open"
+            "name": "Wont Implement"
         },
         "voteCount": 10,
-        "commentCount": 0
+        "commentCount": 1
     },
     "cm4mcqeeb01elms2fraho6xw8": {
         "id": "cm4mcqeeb01elms2fraho6xw8",
@@ -307,13 +330,20 @@
         "id": "cllwimuxd009tn629xmdqyvie",
         "title": "Default Market Filters (permanently enabled options)",
         "body": "Just like the \"evaluate\" options, it would be amazing if we could have togglable options for the market that's always going to be active even after you clear the query. \n\nFor example, the \"Collapse Listings by Account\" is really useful to have active for most trades, but when you clear the query, you have to enable it again. This would be a great QoL option.\n\n\nHere's a concept of what I'm talking about:\n\n",
-        "timeAgo": "last year",
+        "timeAgo": "2 years ago",
         "comments": [
             {
                 "body": "Or just remeber last option used. I second that!",
-                "timeAgo": "last quarter",
+                "timeAgo": "4 quarters ago",
                 "user": {
                     "name": "Anonymous #7671"
+                }
+            },
+            {
+                "body": "Hey @jaylay99 – with the new market rework, you can now just save a favorite as your base query and open a fresh tab from it whenever needed. That should cover this use case pretty cleanly, so we’re not planning to add default toggle settings. Thanks for the suggestion!",
+                "timeAgo": "5 minutes ago",
+                "user": {
+                    "name": "Kyusung"
                 }
             }
         ],
@@ -321,25 +351,33 @@
             "name": "jaylay99"
         },
         "status": {
-            "name": "Open"
+            "name": "Wont Implement"
         },
         "voteCount": 10,
-        "commentCount": 1
+        "commentCount": 2
     },
     "clchq1ohh01ytk91yr2ugbv7g": {
         "id": "clchq1ohh01ytk91yr2ugbv7g",
         "title": "Trade whisper validation",
         "body": "Validate if the whispered price matches the listed price on the trade website. ",
         "timeAgo": "2 years ago",
-        "comments": [],
+        "comments": [
+            {
+                "body": "Honestly not too relevant anymore — seemed like a good idea at the time but not really worth implementing now. Marking it as won’t implement for now.",
+                "timeAgo": "4 minutes ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "Kyusung"
         },
         "status": {
-            "name": "Open"
+            "name": "Wont Implement"
         },
         "voteCount": 10,
-        "commentCount": 0
+        "commentCount": 1
     },
     "ckzd6digy419082umd17bf59lv": {
         "id": "ckzd6digy419082umd17bf59lv",
@@ -480,16 +518,24 @@
         "id": "cli846ap401dvos280kzwp7vj",
         "title": "Highlight bank item after \"x\" amout of time listed",
         "body": "A feature that would highlight items in your bank after they have been \"X\" amount of time on the market (listing age). It would help identify items that need their price to be lowered.\n\nI don't know if this is some kind of information that is retrievable from the oauth connection.\n\n",
-        "timeAgo": "last year",
-        "comments": [],
+        "timeAgo": "2 years ago",
+        "comments": [
+            {
+                "body": "Hey @MalakaJones – we get the idea and it’d be useful, but the API doesn’t provide listing age info. Tracking it ourselves would mean taking stash snapshots and managing timestamps, which is more complexity than we want to take on for now. Appreciate the suggestion though!",
+                "timeAgo": "2 minutes ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "MalakaJones"
         },
         "status": {
-            "name": "Open"
+            "name": "Wont Implement"
         },
         "voteCount": 7,
-        "commentCount": 0
+        "commentCount": 1
     },
     "clgo8w07f09wgoj20rrwsag9p": {
         "id": "clgo8w07f09wgoj20rrwsag9p",
@@ -516,7 +562,7 @@
     },
     "cl8csqp052928991xj5sgt0nkme": {
         "id": "cl8csqp052928991xj5sgt0nkme",
-        "title": "Custom Messages",
+        "title": "Trade Helper - Custom Messages",
         "body": "I would like to see an option where u could maybe add custom messages besides the default 4 that you have ",
         "timeAgo": "3 years ago",
         "comments": [
@@ -596,16 +642,23 @@
                 "user": {
                     "name": "Vel"
                 }
+            },
+            {
+                "body": "Hey @Jimmy Straight – this is still on our radar 👀 We haven’t pushed many trade features lately with PoE2 prep and the redesign keeping us busy, but custom trade messages are planned for a future update. Thanks for hanging in there!",
+                "timeAgo": "17 seconds ago",
+                "user": {
+                    "name": "Kyusung"
+                }
             }
         ],
         "user": {
             "name": "Jimmy Straight"
         },
         "status": {
-            "name": "Open"
+            "name": "Accepted"
         },
         "voteCount": 7,
-        "commentCount": 11
+        "commentCount": 12
     },
     "ckx3rzbui794452skvfl9bv9uw": {
         "id": "ckx3rzbui794452skvfl9bv9uw",
@@ -1489,7 +1542,7 @@
             "name": "CM."
         },
         "status": {
-            "name": "Accepted"
+            "name": "Wont Implement"
         },
         "voteCount": 2,
         "commentCount": 2
