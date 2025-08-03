@@ -1,8 +1,8 @@
 {
     "cktsbp06645781map1mdgomfb5": {
         "id": "cktsbp06645781map1mdgomfb5",
-        "title": "Inventory value calculator",
-        "body": "Image and text recognition AI to calculate inventory value using ImageAI and OCR. Similar to what HarvestVendor does but next level 🤓",
+        "title": "[Wont Implement] Inventory value calculator",
+        "body": "Image and text recognition AI to calculate inventory value using ImageAI and OCR. Similar to what HarvestVendor does but next level 🤓\n\n",
         "timeAgo": "4 years ago",
         "comments": [
             {
@@ -31,7 +31,7 @@
             "name": "Kyusung"
         },
         "status": {
-            "name": "Blocked"
+            "name": "Wont Implement"
         },
         "voteCount": 91,
         "commentCount": 3
@@ -562,7 +562,7 @@
     },
     "cl8csqp052928991xj5sgt0nkme": {
         "id": "cl8csqp052928991xj5sgt0nkme",
-        "title": "Trade Helper - Custom Messages",
+        "title": "[Planned] Custom Trade Messages for Bulk/Corrupted/All-In-One Clicks",
         "body": "I would like to see an option where u could maybe add custom messages besides the default 4 that you have ",
         "timeAgo": "3 years ago",
         "comments": [
@@ -1220,18 +1220,26 @@
     },
     "cmdn1ji7a00f8mw4p5eq32ffu": {
         "id": "cmdn1ji7a00f8mw4p5eq32ffu",
-        "title": "Market your own stash",
+        "title": "[Wont Implement] Market Your Own Stash",
         "body": "Hello, \n\nI'm horder but I never know what's good or bad or something I need. So I turn to market to search for what I need  even if I have in my stash.  So what I'm looking for is to maybe offline/outside the game app search for items in my own stash. \nAs you can only have 10 tabs per profile I could setup up several and do search to all of them. ",
-        "timeAgo": "9 hours ago",
-        "comments": [],
+        "timeAgo": "6 days ago",
+        "comments": [
+            {
+                "body": "Hey @varazir – totally get where you’re coming from, but this isn’t something we’re likely to support. Searching your own stash like a marketplace would require a lot of backend handling that’s outside our current plans. Appreciate the suggestion though!",
+                "timeAgo": "9 minutes ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "varazir"
         },
         "status": {
-            "name": "Open"
+            "name": "Wont Implement"
         },
         "voteCount": 2,
-        "commentCount": 0
+        "commentCount": 1
     },
     "cm6r3mgvq01f6ih2xxryqz5qk": {
         "id": "cm6r3mgvq01f6ih2xxryqz5qk",
@@ -1372,18 +1380,26 @@
     },
     "cluh894xi00a0m033kct0dzga": {
         "id": "cluh894xi00a0m033kct0dzga",
-        "title": "Customizable Hotkeys for trade whispers",
+        "title": "[Wont Implement] Customizable Hotkeys for Trade Whispers",
         "body": "would be nice to have highly customizable hotkeys for the trade whispers (or for any chat command in general).\nhere an example of the commands: (also from \"poe trades companion\")\n\n\nbasicaly the same feature that is in \"poe trades companion\" ... like this is the next screenshot for the button \"sold and ignore\" and it just send the buyer the message that item is sold and from this point on the app does not pop up anymore for this item even when i get spamed with whispers of that item\n\n",
-        "timeAgo": "4 hours ago",
-        "comments": [],
+        "timeAgo": "last year",
+        "comments": [
+            {
+                "body": "Hey @ron won – appreciate the detailed post and screenshots! While this kind of advanced hotkey customization is cool, it’s a bit out of scope for what we want to support directly in the app. Probably better suited to dedicated tools like Trade Companion or AHK setups. Thanks for sharing though!",
+                "timeAgo": "5 minutes ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "ron won"
         },
         "status": {
-            "name": "Open"
+            "name": "Wont Implement"
         },
         "voteCount": 2,
-        "commentCount": 0
+        "commentCount": 1
     },
     "cluh21mbr009dm033a1lokkql": {
         "id": "cluh21mbr009dm033a1lokkql",
@@ -1568,22 +1584,29 @@
     },
     "cl5nz8tc42184752yowlo4x28j2": {
         "id": "cl5nz8tc42184752yowlo4x28j2",
-        "title": "Gamepad",
+        "title": "[Low Priority] Gamepad UI Support / Calibration",
         "body": "Please, add an option for gamepad UI. The inventory and stash layout are reversed.",
-        "timeAgo": "2 years ago",
+        "timeAgo": "3 years ago",
         "comments": [
             {
                 "body": "The UI on controller has the inventory and stash on different sides than with MK. When trying to find highlighted items, the highlight is over the inventory over the stash, making the highlight features not possible with a gamepad, thus making it really hard to trade fast. I think the main thing that would help would to add a calibrate option of where the stash it located. ",
-                "timeAgo": "25 minutes ago",
+                "timeAgo": "last year",
                 "user": {
                     "name": "kevin waldron"
                 }
             },
             {
                 "body": "Here is a pic",
-                "timeAgo": "23 minutes ago",
+                "timeAgo": "last year",
                 "user": {
                     "name": "kevin waldron"
+                }
+            },
+            {
+                "body": "Hey @Michael B – thanks for the suggestion! We did some work around this for PoE2, but for PoE1 the gamepad UI is a bit of a mess and hard to support cleanly. We’ll keep it in mind, but it’s low priority for now.",
+                "timeAgo": "3 minutes ago",
+                "user": {
+                    "name": "Kyusung"
                 }
             }
         ],
@@ -1591,10 +1614,10 @@
             "name": "Michael B"
         },
         "status": {
-            "name": "Open"
+            "name": "Low Priority"
         },
         "voteCount": 2,
-        "commentCount": 2
+        "commentCount": 3
     },
     "cl0lbtgp21522682uqthmefrssi": {
         "id": "cl0lbtgp21522682uqthmefrssi",
@@ -1640,29 +1663,6 @@
         },
         "voteCount": 2,
         "commentCount": 0
-    },
-    "cmdo9oi4r00ixmw4p5s0dohlk": {
-        "id": "cmdo9oi4r00ixmw4p5s0dohlk",
-        "title": "Custom Trade Message Buttons",
-        "body": "I'm switching over from PoE Trades Companion, and I really miss the custom trade buttons to tell traders with one click that I only wanna sell in bulk, my maps are corrupted, I wanna buy all, etc. Any chance something like this could be implemented?\n\nBut I also want to give positive feedback, just came back to your tool and loving the changes. I was using two programs before, and this one can mostly do the same and then some! =D",
-        "timeAgo": "5 days ago",
-        "comments": [
-            {
-                "body": "Hey – thanks a ton for the kind words, glad you're liking the recent changes! 😄\nWe’ve got a similar suggestion already open about custom trade messages, so I’ll mark this one as a duplicate – but your use case is noted and definitely lines up with what we’re planning. Appreciate the feedback!",
-                "timeAgo": "1 minute ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "Lendoria"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
-        "commentCount": 1
     },
     "cmcbqmm6e0018of4ow3xvw34i": {
         "id": "cmcbqmm6e0018of4ow3xvw34i",
@@ -2360,6 +2360,21 @@
         "comments": [],
         "user": {
             "name": "RedBlue Devil"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
+    "clm6lfnxy00uln629m5ymok68": {
+        "id": "clm6lfnxy00uln629m5ymok68",
+        "title": "Listing by vendor account: special map search",
+        "body": "The only way to search in your map stash tab for special maps is to use trade API, according to this video.\n\nSo I suggest adding the option to filter by account name, or at least my account, in trade filters",
+        "timeAgo": "2 years ago",
+        "comments": [],
+        "user": {
+            "name": "g-alfieri"
         },
         "status": {
             "name": "Open"
