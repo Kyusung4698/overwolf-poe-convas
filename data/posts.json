@@ -1313,7 +1313,7 @@
     },
     "cm7aweeah0002m02ya9sekn6w": {
         "id": "cm7aweeah0002m02ya9sekn6w",
-        "title": "Open in default browser by default or without pressing ctrl",
+        "title": "[Won’t Implement] Always Open in Default Browser",
         "body": "I’d like to open my default browser by default without needing to press control. The overwolf browser is blocked by a cloudflare loop and isn’t usable at all anyways. Can you please remove the ctrl key requirement or make an option to always use default browser? Thanks. ",
         "timeAgo": "2 quarters ago",
         "comments": [
@@ -1420,45 +1420,68 @@
     },
     "cm62vh4bo00k4ih2xw88u51pv": {
         "id": "cm62vh4bo00k4ih2xw88u51pv",
-        "title": "Reset hotkeys",
+        "title": "[Planned] Reset All Hotkeys to Default",
         "body": "Please add a button to the settings that allows you to reset all hotkeys to their default values.",
-        "timeAgo": "14 minutes ago",
-        "comments": [],
+        "timeAgo": "2 quarters ago",
+        "comments": [
+            {
+                "body": "Hey @TheOne320 – yup, this is planned! We’ll be adding a reset-to-defaults option for hotkeys in a future update. Thanks for the suggestion!",
+                "timeAgo": "16 minutes ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "TheOne320"
         },
         "status": {
-            "name": "Open"
+            "name": "Planned"
         },
         "voteCount": 1,
-        "commentCount": 0
+        "commentCount": 1
     },
     "cm5mut67l0082ri2ymjtpjv0e": {
         "id": "cm5mut67l0082ri2ymjtpjv0e",
-        "title": "list of your most wanted items during a session",
+        "title": "[Won’t Implement] Most Whispered Items List",
         "body": "Hey, very often when I’m playing, I have several stashes where I list things for 1ex. I simply just dump everything there. If I end up getting message about an item I move it to another stash to investigate its value. If everything is ok, I just sell that stash for gold in TFT. But sometimes it happens that I would get heavily spammed about several items. My suggestion would be that we have a list of items that were most frequently requested by players who sent us whispers during our session. This way we can keep track of what seems to be most desired items and have a priority list on investigating prices to properly listing them.",
-        "timeAgo": "3 minutes ago",
-        "comments": [],
+        "timeAgo": "2 quarters ago",
+        "comments": [
+            {
+                "body": "Hey @odcesar – interesting idea, and totally get where you’re coming from. That said, we’re not planning to add this kind of tracking feature. Best bet is still to price items more accurately upfront to avoid whisper spam. Appreciate you taking the time to suggest it though!",
+                "timeAgo": "14 minutes ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "odcesar"
         },
         "status": {
-            "name": "Open"
+            "name": "Wont Implement"
         },
         "voteCount": 1,
-        "commentCount": 0
+        "commentCount": 1
     },
     "cm5mnba0g0077ri2y5kdtrqx5": {
         "id": "cm5mnba0g0077ri2y5kdtrqx5",
-        "title": "Valuable Items Highlight",
+        "title": "[Won’t Implement] Valuable Items Highlight via Hotkey",
         "body": "It would be great if we had an option some  hotkey that would look at inventories or open stash tabs and determine wether items are \"Valuable\". This would be a NON API check initially and would work like this. \n\nHotkey is triggered.\n\nOverlay looks at all items, in all slots and passes each item through a parser.\n\nThe parser then checks to see the following stats on that item.\n\nTier of Affix\n\nRoll of Affix\n\nDesireability of Affix\n\nSynergized Affixes (Eg Crit Damage + Crit Chance)\n\nOverlay \"Weights\" the affixes and highlights them from worst to best based on their rolls &amp; affixes for that item type.\n\nWhy?\n\nThis would help users quickly sort out what items are worth putting in a sale tab, or safe to disenchant/drop. It could then later encourage a \"Good value\" for the sale item",
-        "timeAgo": "10 minutes ago",
+        "timeAgo": "2 quarters ago",
         "comments": [
             {
                 "body": "Forgot to mention this request is for PoE2 Overlay",
-                "timeAgo": "8 minutes ago",
+                "timeAgo": "2 quarters ago",
                 "user": {
                     "name": "mkaulfers"
+                }
+            },
+            {
+                "body": "Hey @mkaulfers – really cool idea and would be super handy, but PoE2 doesn’t expose stash data via API (yet), and doing it via clipboard would only allow one item at a time. Since the app can’t move your cursor either, this isn’t something we can support right now. We’ll keep it in mind if better API access opens up in the future though!",
+                "timeAgo": "11 minutes ago",
+                "user": {
+                    "name": "Kyusung"
                 }
             }
         ],
@@ -1466,10 +1489,10 @@
             "name": "mkaulfers"
         },
         "status": {
-            "name": "Open"
+            "name": "Wont Implement"
         },
         "voteCount": 1,
-        "commentCount": 1
+        "commentCount": 2
     },
     "cm5jpjyt7004rri2y55yhkq72": {
         "id": "cm5jpjyt7004rri2y55yhkq72",
@@ -1511,48 +1534,72 @@
     },
     "cm51blpn301vfms2f129a1why": {
         "id": "cm51blpn301vfms2f129a1why",
-        "title": "Potential scammer warning using TFT data",
+        "title": "[Won’t Implement] Scammer Warning Using TFT Data",
         "body": "There is a browser plugin that shows the people that are flagged by TFT as potential scammers. \"TFT Trade Extension\". Is it possible to have a similar warning on incoming trades, based on the user?",
-        "timeAgo": "3 minutes ago",
-        "comments": [],
+        "timeAgo": "3 quarters ago",
+        "comments": [
+            {
+                "body": "Hey @L.POE2 – we’re not planning to implement this. We’re not fans of using public blacklists like that, even if well-intentioned. Appreciate the suggestion though!",
+                "timeAgo": "9 minutes ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
-            "name": "Leon van Heerden"
+            "name": "L.POE2"
         },
         "status": {
-            "name": "Open"
+            "name": "Wont Implement"
         },
         "voteCount": 1,
-        "commentCount": 0
+        "commentCount": 1
     },
     "cm0bp7ldx027vmg2yrtlk6ybm": {
         "id": "cm0bp7ldx027vmg2yrtlk6ybm",
-        "title": "Evaluate wealth irrespective of the league a stash is in",
+        "title": "[Low Priority] Evaluate Wealth Across Leagues",
         "body": "For the Tracker feature, I'd like to be able to add a profile that evaluates wealth for the selected league rather than the league that the stash exists in. My specific use-case is that I am playing SSF Settlers and would like to track my wealth compared to the current trading league. It is useful for identifying high-end items that I might want to migrate to trading.",
-        "timeAgo": "22 minutes ago",
-        "comments": [],
+        "timeAgo": "4 quarters ago",
+        "comments": [
+            {
+                "body": "Hey @jrobinson3k1 – interesting idea, and we can definitely see the value for niche use cases like yours. It’s low priority at the moment, but we might explore it if we get the time. Appreciate the suggestion!",
+                "timeAgo": "8 minutes ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "jrobinson3k1"
         },
         "status": {
-            "name": "Open"
+            "name": "Low Priority"
         },
         "voteCount": 1,
-        "commentCount": 0
+        "commentCount": 1
     },
     "cm012rr1j01ormg2y1edpabu5": {
         "id": "cm012rr1j01ormg2y1edpabu5",
-        "title": "Exchange Ratio Overlay",
+        "title": "[Won’t Implement] Exchange Ratio Overlay",
         "body": "Something to assist with finding compatible ratios on the exchange give a desired ratio, and the quantity of items you have to make selling easier.",
-        "timeAgo": "13 minutes ago",
-        "comments": [],
+        "timeAgo": "4 quarters ago",
+        "comments": [
+            {
+                "body": "Hey @Anonymous #18902 – this would be useful, but until the exchange has its own proper API, we’re not planning to support this. We’d prefer not to go the OCR route for now. If that changes, we’re open to revisiting it!",
+                "timeAgo": "5 minutes ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "Anonymous #18902"
         },
         "status": {
-            "name": "Open"
+            "name": "Wont Implement"
         },
         "voteCount": 1,
-        "commentCount": 0
+        "commentCount": 1
     },
     "clzpk1uye019umg2y0hj8pyyn": {
         "id": "clzpk1uye019umg2y0hj8pyyn",
@@ -1577,42 +1624,20 @@
         "voteCount": 1,
         "commentCount": 1
     },
-    "clzdowps800rfmg2ylul2r124": {
-        "id": "clzdowps800rfmg2ylul2r124",
-        "title": "Private League Support",
-        "body": "Currently, if you link your PoE account, you can view your private league for item lookup, which is great. However, a lot of times my PL tends to price things based on the trade league as a rough baseline. The current behavior is that the overlay will default to the league the logged in character is in, leading to having to manually swap before querying an item, every time you want to query an item. \n\nIf it could stick to what I select and not change based on my character (as a toggle) that would be fantastic.",
-        "timeAgo": "16 minutes ago",
-        "comments": [],
-        "user": {
-            "name": "Djriff"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
-        "commentCount": 0
-    },
-    "clzbilb3100pmmg2ybdetgiao": {
-        "id": "clzbilb3100pmmg2ybdetgiao",
-        "title": "Include a link to the wiki in the title banner",
-        "body": "Could the highlighted part link to the wiki. I was trying to find the items this can create and had to tab out to hit up the wiki for that. In the spirit of \"never having to leave the game\" Something like the Zana bot on discord where it links to the wiki.",
-        "timeAgo": "9 minutes ago",
-        "comments": [],
-        "user": {
-            "name": "Teonlight"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
-        "commentCount": 0
-    },
     "clwin58om03gnoz33monryyr5": {
         "id": "clwin58om03gnoz33monryyr5",
         "title": "Price Threshold on Bulk Searches",
         "body": "Hello, I love this tool!  One thing I've been doing a lot lately is doing bulk searches for allflames and scarabs of a similar price range, 25c for example.  I want to do a bulk search on all Syndicate allflames from the same seller, ok great--we can do this currently.  But many sellers have a couple of the syndicate allflame types priced in the right range, but one is priced like 2, 3 or 10x for some reason.  I don't want to click the offer button because it will message them saying that I also want the overpriced allflame, but I DO want the rest of the bulk that they have.  An option to set a price threshold for the bulk \"same seller\" search would be awesome, OR, a way to set one of the items in their bulk sell list to \"zero\" quantity so that it's not included in the whisper. Thanks!!",
-        "timeAgo": "7 minutes ago",
-        "comments": [],
+        "timeAgo": "last year",
+        "comments": [
+            {
+                "body": "Hey @K C – thanks for the kind words and detailed suggestion! Allowing zero quantity for specific items in a bulk request sounds like the cleanest solution. It’s low priority for now, but definitely something we’ve got noted. Appreciate the feedback!",
+                "timeAgo": "4 seconds ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "K C"
         },
@@ -1620,7 +1645,7 @@
             "name": "Open"
         },
         "voteCount": 1,
-        "commentCount": 0
+        "commentCount": 1
     },
     "clve9cwx501bloz33qlsjnuvg": {
         "id": "clve9cwx501bloz33qlsjnuvg",
