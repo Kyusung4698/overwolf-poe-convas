@@ -261,7 +261,7 @@
             "name": "Tellegar"
         },
         "status": {
-            "name": "Accepted"
+            "name": "Low Priority"
         },
         "voteCount": 11,
         "commentCount": 1
@@ -1719,15 +1719,22 @@
     },
     "cm857s6tk0j7qm02f3oul5nw6": {
         "id": "cm857s6tk0j7qm02f3oul5nw6",
-        "title": "Spam filter based on keywords to auto-ignore messages",
+        "title": "[Wont Implement] Keyword-Based Spam Filter",
         "body": "Is there a way to implement spam filter in POE2 Overlay to detect certain keywords and automatically block/ignore/report the messages? Example attached with keywords like \"rsgamer2\" which is known for spamming illegal RMTs\n\n\n",
-        "timeAgo": "54 minutes ago",
+        "timeAgo": "2 quarters ago",
         "comments": [
             {
                 "body": "For the keywords - was thinking if it could also be in UI/UX for user-maintainable list (similar to Adblock concepts) as RMT-ers will find ways around it every time",
-                "timeAgo": "40 minutes ago",
+                "timeAgo": "2 quarters ago",
                 "user": {
                     "name": "gracielline"
+                }
+            },
+            {
+                "body": "Hey @gracielline – we get the frustration with spam, but we’re not planning to implement keyword-based filtering or auto-ignore. It’s tricky to do cleanly and not something we want to take on right now. Appreciate the suggestion though!",
+                "timeAgo": "18 minutes ago",
+                "user": {
+                    "name": "Kyusung"
                 }
             }
         ],
@@ -1735,22 +1742,29 @@
             "name": "gracielline"
         },
         "status": {
-            "name": "Open"
+            "name": "Wont Implement"
         },
         "voteCount": 1,
-        "commentCount": 1
+        "commentCount": 2
     },
     "cm7etuesg0cb3m02fqhfwqbin": {
         "id": "cm7etuesg0cb3m02fqhfwqbin",
-        "title": "Controller: poe makes cursor invisible in overlay.",
+        "title": "[Wont Fix] Controller Hides Cursor Over Overlay",
         "body": "When using a controller, the mouse cursor is hidden/invisible after a few seconds when opening the overlay. Only workarounds are to not use controller, or to move the mouse out of the overlay (over the poe window) every 3 seconds pr so while simultaneously doing the stuff you need on the overlay. It's a bit annoying x) Could you add an override so the cursor is not hidden when the mouse is over an overlay window? (over the trade history, market window, evaluate item window, etc.) Thanks!!",
-        "timeAgo": "13 minutes ago",
+        "timeAgo": "2 quarters ago",
         "comments": [
             {
                 "body": "edit: this is about PoE 2 and PoE Overlay II.",
-                "timeAgo": "12 minutes ago",
+                "timeAgo": "2 quarters ago",
                 "user": {
                     "name": "Surfingnet"
+                }
+            },
+            {
+                "body": "Hey @Surfingnet – unfortunately this is something the game itself handles, and we don’t have control over the cursor visibility when using a controller. Totally get that it’s annoying, but not something we can fix on our end. Thanks for reporting it though!",
+                "timeAgo": "16 minutes ago",
+                "user": {
+                    "name": "Kyusung"
                 }
             }
         ],
@@ -1758,10 +1772,10 @@
             "name": "Surfingnet"
         },
         "status": {
-            "name": "Open"
+            "name": "Wont Fix"
         },
         "voteCount": 1,
-        "commentCount": 1
+        "commentCount": 2
     },
     "cm7aweeah0002m02ya9sekn6w": {
         "id": "cm7aweeah0002m02ya9sekn6w",
@@ -1780,18 +1794,26 @@
     },
     "cm6kyshnc011rih2xc7es5jv9": {
         "id": "cm6kyshnc011rih2xc7es5jv9",
-        "title": "show click button for copy trade hash",
+        "title": "[Wont Implement] Copy Trade Hash Button",
         "body": "as title, for example when user press alt + e to search item &amp; the url is \"https://www.pathofexile.com/trade2/search/poe2/Standard/EDQD90RC5\"\n\nthen ui will show \"copy hash\" button and will copy EDQD90RC5 when user click it",
-        "timeAgo": "13 minutes ago",
-        "comments": [],
+        "timeAgo": "2 quarters ago",
+        "comments": [
+            {
+                "body": "Hey 林振凱 – not sure what the use case is here, since the full trade URL is already copied and usable. Doesn’t seem necessary to extract just the hash, so we’re not planning to add this. Let us know if there’s a specific need we missed!",
+                "timeAgo": "14 minutes ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "林振凱"
         },
         "status": {
-            "name": "Open"
+            "name": "Wont Implement"
         },
         "voteCount": 1,
-        "commentCount": 0
+        "commentCount": 1
     },
     "cm6849lp600pmih2x7pldnayt": {
         "id": "cm6849lp600pmih2x7pldnayt",
@@ -1810,10 +1832,18 @@
     },
     "cm67pek1o00osih2xh7d74mfz": {
         "id": "cm67pek1o00osih2xh7d74mfz",
-        "title": "Bright or grey mode for OLED",
+        "title": "[Needs Feedback] Bright/Grey Mode for OLED HDR Displays",
         "body": "The pure black design of the UI forces OLED HDR displays to dim the screen strongly because the difference between the brightest and most dimmed pixel on the screen has a limit (a pure black pixel, aka a turned off pixel, being the worst lower limit you can have), so the chances for burn-in effects is lessened.\n\nThis is super inconvenient when using PoE Overlay ingame because as soon as you check an item with it the whole screen brightness goes down at least 70 % so there is no burn-in.\n\nPlease add a bright mode, a greyish mode or maybe a transparency slider for the UI background so OLED HDR display users don't need to suffer.",
-        "timeAgo": "11 minutes ago",
-        "comments": [],
+        "timeAgo": "2 quarters ago",
+        "comments": [
+            {
+                "body": "Hey @Braintelligence – we hear you! The recent redesign might’ve already improved this a bit. Let us know if it helped with the brightness issue or if it’s still a problem on your end. We’re open to adjusting further if needed.",
+                "timeAgo": "12 minutes ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "Braintelligence"
         },
@@ -1821,22 +1851,30 @@
             "name": "Open"
         },
         "voteCount": 1,
-        "commentCount": 0
+        "commentCount": 1
     },
     "cm634z3sw00keih2xin1s4p5v": {
         "id": "cm634z3sw00keih2xin1s4p5v",
-        "title": "Different Notification Sounds for different Values",
+        "title": "[Planned] Different Notification Sounds by Trade Value",
         "body": "Not really a necessary feature but a fun feature - would be cool to add different sounds depending on the received value of the trade offer.",
-        "timeAgo": "14 minutes ago",
-        "comments": [],
+        "timeAgo": "2 quarters ago",
+        "comments": [
+            {
+                "body": "Hey @A P – fun idea, and we actually have something like this for PoE1 already! It’s likely we’ll bring it over to PoE2 in the future. Appreciate the suggestion!",
+                "timeAgo": "10 minutes ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "A P"
         },
         "status": {
-            "name": "Open"
+            "name": "Planned"
         },
         "voteCount": 1,
-        "commentCount": 0
+        "commentCount": 1
     },
     "cm62vh4bo00k4ih2xw88u51pv": {
         "id": "cm62vh4bo00k4ih2xw88u51pv",
@@ -1846,21 +1884,6 @@
         "comments": [],
         "user": {
             "name": "TheOne320"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
-        "commentCount": 0
-    },
-    "cm5rynr8v000eih2xz4wd5tkc": {
-        "id": "cm5rynr8v000eih2xz4wd5tkc",
-        "title": "Custom \"Profanity\" Filter (Block RMT website names)",
-        "body": "So you could add certain phrases/website names like \"POE2Items4Sale\" and it would filter them from your messages - could have a secondary option to \"Auto-Ignore\" too.",
-        "timeAgo": "19 minutes ago",
-        "comments": [],
-        "user": {
-            "name": "Anonymous #19850"
         },
         "status": {
             "name": "Open"
@@ -1908,10 +1931,18 @@
     },
     "cm5jpjyt7004rri2y55yhkq72": {
         "id": "cm5jpjyt7004rri2y55yhkq72",
-        "title": "Resize",
+        "title": "[Needs Feedback] Market Overlay Resize & Filter Separation",
         "body": "Quality of Life Suggestion: It would be great to have the option to resize the in-game overlay, as it can sometimes feel too intrusive when trying to compare items in our inventory. Adding more customization options for the overlay would be fantastic. Additionally, separating item filters from search filters could make the interface much more user-friendly.",
-        "timeAgo": "13 minutes ago",
-        "comments": [],
+        "timeAgo": "2 quarters ago",
+        "comments": [
+            {
+                "body": "Hey @Louis Despres – assuming this was about the market overlay? The recent redesign may have addressed part of this. Let us know if it still feels too intrusive or if the new layout works better for you. Always open to more feedback!",
+                "timeAgo": "8 minutes ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "Louis Despres"
         },
@@ -1919,22 +1950,30 @@
             "name": "Open"
         },
         "voteCount": 1,
-        "commentCount": 0
+        "commentCount": 1
     },
     "cm5jpdi0z004ori2y6oem254y": {
         "id": "cm5jpdi0z004ori2y6oem254y",
-        "title": "Trials Filter",
+        "title": "[Completed] Trials Filter",
         "body": "For players who are new or unfamiliar with which levels require specific trials, it would be incredibly helpful to have a trial filter when searching for them on the market. This feature would make it much easier to locate the trials we need without the frustration of manually filtering through them.",
-        "timeAgo": "1 minute ago",
-        "comments": [],
+        "timeAgo": "2 quarters ago",
+        "comments": [
+            {
+                "body": "Hey @Louis Despres – great news, this has already been added! You can now filter trials directly when searching the market. Appreciate the suggestion!",
+                "timeAgo": "7 minutes ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "Louis Despres"
         },
         "status": {
-            "name": "Open"
+            "name": "Completed"
         },
         "voteCount": 1,
-        "commentCount": 0
+        "commentCount": 1
     },
     "cm5jpan94004kri2yj5tfwvb9": {
         "id": "cm5jpan94004kri2yj5tfwvb9",
@@ -2022,18 +2061,26 @@
     },
     "cm51xtlmg01vums2fqlxm9gfo": {
         "id": "cm51xtlmg01vums2fqlxm9gfo",
-        "title": "Auto select pre/suffixes above a configured Tier for evaluate",
+        "title": "[Completed] Auto-Select High-Tier Affixes for Evaluate",
         "body": "Have a configured lowest TIER for a prefix/Suffix that will auto select.\n\nWhen selecting an item to price check, all the affixes that are in tiers above the configured value, can be auto selected. \n\nIt does not have to perform the search automatically. ",
-        "timeAgo": "3 minutes ago",
-        "comments": [],
+        "timeAgo": "3 quarters ago",
+        "comments": [
+            {
+                "body": "Hey @L.POE2 – this is now supported with the recent addition of mod scoring based on tier and item relevance! It should cover exactly what you were looking for. Thanks for the suggestion!",
+                "timeAgo": "6 minutes ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
-            "name": "Leon van Heerden"
+            "name": "L.POE2"
         },
         "status": {
-            "name": "Open"
+            "name": "Completed"
         },
         "voteCount": 1,
-        "commentCount": 0
+        "commentCount": 1
     },
     "cm51xqr8g01vrms2fswjm58ab": {
         "id": "cm51xqr8g01vrms2fswjm58ab",
@@ -2073,21 +2120,6 @@
         "comments": [],
         "user": {
             "name": "Leon van Heerden"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
-        "commentCount": 0
-    },
-    "cm13vi2l903jxmg2yx2fvaa42": {
-        "id": "cm13vi2l903jxmg2yx2fvaa42",
-        "title": "Stash/Vendor Search names",
-        "body": "I like that it has a picture, but a lot of time I forget which regex is which, so allowing us to add a name to each search would be tremendously appreciated.\n(Also helps a lot if you have map regex for different characters)",
-        "timeAgo": "11 minutes ago",
-        "comments": [],
-        "user": {
-            "name": "Mushkela"
         },
         "status": {
             "name": "Open"
@@ -2381,5 +2413,43 @@
         },
         "voteCount": 1,
         "commentCount": 0
+    },
+    "clgsemdjh0ac4oj2076w4e83s": {
+        "id": "clgsemdjh0ac4oj2076w4e83s",
+        "title": "Add feedback with thumbs up/down",
+        "body": "I would like to vote feedback up or down after trade, maybe, simply store the feedback like upvote if I click on trade finished button and rank the trader by feedback",
+        "timeAgo": "2 years ago",
+        "comments": [],
+        "user": {
+            "name": "g-alfieri"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
+    "clge1ghyk094zoj20dkscg0rb": {
+        "id": "clge1ghyk094zoj20dkscg0rb",
+        "title": "Modify a search already saved as favorites on the market",
+        "body": "Modify a search already saved as favorites on the market",
+        "timeAgo": "2 years ago",
+        "comments": [
+            {
+                "body": "Has been added in \n0.15.0\n/\n1.67.0 (2025-3-25)\n, thanks for your feedback!",
+                "timeAgo": "2 quarters ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
+        "user": {
+            "name": "Peterrr"
+        },
+        "status": {
+            "name": "Completed"
+        },
+        "voteCount": 1,
+        "commentCount": 1
     }
 }
