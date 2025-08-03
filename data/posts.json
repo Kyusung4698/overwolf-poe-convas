@@ -1,101 +1,4 @@
 {
-    "cktsbp06645781map1mdgomfb5": {
-        "id": "cktsbp06645781map1mdgomfb5",
-        "title": "[Wont Implement] Inventory value calculator",
-        "body": "Image and text recognition AI to calculate inventory value using ImageAI and OCR. Similar to what HarvestVendor does but next level 🤓\n\n",
-        "timeAgo": "4 years ago",
-        "comments": [
-            {
-                "body": "requested a new game event from overwolf to support this, i will be waiting their response before diving into training models. \nhttps://discuss.overwolf.com/t/path-of-exile-extend-the-opened-page-event-to-include-page-content/2025",
-                "timeAgo": "4 years ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            },
-            {
-                "body": "I really like the idea of counting currency as shown in the picture. This would help making sure people put the correct amount in the trade window. I'd also really like to see a complementary behaviour where it would sum up all currencies and give you an estimate based on poe.ninja prices. Could be in chaos or in exalt.",
-                "timeAgo": "4 years ago",
-                "user": {
-                    "name": "MalakaJones"
-                }
-            },
-            {
-                "body": "Maybe you could ask for an update from overwolf. Its already 9 months ago and still no new infos from them.",
-                "timeAgo": "3 years ago",
-                "user": {
-                    "name": "Nico Eschner"
-                }
-            }
-        ],
-        "user": {
-            "name": "Kyusung"
-        },
-        "status": {
-            "name": "Wont Implement"
-        },
-        "voteCount": 91,
-        "commentCount": 3
-    },
-    "clbz80n9p010bk91yvzyu99m4": {
-        "id": "clbz80n9p010bk91yvzyu99m4",
-        "title": "[Wont Implement] Evaluate Grand Heist items on the go",
-        "body": "Since we can only evaluate items that are in our inventory, we can't evaluate the final item of Grand Heists without actually picking it up. We have to go on poe.ninja to check every Gem/Replica Uniques which can get tiresome and is quite slow.\n\nIf we could quickly evaluate that are in Curio Display on the go, that'd be great! \n\n",
-        "timeAgo": "3 years ago",
-        "comments": [
-            {
-                "body": "Hey @jaylay99 – can’t lie, this one’s been sitting for a while 😅 It’s still a cool idea, just a bit too niche for our current roadmap. If things ease up in the future, we might circle back to it. Appreciate you dropping it in regardless!",
-                "timeAgo": "10 minutes ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "jaylay99"
-        },
-        "status": {
-            "name": "Wont Implement"
-        },
-        "voteCount": 28,
-        "commentCount": 1
-    },
-    "clg3yuzau086coj205rcnn8fv": {
-        "id": "clg3yuzau086coj205rcnn8fv",
-        "title": "[Wont Implement] Labyrinth Compass",
-        "body": "Integrate labyrinth compass that pops up when you enter the labyrinth.\n\nAnd download the newest labyrinth layout\n\nProbably does not know witch lab difficulty it is so a popup need to come up and ask.",
-        "timeAgo": "2 years ago",
-        "comments": [
-            {
-                "body": "I love this idea. Even if the steps have to be done manually, it would be better than having to load LabCompass each time.",
-                "timeAgo": "2 years ago",
-                "user": {
-                    "name": "TheOne320"
-                }
-            },
-            {
-                "body": "Hey @Zekhap – this would definitely be handy, but we’re not looking to pull layout data from poelab since that’d cut into their ad revenue. Unless they provide an API or public integration path, it's unlikely we’ll move forward with this. Appreciate the suggestion though!",
-                "timeAgo": "2 years ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            },
-            {
-                "body": "What about allowing us to manually import layout files like it works with LabCompass? That would not reduce their ad revenue. I just want to reduce the number of apps I have to use.",
-                "timeAgo": "5 minutes ago",
-                "user": {
-                    "name": "TheOne320"
-                }
-            }
-        ],
-        "user": {
-            "name": "Zekhap"
-        },
-        "status": {
-            "name": "Wont Implement"
-        },
-        "voteCount": 26,
-        "commentCount": 3
-    },
     "cktsbp2f547461map1rrkovz8d": {
         "id": "cktsbp2f547461map1rrkovz8d",
         "title": "Programable timer on active trades",
@@ -132,202 +35,6 @@
             "name": "Low Priority"
         },
         "voteCount": 11,
-        "commentCount": 1
-    },
-    "cm5hizcz1002rri2yci24zmx0": {
-        "id": "cm5hizcz1002rri2yci24zmx0",
-        "title": "Stream Deck support",
-        "body": "Maybe a good consideration would be Stream deck POE2 Overlay plugin. Adding connections to all trade actions, market check and so on.",
-        "timeAgo": "2 quarters ago",
-        "comments": [
-            {
-                "body": "Hey @MichalJes – cool idea, but Stream Deck support would mainly benefit users outside of our current Windows-only scope. Since we’re not planning to support other OSes for now, this isn’t something we’re likely to pursue. Appreciate the suggestion though!",
-                "timeAgo": "7 minutes ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "MichalJes"
-        },
-        "status": {
-            "name": "Wont Implement"
-        },
-        "voteCount": 10,
-        "commentCount": 1
-    },
-    "cm4mcqeeb01elms2fraho6xw8": {
-        "id": "cm4mcqeeb01elms2fraho6xw8",
-        "title": "Сompatibility POE 2 overlay  with game through GFN",
-        "body": "Playing POE 2 through Geforce Now, and want that POE 2 overlay work with Geforce Now. Is this possible to implement?",
-        "timeAgo": "2 months ago",
-        "comments": [
-            {
-                "body": "Yes i am also playing on geforce now. We could use \nAwakened poe trade \nin geforce now for poe1",
-                "timeAgo": "2 months ago",
-                "user": {
-                    "name": "Ali Emre DENERİ"
-                }
-            },
-            {
-                "body": "Hey, Thanks for reaching out! Unfortunately, compatibility with Geforce Now isn’t something we’re planning to implement. Sorry about that! Cheers! ",
-                "timeAgo": "2 months ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            },
-            {
-                "body": ":(",
-                "timeAgo": "4 weeks ago",
-                "user": {
-                    "name": "Charles Superflight"
-                }
-            }
-        ],
-        "user": {
-            "name": "Дима Дунаев"
-        },
-        "status": {
-            "name": "Wont Implement"
-        },
-        "voteCount": 10,
-        "commentCount": 3
-    },
-    "cllwimuxd009tn629xmdqyvie": {
-        "id": "cllwimuxd009tn629xmdqyvie",
-        "title": "Default Market Filters (permanently enabled options)",
-        "body": "Just like the \"evaluate\" options, it would be amazing if we could have togglable options for the market that's always going to be active even after you clear the query. \n\nFor example, the \"Collapse Listings by Account\" is really useful to have active for most trades, but when you clear the query, you have to enable it again. This would be a great QoL option.\n\n\nHere's a concept of what I'm talking about:\n\n",
-        "timeAgo": "2 years ago",
-        "comments": [
-            {
-                "body": "Or just remeber last option used. I second that!",
-                "timeAgo": "4 quarters ago",
-                "user": {
-                    "name": "Anonymous #7671"
-                }
-            },
-            {
-                "body": "Hey @jaylay99 – with the new market rework, you can now just save a favorite as your base query and open a fresh tab from it whenever needed. That should cover this use case pretty cleanly, so we’re not planning to add default toggle settings. Thanks for the suggestion!",
-                "timeAgo": "5 minutes ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "jaylay99"
-        },
-        "status": {
-            "name": "Wont Implement"
-        },
-        "voteCount": 10,
-        "commentCount": 2
-    },
-    "clchq1ohh01ytk91yr2ugbv7g": {
-        "id": "clchq1ohh01ytk91yr2ugbv7g",
-        "title": "Trade whisper validation",
-        "body": "Validate if the whispered price matches the listed price on the trade website. ",
-        "timeAgo": "2 years ago",
-        "comments": [
-            {
-                "body": "Honestly not too relevant anymore — seemed like a good idea at the time but not really worth implementing now. Marking it as won’t implement for now.",
-                "timeAgo": "4 minutes ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "Kyusung"
-        },
-        "status": {
-            "name": "Wont Implement"
-        },
-        "voteCount": 10,
-        "commentCount": 1
-    },
-    "clq60zkdf00h4is26ojytjgxu": {
-        "id": "clq60zkdf00h4is26ojytjgxu",
-        "title": "[Evaluate] Toggle for enabling/disabling auto search",
-        "body": "A toggle in the preferences that could let us enable or disable auto search when pressing alt+d (evaluate).",
-        "timeAgo": "2 years ago",
-        "comments": [
-            {
-                "body": "Would this be like \"Activate Live Search\" in POE Trade? If so, I would really like this feature. Especially if can have with several active tabs and a little ball appears in that tab along with a sound when an item is entered. Just like it is on the POE Trade website.",
-                "timeAgo": "3 months ago",
-                "user": {
-                    "name": "Vinícius Miranda"
-                }
-            },
-            {
-                "body": " This post is not about live search, but we are working on porting it to Overlay II at the moment stay tuned.",
-                "timeAgo": "3 months ago",
-                "user": {
-                    "name": "Anonymous #7671"
-                }
-            },
-            {
-                "body": "After the rework of the evaluate config, we no longer plan to implement this. Thanks for your feedback!",
-                "timeAgo": "24 minutes ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "name": "Wont Implement"
-        },
-        "voteCount": 8,
-        "commentCount": 3
-    },
-    "ckw56ayp32970472tnum7j4zg02": {
-        "id": "ckw56ayp32970472tnum7j4zg02",
-        "title": "Thank you message in different languages",
-        "body": "Send the \"Thank you for trading\" message in the appropriate language, as the initial trade message was in.",
-        "timeAgo": "3 years ago",
-        "comments": [
-            {
-                "body": "This would only be relevant for outgoing trades, as incoming trades are always in your own language. I'm not sure this is worth implementing but if enough users vote, I will consider it :)",
-                "timeAgo": "2 years ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "Slash1y"
-        },
-        "status": {
-            "name": "Wont Implement"
-        },
-        "voteCount": 8,
-        "commentCount": 1
-    },
-    "cli846ap401dvos280kzwp7vj": {
-        "id": "cli846ap401dvos280kzwp7vj",
-        "title": "Highlight bank item after \"x\" amout of time listed",
-        "body": "A feature that would highlight items in your bank after they have been \"X\" amount of time on the market (listing age). It would help identify items that need their price to be lowered.\n\nI don't know if this is some kind of information that is retrievable from the oauth connection.\n\n",
-        "timeAgo": "2 years ago",
-        "comments": [
-            {
-                "body": "Hey @MalakaJones – we get the idea and it’d be useful, but the API doesn’t provide listing age info. Tracking it ourselves would mean taking stash snapshots and managing timestamps, which is more complexity than we want to take on for now. Appreciate the suggestion though!",
-                "timeAgo": "2 minutes ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "name": "Wont Implement"
-        },
-        "voteCount": 7,
         "commentCount": 1
     },
     "cl8csqp052928991xj5sgt0nkme": {
@@ -430,36 +137,6 @@
         "voteCount": 7,
         "commentCount": 12
     },
-    "ckx3rzbui794452skvfl9bv9uw": {
-        "id": "ckx3rzbui794452skvfl9bv9uw",
-        "title": "Multi Client Option",
-        "body": "Hi, I am using two POE clients, one for trading and one for playing the game.\n\nOne is the Steam Client and one is the normal Client.\n\nI would like to use the overlay for both clients, at the moment the overlay is stuck to the last open client. So if I close the game with did not have the overlay and reboot it gets then the overlay. \n\nI don't know if it's possible, but if you could make an option so that you maybe can switch between separate clients so that we don't have to close and open the games, that would be awesome. \n\nLG CTekk\n\n",
-        "timeAgo": "about 2 years",
-        "comments": [
-            {
-                "body": "Good Idee, have the Same Problem. At the moment, I use a sec software to check Items on my Main Account.\nWould be really nice if I could use this for Both of my Games.",
-                "timeAgo": "almost 2 years",
-                "user": {
-                    "name": "Anonymous #1512"
-                }
-            },
-            {
-                "body": "This won't be support. There is a workaround by renaming the executable of the client you don't want the app to stick to e.g. PathOfExile.exe -> PathOfExileIgnore.exe",
-                "timeAgo": "17 minutes",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "CTekk"
-        },
-        "status": {
-            "name": "Wont Fix"
-        },
-        "voteCount": 7,
-        "commentCount": 2
-    },
     "cluy6sk1100a5oz33r58dl6n6": {
         "id": "cluy6sk1100a5oz33r58dl6n6",
         "title": "Divine orb breakdown for change calculation",
@@ -513,39 +190,31 @@
         "voteCount": 5,
         "commentCount": 0
     },
-    "cktsbp2er47453map15eb3o7us": {
-        "id": "cktsbp2er47453map15eb3o7us",
-        "title": "In-game window for live searches",
-        "body": "Something similar to the trade feature window but for live searches. This would be helpfull to players having a single monitor setup.",
-        "timeAgo": "4 years ago",
-        "comments": [],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "name": "Wont Implement"
-        },
-        "voteCount": 5,
-        "commentCount": 0
-    },
     "cm520fluj01w2ms2f55fk0ap5": {
         "id": "cm520fluj01w2ms2f55fk0ap5",
-        "title": "POE2: track deaths",
+        "title": "[Planned] POE2 Death Tracking & Map Tier Stats",
         "body": "Can you call /deaths on entering hideout or entering or exiting map. Then keep track per map or per hour the number of deaths. Just for the stats freaks :)",
-        "timeAgo": "2 months ago",
+        "timeAgo": "3 quarters ago",
         "comments": [
             {
                 "body": "This would also be useful while leveling and the over mapping and loss of exp. \nMaybe also keep track of the map tier that you died in to allow you to better decide which to do until you level up. ",
-                "timeAgo": "last month",
+                "timeAgo": "2 quarters ago",
                 "user": {
                     "name": "L.POE2"
                 }
             },
             {
                 "body": "Can you potentially add a facility to copy the MAP modifiers to track with a hot key, before you slot it into the map device. Then track if you complete or die in the map. \nThen keep stats of success and failed attributes and maps.",
-                "timeAgo": "last month",
+                "timeAgo": "2 quarters ago",
                 "user": {
                     "name": "L.POE2"
+                }
+            },
+            {
+                "body": "Hey @L.POE2 – tracking deaths and the map tier sounds doable and definitely interesting for stat nerds 😄 We’ll look into adding this. Tracking map mods might be a bit out of range for now, but we appreciate the suggestion!",
+                "timeAgo": "6 minutes ago",
+                "user": {
+                    "name": "Kyusung"
                 }
             }
         ],
@@ -553,33 +222,10 @@
             "name": "L.POE2"
         },
         "status": {
-            "name": "Open"
+            "name": "Planned"
         },
         "voteCount": 4,
-        "commentCount": 2
-    },
-    "cluh27lcg009gm033i4g0g9a5": {
-        "id": "cluh27lcg009gm033i4g0g9a5",
-        "title": "[Wont Implement] Ignore Trade Messages After Item Sold",
-        "body": "sometimes you want sell smth fast but then get bombarded with messages of that item even minutes after it is sold.\n\nSO it would be nice to have incoming messages of that item i just clicked \"item sold\" be ignored for like 5min and not getting any popups for this item for that time anymore",
-        "timeAgo": "last year",
-        "comments": [
-            {
-                "body": "Hey @ron won – we get the idea, but we don’t track trades per item, so it’s not really something we can support cleanly. Unlikely to happen for now, but appreciate you bringing it up!",
-                "timeAgo": "19 minutes ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "ron won"
-        },
-        "status": {
-            "name": "Wont Implement"
-        },
-        "voteCount": 4,
-        "commentCount": 1
+        "commentCount": 3
     },
     "cln80qjnz00rjsr29wbskp68b": {
         "id": "cln80qjnz00rjsr29wbskp68b",
@@ -687,36 +333,6 @@
         },
         "voteCount": 3,
         "commentCount": 1
-    },
-    "clq3lyiye00diis26hun8yk1v": {
-        "id": "clq3lyiye00diis26hun8yk1v",
-        "title": "[Wont Implement] Interactive Leveling Roadmap",
-        "body": "Method to see and check leveling Steps like\n\nhttps://heartofphos.github.io/exile-leveling/\n\n",
-        "timeAgo": "2 years ago",
-        "comments": [
-            {
-                "body": "I do not even want the map layout, just the gem info and other info that Lailloken-UI Act‐Tracker has would be sweet.\nhttps://github.com/Lailloken/Lailloken-UI/wiki/Act%E2%80%90Tracker",
-                "timeAgo": "last year",
-                "user": {
-                    "name": "TheOne320"
-                }
-            },
-            {
-                "body": "Hey @schefera – this would definitely help with early progression, but we’re not planning to support leveling-focused tools for now. Might revisit in the future, but marking it as won’t implement for the time being. Appreciate the suggestion!",
-                "timeAgo": "15 minutes ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "schefera"
-        },
-        "status": {
-            "name": "Wont Implement"
-        },
-        "voteCount": 3,
-        "commentCount": 2
     },
     "cllxzwvgn00ebn6291kff4lew": {
         "id": "cllxzwvgn00ebn6291kff4lew",
@@ -874,52 +490,6 @@
         "voteCount": 2,
         "commentCount": 0
     },
-    "cmdn1ji7a00f8mw4p5eq32ffu": {
-        "id": "cmdn1ji7a00f8mw4p5eq32ffu",
-        "title": "[Wont Implement] Market Your Own Stash",
-        "body": "Hello, \n\nI'm horder but I never know what's good or bad or something I need. So I turn to market to search for what I need  even if I have in my stash.  So what I'm looking for is to maybe offline/outside the game app search for items in my own stash. \nAs you can only have 10 tabs per profile I could setup up several and do search to all of them. ",
-        "timeAgo": "6 days ago",
-        "comments": [
-            {
-                "body": "Hey @varazir – totally get where you’re coming from, but this isn’t something we’re likely to support. Searching your own stash like a marketplace would require a lot of backend handling that’s outside our current plans. Appreciate the suggestion though!",
-                "timeAgo": "9 minutes ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "varazir"
-        },
-        "status": {
-            "name": "Wont Implement"
-        },
-        "voteCount": 2,
-        "commentCount": 1
-    },
-    "cm6r3mgvq01f6ih2xxryqz5qk": {
-        "id": "cm6r3mgvq01f6ih2xxryqz5qk",
-        "title": "DPS Meter",
-        "body": "DPS Meter for maps like WOW Details! DMG Meter. ",
-        "timeAgo": "2 quarters ago",
-        "comments": [
-            {
-                "body": "Hey @Philipp M. – cool idea in theory, but PoE doesn’t expose the kind of combat data needed for a reliable DPS meter like WoW’s Details. Not something we plan to support. Thanks for the suggestion though!",
-                "timeAgo": "15 minutes ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "Philipp M."
-        },
-        "status": {
-            "name": "Wont Implement"
-        },
-        "voteCount": 2,
-        "commentCount": 1
-    },
     "cm5x87p4500a4ih2xafpyombh": {
         "id": "cm5x87p4500a4ih2xafpyombh",
         "title": "Stash/Vendor Searches",
@@ -943,29 +513,6 @@
         "voteCount": 2,
         "commentCount": 1
     },
-    "cm59kp71n0057mx2y4r68ukkr": {
-        "id": "cm59kp71n0057mx2y4r68ukkr",
-        "title": "[Wont Implement] Ingame Market Resize",
-        "body": "Hello, i would love to be able to resize the ingame market panel specially in height but the width can be nice too.",
-        "timeAgo": "3 quarters ago",
-        "comments": [
-            {
-                "body": "Hey @Exxaxion Reav – not something we plan to support. Keeping the market panel fixed helps maintain consistent layout and usability across setups. Thanks for the suggestion though!",
-                "timeAgo": "14 minutes ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "Exxaxion Reav"
-        },
-        "status": {
-            "name": "Wont Implement"
-        },
-        "voteCount": 2,
-        "commentCount": 1
-    },
     "clvcm9k4r0147oz33nppdsr4q": {
         "id": "clvcm9k4r0147oz33nppdsr4q",
         "title": "Add skillgems to market from POB view ",
@@ -981,75 +528,6 @@
         "voteCount": 2,
         "commentCount": 0
     },
-    "cluh894xi00a0m033kct0dzga": {
-        "id": "cluh894xi00a0m033kct0dzga",
-        "title": "[Wont Implement] Customizable Hotkeys for Trade Whispers",
-        "body": "would be nice to have highly customizable hotkeys for the trade whispers (or for any chat command in general).\nhere an example of the commands: (also from \"poe trades companion\")\n\n\nbasicaly the same feature that is in \"poe trades companion\" ... like this is the next screenshot for the button \"sold and ignore\" and it just send the buyer the message that item is sold and from this point on the app does not pop up anymore for this item even when i get spamed with whispers of that item\n\n",
-        "timeAgo": "last year",
-        "comments": [
-            {
-                "body": "Hey @ron won – appreciate the detailed post and screenshots! While this kind of advanced hotkey customization is cool, it’s a bit out of scope for what we want to support directly in the app. Probably better suited to dedicated tools like Trade Companion or AHK setups. Thanks for sharing though!",
-                "timeAgo": "5 minutes ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "ron won"
-        },
-        "status": {
-            "name": "Wont Implement"
-        },
-        "voteCount": 2,
-        "commentCount": 1
-    },
-    "cluh21mbr009dm033a1lokkql": {
-        "id": "cluh21mbr009dm033a1lokkql",
-        "title": "[Wont Implement] Rearrange Trade Whisper Icons",
-        "body": "as title say would be nice to be able to reorder icons of the trade messages (incoming and outgoing)",
-        "timeAgo": "last year",
-        "comments": [
-            {
-                "body": "Hey @ron won – we’re not planning to support custom icon order. The current layout follows a consistent logic and grouping that we want to keep. Appreciate the suggestion though!",
-                "timeAgo": "10 minutes ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "ron won"
-        },
-        "status": {
-            "name": "Wont Implement"
-        },
-        "voteCount": 2,
-        "commentCount": 1
-    },
-    "clqllf0qh01utis26q5znc539": {
-        "id": "clqllf0qh01utis26q5znc539",
-        "title": "[Wont Implement] Add Map Bosses to Dangerous Mods List",
-        "body": "When farming bosses for Maven some are rippier than others. It would be nice if for example I could set The Goddess of Justice as a dangerous mod so that I remember not to run Orchard or Plaza.",
-        "timeAgo": "2 years ago",
-        "comments": [
-            {
-                "body": "Hey @argash – we’re not planning to add boss-specific flags to the dangerous mods system. It’s a bit outside the scope of what that feature was designed for. Thanks for the suggestion though!",
-                "timeAgo": "3 minutes ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "argash"
-        },
-        "status": {
-            "name": "Wont Implement"
-        },
-        "voteCount": 2,
-        "commentCount": 1
-    },
     "clmwd4pav001asr29gbxm0nvd": {
         "id": "clmwd4pav001asr29gbxm0nvd",
         "title": "Match Icon gear piece to know where to put gems",
@@ -1064,50 +542,6 @@
         },
         "voteCount": 2,
         "commentCount": 0
-    },
-    "cld8wpaf504e9k91yjrq7eosv": {
-        "id": "cld8wpaf504e9k91yjrq7eosv",
-        "title": "[Won’t Implement] Bulk Map Filter Matching & Highlighting",
-        "body": "On the example of maps: the game uses filtering based on regular expressions. This is good, but too short (about 50 characters per search)\n\n1) It would be great if the program could look at all the cards at once and show which ones fit the conditions.\n\n2) If this is not possible, then you can add the \"Online Tracking\" mode so as not to constantly click on each ALT + Q card, but simply move the mouse and it will immediately show the card suits the conditions or not.\n\nThe first option sounds \"tastier\", but it is not known whether it is possible to implement it.",
-        "timeAgo": "2 years ago",
-        "comments": [
-            {
-                "body": "Для русскоговорящих. \nМассовое выделение предметов, совпадающий с настройками фильтра.\nНа примере карт: В игре используется фильтрация на основе regex. Он хороший, но слишком коротки(около 50 символов в поиске)\n1)Было бы отлично, если программа могла сразу осматривать все карты и показывать, какие из них подходят под условия.\n2)Если это невозможно реализовать, можно добавить режим \"Отслеживание online\", чтобы не нажимать постоянно на каждую карту АЛЬТ+Q , а просто навести мышь и сразу отобразится, подходит ли под условия карта или нет.\nПервый вариант звучит \"вкуснее\", но не известно, возможно ли ее реализовать.",
-                "timeAgo": "2 years ago",
-                "user": {
-                    "name": "Шатун"
-                }
-            },
-            {
-                "body": "So if i understand you correctly, this feature would check the mods for all maps at once and potentially highlight maps that have bad mods?\nWould this be something you use once or multiple times? e.g. if you want to use it to roll maps, you would need to be able to trigger it multiple times (after rerolling a map) in a short period of time. This would rule out using the stash api as the items are not that often refreshed. ",
-                "timeAgo": "2 years ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            },
-            {
-                "body": " You understood correctly, it should highlight bad cards.\nFor example, in my case, I go through 20 maps of one location per day.\nThis function will be convenient for people who are engaged in farming.\nIf using the chest to display bad cards is not possible, you can try the second suggested option.",
-                "timeAgo": "2 years ago",
-                "user": {
-                    "name": "Шатун"
-                }
-            },
-            {
-                "body": "Hey @Шатун – good suggestion, and glad you explained it clearly. The game has since increased the regex limit to 200 characters, which helps a lot with this use case. As for bulk filtering or real-time hover tracking, that’s not something we plan to support. Appreciate you sharing the idea though!",
-                "timeAgo": "1 minute ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "Шатун"
-        },
-        "status": {
-            "name": "Wont Implement"
-        },
-        "voteCount": 2,
-        "commentCount": 4
     },
     "cl8kgkuka12171311xnxzoy0w13z": {
         "id": "cl8kgkuka12171311xnxzoy0w13z",
@@ -1183,51 +617,6 @@
         "voteCount": 2,
         "commentCount": 3
     },
-    "cl0lbtgp21522682uqthmefrssi": {
-        "id": "cl0lbtgp21522682uqthmefrssi",
-        "title": "Switch the have/want in the exchange to be the same order has the site",
-        "body": "I keep getting confused with the order going from the app to the site, and reported thinking it was an issue similar to the issue with the API.. to end up being insulted by the forum dork. ",
-        "timeAgo": "7 months",
-        "comments": [
-            {
-                "body": "Hi there, while I don't agree with the order on the trade website, I can add a toggle to be displayed that way. ",
-                "timeAgo": "7 months",
-                "user": {
-                    "name": "Kyusung"
-                }
-            },
-            {
-                "body": "That would be awesome. Thanks. ",
-                "timeAgo": "7 months",
-                "user": {
-                    "name": "CM."
-                }
-            }
-        ],
-        "user": {
-            "name": "CM."
-        },
-        "status": {
-            "name": "Wont Implement"
-        },
-        "voteCount": 2,
-        "commentCount": 2
-    },
-    "ckzafznnw154652ys0t9atr67o": {
-        "id": "ckzafznnw154652ys0t9atr67o",
-        "title": "Make pseudo rules customizable",
-        "body": "Allow users to play with pseudo rules strictness. For exemple, allow pseudo total ele res to show up anytime when there is ele res instead of when there's 2+ ele res mods on the item.",
-        "timeAgo": "7 months",
-        "comments": [],
-        "user": {
-            "name": "MalakaJones"
-        },
-        "status": {
-            "name": "Wont Implement"
-        },
-        "voteCount": 2,
-        "commentCount": 0
-    },
     "cmcbqmm6e0018of4ow3xvw34i": {
         "id": "cmcbqmm6e0018of4ow3xvw34i",
         "title": "[Planned] Path of Building 2 Support",
@@ -1250,127 +639,6 @@
         },
         "voteCount": 1,
         "commentCount": 1
-    },
-    "cm857s6tk0j7qm02f3oul5nw6": {
-        "id": "cm857s6tk0j7qm02f3oul5nw6",
-        "title": "[Wont Implement] Keyword-Based Spam Filter",
-        "body": "Is there a way to implement spam filter in POE2 Overlay to detect certain keywords and automatically block/ignore/report the messages? Example attached with keywords like \"rsgamer2\" which is known for spamming illegal RMTs\n\n\n",
-        "timeAgo": "2 quarters ago",
-        "comments": [
-            {
-                "body": "For the keywords - was thinking if it could also be in UI/UX for user-maintainable list (similar to Adblock concepts) as RMT-ers will find ways around it every time",
-                "timeAgo": "2 quarters ago",
-                "user": {
-                    "name": "gracielline"
-                }
-            },
-            {
-                "body": "Hey @gracielline – we get the frustration with spam, but we’re not planning to implement keyword-based filtering or auto-ignore. It’s tricky to do cleanly and not something we want to take on right now. Appreciate the suggestion though!",
-                "timeAgo": "18 minutes ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "gracielline"
-        },
-        "status": {
-            "name": "Wont Implement"
-        },
-        "voteCount": 1,
-        "commentCount": 2
-    },
-    "cm7etuesg0cb3m02fqhfwqbin": {
-        "id": "cm7etuesg0cb3m02fqhfwqbin",
-        "title": "[Wont Fix] Controller Hides Cursor Over Overlay",
-        "body": "When using a controller, the mouse cursor is hidden/invisible after a few seconds when opening the overlay. Only workarounds are to not use controller, or to move the mouse out of the overlay (over the poe window) every 3 seconds pr so while simultaneously doing the stuff you need on the overlay. It's a bit annoying x) Could you add an override so the cursor is not hidden when the mouse is over an overlay window? (over the trade history, market window, evaluate item window, etc.) Thanks!!",
-        "timeAgo": "2 quarters ago",
-        "comments": [
-            {
-                "body": "edit: this is about PoE 2 and PoE Overlay II.",
-                "timeAgo": "2 quarters ago",
-                "user": {
-                    "name": "Surfingnet"
-                }
-            },
-            {
-                "body": "Hey @Surfingnet – unfortunately this is something the game itself handles, and we don’t have control over the cursor visibility when using a controller. Totally get that it’s annoying, but not something we can fix on our end. Thanks for reporting it though!",
-                "timeAgo": "16 minutes ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "Surfingnet"
-        },
-        "status": {
-            "name": "Wont Fix"
-        },
-        "voteCount": 1,
-        "commentCount": 2
-    },
-    "cm7aweeah0002m02ya9sekn6w": {
-        "id": "cm7aweeah0002m02ya9sekn6w",
-        "title": "[Won’t Implement] Always Open in Default Browser",
-        "body": "I’d like to open my default browser by default without needing to press control. The overwolf browser is blocked by a cloudflare loop and isn’t usable at all anyways. Can you please remove the ctrl key requirement or make an option to always use default browser? Thanks. ",
-        "timeAgo": "2 quarters ago",
-        "comments": [
-            {
-                "body": "Hey @Jordan E – the Cloudflare loop issue with the Overwolf browser should be resolved now, so there’s no need to bypass it anymore. We’re keeping the Ctrl requirement as-is for now. Thanks for the suggestion!",
-                "timeAgo": "18 seconds ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "Jordan E"
-        },
-        "status": {
-            "name": "Wont Implement"
-        },
-        "voteCount": 1,
-        "commentCount": 1
-    },
-    "cm6kyshnc011rih2xc7es5jv9": {
-        "id": "cm6kyshnc011rih2xc7es5jv9",
-        "title": "[Wont Implement] Copy Trade Hash Button",
-        "body": "as title, for example when user press alt + e to search item &amp; the url is \"https://www.pathofexile.com/trade2/search/poe2/Standard/EDQD90RC5\"\n\nthen ui will show \"copy hash\" button and will copy EDQD90RC5 when user click it",
-        "timeAgo": "2 quarters ago",
-        "comments": [
-            {
-                "body": "Hey 林振凱 – not sure what the use case is here, since the full trade URL is already copied and usable. Doesn’t seem necessary to extract just the hash, so we’re not planning to add this. Let us know if there’s a specific need we missed!",
-                "timeAgo": "14 minutes ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "林振凱"
-        },
-        "status": {
-            "name": "Wont Implement"
-        },
-        "voteCount": 1,
-        "commentCount": 1
-    },
-    "cm6849lp600pmih2x7pldnayt": {
-        "id": "cm6849lp600pmih2x7pldnayt",
-        "title": "search filters on Ctrl+F",
-        "body": "Having a way to bulk search for a specific item/affix from a keybind (mostly ctrl+f which is already used for searching) would be awesome.\n\nLet's say you need to filter &gt;60% rarity/deli on maps, just hit the keybind while hovering over the item (just like a price check), click on whatever you need to filter and it will output a regex for that stat.\n\nCan either be self-made filters (\" \"rare\" tier:15 \", or by adding our own regex) or baked into the app (which sounds like a pain to setup for \"most if not all\" modifiers/affixes if you're willing to go with regex).",
-        "timeAgo": "1 minute ago",
-        "comments": [],
-        "user": {
-            "name": "Ano"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
-        "commentCount": 0
     },
     "cm67pek1o00osih2xh7d74mfz": {
         "id": "cm67pek1o00osih2xh7d74mfz",
@@ -1441,59 +709,6 @@
         "voteCount": 1,
         "commentCount": 1
     },
-    "cm5mut67l0082ri2ymjtpjv0e": {
-        "id": "cm5mut67l0082ri2ymjtpjv0e",
-        "title": "[Won’t Implement] Most Whispered Items List",
-        "body": "Hey, very often when I’m playing, I have several stashes where I list things for 1ex. I simply just dump everything there. If I end up getting message about an item I move it to another stash to investigate its value. If everything is ok, I just sell that stash for gold in TFT. But sometimes it happens that I would get heavily spammed about several items. My suggestion would be that we have a list of items that were most frequently requested by players who sent us whispers during our session. This way we can keep track of what seems to be most desired items and have a priority list on investigating prices to properly listing them.",
-        "timeAgo": "2 quarters ago",
-        "comments": [
-            {
-                "body": "Hey @odcesar – interesting idea, and totally get where you’re coming from. That said, we’re not planning to add this kind of tracking feature. Best bet is still to price items more accurately upfront to avoid whisper spam. Appreciate you taking the time to suggest it though!",
-                "timeAgo": "14 minutes ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "odcesar"
-        },
-        "status": {
-            "name": "Wont Implement"
-        },
-        "voteCount": 1,
-        "commentCount": 1
-    },
-    "cm5mnba0g0077ri2y5kdtrqx5": {
-        "id": "cm5mnba0g0077ri2y5kdtrqx5",
-        "title": "[Won’t Implement] Valuable Items Highlight via Hotkey",
-        "body": "It would be great if we had an option some  hotkey that would look at inventories or open stash tabs and determine wether items are \"Valuable\". This would be a NON API check initially and would work like this. \n\nHotkey is triggered.\n\nOverlay looks at all items, in all slots and passes each item through a parser.\n\nThe parser then checks to see the following stats on that item.\n\nTier of Affix\n\nRoll of Affix\n\nDesireability of Affix\n\nSynergized Affixes (Eg Crit Damage + Crit Chance)\n\nOverlay \"Weights\" the affixes and highlights them from worst to best based on their rolls &amp; affixes for that item type.\n\nWhy?\n\nThis would help users quickly sort out what items are worth putting in a sale tab, or safe to disenchant/drop. It could then later encourage a \"Good value\" for the sale item",
-        "timeAgo": "2 quarters ago",
-        "comments": [
-            {
-                "body": "Forgot to mention this request is for PoE2 Overlay",
-                "timeAgo": "2 quarters ago",
-                "user": {
-                    "name": "mkaulfers"
-                }
-            },
-            {
-                "body": "Hey @mkaulfers – really cool idea and would be super handy, but PoE2 doesn’t expose stash data via API (yet), and doing it via clipboard would only allow one item at a time. Since the app can’t move your cursor either, this isn’t something we can support right now. We’ll keep it in mind if better API access opens up in the future though!",
-                "timeAgo": "11 minutes ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "mkaulfers"
-        },
-        "status": {
-            "name": "Wont Implement"
-        },
-        "voteCount": 1,
-        "commentCount": 2
-    },
     "cm5jpjyt7004rri2y55yhkq72": {
         "id": "cm5jpjyt7004rri2y55yhkq72",
         "title": "[Needs Feedback] Market Overlay Resize & Filter Separation",
@@ -1532,29 +747,6 @@
         "voteCount": 1,
         "commentCount": 0
     },
-    "cm51blpn301vfms2f129a1why": {
-        "id": "cm51blpn301vfms2f129a1why",
-        "title": "[Won’t Implement] Scammer Warning Using TFT Data",
-        "body": "There is a browser plugin that shows the people that are flagged by TFT as potential scammers. \"TFT Trade Extension\". Is it possible to have a similar warning on incoming trades, based on the user?",
-        "timeAgo": "3 quarters ago",
-        "comments": [
-            {
-                "body": "Hey @L.POE2 – we’re not planning to implement this. We’re not fans of using public blacklists like that, even if well-intentioned. Appreciate the suggestion though!",
-                "timeAgo": "9 minutes ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "L.POE2"
-        },
-        "status": {
-            "name": "Wont Implement"
-        },
-        "voteCount": 1,
-        "commentCount": 1
-    },
     "cm0bp7ldx027vmg2yrtlk6ybm": {
         "id": "cm0bp7ldx027vmg2yrtlk6ybm",
         "title": "[Low Priority] Evaluate Wealth Across Leagues",
@@ -1578,55 +770,9 @@
         "voteCount": 1,
         "commentCount": 1
     },
-    "cm012rr1j01ormg2y1edpabu5": {
-        "id": "cm012rr1j01ormg2y1edpabu5",
-        "title": "[Won’t Implement] Exchange Ratio Overlay",
-        "body": "Something to assist with finding compatible ratios on the exchange give a desired ratio, and the quantity of items you have to make selling easier.",
-        "timeAgo": "4 quarters ago",
-        "comments": [
-            {
-                "body": "Hey @Anonymous #18902 – this would be useful, but until the exchange has its own proper API, we’re not planning to support this. We’d prefer not to go the OCR route for now. If that changes, we’re open to revisiting it!",
-                "timeAgo": "5 minutes ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "Anonymous #18902"
-        },
-        "status": {
-            "name": "Wont Implement"
-        },
-        "voteCount": 1,
-        "commentCount": 1
-    },
-    "clzpk1uye019umg2y0hj8pyyn": {
-        "id": "clzpk1uye019umg2y0hj8pyyn",
-        "title": "[Won’t Implement] Chaos Recipe Highlighting",
-        "body": "Hi, Can you please incorporate something to highlight items for the chaos recipe? Thanks",
-        "timeAgo": "4 quarters ago",
-        "comments": [
-            {
-                "body": "Hey @Aidan Wardman – the best way to handle this is by saving a regex that highlights Chaos Recipe-eligible items in your stash. The app supports regex saving, so no special logic needed beyond that. Not something we plan to implement directly. Thanks for the suggestion!",
-                "timeAgo": "3 minutes ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "Aidan Wardman"
-        },
-        "status": {
-            "name": "Wont Implement"
-        },
-        "voteCount": 1,
-        "commentCount": 1
-    },
     "clwin58om03gnoz33monryyr5": {
         "id": "clwin58om03gnoz33monryyr5",
-        "title": "Price Threshold on Bulk Searches",
+        "title": "[Low Priority] Price Threshold / Zero Quantity for Bulk Search",
         "body": "Hello, I love this tool!  One thing I've been doing a lot lately is doing bulk searches for allflames and scarabs of a similar price range, 25c for example.  I want to do a bulk search on all Syndicate allflames from the same seller, ok great--we can do this currently.  But many sellers have a couple of the syndicate allflame types priced in the right range, but one is priced like 2, 3 or 10x for some reason.  I don't want to click the offer button because it will message them saying that I also want the overpriced allflame, but I DO want the rest of the bulk that they have.  An option to set a price threshold for the bulk \"same seller\" search would be awesome, OR, a way to set one of the items in their bulk sell list to \"zero\" quantity so that it's not included in the whisper. Thanks!!",
         "timeAgo": "last year",
         "comments": [
@@ -1642,30 +788,7 @@
             "name": "K C"
         },
         "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
-        "commentCount": 1
-    },
-    "clve9cwx501bloz33qlsjnuvg": {
-        "id": "clve9cwx501bloz33qlsjnuvg",
-        "title": "Map inspection - add\\remove mods in overlay",
-        "body": "As a player when i do map inspection i want to add\\remove dangerous mods in overlay \"on the fly\". Without need to go to settings",
-        "timeAgo": "yesterday",
-        "comments": [
-            {
-                "body": "This is not something we are considering to add for now. Thanks for your feedback! ",
-                "timeAgo": "2 minutes ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "Владислав Смирнов"
-        },
-        "status": {
-            "name": "Wont Implement"
+            "name": "Low Priority"
         },
         "voteCount": 1,
         "commentCount": 1
@@ -1700,171 +823,51 @@
         "voteCount": 1,
         "commentCount": 2
     },
-    "cls9g2pzn004bkd2flwnwh1bc": {
-        "id": "cls9g2pzn004bkd2flwnwh1bc",
-        "title": "Price Based on: - additional button to copy trade link",
-        "body": "Overwolf in game browser is very slow and also for some reason I am getting constantly logged out of Overwolf browser poe. My PoE password is random generated 20 symbols so entering it every time is pain. Opening and closing trade clicking on it just to copy link feels very choppy and sluggish.\n\nCan we get button that copies trade site link generated above market listings?\n\n",
-        "timeAgo": "2 months ago",
-        "comments": [
-            {
-                "body": "You can use your default windows browser not to get disconnected all the time. This should not happen. You can change that behaviour under the general options near your Overwolf account name on the bottom left of the main UI.",
-                "timeAgo": "2 months ago",
-                "user": {
-                    "name": "Anonymous #7671"
-                }
-            },
-            {
-                "body": "You can either change the browser the app uses when opening links to be your standard browser (App Settings > General), or click the link while holding ctrl to open it with your default browser. \nWe don't plan on adding an extra button to copy the link. Thanks for your feedback! ",
-                "timeAgo": "6 minutes ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "M A (Dai-Katana)"
-        },
-        "status": {
-            "name": "Wont Implement"
-        },
-        "voteCount": 1,
-        "commentCount": 2
-    },
-    "clqsjcova022lis26ezzmvkwo": {
-        "id": "clqsjcova022lis26ezzmvkwo",
-        "title": "Auto Update on Currency tracker",
-        "body": "would love to have an programmable auto snapshot option on the currency tracker :D \nAs well as editable prices so people can fix prices that don't match well with reality due to price fixers.",
-        "timeAgo": "2 quarters ago",
-        "comments": [
-            {
-                "body": "The currency tracker takes snapshots every 20 minutes. Making the prices editable is not something we are considering for now. Thanks for your feedback! ",
-                "timeAgo": "11 minutes ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "Enzo Pelotte (CptAlbatar)"
-        },
-        "status": {
-            "name": "Wont Implement"
-        },
-        "voteCount": 1,
-        "commentCount": 1
-    },
-    "clq483k0y00ezis26j47he4cb": {
-        "id": "clq483k0y00ezis26j47he4cb",
-        "title": "Tracker Party",
-        "body": "Not sure if anyone used exilence before? You could make little party's which would snapshot your stash and compare everyone else's income on a graph, That of course was invited to the party.  Created little competition.",
-        "timeAgo": "2 quarters ago",
-        "comments": [
-            {
-                "body": "While this feature sounds interesting, it is out of scope of what we see the tracker should be doing for now. Thanks for your feedback! ",
-                "timeAgo": "10 minutes ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "Mads"
-        },
-        "status": {
-            "name": "Wont Implement"
-        },
-        "voteCount": 1,
-        "commentCount": 1
-    },
     "clpynh65f006uis26b8xsujpo": {
         "id": "clpynh65f006uis26b8xsujpo",
-        "title": "price check Sanctum runs",
+        "title": "[Planned] Price Check Sanctum Runs",
         "body": "Please implement price checking started Sanctum runs. The mods are all there in the Advanced Mod Descriptions.",
-        "timeAgo": "11 minutes",
-        "comments": [],
+        "timeAgo": "2 years ago",
+        "comments": [
+            {
+                "body": "Hey @TheOne320 – agreed this would be useful, but there are a few challenges with parsing those mods cleanly. We’ll take another look once we revisit the item parser. It’s on the radar!",
+                "timeAgo": "14 minutes ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "TheOne320"
         },
         "status": {
-            "name": "Open"
+            "name": "Planned"
         },
         "voteCount": 1,
-        "commentCount": 0
-    },
-    "clng6gwr00191sr29yskzuish": {
-        "id": "clng6gwr00191sr29yskzuish",
-        "title": "Block Traders",
-        "body": "It is similar to the ignore function of the trade website. If you could add an ignore function to the overlay market, that would be a time saver.",
-        "timeAgo": "6 minutes",
-        "comments": [],
-        "user": {
-            "name": "RedBlue Devil"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
-        "commentCount": 0
-    },
-    "clgsemdjh0ac4oj2076w4e83s": {
-        "id": "clgsemdjh0ac4oj2076w4e83s",
-        "title": "Add feedback with thumbs up/down",
-        "body": "I would like to vote feedback up or down after trade, maybe, simply store the feedback like upvote if I click on trade finished button and rank the trader by feedback",
-        "timeAgo": "2 years ago",
-        "comments": [],
-        "user": {
-            "name": "g-alfieri"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
-        "commentCount": 0
-    },
-    "clf7anf7t04scoj20jyvbqzmo": {
-        "id": "clf7anf7t04scoj20jyvbqzmo",
-        "title": "Add a roll percentage feature when searching for uniques.",
-        "body": "Often when I am trying to evaluate a unique I have to check it at many different stat roll points to see what is valuable and what is not. It would be nice if there was some way to choose something like. 90% perfect, 100% perfect, ect. Also it would be nice if there was a way to use base percentile when searching the market as part of the parameters.",
-        "timeAgo": "2 years ago",
-        "comments": [],
-        "user": {
-            "name": "blahblahdrugs"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
-        "commentCount": 0
-    },
-    "cleu8knyw02ogoj20u6d9hqd1": {
-        "id": "cleu8knyw02ogoj20u6d9hqd1",
-        "title": "Some stat search ideas",
-        "body": "Preface: I am not a professional programmer so I can not speak to the ease with which these can be accomplished. These are functions I would like to have available, but I do understand that they may be difficult or maybe even impossible to do. Regardless, I wanted to share them for your consideration just in case.\n\nGeneralized stat searches - Say I want all rings that impact chaos in any ways, regardless of resistance, damage, penetration.. I don't know exactly what mods are available and so I was to browse an overview of items with that particular keywords.\n\nItem Type and Item Name grouping - \n\nPerhaps I am interested in the items that provide the most Increased Item Quantity. This often returns many results of the same item making it difficult to get an idea of what alternatives may be available. If instead, all items named \"Goldrim\" were nested in a collapsible manner then I could see the next best option for the price, ect. Different types of filters for collapsing would be nice too.\n\nItem Base exclusion\n\nOr in general any sort of exclusion options would be good here. We can exclude stats using the NOT stat filters at the moment but say I wanted to search all amulets for IIR but didn't want to see and Gold Amulet results. This would address that use case.",
-        "timeAgo": "2 years ago",
-        "comments": [],
-        "user": {
-            "name": "blahblahdrugs"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
-        "commentCount": 0
+        "commentCount": 1
     },
     "cleu89p6e02oeoj20yw9lefzf": {
         "id": "cleu89p6e02oeoj20yw9lefzf",
-        "title": "Drag and drop stat filters",
+        "title": "[Planned] Drag-and-Drop Stat Filters",
         "body": "I would like to be able to drag a stat from market results into the stat filters. I think this would be especially useful when trying to search for terms that have multiple implementations with the same name (This can require adding many of the same filter line trying to find the one that's valid for your particular item type. Pseudo does not work in all cases.)\n\nAnother example from the above image would being able to drag and drop the implicit. While pseudo should cover this particular implicit, that is not always the case.\n\n",
         "timeAgo": "2 years ago",
-        "comments": [],
+        "comments": [
+            {
+                "body": "Hey @blahblahdrugs – great suggestion! We’ve got something similar planned where you’ll be able to take all stats from an item and add them as a group to your filter. Should help a lot with the use case you described. Appreciate the idea!",
+                "timeAgo": "8 minutes ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "blahblahdrugs"
         },
         "status": {
-            "name": "Open"
+            "name": "Planned"
         },
         "voteCount": 1,
-        "commentCount": 0
+        "commentCount": 1
     },
     "clcfi6ao901nxk91ydct1zvde": {
         "id": "clcfi6ao901nxk91ydct1zvde",
@@ -1913,10 +916,18 @@
     },
     "cmb1qir1705cgmm43vf48teof": {
         "id": "cmb1qir1705cgmm43vf48teof",
-        "title": "Why did the item drop auto clip function disappear?",
+        "title": "[Needs Feedback] Item Drop Auto Clip Feature Missing",
         "body": "This was my favorite feature in overlay and I'm sad it's gone. Is there any chance it'll be added back?",
         "timeAgo": "3 months ago",
-        "comments": [],
+        "comments": [
+            {
+                "body": "Hey @서진희 – sorry to hear that! The auto clip feature was removed during a rework and hasn’t been added back yet. If there’s still strong interest in it, we can look into bringing it back. Let us know how you used it most so we can better understand the use case!",
+                "timeAgo": "5 minutes ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "서진희"
         },
@@ -1924,21 +935,6 @@
             "name": "Open"
         },
         "voteCount": 0,
-        "commentCount": 0
-    },
-    "cl2z5z9la2500192yo9hmibk3l7": {
-        "id": "cl2z5z9la2500192yo9hmibk3l7",
-        "title": "Maps Layout For leveling",
-        "body": "Hey, I dnt know if its possible or not buy I'd like an overlay of all maps or at least throughout the acts with quests that give skill points and waypoints pointed ",
-        "timeAgo": "3 years ago",
-        "comments": [],
-        "user": {
-            "name": "Amine Mlil"
-        },
-        "status": {
-            "name": "Wont Implement"
-        },
-        "voteCount": 0,
-        "commentCount": 0
+        "commentCount": 1
     }
 }
