@@ -1,4 +1,48 @@
 {
+    "clg3yuzau086coj205rcnn8fv": {
+        "id": "clg3yuzau086coj205rcnn8fv",
+        "title": "[Low Priority] Labyrinth Compass",
+        "body": "Integrate labyrinth compass that pops up when you enter the labyrinth.\n\nAnd download the newest labyrinth layout\n\nProbably does not know witch lab difficulty it is so a popup need to come up and ask.",
+        "timeAgo": "2 years ago",
+        "comments": [
+            {
+                "body": "I love this idea. Even if the steps have to be done manually, it would be better than having to load LabCompass each time.",
+                "timeAgo": "2 years ago",
+                "user": {
+                    "name": "TheOne320"
+                }
+            },
+            {
+                "body": "Hey @Zekhap – this would definitely be handy, but we’re not looking to pull layout data from poelab since that’d cut into their ad revenue. Unless they provide an API or public integration path, it's unlikely we’ll move forward with this. Appreciate the suggestion though!",
+                "timeAgo": "2 years ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            },
+            {
+                "body": "What about allowing us to manually import layout files like it works with LabCompass? That would not reduce their ad revenue. I just want to reduce the number of apps I have to use.",
+                "timeAgo": "2 days ago",
+                "user": {
+                    "name": "TheOne320"
+                }
+            },
+            {
+                "body": "Hmm, yeah good point @TheOne320 — allowing manual import of layout files (like LabCompass does) wouldn’t affect poelab’s traffic, so that could be a nice compromise. It’s definitely low priority, but would be a fun addition if we get the time. Appreciate the follow-up!",
+                "timeAgo": "12 minutes ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
+        "user": {
+            "name": "Zekhap"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 26,
+        "commentCount": 4
+    },
     "cktsbp2f547461map1rrkovz8d": {
         "id": "cktsbp2f547461map1rrkovz8d",
         "title": "Programable timer on active trades",
