@@ -37,6 +37,43 @@
         "voteCount": 11,
         "commentCount": 1
     },
+    "cm5hizcz1002rri2yci24zmx0": {
+        "id": "cm5hizcz1002rri2yci24zmx0",
+        "title": "[Needs Feedback] Stream Deck hotkey support / integration?",
+        "body": "Maybe a good consideration would be Stream deck POE2 Overlay plugin. Adding connections to all trade actions, market check and so on.",
+        "timeAgo": "2 quarters ago",
+        "comments": [
+            {
+                "body": "Hey @MichalJes – cool idea, but Stream Deck support would mainly benefit users outside of our current Windows-only scope. Since we’re not planning to support other OSes for now, this isn’t something we’re likely to pursue. Appreciate the suggestion though!",
+                "timeAgo": "2 days ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            },
+            {
+                "body": "Hello \n, Thanks for the update. Just to be sure I was talking about Elgato Stream Deck which is only windows compatible (not Valve Steam Deck the handheld console based on Arch Linux). If Stream Deck is also out of scope I fully understand. Thanks again for thee update.",
+                "timeAgo": "yesterday",
+                "user": {
+                    "name": "MichalJes"
+                }
+            },
+            {
+                "body": "Ah, gotcha @MichalJes — and thanks for clarifying, I totally misread that as \nSteam\n Deck 😅\nIf you're asking whether Stream Deck can be used to trigger actions via hotkeys — yep, that should already work as long as those actions in the app have hotkey support. If there’s a specific trade/market action you’d like to bind that isn’t currently hotkey-able, let us know and we can see what’s possible!",
+                "timeAgo": "2 minutes ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
+        "user": {
+            "name": "MichalJes"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 10,
+        "commentCount": 3
+    },
     "cl8csqp052928991xj5sgt0nkme": {
         "id": "cl8csqp052928991xj5sgt0nkme",
         "title": "[Planned] Custom Trade Messages for Bulk/Corrupted/All-In-One Clicks",
