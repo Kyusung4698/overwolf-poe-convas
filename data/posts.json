@@ -271,6 +271,29 @@
         "voteCount": 5,
         "commentCount": 0
     },
+    "cm6t6uzdq01goih2x5iyhxjz2": {
+        "id": "cm6t6uzdq01goih2x5iyhxjz2",
+        "title": "[Low Priority] Telegram or Alt API Trade Notifications",
+        "body": "I would like to be able to receive trade notifications on my phone using messengers such as Telegram. In my country Discord is blocked and I can't receive notifications in this way. I must always use VPN to receive notifications on Discord.\n\nIt would be great if you added this kind of functionality. Thanks!",
+        "timeAgo": "2 quarters ago",
+        "comments": [
+            {
+                "body": "Hey @hfn – makes sense, and Telegram support is something we’d like to add down the line. Not a high priority at the moment, but definitely on our radar. Thanks for the suggestion!",
+                "timeAgo": "last week",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
+        "user": {
+            "name": "hfn"
+        },
+        "status": {
+            "name": "In Progress"
+        },
+        "voteCount": 4,
+        "commentCount": 1
+    },
     "cm520fluj01w2ms2f55fk0ap5": {
         "id": "cm520fluj01w2ms2f55fk0ap5",
         "title": "[Planned] POE2 Death Tracking & Map Tier Stats",
@@ -322,29 +345,6 @@
         },
         "voteCount": 4,
         "commentCount": 0
-    },
-    "cm6t6uzdq01goih2x5iyhxjz2": {
-        "id": "cm6t6uzdq01goih2x5iyhxjz2",
-        "title": "[Low Priority] Telegram or Alt API Trade Notifications",
-        "body": "I would like to be able to receive trade notifications on my phone using messengers such as Telegram. In my country Discord is blocked and I can't receive notifications in this way. I must always use VPN to receive notifications on Discord.\n\nIt would be great if you added this kind of functionality. Thanks!",
-        "timeAgo": "2 quarters ago",
-        "comments": [
-            {
-                "body": "Hey @hfn – makes sense, and Telegram support is something we’d like to add down the line. Not a high priority at the moment, but definitely on our radar. Thanks for the suggestion!",
-                "timeAgo": "21 minutes ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "hfn"
-        },
-        "status": {
-            "name": "In Progress"
-        },
-        "voteCount": 3,
-        "commentCount": 1
     },
     "clz8qqdqt00n1mg2y23xa5i0j": {
         "id": "clz8qqdqt00n1mg2y23xa5i0j",
