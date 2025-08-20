@@ -133,29 +133,6 @@
         "voteCount": 6,
         "commentCount": 0
     },
-    "cldwfaesc00p0ml1r3ojnaclj": {
-        "id": "cldwfaesc00p0ml1r3ojnaclj",
-        "title": "Shareable favorited/saved searches",
-        "body": "Would be an awesome feature to be able to somehow share your favorited/saved searches, I have spent a lot of time creating some for my builds which i would like to share with my friends that play same builds.",
-        "timeAgo": "last year",
-        "comments": [
-            {
-                "body": "If we could do this by importing / exporting trade links, that would be great! Then we could also share with friends who don’t use PoE Overlay yet!",
-                "timeAgo": "2 quarters ago",
-                "user": {
-                    "name": "Rue"
-                }
-            }
-        ],
-        "user": {
-            "name": "Anonymous #12952"
-        },
-        "status": {
-            "name": "In Progress"
-        },
-        "voteCount": 6,
-        "commentCount": 1
-    },
     "clgj1nu3i09feoj20jv6j2bdp": {
         "id": "clgj1nu3i09feoj20jv6j2bdp",
         "title": "divine price placeholder for messages",
@@ -170,29 +147,6 @@
         },
         "voteCount": 5,
         "commentCount": 0
-    },
-    "cm6t6uzdq01goih2x5iyhxjz2": {
-        "id": "cm6t6uzdq01goih2x5iyhxjz2",
-        "title": "[Low Priority] Telegram or Alt API Trade Notifications",
-        "body": "I would like to be able to receive trade notifications on my phone using messengers such as Telegram. In my country Discord is blocked and I can't receive notifications in this way. I must always use VPN to receive notifications on Discord.\n\nIt would be great if you added this kind of functionality. Thanks!",
-        "timeAgo": "2 quarters ago",
-        "comments": [
-            {
-                "body": "Hey @hfn – makes sense, and Telegram support is something we’d like to add down the line. Not a high priority at the moment, but definitely on our radar. Thanks for the suggestion!",
-                "timeAgo": "last week",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "hfn"
-        },
-        "status": {
-            "name": "In Progress"
-        },
-        "voteCount": 4,
-        "commentCount": 1
     },
     "cm520fluj01w2ms2f55fk0ap5": {
         "id": "cm520fluj01w2ms2f55fk0ap5",
@@ -380,44 +334,6 @@
         },
         "voteCount": 3,
         "commentCount": 3
-    },
-    "cmdnldyzt00hvmw4pwv5sl64v": {
-        "id": "cmdnldyzt00hvmw4pwv5sl64v",
-        "title": "Show Dust of unique ",
-        "body": "Hello ! I was thinking about small Dust checker when you check price it will show how many dust you will get from dusting the unique item. this should work only on the unique one items, Small  square somewhere down in corner in price checker? Dust will be rounded to \"K\"  What do you think about it?",
-        "timeAgo": "2 minutes ago",
-        "comments": [],
-        "user": {
-            "name": "Tomasz SaCus"
-        },
-        "status": {
-            "name": "In Progress"
-        },
-        "voteCount": 2,
-        "commentCount": 0
-    },
-    "cm5x87p4500a4ih2xafpyombh": {
-        "id": "cm5x87p4500a4ih2xafpyombh",
-        "title": "Stash/Vendor Searches",
-        "body": "For the moment we have plenty of emojis to use, but is it possible to add words aswell? \n\nFor example, i have a regex for quant maps and rarity maps. instead of using emojis i would love to use a single word like RARE or QUANT it's more a Qol improvement i think. ",
-        "timeAgo": "2 quarters ago",
-        "comments": [
-            {
-                "body": "Hey @Soulixvm – yup, definitely a nice QoL tweak. Not super high priority right now, but it’s something we’d like to add when time allows. Thanks for the suggestion!",
-                "timeAgo": "37 minutes ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "Soulixvm"
-        },
-        "status": {
-            "name": "In Progress"
-        },
-        "voteCount": 2,
-        "commentCount": 1
     },
     "clvcm9k4r0147oz33nppdsr4q": {
         "id": "clvcm9k4r0147oz33nppdsr4q",
@@ -711,29 +627,6 @@
         },
         "status": {
             "name": "Planned"
-        },
-        "voteCount": 1,
-        "commentCount": 1
-    },
-    "cleu89p6e02oeoj20yw9lefzf": {
-        "id": "cleu89p6e02oeoj20yw9lefzf",
-        "title": "[Planned] Drag-and-Drop Stat Filters",
-        "body": "I would like to be able to drag a stat from market results into the stat filters. I think this would be especially useful when trying to search for terms that have multiple implementations with the same name (This can require adding many of the same filter line trying to find the one that's valid for your particular item type. Pseudo does not work in all cases.)\n\nAnother example from the above image would being able to drag and drop the implicit. While pseudo should cover this particular implicit, that is not always the case.\n\n",
-        "timeAgo": "2 years ago",
-        "comments": [
-            {
-                "body": "Hey @blahblahdrugs – great suggestion! We’ve got something similar planned where you’ll be able to take all stats from an item and add them as a group to your filter. Should help a lot with the use case you described. Appreciate the idea!",
-                "timeAgo": "8 minutes ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "blahblahdrugs"
-        },
-        "status": {
-            "name": "In Progress"
         },
         "voteCount": 1,
         "commentCount": 1
