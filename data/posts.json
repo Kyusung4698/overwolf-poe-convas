@@ -402,6 +402,21 @@
         "voteCount": 2,
         "commentCount": 3
     },
+    "cmezjogv400xhnq4pcoajxn18": {
+        "id": "cmezjogv400xhnq4pcoajxn18",
+        "title": "Zoom is not applied to newly opened overlay windows",
+        "body": "I have a 4K screen and use high DPI, so the overlays are too small for me.\n\nI have set up 120% zoom in options. This looks fine. However every time I close and reopen the settings window it is small again. The zoom setting is retained but not applied. I then decrease it by 1% and oncrease back to apply the correct settings.\n\nCan this be fixed please?\n\nThis is how my settings window opens from the market window. (see market is correctly scaled, but settings small, even tho the setting is at 120%):\n\n",
+        "timeAgo": "1 minute ago",
+        "comments": [],
+        "user": {
+            "name": "Marino Šimić"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "cmcbqmm6e0018of4ow3xvw34i": {
         "id": "cmcbqmm6e0018of4ow3xvw34i",
         "title": "[Planned] Path of Building 2 Support",
