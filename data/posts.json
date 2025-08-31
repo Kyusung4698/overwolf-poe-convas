@@ -55,7 +55,7 @@
         "status": {
             "name": "Planned"
         },
-        "voteCount": 24,
+        "voteCount": 25,
         "commentCount": 0
     },
     "cm03d2x0k01vimg2yh0b5n07t": {
@@ -401,6 +401,21 @@
         },
         "voteCount": 2,
         "commentCount": 3
+    },
+    "cmezk237p00xrnq4ps7fdzmb1": {
+        "id": "cmezk237p00xrnq4ps7fdzmb1",
+        "title": "Evaluate needs a toggle to enable searching of unmodifieable/semimodifieable items",
+        "body": "I am trying to check how much my armor is worth. However the evaluation always excludes mirrored or split items, and even corrupted ones.\n\nThe problem is that most high end chests will be split, so the results here are only three and barely relevant.\n\nTo see all the real results for similar armors I would need to be able to turn off the split/mirrored/corrupted for at least this search, if not by default in options.\n\nThe filters on the right could have at the end a few toggles for \"include split/mirrored/corrupted\".\n\n",
+        "timeAgo": "5 minutes ago",
+        "comments": [],
+        "user": {
+            "name": "Marino Šimić"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
     },
     "cmezjogv400xhnq4pcoajxn18": {
         "id": "cmezjogv400xhnq4pcoajxn18",
