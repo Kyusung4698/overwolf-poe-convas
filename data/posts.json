@@ -402,6 +402,21 @@
         "voteCount": 2,
         "commentCount": 3
     },
+    "cmf537wlk0039p850ok4c2qe6": {
+        "id": "cmf537wlk0039p850ok4c2qe6",
+        "title": "POE2 - Track currency par session / wealth evolution",
+        "body": "Hello,\n\nI would love to be able to see in POE2 via the overlay how my wealth evolves session after session. There already is a tracker for XP, for game session, I recall this feature from the overlay for POE1, so is it possible to add this feature to the POE2 overlay?\n\nSome other websites say that they are missing the POE2 API from GGG to do this, however as the overlay has access to additionnal and direct information from the game, isn't it something that could already be done?\n\nThanks for the great tool :)",
+        "timeAgo": "10 minutes ago",
+        "comments": [],
+        "user": {
+            "name": "Anonymous #20649"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "cmezk237p00xrnq4ps7fdzmb1": {
         "id": "cmezk237p00xrnq4ps7fdzmb1",
         "title": "Evaluate needs a toggle to enable searching of unmodifieable/semimodifieable items",
