@@ -404,18 +404,26 @@
     },
     "cmf537wlk0039p850ok4c2qe6": {
         "id": "cmf537wlk0039p850ok4c2qe6",
-        "title": "POE2 - Track currency par session / wealth evolution",
+        "title": "[Planned] POE2 - Track currency par session / wealth evolution",
         "body": "Hello,\n\nI would love to be able to see in POE2 via the overlay how my wealth evolves session after session. There already is a tracker for XP, for game session, I recall this feature from the overlay for POE1, so is it possible to add this feature to the POE2 overlay?\n\nSome other websites say that they are missing the POE2 API from GGG to do this, however as the overlay has access to additionnal and direct information from the game, isn't it something that could already be done?\n\nThanks for the great tool :)",
-        "timeAgo": "10 minutes ago",
-        "comments": [],
+        "timeAgo": "7 hours ago",
+        "comments": [
+            {
+                "body": "Hey there, yes this is something we plan on adding but it's true at the moment we don't have access to this kind of data, these API are still lacking from GGG's side. Thanks for the feedback! ",
+                "timeAgo": "15 minutes ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "Anonymous #20649"
         },
         "status": {
-            "name": "Open"
+            "name": "Planned"
         },
         "voteCount": 1,
-        "commentCount": 0
+        "commentCount": 1
     },
     "cmezk237p00xrnq4ps7fdzmb1": {
         "id": "cmezk237p00xrnq4ps7fdzmb1",
@@ -434,10 +442,18 @@
     },
     "cmezjogv400xhnq4pcoajxn18": {
         "id": "cmezjogv400xhnq4pcoajxn18",
-        "title": "Zoom is not applied to newly opened overlay windows",
+        "title": "[Bug] Zoom is not applied to newly opened overlay windows",
         "body": "I have a 4K screen and use high DPI, so the overlays are too small for me.\n\nI have set up 120% zoom in options. This looks fine. However every time I close and reopen the settings window it is small again. The zoom setting is retained but not applied. I then decrease it by 1% and oncrease back to apply the correct settings.\n\nCan this be fixed please?\n\nThis is how my settings window opens from the market window. (see market is correctly scaled, but settings small, even tho the setting is at 120%):\n\n",
-        "timeAgo": "1 minute ago",
-        "comments": [],
+        "timeAgo": "4 days ago",
+        "comments": [
+            {
+                "body": "Hi there, thanks for the feedback, that does look like a bug, we'll check. Could you tell me if this is the Standalone or Overwolf version? If it's either could you try the other one and see if it applies the zoom correctly? ",
+                "timeAgo": "11 minutes ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "Marino Šimić"
         },
@@ -445,7 +461,7 @@
             "name": "Open"
         },
         "voteCount": 1,
-        "commentCount": 0
+        "commentCount": 1
     },
     "cmcbqmm6e0018of4ow3xvw34i": {
         "id": "cmcbqmm6e0018of4ow3xvw34i",
