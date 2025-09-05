@@ -402,6 +402,21 @@
         "voteCount": 2,
         "commentCount": 3
     },
+    "cmf6hztnd004op850hahlgu98": {
+        "id": "cmf6hztnd004op850hahlgu98",
+        "title": "Help with commands",
+        "body": "I would like to know how I can configure the commands, for example, /hideout",
+        "timeAgo": "12 minutes ago",
+        "comments": [],
+        "user": {
+            "name": "Gt Battlegrounds"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "cmf6dprg5004ep850egre1r6y": {
         "id": "cmf6dprg5004ep850egre1r6y",
         "title": "The overlay in game looks like overexposed",
