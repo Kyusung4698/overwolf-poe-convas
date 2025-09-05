@@ -429,13 +429,20 @@
         "id": "cmf6dprg5004ep850egre1r6y",
         "title": "The overlay in game looks like overexposed",
         "body": "Just like in this image, the colors appear overexposed. At first, I thought it was because I had HDR enabled, but the issue persists even after turning HDR off. Moreover, this problem only occurs with the in-game overlay interface—the main software interface looks completely normal. I'm wondering what could be causing this issue.",
-        "timeAgo": "9 hours ago",
+        "timeAgo": "11 hours ago",
         "comments": [
             {
                 "body": "Have you tried disabling HDR and restarting the game? Usually HDR is the main culprit for those kind of issues. Also is this the Standalone or Overwolf version? ",
-                "timeAgo": "4 minutes ago",
+                "timeAgo": "2 hours ago",
                 "user": {
                     "name": "Kyusung"
+                }
+            },
+            {
+                "body": " Yes you're right, after I turned off HDR and restarted the game, this issue didn't occur. But the colors displayed on my monitor are incorrect when HDR is not enabled. So, I'm wondering if there is a way to resolve this problem. And I am currently using the Standalone version, and I didn't encounter this issue last season when I was using the Overwolf version, and I prefer to use Standalone version.",
+                "timeAgo": "12 minutes ago",
+                "user": {
+                    "name": "Raz Zer"
                 }
             }
         ],
@@ -446,7 +453,7 @@
             "name": "Open"
         },
         "voteCount": 1,
-        "commentCount": 1
+        "commentCount": 2
     },
     "cmf537wlk0039p850ok4c2qe6": {
         "id": "cmf537wlk0039p850ok4c2qe6",
