@@ -402,6 +402,21 @@
         "voteCount": 2,
         "commentCount": 3
     },
+    "cmf6dprg5004ep850egre1r6y": {
+        "id": "cmf6dprg5004ep850egre1r6y",
+        "title": "The overlay in game looks like overexposed",
+        "body": "Just like in this image, the colors appear overexposed. At first, I thought it was because I had HDR enabled, but the issue persists even after turning HDR off. Moreover, this problem only occurs with the in-game overlay interface—the main software interface looks completely normal. I'm wondering what could be causing this issue.",
+        "timeAgo": "13 minutes ago",
+        "comments": [],
+        "user": {
+            "name": "Raz Zer"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "cmf537wlk0039p850ok4c2qe6": {
         "id": "cmf537wlk0039p850ok4c2qe6",
         "title": "[Planned] POE2 - Track currency par session / wealth evolution",
