@@ -406,8 +406,16 @@
         "id": "cmf6hztnd004op850hahlgu98",
         "title": "Help with commands",
         "body": "I would like to know how I can configure the commands, for example, /hideout",
-        "timeAgo": "12 minutes ago",
-        "comments": [],
+        "timeAgo": "7 hours ago",
+        "comments": [
+            {
+                "body": "Hi, you can configure commands in the main part of the app > preferences > chat & commands. Let us know if there is something specific you get stuck on. Here is a screenshot: ",
+                "timeAgo": "5 minutes ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "Gt Battlegrounds"
         },
@@ -415,14 +423,22 @@
             "name": "Open"
         },
         "voteCount": 1,
-        "commentCount": 0
+        "commentCount": 1
     },
     "cmf6dprg5004ep850egre1r6y": {
         "id": "cmf6dprg5004ep850egre1r6y",
         "title": "The overlay in game looks like overexposed",
         "body": "Just like in this image, the colors appear overexposed. At first, I thought it was because I had HDR enabled, but the issue persists even after turning HDR off. Moreover, this problem only occurs with the in-game overlay interface—the main software interface looks completely normal. I'm wondering what could be causing this issue.",
-        "timeAgo": "13 minutes ago",
-        "comments": [],
+        "timeAgo": "9 hours ago",
+        "comments": [
+            {
+                "body": "Have you tried disabling HDR and restarting the game? Usually HDR is the main culprit for those kind of issues. Also is this the Standalone or Overwolf version? ",
+                "timeAgo": "4 minutes ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "Raz Zer"
         },
@@ -430,7 +446,7 @@
             "name": "Open"
         },
         "voteCount": 1,
-        "commentCount": 0
+        "commentCount": 1
     },
     "cmf537wlk0039p850ok4c2qe6": {
         "id": "cmf537wlk0039p850ok4c2qe6",
