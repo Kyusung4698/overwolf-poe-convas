@@ -335,6 +335,29 @@
         "voteCount": 3,
         "commentCount": 3
     },
+    "cmf537wlk0039p850ok4c2qe6": {
+        "id": "cmf537wlk0039p850ok4c2qe6",
+        "title": "[Planned] POE2 - Track currency par session / wealth evolution",
+        "body": "Hello,\n\nI would love to be able to see in POE2 via the overlay how my wealth evolves session after session. There already is a tracker for XP, for game session, I recall this feature from the overlay for POE1, so is it possible to add this feature to the POE2 overlay?\n\nSome other websites say that they are missing the POE2 API from GGG to do this, however as the overlay has access to additionnal and direct information from the game, isn't it something that could already be done?\n\nThanks for the great tool :)",
+        "timeAgo": "2 days ago",
+        "comments": [
+            {
+                "body": "Hey there, yes this is something we plan on adding but it's true at the moment we don't have access to this kind of data, these API are still lacking from GGG's side. Thanks for the feedback! ",
+                "timeAgo": "2 days ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
+        "user": {
+            "name": "Anonymous #20649"
+        },
+        "status": {
+            "name": "Planned"
+        },
+        "voteCount": 2,
+        "commentCount": 1
+    },
     "clvcm9k4r0147oz33nppdsr4q": {
         "id": "clvcm9k4r0147oz33nppdsr4q",
         "title": "Add skillgems to market from POB view ",
@@ -454,29 +477,6 @@
         },
         "voteCount": 1,
         "commentCount": 2
-    },
-    "cmf537wlk0039p850ok4c2qe6": {
-        "id": "cmf537wlk0039p850ok4c2qe6",
-        "title": "[Planned] POE2 - Track currency par session / wealth evolution",
-        "body": "Hello,\n\nI would love to be able to see in POE2 via the overlay how my wealth evolves session after session. There already is a tracker for XP, for game session, I recall this feature from the overlay for POE1, so is it possible to add this feature to the POE2 overlay?\n\nSome other websites say that they are missing the POE2 API from GGG to do this, however as the overlay has access to additionnal and direct information from the game, isn't it something that could already be done?\n\nThanks for the great tool :)",
-        "timeAgo": "7 hours ago",
-        "comments": [
-            {
-                "body": "Hey there, yes this is something we plan on adding but it's true at the moment we don't have access to this kind of data, these API are still lacking from GGG's side. Thanks for the feedback! ",
-                "timeAgo": "15 minutes ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "Anonymous #20649"
-        },
-        "status": {
-            "name": "Planned"
-        },
-        "voteCount": 1,
-        "commentCount": 1
     },
     "cmezk237p00xrnq4ps7fdzmb1": {
         "id": "cmezk237p00xrnq4ps7fdzmb1",
