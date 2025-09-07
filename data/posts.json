@@ -358,6 +358,36 @@
         "voteCount": 2,
         "commentCount": 1
     },
+    "cm67pek1o00osih2xh7d74mfz": {
+        "id": "cm67pek1o00osih2xh7d74mfz",
+        "title": "[Needs Feedback] Bright/Grey Mode for OLED HDR Displays",
+        "body": "The pure black design of the UI forces OLED HDR displays to dim the screen strongly because the difference between the brightest and most dimmed pixel on the screen has a limit (a pure black pixel, aka a turned off pixel, being the worst lower limit you can have), so the chances for burn-in effects is lessened.\n\nThis is super inconvenient when using PoE Overlay ingame because as soon as you check an item with it the whole screen brightness goes down at least 70 % so there is no burn-in.\n\nPlease add a bright mode, a greyish mode or maybe a transparency slider for the UI background so OLED HDR display users don't need to suffer.",
+        "timeAgo": "2 quarters ago",
+        "comments": [
+            {
+                "body": "Hey @Braintelligence – we hear you! The recent redesign might’ve already improved this a bit. Let us know if it helped with the brightness issue or if it’s still a problem on your end. We’re open to adjusting further if needed.",
+                "timeAgo": "last month",
+                "user": {
+                    "name": "Kyusung"
+                }
+            },
+            {
+                "body": "Hello, I just tried PoE Overlay the first time and I have the same issue. I have an OLED screen and HDR enabled in game and in Windows HDR Settings (no Windows auto HDR, because my god that is so bad, lol). When searching the market or pricing an item, the popup is extremely bright, and the text is all white. When I make a screenshot you can see it should be like the desktop app which has no issues on the same HDR screen. It seems like there is an issue with HDR being applied to the popup with a way too high brightness level because when I made a screenshot I noticed the popup should be the same color as the app. This issue is similar to when content like videos or games do not support HDR, but the screen still has it enabled. On Windows, there's an HDR setting that lets you change brightness on non HDR content when HDR is enabled. That does not work on the popup either, but on all other things, like the desktop app and other apps it does. So I think the reason for this level of brightness is not that it is non HDR content, but that it pretends to be HDR content and then applies a way too high brightness to the text. Maybe the game being run in HDR is forcing its' settings onto the app popup?",
+                "timeAgo": "13 minutes ago",
+                "user": {
+                    "name": "J K"
+                }
+            }
+        ],
+        "user": {
+            "name": "Braintelligence"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 2,
+        "commentCount": 2
+    },
     "clvcm9k4r0147oz33nppdsr4q": {
         "id": "clvcm9k4r0147oz33nppdsr4q",
         "title": "Add skillgems to market from POB view ",
@@ -535,29 +565,6 @@
         },
         "status": {
             "name": "Planned"
-        },
-        "voteCount": 1,
-        "commentCount": 1
-    },
-    "cm67pek1o00osih2xh7d74mfz": {
-        "id": "cm67pek1o00osih2xh7d74mfz",
-        "title": "[Needs Feedback] Bright/Grey Mode for OLED HDR Displays",
-        "body": "The pure black design of the UI forces OLED HDR displays to dim the screen strongly because the difference between the brightest and most dimmed pixel on the screen has a limit (a pure black pixel, aka a turned off pixel, being the worst lower limit you can have), so the chances for burn-in effects is lessened.\n\nThis is super inconvenient when using PoE Overlay ingame because as soon as you check an item with it the whole screen brightness goes down at least 70 % so there is no burn-in.\n\nPlease add a bright mode, a greyish mode or maybe a transparency slider for the UI background so OLED HDR display users don't need to suffer.",
-        "timeAgo": "2 quarters ago",
-        "comments": [
-            {
-                "body": "Hey @Braintelligence – we hear you! The recent redesign might’ve already improved this a bit. Let us know if it helped with the brightness issue or if it’s still a problem on your end. We’re open to adjusting further if needed.",
-                "timeAgo": "12 minutes ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "Braintelligence"
-        },
-        "status": {
-            "name": "Open"
         },
         "voteCount": 1,
         "commentCount": 1
