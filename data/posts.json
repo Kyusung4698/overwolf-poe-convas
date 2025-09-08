@@ -455,6 +455,21 @@
         "voteCount": 2,
         "commentCount": 3
     },
+    "cmfam8wai0089p850vbd1do1f": {
+        "id": "cmfam8wai0089p850vbd1do1f",
+        "title": "POE2 - Improved experience and level-up tracking",
+        "body": "Hi,\n\nAnother feature request for the tracking / data nerds 😊 : could you improve the way experience &amp; level ups are tracked?\n\nPOE Overlay II is already aware of level ups and has exp gain graph (great!), exp required for level up curve (less useful IMHO). Could you add :\n\nMarkers in the exp gain graph to see when the character leveled up\n\nA \"time spent per level\" graph similar to the \"time spent per act\" in the campaign tab? I'm thinking maybe a graph similar to the required exp for level up with levels as x-axis/abscissa and time spent as y-axis/ordinate?\n\nAs always thanks for the great tool :)\n\nBest regards,",
+        "timeAgo": "5 minutes ago",
+        "comments": [],
+        "user": {
+            "name": "Anonymous #20649"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "cmf6hztnd004op850hahlgu98": {
         "id": "cmf6hztnd004op850hahlgu98",
         "title": "Help with commands",
