@@ -455,6 +455,21 @@
         "voteCount": 2,
         "commentCount": 3
     },
+    "cmfukaqyl004inh3j22pnhdzq": {
+        "id": "cmfukaqyl004inh3j22pnhdzq",
+        "title": "Evaluate feature shows different results when using  a controller vs using a KBM",
+        "body": "When using alt-E on a controller, It shows different prices compared to the result when using a keyboard and mouse. Please see below screenshots. These were taken only seconds apart and configured to show results that are listed up to a day ago.\n\n",
+        "timeAgo": "8 minutes ago",
+        "comments": [],
+        "user": {
+            "name": "ernie bigay"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "cmfam8wai0089p850vbd1do1f": {
         "id": "cmfam8wai0089p850vbd1do1f",
         "title": "POE2 - Improved experience and level-up tracking",
