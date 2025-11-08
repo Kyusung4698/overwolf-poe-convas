@@ -21,14 +21,14 @@
             },
             {
                 "body": "What about allowing us to manually import layout files like it works with LabCompass? That would not reduce their ad revenue. I just want to reduce the number of apps I have to use.",
-                "timeAgo": "2 days ago",
+                "timeAgo": "last quarter",
                 "user": {
                     "name": "TheOne320"
                 }
             },
             {
                 "body": "Hmm, yeah good point @TheOne320 — allowing manual import of layout files (like LabCompass does) wouldn’t affect poelab’s traffic, so that could be a nice compromise. It’s definitely low priority, but would be a fun addition if we get the time. Appreciate the follow-up!",
-                "timeAgo": "12 minutes ago",
+                "timeAgo": "last quarter",
                 "user": {
                     "name": "Kyusung"
                 }
@@ -40,7 +40,7 @@
         "status": {
             "name": "Open"
         },
-        "voteCount": 26,
+        "voteCount": 27,
         "commentCount": 4
     },
     "cktsbp2f547461map1rrkovz8d": {
@@ -133,6 +133,21 @@
         "voteCount": 6,
         "commentCount": 0
     },
+    "cln80qjnz00rjsr29wbskp68b": {
+        "id": "cln80qjnz00rjsr29wbskp68b",
+        "title": "Option to look up timeless jewel only by seed",
+        "body": "Please add an option when looking up timeless jewels to search for that specific seed number with any possible name (Kaom/Rakiata/etc).\n\n\nMany timeless jewels have value based on the seed alone regardless of the changed keystone passive as you only care about the stats added to the notable passives and don't pick up the keystone.\n\nBasically this search:\nhttps://www.pathofexile.com/trade/search/Ancestor/2GgP3Gjfk\n\nInstead of this default one:\nhttps://www.pathofexile.com/trade/search/Ancestor/gmlkay6UQ",
+        "timeAgo": "2 years ago",
+        "comments": [],
+        "user": {
+            "name": "Ingvar Pálmarsson"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 5,
+        "commentCount": 0
+    },
     "clgj1nu3i09feoj20jv6j2bdp": {
         "id": "clgj1nu3i09feoj20jv6j2bdp",
         "title": "divine price placeholder for messages",
@@ -185,20 +200,65 @@
         "voteCount": 4,
         "commentCount": 3
     },
-    "cln80qjnz00rjsr29wbskp68b": {
-        "id": "cln80qjnz00rjsr29wbskp68b",
-        "title": "Option to look up timeless jewel only by seed",
-        "body": "Please add an option when looking up timeless jewels to search for that specific seed number with any possible name (Kaom/Rakiata/etc).\n\n\nMany timeless jewels have value based on the seed alone regardless of the changed keystone passive as you only care about the stats added to the notable passives and don't pick up the keystone.\n\nBasically this search:\nhttps://www.pathofexile.com/trade/search/Ancestor/2GgP3Gjfk\n\nInstead of this default one:\nhttps://www.pathofexile.com/trade/search/Ancestor/gmlkay6UQ",
-        "timeAgo": "2 years ago",
-        "comments": [],
+    "clz8qqdqt00n1mg2y23xa5i0j": {
+        "id": "clz8qqdqt00n1mg2y23xa5i0j",
+        "title": "[Low Priority] Mouse Hover Item Overlay in Builds Tab",
+        "body": "in the POB website, when you hover your mouse on an item/gem, it displays what the item looks like, where it can be aquired etc.. in the poe overlay application, that does not happen making new players (like me) require to have either both the application and the website open, or, to discard the application and only use the pob website. \n\nnote: this is a suggestion for the [builds] tab, just to clear any possible confusion.\n\n(and since im already making this feature suggestion, the link to the wiki like its displayed in the lower right corner would be pretty nice).",
+        "timeAgo": "last year",
+        "comments": [
+            {
+                "body": "Hey @TheDarling – thanks for the clear suggestion! Totally agree this would be a nice QoL, especially for newer players. It’s low priority for now, but definitely something we’d like to improve in the builds tab down the line.",
+                "timeAgo": "last quarter",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
-            "name": "Ingvar Pálmarsson"
+            "name": "TheDarling"
         },
         "status": {
             "name": "Open"
         },
         "voteCount": 4,
-        "commentCount": 0
+        "commentCount": 1
+    },
+    "clbwklgie00spk91ya5ov0c1x": {
+        "id": "clbwklgie00spk91ya5ov0c1x",
+        "title": "Ability to save and share settings",
+        "body": "It would be great to be able to save and share settings for Evaluate (or anything else). \n\nI am a fan of the new (2 leagues ago) default search settings but I still have several things that I change every time those settings all get reset. I have some friends who also use PoE Overlay and I would like to easily share those settings. ",
+        "timeAgo": "3 years ago",
+        "comments": [
+            {
+                "body": "That's a great idea! I think my only concern is, how we can prevent importing settings from older/newer version(s), may cause some issues if the data structure now longer fits.\nWould this still work for you if you could only import settings from a specific version?",
+                "timeAgo": "3 years ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            },
+            {
+                "body": "yes, though my hope is to not have settings entirely reset when the data structure changes. Some aspects don't change (from user perspective) for things like evaluate settings, keybinds and the like. Much easier said than done. \nBut sharing would make it so only one person in a group would need to update all the settings again. Maybe If it is a popular feature, then you could have a way to import from a list of people",
+                "timeAgo": "3 years ago",
+                "user": {
+                    "name": "Anonymous #7275"
+                }
+            },
+            {
+                "body": "so? did anything change for past 2 years?\nany options to import-export setting?\nat least manually, by file copy?",
+                "timeAgo": "4 quarters ago",
+                "user": {
+                    "name": "Stas Gunin"
+                }
+            }
+        ],
+        "user": {
+            "name": "Subutai"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 4,
+        "commentCount": 3
     },
     "cm67pek1o00osih2xh7d74mfz": {
         "id": "cm67pek1o00osih2xh7d74mfz",
@@ -229,29 +289,6 @@
         },
         "voteCount": 3,
         "commentCount": 2
-    },
-    "clz8qqdqt00n1mg2y23xa5i0j": {
-        "id": "clz8qqdqt00n1mg2y23xa5i0j",
-        "title": "[Low Priority] Mouse Hover Item Overlay in Builds Tab",
-        "body": "in the POB website, when you hover your mouse on an item/gem, it displays what the item looks like, where it can be aquired etc.. in the poe overlay application, that does not happen making new players (like me) require to have either both the application and the website open, or, to discard the application and only use the pob website. \n\nnote: this is a suggestion for the [builds] tab, just to clear any possible confusion.\n\n(and since im already making this feature suggestion, the link to the wiki like its displayed in the lower right corner would be pretty nice).",
-        "timeAgo": "last year",
-        "comments": [
-            {
-                "body": "Hey @TheDarling – thanks for the clear suggestion! Totally agree this would be a nice QoL, especially for newer players. It’s low priority for now, but definitely something we’d like to improve in the builds tab down the line.",
-                "timeAgo": "17 minutes ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "TheDarling"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 3,
-        "commentCount": 1
     },
     "clx28c9mo00o5sh2ftbmqecry": {
         "id": "clx28c9mo00o5sh2ftbmqecry",
@@ -290,43 +327,6 @@
         },
         "voteCount": 3,
         "commentCount": 0
-    },
-    "clbwklgie00spk91ya5ov0c1x": {
-        "id": "clbwklgie00spk91ya5ov0c1x",
-        "title": "Ability to save and share settings",
-        "body": "It would be great to be able to save and share settings for Evaluate (or anything else). \n\nI am a fan of the new (2 leagues ago) default search settings but I still have several things that I change every time those settings all get reset. I have some friends who also use PoE Overlay and I would like to easily share those settings. ",
-        "timeAgo": "2 years ago",
-        "comments": [
-            {
-                "body": "That's a great idea! I think my only concern is, how we can prevent importing settings from older/newer version(s), may cause some issues if the data structure now longer fits.\nWould this still work for you if you could only import settings from a specific version?",
-                "timeAgo": "2 years ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            },
-            {
-                "body": "yes, though my hope is to not have settings entirely reset when the data structure changes. Some aspects don't change (from user perspective) for things like evaluate settings, keybinds and the like. Much easier said than done. \nBut sharing would make it so only one person in a group would need to update all the settings again. Maybe If it is a popular feature, then you could have a way to import from a list of people",
-                "timeAgo": "2 years ago",
-                "user": {
-                    "name": "Anonymous #7275"
-                }
-            },
-            {
-                "body": "so? did anything change for past 2 years?\nany options to import-export setting?\nat least manually, by file copy?",
-                "timeAgo": "7 minutes ago",
-                "user": {
-                    "name": "Stas Gunin"
-                }
-            }
-        ],
-        "user": {
-            "name": "Subutai"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 3,
-        "commentCount": 3
     },
     "cl7b0se3776455824q39vrnjbgl": {
         "id": "cl7b0se3776455824q39vrnjbgl",
@@ -388,6 +388,52 @@
         "voteCount": 2,
         "commentCount": 1
     },
+    "cm634z3sw00keih2xin1s4p5v": {
+        "id": "cm634z3sw00keih2xin1s4p5v",
+        "title": "[Planned] Different Notification Sounds by Trade Value",
+        "body": "Not really a necessary feature but a fun feature - would be cool to add different sounds depending on the received value of the trade offer.",
+        "timeAgo": "3 quarters ago",
+        "comments": [
+            {
+                "body": "Hey @A P – fun idea, and we actually have something like this for PoE1 already! It’s likely we’ll bring it over to PoE2 in the future. Appreciate the suggestion!",
+                "timeAgo": "last quarter",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
+        "user": {
+            "name": "A P"
+        },
+        "status": {
+            "name": "Planned"
+        },
+        "voteCount": 2,
+        "commentCount": 1
+    },
+    "cm62vh4bo00k4ih2xw88u51pv": {
+        "id": "cm62vh4bo00k4ih2xw88u51pv",
+        "title": "[Planned] Reset All Hotkeys to Default",
+        "body": "Please add a button to the settings that allows you to reset all hotkeys to their default values.",
+        "timeAgo": "3 quarters ago",
+        "comments": [
+            {
+                "body": "Hey @TheOne320 – yup, this is planned! We’ll be adding a reset-to-defaults option for hotkeys in a future update. Thanks for the suggestion!",
+                "timeAgo": "last quarter",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
+        "user": {
+            "name": "TheOne320"
+        },
+        "status": {
+            "name": "Planned"
+        },
+        "voteCount": 2,
+        "commentCount": 1
+    },
     "clvcm9k4r0147oz33nppdsr4q": {
         "id": "clvcm9k4r0147oz33nppdsr4q",
         "title": "Add skillgems to market from POB view ",
@@ -402,6 +448,29 @@
         },
         "voteCount": 2,
         "commentCount": 0
+    },
+    "clpynh65f006uis26b8xsujpo": {
+        "id": "clpynh65f006uis26b8xsujpo",
+        "title": "[Planned] Price Check Sanctum Runs",
+        "body": "Please implement price checking started Sanctum runs. The mods are all there in the Advanced Mod Descriptions.",
+        "timeAgo": "2 years ago",
+        "comments": [
+            {
+                "body": "Hey @TheOne320 – agreed this would be useful, but there are a few challenges with parsing those mods cleanly. We’ll take another look once we revisit the item parser. It’s on the radar!",
+                "timeAgo": "last quarter",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
+        "user": {
+            "name": "TheOne320"
+        },
+        "status": {
+            "name": "Planned"
+        },
+        "voteCount": 2,
+        "commentCount": 1
     },
     "clmwd4pav001asr29gbxm0nvd": {
         "id": "clmwd4pav001asr29gbxm0nvd",
@@ -614,52 +683,6 @@
         "voteCount": 1,
         "commentCount": 1
     },
-    "cm634z3sw00keih2xin1s4p5v": {
-        "id": "cm634z3sw00keih2xin1s4p5v",
-        "title": "[Planned] Different Notification Sounds by Trade Value",
-        "body": "Not really a necessary feature but a fun feature - would be cool to add different sounds depending on the received value of the trade offer.",
-        "timeAgo": "2 quarters ago",
-        "comments": [
-            {
-                "body": "Hey @A P – fun idea, and we actually have something like this for PoE1 already! It’s likely we’ll bring it over to PoE2 in the future. Appreciate the suggestion!",
-                "timeAgo": "10 minutes ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "A P"
-        },
-        "status": {
-            "name": "Planned"
-        },
-        "voteCount": 1,
-        "commentCount": 1
-    },
-    "cm62vh4bo00k4ih2xw88u51pv": {
-        "id": "cm62vh4bo00k4ih2xw88u51pv",
-        "title": "[Planned] Reset All Hotkeys to Default",
-        "body": "Please add a button to the settings that allows you to reset all hotkeys to their default values.",
-        "timeAgo": "2 quarters ago",
-        "comments": [
-            {
-                "body": "Hey @TheOne320 – yup, this is planned! We’ll be adding a reset-to-defaults option for hotkeys in a future update. Thanks for the suggestion!",
-                "timeAgo": "16 minutes ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "TheOne320"
-        },
-        "status": {
-            "name": "Planned"
-        },
-        "voteCount": 1,
-        "commentCount": 1
-    },
     "cm5jpjyt7004rri2y55yhkq72": {
         "id": "cm5jpjyt7004rri2y55yhkq72",
         "title": "[Needs Feedback] Market Overlay Resize & Filter Separation",
@@ -773,29 +796,6 @@
         },
         "voteCount": 1,
         "commentCount": 2
-    },
-    "clpynh65f006uis26b8xsujpo": {
-        "id": "clpynh65f006uis26b8xsujpo",
-        "title": "[Planned] Price Check Sanctum Runs",
-        "body": "Please implement price checking started Sanctum runs. The mods are all there in the Advanced Mod Descriptions.",
-        "timeAgo": "2 years ago",
-        "comments": [
-            {
-                "body": "Hey @TheOne320 – agreed this would be useful, but there are a few challenges with parsing those mods cleanly. We’ll take another look once we revisit the item parser. It’s on the radar!",
-                "timeAgo": "14 minutes ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "TheOne320"
-        },
-        "status": {
-            "name": "Planned"
-        },
-        "voteCount": 1,
-        "commentCount": 1
     },
     "cl2udd62a855152yo947oig1nn": {
         "id": "cl2udd62a855152yo947oig1nn",
