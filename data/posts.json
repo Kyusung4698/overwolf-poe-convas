@@ -388,6 +388,29 @@
         "voteCount": 2,
         "commentCount": 1
     },
+    "cmcbqmm6e0018of4ow3xvw34i": {
+        "id": "cmcbqmm6e0018of4ow3xvw34i",
+        "title": "[Planned] Path of Building 2 Support",
+        "body": "Support for builds in POE2 Overlay like POE1 supports path of building to compare equipment and stats etc",
+        "timeAgo": "2 quarters ago",
+        "comments": [
+            {
+                "body": "Hey @Matthew Currie – yep, this is planned! We’ll add PoB2 support once it’s a bit more stable. Definitely on the roadmap. Thanks for the suggestion!",
+                "timeAgo": "last quarter",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
+        "user": {
+            "name": "Matthew Currie (Joop)"
+        },
+        "status": {
+            "name": "Planned"
+        },
+        "voteCount": 2,
+        "commentCount": 1
+    },
     "cm634z3sw00keih2xin1s4p5v": {
         "id": "cm634z3sw00keih2xin1s4p5v",
         "title": "[Planned] Different Notification Sounds by Trade Value",
@@ -671,29 +694,6 @@
         },
         "status": {
             "name": "Open"
-        },
-        "voteCount": 1,
-        "commentCount": 1
-    },
-    "cmcbqmm6e0018of4ow3xvw34i": {
-        "id": "cmcbqmm6e0018of4ow3xvw34i",
-        "title": "[Planned] Path of Building 2 Support",
-        "body": "Support for builds in POE2 Overlay like POE1 supports path of building to compare equipment and stats etc",
-        "timeAgo": "2 months ago",
-        "comments": [
-            {
-                "body": "Hey @Matthew Currie – yep, this is planned! We’ll add PoB2 support once it’s a bit more stable. Definitely on the roadmap. Thanks for the suggestion!",
-                "timeAgo": "5 minutes ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "Matthew Currie (Joop)"
-        },
-        "status": {
-            "name": "Planned"
         },
         "voteCount": 1,
         "commentCount": 1
