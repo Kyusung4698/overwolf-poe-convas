@@ -547,6 +547,21 @@
         "voteCount": 2,
         "commentCount": 3
     },
+    "cmjpb465100unmp30wjxerv8i": {
+        "id": "cmjpb465100unmp30wjxerv8i",
+        "title": "issue with mouse pointer",
+        "body": "having an issue where when i open the ingame overlay for price checking the mouse doesnt align with the over lay everything is off",
+        "timeAgo": "17 minutes ago",
+        "comments": [],
+        "user": {
+            "name": "Alex Bach"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "cminr9y0a0157mq31muzalu23": {
         "id": "cminr9y0a0157mq31muzalu23",
         "title": "POE2 currency tab worth tracker",
