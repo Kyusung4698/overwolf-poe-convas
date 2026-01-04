@@ -547,6 +547,21 @@
         "voteCount": 2,
         "commentCount": 3
     },
+    "cmk09d20l00yvmp3066f4jjye": {
+        "id": "cmk09d20l00yvmp3066f4jjye",
+        "title": "Weighted sum for gain as extra damage",
+        "body": "Similar to the existing weighted sum for ele/phys dmg to attacks.\n\nWand/Staff price checking would be much more QOL\n\nExample:\n\n\n",
+        "timeAgo": "2 seconds ago",
+        "comments": [],
+        "user": {
+            "name": "Anonymous #21009"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "cmjpb465100unmp30wjxerv8i": {
         "id": "cmjpb465100unmp30wjxerv8i",
         "title": "issue with mouse pointer",
