@@ -547,6 +547,21 @@
         "voteCount": 2,
         "commentCount": 3
     },
+    "cmkzxjwnn0007p33icab8zg8v": {
+        "id": "cmkzxjwnn0007p33icab8zg8v",
+        "title": "Please add pherica as supported league type",
+        "body": "As per title",
+        "timeAgo": "12 minutes ago",
+        "comments": [],
+        "user": {
+            "name": "korcsogb"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "cmk09d20l00yvmp3066f4jjye": {
         "id": "cmk09d20l00yvmp3066f4jjye",
         "title": "Weighted sum for gain as extra damage",
