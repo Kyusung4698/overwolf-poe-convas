@@ -551,8 +551,16 @@
         "id": "cmkzxjwnn0007p33icab8zg8v",
         "title": "Please add pherica as supported league type",
         "body": "As per title",
-        "timeAgo": "12 minutes ago",
-        "comments": [],
+        "timeAgo": "37 minutes ago",
+        "comments": [
+            {
+                "body": "Make sure to link your character API and poe session in the app settings if the league selector is not showing it.",
+                "timeAgo": "5 minutes ago",
+                "user": {
+                    "name": "Anonymous #7671"
+                }
+            }
+        ],
         "user": {
             "name": "korcsogb"
         },
@@ -560,7 +568,7 @@
             "name": "Open"
         },
         "voteCount": 1,
-        "commentCount": 0
+        "commentCount": 1
     },
     "cmk09d20l00yvmp3066f4jjye": {
         "id": "cmk09d20l00yvmp3066f4jjye",
