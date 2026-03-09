@@ -290,6 +290,29 @@
         "voteCount": 3,
         "commentCount": 2
     },
+    "cm62vh4bo00k4ih2xw88u51pv": {
+        "id": "cm62vh4bo00k4ih2xw88u51pv",
+        "title": "[Planned] Reset All Hotkeys to Default",
+        "body": "Please add a button to the settings that allows you to reset all hotkeys to their default values.",
+        "timeAgo": "last year",
+        "comments": [
+            {
+                "body": "Hey @TheOne320 – yup, this is planned! We’ll be adding a reset-to-defaults option for hotkeys in a future update. Thanks for the suggestion!",
+                "timeAgo": "2 quarters ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
+        "user": {
+            "name": "TheOne320"
+        },
+        "status": {
+            "name": "Planned"
+        },
+        "voteCount": 3,
+        "commentCount": 1
+    },
     "clx28c9mo00o5sh2ftbmqecry": {
         "id": "clx28c9mo00o5sh2ftbmqecry",
         "title": "[Low Priority] Option to Disable poeprice.info on Alt+D",
@@ -427,29 +450,6 @@
         ],
         "user": {
             "name": "A P"
-        },
-        "status": {
-            "name": "Planned"
-        },
-        "voteCount": 2,
-        "commentCount": 1
-    },
-    "cm62vh4bo00k4ih2xw88u51pv": {
-        "id": "cm62vh4bo00k4ih2xw88u51pv",
-        "title": "[Planned] Reset All Hotkeys to Default",
-        "body": "Please add a button to the settings that allows you to reset all hotkeys to their default values.",
-        "timeAgo": "3 quarters ago",
-        "comments": [
-            {
-                "body": "Hey @TheOne320 – yup, this is planned! We’ll be adding a reset-to-defaults option for hotkeys in a future update. Thanks for the suggestion!",
-                "timeAgo": "last quarter",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "TheOne320"
         },
         "status": {
             "name": "Planned"
