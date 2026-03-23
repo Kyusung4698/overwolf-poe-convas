@@ -551,13 +551,20 @@
         "id": "cmn1dhgu80028lf3kcphj8pfi",
         "title": "stash tracker / dust values",
         "body": "last league there was dust values of uniques and now its gone",
-        "timeAgo": "9 hours ago",
+        "timeAgo": "yesterday",
         "comments": [
             {
                 "body": "It's limited to uniques only.",
-                "timeAgo": "10 minutes ago",
+                "timeAgo": "yesterday",
                 "user": {
                     "name": "Anonymous #7671"
+                }
+            },
+            {
+                "body": " i know its limited to uniques only but in keeper's league when you track a tab that had uniques in it there was a dust value next to the unit/total values.",
+                "timeAgo": "12 minutes ago",
+                "user": {
+                    "name": "Peter Pham"
                 }
             }
         ],
@@ -568,7 +575,7 @@
             "name": "Open"
         },
         "voteCount": 1,
-        "commentCount": 1
+        "commentCount": 2
     },
     "cmkzxjwnn0007p33icab8zg8v": {
         "id": "cmkzxjwnn0007p33icab8zg8v",
