@@ -388,6 +388,29 @@
         "voteCount": 3,
         "commentCount": 3
     },
+    "cmplg2xvf01caow3jcgkxkedh": {
+        "id": "cmplg2xvf01caow3jcgkxkedh",
+        "title": "Add League Reward to Campaign guide",
+        "body": "https://mobalytics.gg/poe-2/profile/guythatdies/guides/0-4-league-mechanic-reward-cheat-sheet \nhere is cheat sheet",
+        "timeAgo": "yesterday",
+        "comments": [
+            {
+                "body": "Yes, this would be a great addition, if the rewards don't change, there are a lot of useful things there and it's worth looking for them on some maps.",
+                "timeAgo": "1 hour ago",
+                "user": {
+                    "name": "Андріан"
+                }
+            }
+        ],
+        "user": {
+            "name": "keevo"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 2,
+        "commentCount": 1
+    },
     "cmf537wlk0039p850ok4c2qe6": {
         "id": "cmf537wlk0039p850ok4c2qe6",
         "title": "[Planned] POE2 - Track currency par session / wealth evolution",
@@ -546,21 +569,6 @@
         },
         "voteCount": 2,
         "commentCount": 3
-    },
-    "cmplg2xvf01caow3jcgkxkedh": {
-        "id": "cmplg2xvf01caow3jcgkxkedh",
-        "title": "Add League Reward to Campaign guide",
-        "body": "https://mobalytics.gg/poe-2/profile/guythatdies/guides/0-4-league-mechanic-reward-cheat-sheet \nhere is cheat sheet",
-        "timeAgo": "24 minutes ago",
-        "comments": [],
-        "user": {
-            "name": "keevo"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
-        "commentCount": 0
     },
     "cmnw7q4f5002fqd31t8zod4kc": {
         "id": "cmnw7q4f5002fqd31t8zod4kc",
