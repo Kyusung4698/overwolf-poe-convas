@@ -148,14 +148,14 @@
             },
             {
                 "body": "Can you potentially add a facility to copy the MAP modifiers to track with a hot key, before you slot it into the map device. Then track if you complete or die in the map. \nThen keep stats of success and failed attributes and maps.",
-                "timeAgo": "4 quarters ago",
+                "timeAgo": "last year",
                 "user": {
                     "name": "L.POE2"
                 }
             },
             {
                 "body": "Hey @L.POE2 – tracking deaths and the map tier sounds doable and definitely interesting for stat nerds 😄 We’ll look into adding this. Tracking map mods might be a bit out of range for now, but we appreciate the suggestion!",
-                "timeAgo": "2 quarters ago",
+                "timeAgo": "3 quarters ago",
                 "user": {
                     "name": "Kyusung"
                 }
@@ -167,7 +167,7 @@
         "status": {
             "name": "Planned"
         },
-        "voteCount": 5,
+        "voteCount": 6,
         "commentCount": 3
     },
     "cln80qjnz00rjsr29wbskp68b": {
