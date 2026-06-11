@@ -547,6 +547,21 @@
         "voteCount": 2,
         "commentCount": 3
     },
+    "cmq9yq2bz02asow3j02ylmzij": {
+        "id": "cmq9yq2bz02asow3j02ylmzij",
+        "title": "Stash Tracker Custom name",
+        "body": "Possibility to custom the name of the stash in game for stash tracker. instead of the basic \"price 1 waystone\"",
+        "timeAgo": "26 minutes ago",
+        "comments": [],
+        "user": {
+            "name": "FreZy WarZ"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "cmq8f3a38025sow3jk854fvwm": {
         "id": "cmq8f3a38025sow3jk854fvwm",
         "title": "Divine orb per hour",
