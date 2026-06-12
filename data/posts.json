@@ -95,29 +95,6 @@
         "voteCount": 11,
         "commentCount": 3
     },
-    "cm03d2x0k01vimg2yh0b5n07t": {
-        "id": "cm03d2x0k01vimg2yh0b5n07t",
-        "title": "multiple monitor overlay on top of game",
-        "body": "i would really like to have the f9 overlay ingame while having two monitors. this way i would not have to use alt-tab to get to f9 menu. I suggest adding an option for that to override two monitors detection",
-        "timeAgo": "4 quarters ago",
-        "comments": [
-            {
-                "body": "to reiterate, there should be \noption\n to disable multi-monitor detection, so that the whole poe overlay can be inside the game even when having two monitors",
-                "timeAgo": "4 quarters ago",
-                "user": {
-                    "name": "Tellegar"
-                }
-            }
-        ],
-        "user": {
-            "name": "Tellegar"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 11,
-        "commentCount": 1
-    },
     "cluy6sk1100a5oz33r58dl6n6": {
         "id": "cluy6sk1100a5oz33r58dl6n6",
         "title": "Divine orb breakdown for change calculation",
@@ -313,29 +290,6 @@
         "voteCount": 3,
         "commentCount": 1
     },
-    "clx28c9mo00o5sh2ftbmqecry": {
-        "id": "clx28c9mo00o5sh2ftbmqecry",
-        "title": "[Low Priority] Option to Disable poeprice.info on Alt+D",
-        "body": "please can you make an option on disable poeprice.info when we use alt+D please  ? \n\nthanks ",
-        "timeAgo": "last year",
-        "comments": [
-            {
-                "body": "Hey @Marc Vandenabeele – yep, makes sense! Low priority for now, but we’ll look into adding an option to disable \npoeprice.info\n for Alt+D in a future update. Thanks for the suggestion!",
-                "timeAgo": "12 minutes ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "Marc Vandenabeele"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 3,
-        "commentCount": 1
-    },
     "cldwjl4nz00p4ml1rxhi7ts4z": {
         "id": "cldwjl4nz00p4ml1rxhi7ts4z",
         "title": "Parse specific veiled mods",
@@ -387,29 +341,6 @@
         },
         "voteCount": 3,
         "commentCount": 3
-    },
-    "cmf537wlk0039p850ok4c2qe6": {
-        "id": "cmf537wlk0039p850ok4c2qe6",
-        "title": "[Planned] POE2 - Track currency par session / wealth evolution",
-        "body": "Hello,\n\nI would love to be able to see in POE2 via the overlay how my wealth evolves session after session. There already is a tracker for XP, for game session, I recall this feature from the overlay for POE1, so is it possible to add this feature to the POE2 overlay?\n\nSome other websites say that they are missing the POE2 API from GGG to do this, however as the overlay has access to additionnal and direct information from the game, isn't it something that could already be done?\n\nThanks for the great tool :)",
-        "timeAgo": "2 days ago",
-        "comments": [
-            {
-                "body": "Hey there, yes this is something we plan on adding but it's true at the moment we don't have access to this kind of data, these API are still lacking from GGG's side. Thanks for the feedback! ",
-                "timeAgo": "2 days ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "Anonymous #20649"
-        },
-        "status": {
-            "name": "Planned"
-        },
-        "voteCount": 2,
-        "commentCount": 1
     },
     "cmcbqmm6e0018of4ow3xvw34i": {
         "id": "cmcbqmm6e0018of4ow3xvw34i",
@@ -547,32 +478,24 @@
         "voteCount": 2,
         "commentCount": 3
     },
-    "cmq9yq2bz02asow3j02ylmzij": {
-        "id": "cmq9yq2bz02asow3j02ylmzij",
-        "title": "Stash Tracker Custom name",
-        "body": "Possibility to custom the name of the stash in game for stash tracker. instead of the basic \"price 1 waystone\"",
-        "timeAgo": "26 minutes ago",
-        "comments": [],
-        "user": {
-            "name": "FreZy WarZ"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
-        "commentCount": 0
-    },
     "cmq8f3a38025sow3jk854fvwm": {
         "id": "cmq8f3a38025sow3jk854fvwm",
         "title": "Divine orb per hour",
         "body": "You can add an option to calculate how much divines per hour you can produce from items, currency, maps, and all you can take from drop",
-        "timeAgo": "47 minutes ago",
+        "timeAgo": "2 days ago",
         "comments": [
             {
                 "body": "Like etor for torchlight infinite",
-                "timeAgo": "19 minutes ago",
+                "timeAgo": "2 days ago",
                 "user": {
                     "name": "Anonymous #21554"
+                }
+            },
+            {
+                "body": "We can add divine per hour but the rest would require a lot more data from the game which we do not have. Thanks for the feedback!",
+                "timeAgo": "55 minutes ago",
+                "user": {
+                    "name": "Kyusung"
                 }
             }
         ],
@@ -580,10 +503,10 @@
             "name": "Anonymous #21554"
         },
         "status": {
-            "name": "Open"
+            "name": "Planned"
         },
         "voteCount": 1,
-        "commentCount": 1
+        "commentCount": 2
     },
     "cmq7u31gc023yow3jgb99phuv": {
         "id": "cmq7u31gc023yow3jgb99phuv",
@@ -604,8 +527,16 @@
         "id": "cmq7codhx023kow3jbdap0ufw",
         "title": "how to change the page to simplify chinese or traditional chinese",
         "body": "with the currency page, i recalled it can translated to chinese, however, after one update, it back to english, can you guys advise me how to amend the set up and make it become Chinese again? ",
-        "timeAgo": "53 minutes ago",
-        "comments": [],
+        "timeAgo": "2 days ago",
+        "comments": [
+            {
+                "body": "The app displays the content based on the game client language. Try evaluating (alt+e)/inspecting (alt+q) an item, it will let the app know the clients' language. ",
+                "timeAgo": "57 minutes ago",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
         "user": {
             "name": "韦力棋"
         },
@@ -613,7 +544,7 @@
             "name": "Open"
         },
         "voteCount": 1,
-        "commentCount": 0
+        "commentCount": 1
     },
     "cmnw7q4f5002fqd31t8zod4kc": {
         "id": "cmnw7q4f5002fqd31t8zod4kc",
@@ -675,29 +606,6 @@
         "voteCount": 1,
         "commentCount": 2
     },
-    "cmkzxjwnn0007p33icab8zg8v": {
-        "id": "cmkzxjwnn0007p33icab8zg8v",
-        "title": "Please add pherica as supported league type",
-        "body": "As per title",
-        "timeAgo": "37 minutes ago",
-        "comments": [
-            {
-                "body": "Make sure to link your character API and poe session in the app settings if the league selector is not showing it.",
-                "timeAgo": "5 minutes ago",
-                "user": {
-                    "name": "Anonymous #7671"
-                }
-            }
-        ],
-        "user": {
-            "name": "korcsogb"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
-        "commentCount": 1
-    },
     "cmk09d20l00yvmp3066f4jjye": {
         "id": "cmk09d20l00yvmp3066f4jjye",
         "title": "Weighted sum for gain as extra damage",
@@ -721,36 +629,6 @@
         "comments": [],
         "user": {
             "name": "Alex Bach"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
-        "commentCount": 0
-    },
-    "cminr9y0a0157mq31muzalu23": {
-        "id": "cminr9y0a0157mq31muzalu23",
-        "title": "POE2 currency tab worth tracker",
-        "body": "Can we get similar to POE1 currency tab worth tracker in POE2? ",
-        "timeAgo": "23 minutes ago",
-        "comments": [],
-        "user": {
-            "name": "Bartosz Małysz"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
-        "commentCount": 0
-    },
-    "cmh5iokm3016fm13jgjev2z5z": {
-        "id": "cmh5iokm3016fm13jgjev2z5z",
-        "title": "Support Mod T17",
-        "body": "In memory origin maps, it is some like t17 maps, and the inspect not support t17 mods",
-        "timeAgo": "7 minutes ago",
-        "comments": [],
-        "user": {
-            "name": "Anthony Martin Rosas Quispe"
         },
         "status": {
             "name": "Open"
@@ -787,97 +665,6 @@
         },
         "voteCount": 1,
         "commentCount": 0
-    },
-    "cmf6hztnd004op850hahlgu98": {
-        "id": "cmf6hztnd004op850hahlgu98",
-        "title": "Help with commands",
-        "body": "I would like to know how I can configure the commands, for example, /hideout",
-        "timeAgo": "7 hours ago",
-        "comments": [
-            {
-                "body": "Hi, you can configure commands in the main part of the app > preferences > chat & commands. Let us know if there is something specific you get stuck on. Here is a screenshot: ",
-                "timeAgo": "5 minutes ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "Gt Battlegrounds"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
-        "commentCount": 1
-    },
-    "cmf6dprg5004ep850egre1r6y": {
-        "id": "cmf6dprg5004ep850egre1r6y",
-        "title": "The overlay in game looks like overexposed",
-        "body": "Just like in this image, the colors appear overexposed. At first, I thought it was because I had HDR enabled, but the issue persists even after turning HDR off. Moreover, this problem only occurs with the in-game overlay interface—the main software interface looks completely normal. I'm wondering what could be causing this issue.",
-        "timeAgo": "11 hours ago",
-        "comments": [
-            {
-                "body": "Have you tried disabling HDR and restarting the game? Usually HDR is the main culprit for those kind of issues. Also is this the Standalone or Overwolf version? ",
-                "timeAgo": "2 hours ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            },
-            {
-                "body": " Yes you're right, after I turned off HDR and restarted the game, this issue didn't occur. But the colors displayed on my monitor are incorrect when HDR is not enabled. So, I'm wondering if there is a way to resolve this problem. And I am currently using the Standalone version, and I didn't encounter this issue last season when I was using the Overwolf version, and I prefer to use Standalone version.",
-                "timeAgo": "12 minutes ago",
-                "user": {
-                    "name": "Raz Zer"
-                }
-            }
-        ],
-        "user": {
-            "name": "Raz Zer"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
-        "commentCount": 2
-    },
-    "cmezk237p00xrnq4ps7fdzmb1": {
-        "id": "cmezk237p00xrnq4ps7fdzmb1",
-        "title": "Evaluate needs a toggle to enable searching of unmodifieable/semimodifieable items",
-        "body": "I am trying to check how much my armor is worth. However the evaluation always excludes mirrored or split items, and even corrupted ones.\n\nThe problem is that most high end chests will be split, so the results here are only three and barely relevant.\n\nTo see all the real results for similar armors I would need to be able to turn off the split/mirrored/corrupted for at least this search, if not by default in options.\n\nThe filters on the right could have at the end a few toggles for \"include split/mirrored/corrupted\".\n\n",
-        "timeAgo": "5 minutes ago",
-        "comments": [],
-        "user": {
-            "name": "Marino Šimić"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
-        "commentCount": 0
-    },
-    "cmezjogv400xhnq4pcoajxn18": {
-        "id": "cmezjogv400xhnq4pcoajxn18",
-        "title": "[Bug] Zoom is not applied to newly opened overlay windows",
-        "body": "I have a 4K screen and use high DPI, so the overlays are too small for me.\n\nI have set up 120% zoom in options. This looks fine. However every time I close and reopen the settings window it is small again. The zoom setting is retained but not applied. I then decrease it by 1% and oncrease back to apply the correct settings.\n\nCan this be fixed please?\n\nThis is how my settings window opens from the market window. (see market is correctly scaled, but settings small, even tho the setting is at 120%):\n\n",
-        "timeAgo": "4 days ago",
-        "comments": [
-            {
-                "body": "Hi there, thanks for the feedback, that does look like a bug, we'll check. Could you tell me if this is the Standalone or Overwolf version? If it's either could you try the other one and see if it applies the zoom correctly? ",
-                "timeAgo": "11 minutes ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "Marino Šimić"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 1,
-        "commentCount": 1
     },
     "cm5jpjyt7004rri2y55yhkq72": {
         "id": "cm5jpjyt7004rri2y55yhkq72",
