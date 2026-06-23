@@ -478,6 +478,21 @@
         "voteCount": 2,
         "commentCount": 3
     },
+    "cmqqw5nuj02opow3jco7nengq": {
+        "id": "cmqqw5nuj02opow3jco7nengq",
+        "title": "Deactive opening windows of overlay when starting game",
+        "body": "Always when I open or close the game, the poe overlay windows always opens, when the game crashes, I get back in, fighting, suddenly window comes up, cant play have to close first, risk of dying insanely high. Why cant this overlay stay in the background?",
+        "timeAgo": "4 minutes ago",
+        "comments": [],
+        "user": {
+            "name": "Thomas Heinke"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "cmq8f3a38025sow3jk854fvwm": {
         "id": "cmq8f3a38025sow3jk854fvwm",
         "title": "Divine orb per hour",
