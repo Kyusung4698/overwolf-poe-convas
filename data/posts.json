@@ -478,6 +478,21 @@
         "voteCount": 2,
         "commentCount": 3
     },
+    "cmqu1gozn02ssow3jur6tu96t": {
+        "id": "cmqu1gozn02ssow3jur6tu96t",
+        "title": "Feature request: Portrait/vertical monitor support + collapsible parameters",
+        "body": "Hi team,\n\nReally enjoy the overlay overall, but I've run into an issue significant enough that it's currently a deal-breaker for me on a portrait/vertical monitor setup.\n\nThe problem:\nOn a vertical monitor, the limited width gets eaten up by elements (including ads) positioned where they overlap or crowd out the data I actually need to see quickly. Fast access to relevant info is the whole point of an overlay, and right now that's getting lost. (Screenshot attached showing ads overlapping the data area.)\n\nSuggested fixes:\n\nPortrait/vertical layout option — let ads or other auxiliary panels reflow to the bottom of the overlay instead of the side, so the limited width can be used fully for actual game data.\n\nCollapsible parameters — let users hide/collapse individual data fields or sections that aren't relevant to their build/playstyle. Not everyone needs every stat visible at once, and giving control over that would make the overlay far more useful on smaller or narrower screens.\n\nHappy to test/give more feedback if you're considering this. Thanks for all the work on the tool!\n\nKind regards,\npistlolpeete\n\npistlolpeete\n\n",
+        "timeAgo": "17 minutes ago",
+        "comments": [],
+        "user": {
+            "name": "peter hansson"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "cmqt7aw4q02qmow3jy2wa5jq9": {
         "id": "cmqt7aw4q02qmow3jy2wa5jq9",
         "title": "vertical monitor or portrait orientation",
