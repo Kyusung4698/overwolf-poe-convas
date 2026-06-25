@@ -478,6 +478,21 @@
         "voteCount": 2,
         "commentCount": 3
     },
+    "cmqspbmdn02qdow3jpnii6r13": {
+        "id": "cmqspbmdn02qdow3jpnii6r13",
+        "title": "Rename stash tab tracker tabs?",
+        "body": "The tracker is cool, but is it possible for us to rename the tabs after setting them? I don't really want all my tabs to be named \"price 99 waystone-#\"",
+        "timeAgo": "35 minutes ago",
+        "comments": [],
+        "user": {
+            "name": "Mike"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "cmq8f3a38025sow3jk854fvwm": {
         "id": "cmq8f3a38025sow3jk854fvwm",
         "title": "Divine orb per hour",
