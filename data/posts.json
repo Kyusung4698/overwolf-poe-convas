@@ -478,6 +478,29 @@
         "voteCount": 2,
         "commentCount": 3
     },
+    "cmqt7aw4q02qmow3jy2wa5jq9": {
+        "id": "cmqt7aw4q02qmow3jy2wa5jq9",
+        "title": "vertical monitor or portrait orientation",
+        "body": "Hi, \n\nLove your work. Some feedback that is really making the overlay feel less than it is, i would say its a app breaker for me, the struggle to see fast and relevant data is lost. \n\nis there any way for you guys to add option for vertical/portrait monitors. \n\nkind regards.\n\npistlolpeete",
+        "timeAgo": "4 minutes ago",
+        "comments": [
+            {
+                "body": "Here you see the issue, no data shown, just ads :'(",
+                "timeAgo": "3 minutes ago",
+                "user": {
+                    "name": "peter hansson"
+                }
+            }
+        ],
+        "user": {
+            "name": "peter hansson"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 1
+    },
     "cmqspbmdn02qdow3jpnii6r13": {
         "id": "cmqspbmdn02qdow3jpnii6r13",
         "title": "Rename stash tab tracker tabs?",
