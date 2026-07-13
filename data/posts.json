@@ -177,6 +177,21 @@
         "voteCount": 5,
         "commentCount": 0
     },
+    "cmqspbmdn02qdow3jpnii6r13": {
+        "id": "cmqspbmdn02qdow3jpnii6r13",
+        "title": "Rename stash tab tracker tabs?",
+        "body": "The tracker is cool, but is it possible for us to rename the tabs after setting them? I don't really want all my tabs to be named \"price 99 waystone-#\"",
+        "timeAgo": "3 weeks ago",
+        "comments": [],
+        "user": {
+            "name": "Mike"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 4,
+        "commentCount": 0
+    },
     "clz8qqdqt00n1mg2y23xa5i0j": {
         "id": "clz8qqdqt00n1mg2y23xa5i0j",
         "title": "[Low Priority] Mouse Hover Item Overlay in Builds Tab",
@@ -236,21 +251,6 @@
         },
         "voteCount": 4,
         "commentCount": 3
-    },
-    "cmqspbmdn02qdow3jpnii6r13": {
-        "id": "cmqspbmdn02qdow3jpnii6r13",
-        "title": "Rename stash tab tracker tabs?",
-        "body": "The tracker is cool, but is it possible for us to rename the tabs after setting them? I don't really want all my tabs to be named \"price 99 waystone-#\"",
-        "timeAgo": "3 weeks ago",
-        "comments": [],
-        "user": {
-            "name": "Mike"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 3,
-        "commentCount": 0
     },
     "cmcbqmm6e0018of4ow3xvw34i": {
         "id": "cmcbqmm6e0018of4ow3xvw34i",
