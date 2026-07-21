@@ -110,6 +110,21 @@
         "voteCount": 9,
         "commentCount": 0
     },
+    "cmqspbmdn02qdow3jpnii6r13": {
+        "id": "cmqspbmdn02qdow3jpnii6r13",
+        "title": "Rename stash tab tracker tabs?",
+        "body": "The tracker is cool, but is it possible for us to rename the tabs after setting them? I don't really want all my tabs to be named \"price 99 waystone-#\"",
+        "timeAgo": "4 weeks ago",
+        "comments": [],
+        "user": {
+            "name": "Mike"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 6,
+        "commentCount": 0
+    },
     "cm520fluj01w2ms2f55fk0ap5": {
         "id": "cm520fluj01w2ms2f55fk0ap5",
         "title": "[Planned] POE2 Death Tracking & Map Tier Stats",
@@ -146,21 +161,6 @@
         },
         "voteCount": 6,
         "commentCount": 3
-    },
-    "cmqspbmdn02qdow3jpnii6r13": {
-        "id": "cmqspbmdn02qdow3jpnii6r13",
-        "title": "Rename stash tab tracker tabs?",
-        "body": "The tracker is cool, but is it possible for us to rename the tabs after setting them? I don't really want all my tabs to be named \"price 99 waystone-#\"",
-        "timeAgo": "4 weeks ago",
-        "comments": [],
-        "user": {
-            "name": "Mike"
-        },
-        "status": {
-            "name": "Open"
-        },
-        "voteCount": 5,
-        "commentCount": 0
     },
     "cln80qjnz00rjsr29wbskp68b": {
         "id": "cln80qjnz00rjsr29wbskp68b",
