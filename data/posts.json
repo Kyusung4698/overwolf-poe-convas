@@ -501,6 +501,21 @@
         "voteCount": 2,
         "commentCount": 3
     },
+    "cmt17s1fx0020mn327ij9eu9x": {
+        "id": "cmt17s1fx0020mn327ij9eu9x",
+        "title": "Diffrence column during snapshot compare",
+        "body": "Input:\nIn Stash Tracker tab -&gt; View History -&gt; Select two snapshots\nCurrent result:\nTable with Item|Stash|Quantity|Unit Value| Total Value\nNew result:\nTable with Item|Stash|Quantity|Diffrence (or whatever called)|Unit Value|Total Value\n\nWhere Difference is growth of value per item comparing snapshot from and to. \n\nWhat it brings to players? Possibility to easily check what brings the most currency for the particular strategy they do in simple way. \n\nThe data is already in the UI (green numbers during comparing).",
+        "timeAgo": "10 minutes ago",
+        "comments": [],
+        "user": {
+            "name": "Ethela"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "cmsapkyus000epx32kq7bojez": {
         "id": "cmsapkyus000epx32kq7bojez",
         "title": "Import Trade Searches",
