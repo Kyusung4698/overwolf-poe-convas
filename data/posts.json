@@ -535,8 +535,16 @@
         "id": "cmsapkyus000epx32kq7bojez",
         "title": "Import Trade Searches",
         "body": "Please add the ability to import trade searches from the website into favorites. I honestly prefer the trade site over the in-game market because I am just much more used to it, I also have many bookmarks for items. I don't want to have to re-enter all of those items individually to live search them inside of PoE Overlay, we should be able to just add a search link. ",
-        "timeAgo": "28 minutes ago",
-        "comments": [],
+        "timeAgo": "2 months ago",
+        "comments": [
+            {
+                "body": "would also be cool if it supported the save link format from the \"better trading\" chrome extension.  \nhttps://chromewebstore.google.com/detail/better-pathofexile-tradin/fhlinfpmdlijegjlpgedcmglkakaghnk",
+                "timeAgo": "5 minutes ago",
+                "user": {
+                    "name": "Anonymous #21940"
+                }
+            }
+        ],
         "user": {
             "name": "fruitfluff"
         },
@@ -544,7 +552,7 @@
             "name": "Open"
         },
         "voteCount": 1,
-        "commentCount": 0
+        "commentCount": 1
     },
     "cmqu1gozn02ssow3jur6tu96t": {
         "id": "cmqu1gozn02ssow3jur6tu96t",
