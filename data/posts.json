@@ -155,7 +155,7 @@
             },
             {
                 "body": "Hey @L.POE2 – tracking deaths and the map tier sounds doable and definitely interesting for stat nerds 😄 We’ll look into adding this. Tracking map mods might be a bit out of range for now, but we appreciate the suggestion!",
-                "timeAgo": "3 quarters ago",
+                "timeAgo": "last year",
                 "user": {
                     "name": "Kyusung"
                 }
@@ -167,7 +167,7 @@
         "status": {
             "name": "Planned"
         },
-        "voteCount": 6,
+        "voteCount": 7,
         "commentCount": 3
     },
     "cln80qjnz00rjsr29wbskp68b": {
@@ -199,6 +199,52 @@
         },
         "voteCount": 5,
         "commentCount": 0
+    },
+    "cmcbqmm6e0018of4ow3xvw34i": {
+        "id": "cmcbqmm6e0018of4ow3xvw34i",
+        "title": "[Planned] Path of Building 2 Support",
+        "body": "Support for builds in POE2 Overlay like POE1 supports path of building to compare equipment and stats etc",
+        "timeAgo": "last year",
+        "comments": [
+            {
+                "body": "Hey @Matthew Currie – yep, this is planned! We’ll add PoB2 support once it’s a bit more stable. Definitely on the roadmap. Thanks for the suggestion!",
+                "timeAgo": "last year",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
+        "user": {
+            "name": "Matthew Currie (Joop)"
+        },
+        "status": {
+            "name": "Planned"
+        },
+        "voteCount": 4,
+        "commentCount": 1
+    },
+    "cm62vh4bo00k4ih2xw88u51pv": {
+        "id": "cm62vh4bo00k4ih2xw88u51pv",
+        "title": "[Planned] Reset All Hotkeys to Default",
+        "body": "Please add a button to the settings that allows you to reset all hotkeys to their default values.",
+        "timeAgo": "last year",
+        "comments": [
+            {
+                "body": "Hey @TheOne320 – yup, this is planned! We’ll be adding a reset-to-defaults option for hotkeys in a future update. Thanks for the suggestion!",
+                "timeAgo": "last year",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
+        "user": {
+            "name": "TheOne320"
+        },
+        "status": {
+            "name": "Planned"
+        },
+        "voteCount": 4,
+        "commentCount": 1
     },
     "clz8qqdqt00n1mg2y23xa5i0j": {
         "id": "clz8qqdqt00n1mg2y23xa5i0j",
@@ -260,29 +306,6 @@
         "voteCount": 4,
         "commentCount": 3
     },
-    "cmcbqmm6e0018of4ow3xvw34i": {
-        "id": "cmcbqmm6e0018of4ow3xvw34i",
-        "title": "[Planned] Path of Building 2 Support",
-        "body": "Support for builds in POE2 Overlay like POE1 supports path of building to compare equipment and stats etc",
-        "timeAgo": "4 quarters ago",
-        "comments": [
-            {
-                "body": "Hey @Matthew Currie – yep, this is planned! We’ll add PoB2 support once it’s a bit more stable. Definitely on the roadmap. Thanks for the suggestion!",
-                "timeAgo": "3 quarters ago",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "Matthew Currie (Joop)"
-        },
-        "status": {
-            "name": "Planned"
-        },
-        "voteCount": 3,
-        "commentCount": 1
-    },
     "cm67pek1o00osih2xh7d74mfz": {
         "id": "cm67pek1o00osih2xh7d74mfz",
         "title": "[Needs Feedback] Bright/Grey Mode for OLED HDR Displays",
@@ -313,15 +336,38 @@
         "voteCount": 3,
         "commentCount": 2
     },
-    "cm62vh4bo00k4ih2xw88u51pv": {
-        "id": "cm62vh4bo00k4ih2xw88u51pv",
-        "title": "[Planned] Reset All Hotkeys to Default",
-        "body": "Please add a button to the settings that allows you to reset all hotkeys to their default values.",
+    "cm634z3sw00keih2xin1s4p5v": {
+        "id": "cm634z3sw00keih2xin1s4p5v",
+        "title": "[Planned] Different Notification Sounds by Trade Value",
+        "body": "Not really a necessary feature but a fun feature - would be cool to add different sounds depending on the received value of the trade offer.",
         "timeAgo": "last year",
         "comments": [
             {
-                "body": "Hey @TheOne320 – yup, this is planned! We’ll be adding a reset-to-defaults option for hotkeys in a future update. Thanks for the suggestion!",
-                "timeAgo": "2 quarters ago",
+                "body": "Hey @A P – fun idea, and we actually have something like this for PoE1 already! It’s likely we’ll bring it over to PoE2 in the future. Appreciate the suggestion!",
+                "timeAgo": "last year",
+                "user": {
+                    "name": "Kyusung"
+                }
+            }
+        ],
+        "user": {
+            "name": "A P"
+        },
+        "status": {
+            "name": "Planned"
+        },
+        "voteCount": 3,
+        "commentCount": 1
+    },
+    "clpynh65f006uis26b8xsujpo": {
+        "id": "clpynh65f006uis26b8xsujpo",
+        "title": "[Planned] Price Check Sanctum Runs",
+        "body": "Please implement price checking started Sanctum runs. The mods are all there in the Advanced Mod Descriptions.",
+        "timeAgo": "3 years ago",
+        "comments": [
+            {
+                "body": "Hey @TheOne320 – agreed this would be useful, but there are a few challenges with parsing those mods cleanly. We’ll take another look once we revisit the item parser. It’s on the radar!",
+                "timeAgo": "last year",
                 "user": {
                     "name": "Kyusung"
                 }
@@ -388,29 +434,6 @@
         "voteCount": 3,
         "commentCount": 3
     },
-    "cm634z3sw00keih2xin1s4p5v": {
-        "id": "cm634z3sw00keih2xin1s4p5v",
-        "title": "[Planned] Different Notification Sounds by Trade Value",
-        "body": "Not really a necessary feature but a fun feature - would be cool to add different sounds depending on the received value of the trade offer.",
-        "timeAgo": "3 quarters ago",
-        "comments": [
-            {
-                "body": "Hey @A P – fun idea, and we actually have something like this for PoE1 already! It’s likely we’ll bring it over to PoE2 in the future. Appreciate the suggestion!",
-                "timeAgo": "last quarter",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "A P"
-        },
-        "status": {
-            "name": "Planned"
-        },
-        "voteCount": 2,
-        "commentCount": 1
-    },
     "clvcm9k4r0147oz33nppdsr4q": {
         "id": "clvcm9k4r0147oz33nppdsr4q",
         "title": "Add skillgems to market from POB view ",
@@ -425,29 +448,6 @@
         },
         "voteCount": 2,
         "commentCount": 0
-    },
-    "clpynh65f006uis26b8xsujpo": {
-        "id": "clpynh65f006uis26b8xsujpo",
-        "title": "[Planned] Price Check Sanctum Runs",
-        "body": "Please implement price checking started Sanctum runs. The mods are all there in the Advanced Mod Descriptions.",
-        "timeAgo": "2 years ago",
-        "comments": [
-            {
-                "body": "Hey @TheOne320 – agreed this would be useful, but there are a few challenges with parsing those mods cleanly. We’ll take another look once we revisit the item parser. It’s on the radar!",
-                "timeAgo": "last quarter",
-                "user": {
-                    "name": "Kyusung"
-                }
-            }
-        ],
-        "user": {
-            "name": "TheOne320"
-        },
-        "status": {
-            "name": "Planned"
-        },
-        "voteCount": 2,
-        "commentCount": 1
     },
     "clmwd4pav001asr29gbxm0nvd": {
         "id": "clmwd4pav001asr29gbxm0nvd",
