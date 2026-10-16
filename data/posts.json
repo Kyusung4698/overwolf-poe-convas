@@ -501,6 +501,21 @@
         "voteCount": 2,
         "commentCount": 3
     },
+    "cmvanuhi601nonv33ooglna1j": {
+        "id": "cmvanuhi601nonv33ooglna1j",
+        "title": "Mouse Issues",
+        "body": "When using the overlay the display is slightly smaller than it was before for some reason and the highlight for the mouse is way above where the mouse actually is, could use some help troubleshooting",
+        "timeAgo": "4 minutes ago",
+        "comments": [],
+        "user": {
+            "name": "Kylan Huff"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "cmt2jf67y004smn32z894klz8": {
         "id": "cmt2jf67y004smn32z894klz8",
         "title": "Price check to Store Front",
