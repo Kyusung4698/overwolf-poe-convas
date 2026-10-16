@@ -501,6 +501,21 @@
         "voteCount": 2,
         "commentCount": 3
     },
+    "cmvb1rb6k01o9nv33h4zdosjk": {
+        "id": "cmvb1rb6k01o9nv33h4zdosjk",
+        "title": "Exceptional items not being discovered as exceptional",
+        "body": "Exceptional items with 3 augments are not treated as a base and instead considered as a normal item.",
+        "timeAgo": "18 minutes ago",
+        "comments": [],
+        "user": {
+            "name": "Robert Ciochina"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "cmvavqxld01o1nv3362kzulry": {
         "id": "cmvavqxld01o1nv3362kzulry",
         "title": "Estimated value in other currency like chaos",
