@@ -501,6 +501,21 @@
         "voteCount": 2,
         "commentCount": 3
     },
+    "cmwk9d4nv01bjpk36xw54hjgh": {
+        "id": "cmwk9d4nv01bjpk36xw54hjgh",
+        "title": "Has the Trade History (Tracker) feature been removed from the standalone version?",
+        "body": "Hi,\n\nI'm using the standalone version of PoE Overlay II (without Overwolf).\n\nI used to use the Tracker (Trade History) feature to check my past trades, including my trade history and statistics.\n\nHowever, in the latest version, I can no longer find this feature anywhere in the menu.\n\nI also noticed that the \"Trade statistics system\" feature was previously marked as completed in the feedback forum:\nhttps://feedback.poeoverlay.com/feedback/trade-statistics-system-clgo8w07f09wgoj20rrwsag9p\n\nHas the Trade History feature been removed from the standalone version, or has it simply been moved somewhere else?\n\nIf it has been removed, are there any plans to bring it back?\n\nI found this feature very useful and would love to use it again.\n\nThanks!",
+        "timeAgo": "6 minutes ago",
+        "comments": [],
+        "user": {
+            "name": "Anonymous #22121"
+        },
+        "status": {
+            "name": "Open"
+        },
+        "voteCount": 1,
+        "commentCount": 0
+    },
     "cmvb1rb6k01o9nv33h4zdosjk": {
         "id": "cmvb1rb6k01o9nv33h4zdosjk",
         "title": "Exceptional items not being discovered as exceptional",
