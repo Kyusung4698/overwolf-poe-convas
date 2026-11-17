@@ -212,6 +212,13 @@
                 "user": {
                     "name": "Kyusung"
                 }
+            },
+            {
+                "body": "I expect this is going to come after 1.0 launch?",
+                "timeAgo": "14 minutes ago",
+                "user": {
+                    "name": "Matthew Currie (Joop)"
+                }
             }
         ],
         "user": {
@@ -221,7 +228,7 @@
             "name": "Planned"
         },
         "voteCount": 4,
-        "commentCount": 1
+        "commentCount": 2
     },
     "cm62vh4bo00k4ih2xw88u51pv": {
         "id": "cm62vh4bo00k4ih2xw88u51pv",
